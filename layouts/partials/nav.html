@@ -1,0 +1,28 @@
+<nav role="menu" class="mb-4 lg:mb-1" role="navigation">
+  <div class="flex justify-center">
+    <button id="menu-button" class="lg:hidden relative pl-8 text-black font-bold uppercase leading-none" aria-expanded="false">Menu</button>
+  </div>
+  <ul id="menu" class="mt-4 lg:mt-0 list-reset leading-loose lg:flex lg:justify-between hidden lg:block">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+      {{ if .HasChildren }}
+        <li role="treeitem" class="group">
+          <a class="text-black no-underline font-bold uppercase hover:border-b-6 focus:border-b-6 group-hover:border-b-6 outline-none{{ if $currentPage.HasMenuCurrent "main" . }} border-b-6{{ end }}" href="#">{{ .Name }} <span class="inline-block" style="transform: translateY(-4px);">&#8964;</span></a>
+          <ul class="list-reset ml-4 lg:ml-0 lg:absolute z-50">
+            {{ range .Children }}
+              <li role="presentation" class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                <a role="menuitem" class="text-black no-underline font-bold uppercase hover:border-b-6 lg:hover:border-b-0 focus:border-b-6 lg:focus:border-b-0 outline-none{{ if $currentPage.IsMenuCurrent "main" . }} border-b-6 lg:border-b-0{{ end }} lg:inline-block lg:shadow-md bg-white lg:hover:text-rodm-red lg:focus:text-rodm-red lg:px-2 lg:py-1 lg:mt-2" href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+            {{ end }}
+          </ul>
+        </li>
+      {{ else }}
+        <li role="presentation">
+          <a role="menuitem" class="text-black no-underline font-bold uppercase hover:border-b-6 focus:border-b-6 outline-none{{ if $currentPage.IsMenuCurrent "main" . }} border-b-6{{ end }}" href="{{ .URL }}">
+            {{ .Name }}
+          </a>
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</nav>

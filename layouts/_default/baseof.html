@@ -1,0 +1,37 @@
+<html class="no-js bg-true-black min-h-screen">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <title>{{ if not .IsHome }}RODM Łódź – {{ end }}{{ .Page.Title }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#e11a22">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    {{.Hugo.Generator}}
+        
+    {{ partial "stylesheets.html" . }}
+    {{ partial "scripts.html" . }}
+        
+  </head>
+  <body class="bg-white text-black leading-normal">
+    <p class="bg-true-black p-2 text-white text-sm md:text-base text-center uppercase">Sieć Regionalnych Ośrodków Debaty Międzynarodowej</p>
+    <div class="container mx-auto px-3 sm:px-4">
+      <header role="banner" class="py-10">
+        <a href="/"><img src="/img/rodm-lodz.svg" alt="Ośrodek Debaty Międzynarodowej Łódź"></a>
+      </header>
+      {{ partial "nav.html" . }}
+              
+      {{ block "main" . }}{{ end }}
+
+      {{ partial "footer.html" . }}
+      
+    </div>
+    <p class="bg-true-black p-2 text-white text-sm md:text-base text-center uppercase">Zadanie dofinansowane ze środków Ministerstwa Spraw Zagranicznych</p>
+    <script src="//instant.page/1.2.1" type="module" integrity="sha384-/IkE5iZAM/RxPto8B0nvKlMzIyCWtYocF01PbGGp1qElJuxv9J4whdWBRtzZltWn"></script>
+  </body>
+</html>

@@ -1,0 +1,121 @@
+/* To use Tailwind with ParcelJS, call the Tailwind files like this. Otherwise, use imports */
+/* @tailwind preflight;
+@tailwind components;
+@tailwind utilities;  */
+
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+
+/* 
+  Uncomment to use Tailwind Utility Class CSS
+    @import "tailwind/tailwind.css";  
+*/
+
+/* @import "tailwind/tailwind.css";   */
+
+
+/* USE PURGE CSS ON ABOVE CODE ONLY. ANYTHING BETWEEN THE IGNORE TAGS BELOW WILL NOT BE IGNORED
+https://www.purgecss.com/whitelisting#in-the-css-directly */
+
+/* purgecss start ignore */
+
+@media (min-width:992px) {
+  nav ul li ul {
+    visibility: hidden;
+    opacity: 0;
+    display: none;
+  }
+  nav ul li:hover > ul,
+  ul li:focus-within > ul,
+  ul li ul:hover,
+  ul li ul:focus {
+    visibility: visible;
+    opacity: 1;
+    display: block
+  }
+}
+
+#menu-button:before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 1.5em;
+  background: linear-gradient(config('colors.black') 20%, transparent 20%, transparent 40%, config('colors.black') 40%, config('colors.black') 60%, transparent 60%, transparent 80%, config('colors.black') 80%);
+  content: '';
+}
+
+.pasek {
+  background: -moz-linear-gradient(left, #cda115 0%, #cda115 25%, #30497d 25%, #30497d 50%);   
+  background: -webkit-linear-gradient(left, #cda115 0%,#cda115 25%,#30497d 25%,#30497d 50%,#ba001f 50%,#ba001f 75%,#000000 75%,#000000 100%);
+  background: linear-gradient(to right, #cda115 0%,#cda115 25%,#30497d 25%,#30497d 50%,#ba001f 50%,#ba001f 75%,#000000 75%,#000000 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cda115', endColorstr='#000000',GradientType=1 );
+  height: 7px;
+}
+
+.content-single p, 
+.content-single ul, 
+.content-single ol {
+  @apply mb-4;
+}
+.content-single h2 {
+  @apply text-xl mt-8 mb-4;
+}
+.content-single h3 {
+  @apply text-lg my-4;
+}
+@media (min-width: 768px) {
+  .content-single h2 {
+    @apply text-2xl;
+  }
+  .content-single h3 {
+    @apply text-xl;
+  }
+}
+.content-single a {
+  color: config('colors.black');
+}
+.content-single a:hover, 
+.content-single a:focus {
+  color: config('colors.rodm-red');
+}
+.content-single img {
+  @apply block my-8 mx-auto;
+}
+.google-maps {
+  position: relative;
+  padding-bottom: 75%;
+  height: 0;
+  overflow: hidden;
+}
+.google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .google-maps {
+    padding-bottom: 50%;  
+  }
+}
+
+.stroke-0 {
+  stroke-width: 0;
+}
+.pin-offset {
+  top: 25%;
+}
+
+@media (max-width: 991px) {
+  .no-js #menu {
+    display: block;
+  }
+  .no-js #menu-button {
+    display: none;
+  }
+}
+/* purgecss end ignore */

@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<a class="text-black" href="{{ .Params.featured.link }}">
+  <figure class="mt-10 relative shadow-lg">
+    <img src="{{ .Params.featured.image }}" alt="{{ .Params.featured.text }}">
+    <figcaption class="md:absolute md:pin-l md:pin-b md:bg-white-opacity w-full py-2 px-4 font-bold text-base md:text-xl lg:text-2xl">{{ .Params.featured.text }} &raquo;</figcaption>
+  </figure>
+</a>
+<div class="pasek"></div>
+
+<main class="overflow-hidden mt-16">
+  <section class="md:flex flex-wrap md:-mr-6 lg:-mr-4">
+    {{ range first 4 (where .Pages "Section" "aktualnosci") }}
+      {{ partial "summary.html" . }}
+    {{ end }}
+  </section>
+  <section class="bg-true-black text-white text-sm pt-4 pr-4 pl-4 border-b border-true-black mb-16 md:flex md:-mr-6 lg:-mr-4">
+    <div class="mb-4 md:w-3/5 xl:w-1/2 md:pr-6 lg:pr-4">
+      <h2 class="text-lg uppercase"><a href="/o-nas/rodm-lodz/" class="text-white no-underline hover:text-rodm-yellow focus:text-rodm-yellow">O nas</a></h2>
+      <p class="max-w-sm mt-3">Regionalny Ośrodek Debaty Międzynarodowej (RODM) w Łodzi to część sieci informacyjnej Ministerstwa Spraw Zagranicznych promującej polską politykę zagraniczną. <strong>RODM w Łodzi realizowany jest w latach 2019-2021 przez Instytut Spraw Obywatelskich.</strong></p>
+      <p class="max-w-sm">Naszym celem jest <strong>przybliżenie mieszkańcom województwa łódzkiego polityki zagranicznej</strong> oraz wzmocnienie kanałów współpracy pomiędzy MSZ, samorządem i organizacjami pozarządowymi. <a href="/o-nas/rodm-lodz/" class="text-xl leading-none text-white no-underline hover:text-rodm-yellow focus:text-rodm-yellow">&raquo;</a></p>
+    </div>
+    <div class="md:w-2/5 xl:w-1/2 md:pr-6 lg:pr-4 flex flex-col justify-between">
+      <h2 class="text-lg uppercase"><a href="/o-nas/siec-rodm/" class="text-white no-underline hover:text-rodm-yellow focus:text-rodm-yellow">Sieć RODM</a></h2>
+      <a href="/o-nas/siec-rodm/"><img class="block mx-auto mt-4" src="/img/mapka-rodm.jpg" width="400" height="280" alt="Mapka województw z zaznaczonymi Regionalnymi Ośrodkami Debaty Międzynarodowej"></a>
+    </div>
+  </section>
+</main>
+{{ end }}

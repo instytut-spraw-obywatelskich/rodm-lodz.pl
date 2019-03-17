@@ -1,0 +1,41 @@
+<div class="pasek mb-10 lg:mb-0"></div>
+<footer class="lg:flex my-6 text-sm">
+  <div class="mb-8 lg:w-1/4 lg:pr-6">
+    <h3 class="uppercase text-base mb-4">Polecamy</h3>
+    <ul class="list-reset">
+      {{ range .Site.Data.polecamy.linki }}
+      <li><a class="text-black no-underline hover:underline focus:underline" href="{{ .link }}"/>{{ .tresc }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="mb-8 lg:w-1/4 lg:pr-6">
+    <!-- <h3 class="uppercase text-base mb-4">Zapytaj nas</h3>
+    {{ partial "form.html" . }} -->
+  </div>
+  <div class="mb-8 lg:w-1/4 lg:pr-6">
+    <h3 class="uppercase text-base mb-4">Kontakt</h3>
+    <p>
+      <strong>Biuro RODM Łódź</strong><br>
+      ul. Pomorska 40<br>
+      91-408 Łódź<br>
+      tel.: 519 300 645<br>
+      e-mail: rodm@rodm-lodz.pl
+    </p>
+    <h4 class="uppercase text-sm my-4">Godziny otwarcia</h4>
+    <p class="mt-2">pn–pt: 9:00–17:00</p>
+    <h4 class="uppercase text-sm my-4">Godziny przyjęć dla&nbsp;mieszkańców:</h4>
+    <p class="mt-2">wtorek, czwartek: 9:00–16:00</p>
+  </div>
+  <div class="mb-8 lg:w-1/4 mapa">
+    <h3 class="uppercase text-base mb-4">Mapa</h3>
+    <div class="google-maps max-w-sm">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2468.5335837766315!2d19.462636016028803!3d51.778133379680526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471bcad188ec7f11%3A0x207102f00425ba9f!2sInstytut+Spraw+Obywatelskich+(INSPRO)!5e0!3m2!1spl!2spl!4v1551967023980" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+  </div>
+</footer>
+{{ partial "icons.html" }}
+<div class="pasek mt-12"></div>
+<div class="my-10 flex justify-center">
+  <a class="mr-8" href="https://www.gov.pl/web/dyplomacja"><img src="/img/msz.png" alt="Ministerstwo Spraw Zagranicznych RP"></a>
+  <a class="ml-8" href="https://inspro.org.pl"><img src="/img/inspro.png" alt="Ministerstwo Spraw Zagranicznych RP"></a>
+</div>

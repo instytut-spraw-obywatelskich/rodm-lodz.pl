@@ -1,0 +1,11 @@
+{{ define "main" }}
+<main class="mt-10 overflow-hidden">
+  <section class="md:flex flex-wrap md:-mr-6 lg:-mr-4">
+    {{ range .Sections }}
+      {{ range .Data.Pages }}
+        {{ partial "summary.html" . }}
+      {{ end }}
+    {{ end }}
+  </section>
+</main>
+{{ end }}
