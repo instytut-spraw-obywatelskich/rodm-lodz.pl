@@ -1,18 +1,22 @@
 ---
 label: Aktualności
 hide_body: false
-display_field: title
 fields:
 - name: title
   label: Title
   type: textarea
   hidden: false
   default: ''
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
+  config:
+    date_format: YYYY-MM-DD
+    required: true
 - name: main_image
   label: Main image
   type: textarea
