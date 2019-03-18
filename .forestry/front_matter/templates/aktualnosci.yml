@@ -1,6 +1,7 @@
 ---
 label: Aktualności
 hide_body: false
+display_field: title
 fields:
 - name: title
   label: Title
