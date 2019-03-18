@@ -1,0 +1,19 @@
+---
+label: Aktualności
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: main_image
+  label: Main image
+  type: textarea
+  hidden: false
+  default: ''
