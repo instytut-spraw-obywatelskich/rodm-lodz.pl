@@ -19,10 +19,10 @@ sections:
   label: Aktualnosci
   create: all
   match: "**/*"
-upload_dir: ''
+upload_dir: rodm
 public_path: https://res.cloudinary.com/inspro/image/upload/v1552863844/rodm
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
