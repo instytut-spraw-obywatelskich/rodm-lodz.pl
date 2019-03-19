@@ -1,0 +1,20 @@
+---
+label: Strona główna
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: featured
+  label: featured
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: text
+    label: text
