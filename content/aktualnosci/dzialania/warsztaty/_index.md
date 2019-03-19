@@ -2,7 +2,8 @@
 title: Warsztaty
 menu:
   main:
-    parent: 'Działania'
+    parent: Działania
     weight: 30
+
 ---
 Warsztaty

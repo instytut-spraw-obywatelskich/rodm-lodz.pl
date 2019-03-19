@@ -12,6 +12,7 @@ fields:
   name: weight
   label: weight
 pages:
+- content/aktualnosci/dzialania/warsztaty/_index.md
 - content/aktualnosci/dzialania/spotkania/_index.md
 - content/aktualnosci/dzialania/debaty/_index.md
 - content/aktualnosci/_index.md
