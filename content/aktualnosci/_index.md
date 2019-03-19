@@ -1,6 +1,9 @@
 ---
 title: Aktualności
-layout: "zbiorczy-aktualnosci"
-menu: "main"
+layout: zbiorczy-aktualnosci
 weight: 10
+menu:
+  main:
+    weight: 10
+
 ---
