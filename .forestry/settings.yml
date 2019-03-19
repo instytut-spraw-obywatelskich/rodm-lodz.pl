@@ -24,6 +24,7 @@ sections:
   match: "**/*"
   templates:
   - aktualnosci
+  - lista-aktualnosci
 upload_dir: rodm
 public_path: https://res.cloudinary.com/inspro/image/upload/v1552863844/rodm
 front_matter_path: ''
