@@ -20,8 +20,8 @@ sections:
   create: documents
   match: "**/*"
   templates:
-  - aktualnosci
   - lista-aktualnosci
+  - aktualnosci
 upload_dir: rodm
 public_path: https://res.cloudinary.com/inspro/image/upload/v1552863844/rodm
 front_matter_path: ''
