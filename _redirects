@@ -1,0 +1,3 @@
+http://rodm-lodz.pl/*    https://www.rodm-lodz.pl/:splat  301!
+http://www.rodm-lodz.pl/*    https://www.rodm-lodz.pl/:splat  301!
+https://rodm-lodz.netlify.com/* https://www.rodm-lodz.pl/:splat 301!
