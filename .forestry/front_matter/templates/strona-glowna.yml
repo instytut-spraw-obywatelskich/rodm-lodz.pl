@@ -12,6 +12,7 @@ fields:
   - type: file
     name: image
     label: image
+    description: Szerokość 1168 px, wysokość 315 px
   - type: text
     name: link
     label: link
