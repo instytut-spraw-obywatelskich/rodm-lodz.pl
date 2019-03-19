@@ -2,7 +2,7 @@
 
 <a class="text-black" href="{{ .Params.featured.link }}">
   <figure class="mt-10 relative shadow-lg">
-    <img src="{{ .Params.featured.image }}" alt="{{ .Params.featured.text }}">
+    <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.featured.image }}" alt="{{ .Params.featured.text }}">
     <figcaption class="md:absolute md:pin-l md:pin-b md:bg-white-opacity w-full py-2 px-4 font-bold text-base md:text-xl lg:text-2xl">{{ .Params.featured.text }} &raquo;</figcaption>
   </figure>
 </a>

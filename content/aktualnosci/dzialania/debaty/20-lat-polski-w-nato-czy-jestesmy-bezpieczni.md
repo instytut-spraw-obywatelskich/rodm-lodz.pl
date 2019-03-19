@@ -1,7 +1,7 @@
 ---
 title: 20 lat Polski w NATO. Czy jesteśmy bezpieczni?
 date: 2019-03-12
-main_image: 20-lat-polski-w-nato-czy-jestesmy-bezpieczni.jpg
+main_image: /v1552863844/rodm/20-lat-polski-w-nato-czy-jestesmy-bezpieczni.jpg
 ---
 12 marca mija 20 lat od wstąpienia Polski do NATO. Z tej okazji **zapraszamy na spotkanie i rozmowę o naszym bezpieczeństwie i pozycji Polski w Sojuszu Północnoatlantyckim.** Rozmowę o szansach, zagrożeniach i wyzwaniach, jakie stoją przed nami w kontekście zmiany układu sił na globalnej szachownicy, na której ścierają się USA, Chiny i Rosja, a także gracze regionalni. **Gdzie w tej układance powinna odnaleźć się Rzeczpospolita i czy tylko na Sojuszu Północnoatlantyckim powinna opierać swoje bezpieczeństwo?**<!--more-->
 

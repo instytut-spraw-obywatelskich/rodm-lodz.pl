@@ -1,7 +1,7 @@
 ---
 title: Wolontariat polska pomoc 2019
 date: 2019-03-05
-main_image: wolontariat-polska-pomoc-2019.png
+main_image: /v1552863844/rodm/wolontariat-polska-pomoc-2019.png
 ---
 W związku z ogłoszeniem przez Departament Współpracy Rozwojowej MSZ konkursu „Wolontariat polska pomoc 2019” na dofinansowanie projektów wolontariatu rozwojowego w wybranych krajach afrykańskich zachęcamy do wyjazdu w roli wolontariusza do krajów rozwijających się i podzielenia się swoją wiedzą i doświadczeniem z mieszkańcami Etiopii, Kenii, Rwandy, Senegalu, Tanzanii, Ugandy lub Zambii.<!--more-->
 
