@@ -7,18 +7,20 @@ sections:
 - type: directory
   path: content
   label: Pages
-  create: all
+  create: none
   match: "*"
 - type: directory
   path: content/o-nas
   label: O nas
-  create: all
+  create: none
   match: "**/*"
 - type: directory
   path: content/aktualnosci
   label: Aktualnosci
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - aktualnosci
 upload_dir: rodm
 public_path: https://res.cloudinary.com/inspro/image/upload/v1552863844/rodm
 front_matter_path: ''
