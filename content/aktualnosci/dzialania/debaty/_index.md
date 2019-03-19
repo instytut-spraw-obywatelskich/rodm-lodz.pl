@@ -2,7 +2,8 @@
 title: Debaty
 menu:
   main:
-    parent: 'Działania'
+    parent: Działania
     weight: 10
+
 ---
 Debaty
