@@ -1,5 +1,5 @@
 title = "Regionalny Ośrodek Debaty Międzynarodowej – Łódź"
-baseURL = "http://rodm-lodz.pl"
+baseURL = "https://www.rodm-lodz.pl"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 summaryLength = 40
 [params]
