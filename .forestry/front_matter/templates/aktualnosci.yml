@@ -17,8 +17,6 @@ fields:
   config:
     date_format: YYYY-MM-DD
     required: true
-- name: main_image
+- type: file
+  name: main_image
   label: Main image
-  type: textarea
-  hidden: false
-  default: ''
