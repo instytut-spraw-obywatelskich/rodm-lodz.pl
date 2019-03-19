@@ -21,5 +21,6 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/inicjatywy-miedzynarodowe/wolontariat-polska-pomoc-2019.md
 - content/aktualnosci/inicjatywy-miedzynarodowe/forum-polsko-czeskie-na-rzecz-zblizenia-spoleczenstw-poglebionej-wspolpracy-i-dobrego-sasiedztwa-2019.md
 - content/aktualnosci/rodm-pod-skrzydlami-instytutu-spraw-obywatelskich.md
