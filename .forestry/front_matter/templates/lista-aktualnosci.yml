@@ -12,4 +12,5 @@ fields:
   name: weight
   label: weight
 pages:
+- content/aktualnosci/inicjatywy-miedzynarodowe/_index.md
 - content/aktualnosci/dzialania/_index.md
