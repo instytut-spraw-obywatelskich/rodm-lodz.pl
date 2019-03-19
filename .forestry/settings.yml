@@ -9,9 +9,6 @@ sections:
   label: Pages
   create: none
   match: "*"
-  templates:
-  - aktualnosci
-  - lista-aktualnosci
 - type: directory
   path: content/o-nas
   label: O nas
