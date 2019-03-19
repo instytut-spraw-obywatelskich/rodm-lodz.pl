@@ -20,3 +20,5 @@ fields:
 - type: file
   name: main_image
   label: Main image
+pages:
+- content/aktualnosci/rodm-pod-skrzydlami-instytutu-spraw-obywatelskich.md
