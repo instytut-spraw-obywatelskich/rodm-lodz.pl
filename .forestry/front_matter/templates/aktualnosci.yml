@@ -20,3 +20,5 @@ fields:
 - type: file
   name: main_image
   label: Main image
+pages:
+- content/aktualnosci/dzialania/warsztaty/test.md
