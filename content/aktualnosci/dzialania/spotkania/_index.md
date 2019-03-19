@@ -2,7 +2,8 @@
 title: Spotkania
 menu:
   main:
-    parent: 'Działania'
+    parent: Działania
     weight: 20
+
 ---
 Spotkania
