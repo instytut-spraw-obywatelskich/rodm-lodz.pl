@@ -4,4 +4,5 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 summaryLength = 40
 [params]
   description = "RODM w Łodzi to część sieci informacyjnej MSZ promującej polską politykę zagraniczną. Przybliżamy mieszkańcom woj. łódzkiego politykę zagraniczną i wzmacniamy kanały współpracy pomiędzy MSZ, samorządem i NGO-sami."
+  images = ["/img/feature.png"]
   cloudinary_url = "https://res.cloudinary.com/inspro/image/upload"
