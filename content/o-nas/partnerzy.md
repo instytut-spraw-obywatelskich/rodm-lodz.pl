@@ -3,8 +3,9 @@ title: Partnerzy
 weight: 30
 menu:
   main:
-    parent: 'O nas'
+    parent: O nas
     weight: 30
+
 ---
 ## Ambitna Polska
 
@@ -21,6 +22,14 @@ jest think-tankiem, którego celem jest wypracowywanie koncepcji zapewniających
 powstała, aby działać na rzecz idei sprawnego i suwerennego państwa oraz wolnego społeczeństwa, promować polskie dziedzictwo narodowe oparte na chrześcijańskim fundamencie i wielowiekowej historii dającej nam liczne powody do dumy z przynależności do polskiej wspólnoty narodowej. Dążymy do krzewienia w młodym pokoleniu Polaków etosu propaństwowych patriotów chcących służyć niepodległej Rzeczypospolitej na polu zawodowym, społecznym i prywatnym.
 
 [sluzbaniepodleglej.pl](http://sluzbaniepodleglej.pl/)
+
+## TVP Łódź
+
+![TVP Łódź](https://res.cloudinary.com/inspro/image/upload/v1553173070/rodm/tvp-lodz.png)
+
+patron medialny
+
+[www.lodz.tvp.pl](http://www.lodz.tvp.pl/)
 
 ## Wolne Miasto Łódź
 
