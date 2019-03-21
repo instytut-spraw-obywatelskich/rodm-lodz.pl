@@ -2,7 +2,7 @@
   <a class="text-black no-underline hover:text-rodm-red focus:text-rodm-red" href="{{ .Permalink }}">
     <img class="{{ if not .Params.main_image }}hidden md:block {{ else }}block {{ end }}mb-4 border border-grey hover:border-rodm-red focus:border-rodm-red" src="{{ if .Params.main_image }}{{ .Site.Params.cloudinary_url }}{{ .Params.main_image }}{{ else }}/img/default-thumb.png{{ end }}">
     <time datetime="{{ .Date.Format "2006-01-02" }}" class="block text-sm text-grey">{{ .Date.Format "02.01.2006" }}</time>  
-    <h2 class="text-lg max-w-sm mt-2 mb-2">{{ .Title }}</h2>
+    <h2 class="text-lg max-w-sm mt-2 mb-2">{{ .Title | replaceRE "(\\s)(<strong>)?(<em>)?((?i)[a|i|o|u|w|z])(</em>)?(</strong>)?(\\s)" "${1}${2}${3}${4}${5}${6}&nbsp;" | safeHTML }}</h2>
   </a>
-  <div class="text-sm max-w-sm">{{ .Summary }} <a href="{{ .Permalink }}" class="text-xl leading-none text-black no-underline hover:text-rodm-red focus:text-rodm-red">&raquo;</a></div>
+  <div class="text-sm max-w-sm">{{ .Summary | replaceRE "(\\s)(<strong>)?(<em>)?((?i)[a|i|o|u|w|z])(</em>)?(</strong>)?(\\s)" "${1}${2}${3}${4}${5}${6}&nbsp;" | safeHTML }} <a href="{{ .Permalink }}" class="text-xl leading-none text-black no-underline hover:text-rodm-red focus:text-rodm-red">&raquo;</a></div>
 </article>
