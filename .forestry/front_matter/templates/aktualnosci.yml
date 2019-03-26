@@ -9,6 +9,12 @@ fields:
   default: ''
   config:
     required: true
+- type: text
+  name: slug
+  label: Slug
+  description: tytul-bez-polskich-znakow-i-z-myslnikami-zamiast-spacji
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
