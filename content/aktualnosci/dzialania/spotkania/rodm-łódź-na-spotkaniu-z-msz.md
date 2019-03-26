@@ -1,6 +1,6 @@
 +++
 date = "2019-03-19T23:00:00+00:00"
-main_image = "/v1553604207/rodm/2019-03-20-GP-RODM-047.jpg"
+main_image = "/v1553604906/rodm/1.jpg"
 title = "RODM Łódź na spotkaniu z MSZ"
 
 +++
