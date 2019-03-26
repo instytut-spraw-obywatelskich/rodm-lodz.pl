@@ -1,6 +1,7 @@
 ---
 title: Forum Polsko Czeskie na rzecz zbliżenia społeczeństw, pogłębionej współpracy
   i dobrego sąsiedztwa 2019
+slug: forum-polsko-czeskie-na-rzecz-zblizenia-spoleczenstw-poglebionej-wspolpracy-i-dobrego-sasiedztwa-2019
 date: 2019-03-08 00:00:00 +0000
 main_image: "/v1552863844/rodm/forum-polsko-czeskie-na-rzecz-zblizenia-spoleczenstw-poglebionej-wspolpracy-i-dobrego-sasiedztwa-2019.png"
 

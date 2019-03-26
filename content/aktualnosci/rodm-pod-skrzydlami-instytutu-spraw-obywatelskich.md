@@ -1,5 +1,6 @@
 ---
 title: RODM pod skrzydłami Instytutu Spraw Obywatelskich
+slug: rodm-pod-skrzydlami-instytutu-spraw-obywatelskich
 date: 2019-03-11 00:00:00 +0000
 main_image: "/v1552863844/rodm/rodm-pod-skrzydlami-instytutu-spraw-obywatelskich.png"
 

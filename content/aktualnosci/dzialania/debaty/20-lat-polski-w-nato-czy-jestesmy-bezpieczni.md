@@ -1,5 +1,6 @@
 ---
 title: 20 lat Polski w NATO. Czy jesteśmy bezpieczni?
+slug: 20-lat-polski-w-nato-czy-jestesmy-bezpieczni
 date: 2019-03-12 00:00:00 +0000
 main_image: "/v1552863844/rodm/20-lat-polski-w-nato-czy-jestesmy-bezpieczni.jpg"
 
