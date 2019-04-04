@@ -27,8 +27,9 @@ fields:
   name: main_image
   label: Main image
 pages:
-- content/aktualnosci/dzialania/spotkania/rodm-lodz-na-spotkaniu-z-msz.md
+- content/aktualnosci/dzialania/debaty/fotorelacja-z-debaty-20-lat-polski-w-nato-czy-jesteśmy-bezpieczni.md
 - content/aktualnosci/inicjatywy-miedzynarodowe/forum-polsko-czeskie-na-rzecz-zblizenia-spoleczenstw-poglebionej-wspolpracy-i-dobrego-sasiedztwa-2019.md
+- content/aktualnosci/dzialania/spotkania/rodm-lodz-na-spotkaniu-z-msz.md
 - content/aktualnosci/dzialania/debaty/20-lat-polski-w-nato-czy-jestesmy-bezpieczni.md
 - content/aktualnosci/inicjatywy-miedzynarodowe/wolontariat-polska-pomoc-2019.md
 - content/aktualnosci/rodm-pod-skrzydlami-instytutu-spraw-obywatelskich.md
