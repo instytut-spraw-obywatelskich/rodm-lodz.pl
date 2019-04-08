@@ -19,7 +19,9 @@ jest think-tankiem, którego celem jest wypracowywanie koncepcji zapewniających
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1554726383/rodm/wyszehradzka.jpg)
 
-powstała w celu budowania trwałych fundamentów współpracy między krajami Grupy Wyszehradzkiej oraz państw Trójmorza. Fundacja podejmuje wiele publicznych inicjatyw. Jest organizatorem konferencji, debat oraz wydarzeń z zakresu polityki zagranicznej, nowych technologii, psychologii i resocjalizacji wszystkiego co może pomóc zbudować lepszą współpracę dla Państw Grupy Wyszehradzkiej oraz wszystkiego co może zbliżyć i skonsolidować Państwa V4 bo właśnie w tej inicjatywie zarząd fundacji dojrzał olbrzymi potencjał.
+powstała w celu budowania trwałych fundamentów współpracy między krajami Grupy Wyszehradzkiej oraz państw Trójmorza. Fundacja podejmuje wiele publicznych inicjatyw. Jest organizatorem konferencji, debat oraz wydarzeń z zakresu polityki zagranicznej, nowych technologii, psychologii i resocjalizacji wszystkiego co może pomóc zbudować lepszą współpracę dla Państw Grupy Wyszehradzkiej oraz wszystkiego co może zbliżyć i skonsolidować Państwa V4 bo właśnie w tej inicjatywie zarząd fundacji dojrzał olbrzymi potencjał.  
+  
+[http://wyszehradzka.pl](http://wyszehradzka.pl "http://wyszehradzka.pl")
 
 ## Fundacja Służba Niepodległej
 
