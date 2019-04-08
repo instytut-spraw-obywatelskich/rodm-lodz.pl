@@ -1,10 +1,10 @@
 ---
 title: Partnerzy
-weight: 30
+weight: 20
 menu:
   main:
     parent: O nas
-    weight: 30
+    weight: 20
 
 ---
 ## Ambitna Polska

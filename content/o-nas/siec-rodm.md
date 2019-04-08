@@ -1,10 +1,10 @@
 ---
 title: Sieć RODM
-weight: 40
+weight: 30
 menu:
   main:
     parent: 'O nas'
-    weight: 40
+    weight: 30
 ---
 Celem działalności sieci Regionalnego Ośrodka Debaty Międzynarodowej jest **przybliżenie obywatelom polskiej polityki zagranicznej** oraz wzmocnienie kanałów współpracy pomiędzy MSZ, jednostkami samorządu terytorialnego, organizacjami pozarządowymi, placówkami edukacyjnymi i naukowymi, firmami oraz innymi podmiotami, których działalność obejmuje szeroko rozumianą współpracę międzynarodową. 
 
