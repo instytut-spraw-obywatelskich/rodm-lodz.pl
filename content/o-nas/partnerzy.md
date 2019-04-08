@@ -15,11 +15,17 @@ jest think-tankiem, którego celem jest wypracowywanie koncepcji zapewniających
 
 [www.ambitnapolska.pl](http://www.ambitnapolska.pl/)
 
+## Fundacja Wyszehradzka
+
+![](https://res.cloudinary.com/inspro/image/upload/v1554726383/rodm/wyszehradzka.jpg)
+
+powstała w celu budowania trwałych fundamentów współpracy między krajami Grupy Wyszehradzkiej oraz państw Trójmorza. Fundacja podejmuje wiele publicznych inicjatyw. Jest organizatorem konferencji, debat oraz wydarzeń z zakresu polityki zagranicznej, nowych technologii, psychologii i resocjalizacji wszystkiego co może pomóc zbudować lepszą współpracę dla Państw Grupy Wyszehradzkiej oraz wszystkiego co może zbliżyć i skonsolidować Państwa V4 bo właśnie w tej inicjatywie zarząd fundacji dojrzał olbrzymi potencjał.
+
 ## Fundacja Służba Niepodległej
 
 ![Fundacja Służba Niepodległej](https://res.cloudinary.com/inspro/image/upload/v1552864975/rodm/fundacja-sluzba-niepodleglej.png)
 
-powstała, aby działać na rzecz idei sprawnego i suwerennego państwa oraz wolnego społeczeństwa, promować polskie dziedzictwo narodowe oparte na chrześcijańskim fundamencie i wielowiekowej historii dającej nam liczne powody do dumy z przynależności do polskiej wspólnoty narodowej. Dążymy do krzewienia w młodym pokoleniu Polaków etosu propaństwowych patriotów chcących służyć niepodległej Rzeczypospolitej na polu zawodowym, społecznym i prywatnym.
+powstała, aby działać na rzecz idei sprawnego i suwerennego państwa oraz wolnego społeczeństwa, promować polskie dziedzictwo narodowe oparte na chrześcijańskim fundamencie i wielowiekowej historii dającej nam liczne powody do dumy z przynależności do polskiej wspólnoty narodowej. Dąży do krzewienia w młodym pokoleniu Polaków etosu propaństwowych patriotów chcących służyć niepodległej Rzeczypospolitej na polu zawodowym, społecznym i prywatnym.
 
 [sluzbaniepodleglej.pl](http://sluzbaniepodleglej.pl/)
 
