@@ -27,6 +27,7 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/odwiedźcie-miasteczko-humanitarne-w-trakcie-warszawskich-targów-humanitarnych.md
 - content/aktualnosci/dzialania/debaty/bunt-długich-spódnic-kobiety-w-polityce-w-polsce-i-na-świecie.md
 - content/aktualnosci/dzialania/debaty/fotorelacja-z-debaty-20-lat-polski-w-nato-czy-jestesmy-bezpieczni.md
 - content/aktualnosci/dzialania/warsztaty/rodm-lodz-w-regionie-z-lekcjami-o-bezpieczenstwie-energetycznym.md
