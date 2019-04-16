@@ -17,7 +17,7 @@ W roku 2018 obchodziliśmy **100 rocznicę uzyskania przez Polki praw wyborczych
 
 **Miejsce:** Klub 6 Dzielnica [https://szostadzielnica.pl/](https://szostadzielnica.pl/ "https://szostadzielnica.pl/"), ul. Piotrkowska 102, II Piętro, Łódź
 
-**Patronat medialny:** TVP3 Łódź, Miasto Łódź.
+**Patronat medialny:** TVP3 Łódź, Miasto Ł
 
 **Zapraszamy serdecznie do rozmowy. Wstęp wolny.**
 
