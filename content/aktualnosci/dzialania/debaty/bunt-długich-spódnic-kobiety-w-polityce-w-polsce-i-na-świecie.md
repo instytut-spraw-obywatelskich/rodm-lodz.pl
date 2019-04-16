@@ -5,7 +5,6 @@ slug = "bunt-dlugich-spodnic"
 title = "Bunt długich spódnic – kobiety w polityce w Polsce i na świecie"
 
 +++
-
 W roku 2018 obchodziliśmy **100 rocznicę uzyskania przez Polki praw wyborczych.** To duże osiągnięcie II Rzeczypospolitej. W ogólnej świadomości wydarzenie to przeszło jednak bez większego echa. O przyczynach tego faktu, historii kobiet w polityce, sposobie jej uprawiania i ich przyszłości porozmawiamy podczas spotkania w ramach Regionalnego Ośrodka Debaty Międzynarodowej ([www.rodm-lodz.pl](http://www.rodm-lodz.pl/)) prowadzonego przez Instytut Spraw Obywatelskich przy wsparciu Ministerstwa Spraw Zagranicznych.
 
 **Jaka jest historia sufrażystek z Polski i innych krajów? Czy zmianę społeczną trzeba wywalczyć? Czego mogą uczyć się od sufrażystek współczesne „wojowniczki” – walczące o prawa lokatorów, konsumentów czy pracowników?** Na te i inne pytania poszukamy odpowiedzi podczas spotkania, w którym wezmą udział:
@@ -36,4 +35,4 @@ W 1917 r. jeszcze przed zakończeniem wojny kobiety polskie z trzech zaborów zw
 
 „Piłsudski, zgadzając się z tym, że w wolnej Polsce kobiety winny mieć prawa równe z mężczyznami, utrzymywał, że nie będą one umiały wykorzystać swych praw rozsądnie. (...) Ja, zacięta feministka, ogromnie się na to oburzyłam” – pisała w swoich „Wspomnieniach” Aleksandra Piłsudska.
 
-Przyszła żona Piłsudskiego, przekonała go do poparcia prawa wyborczego dla kobiet.
+Przyszła żona Piłsudskiego przekonała go do poparcia prawa wyborczego dla kobiet.
