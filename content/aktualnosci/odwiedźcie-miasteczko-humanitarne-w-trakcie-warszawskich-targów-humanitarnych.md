@@ -19,4 +19,4 @@ Jeśli jesteście zainteresowani relacjami pomiędzy światem biznesu a sektorem
 
 W Miasteczku Humanitarnym spotkacie ludzi, których nie udałoby się Wam poznać gdzie indziej i którzy odkryją przed Wami świat zaangażowania w niesienie pomocy innym.
 
-Więcej informacji o Miasteczku Humanitarnym i Warszawskich Targach Humanitarnych znajdziecie na stronie www.humanitarianexpo.com.
+Więcej informacji o Miasteczku Humanitarnym i Warszawskich Targach Humanitarnych znajdziecie na stronie [www.humanitarianexpo.com]()
