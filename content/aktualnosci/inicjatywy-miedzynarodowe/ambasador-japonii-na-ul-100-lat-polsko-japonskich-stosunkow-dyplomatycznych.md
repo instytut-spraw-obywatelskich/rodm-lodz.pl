@@ -1,5 +1,5 @@
 +++
-date = "2019-04-07T22:00:00+00:00"
+date = "2019-04-08T22:00:00+00:00"
 main_image = "/v1554720748/rodm/japan.png"
 slug = "ambasador-japonii-na-ul-100-lat-polsko-japonskich-stosunkow-dyplomatycznych"
 title = "Ambasador Japonii na UŁ - 100 lat polsko-japońskich stosunków dyplomatycznych"
