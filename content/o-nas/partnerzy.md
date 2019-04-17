@@ -15,12 +15,17 @@ jest think-tankiem, którego celem jest wypracowywanie koncepcji zapewniających
 
 [www.ambitnapolska.pl](http://www.ambitnapolska.pl/)
 
+## Minister Kultury i Dziedzictwa Narodowego  
+![](https://res.cloudinary.com/inspro/image/upload/v1555507882/rodm/20170313_mkidn_logo2.jpg)
+
+Wiceprezes Rady Ministrów, Minister Kultury i Dziedzictwa Narodowego wyraził chęć współpracy z Regionalnym Ośrodkiem Debaty Międzynarodowej w Łodzi w zakresie organizacji debat i inicjatyw informacyjno-edukacyjnych. 
+
 ## Fundacja Wyszehradzka
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1554726383/rodm/wyszehradzka.jpg)
 
-powstała w celu budowania trwałych fundamentów współpracy między krajami Grupy Wyszehradzkiej oraz państw Trójmorza. Fundacja podejmuje wiele publicznych inicjatyw. Jest organizatorem konferencji, debat oraz wydarzeń z zakresu polityki zagranicznej, nowych technologii, psychologii i resocjalizacji wszystkiego co może pomóc zbudować lepszą współpracę dla Państw Grupy Wyszehradzkiej oraz wszystkiego co może zbliżyć i skonsolidować Państwa V4 bo właśnie w tej inicjatywie zarząd fundacji dojrzał olbrzymi potencjał.  
-  
+powstała w celu budowania trwałych fundamentów współpracy między krajami Grupy Wyszehradzkiej oraz państw Trójmorza. Fundacja podejmuje wiele publicznych inicjatyw. Jest organizatorem konferencji, debat oraz wydarzeń z zakresu polityki zagranicznej, nowych technologii, psychologii i resocjalizacji wszystkiego co może pomóc zbudować lepszą współpracę dla Państw Grupy Wyszehradzkiej oraz wszystkiego co może zbliżyć i skonsolidować Państwa V4 bo właśnie w tej inicjatywie zarząd fundacji dojrzał olbrzymi potencjał.
+
 [http://wyszehradzka.pl](http://wyszehradzka.pl "http://wyszehradzka.pl")
 
 ## Fundacja Służba Niepodległej
