@@ -15,10 +15,11 @@ jest think-tankiem, którego celem jest wypracowywanie koncepcji zapewniających
 
 [www.ambitnapolska.pl](http://www.ambitnapolska.pl/)
 
-## Minister Kultury i Dziedzictwa Narodowego  
+## Minister Kultury i Dziedzictwa Narodowego
+
 ![](https://res.cloudinary.com/inspro/image/upload/v1555507882/rodm/20170313_mkidn_logo2.jpg)
 
-Wiceprezes Rady Ministrów, Minister Kultury i Dziedzictwa Narodowego wyraził chęć współpracy z Regionalnym Ośrodkiem Debaty Międzynarodowej w Łodzi w zakresie organizacji debat i inicjatyw informacyjno-edukacyjnych. 
+Wiceprezes Rady Ministrów, Minister Kultury i Dziedzictwa Narodowego wyraził chęć współpracy z Regionalnym Ośrodkiem Debaty Międzynarodowej w Łodzi w zakresie organizacji debat i inicjatyw informacyjno-edukacyjnych.
 
 ## Fundacja Wyszehradzka
 
@@ -40,9 +41,15 @@ powstała, aby działać na rzecz idei sprawnego i suwerennego państwa oraz wol
 
 ![TVP Łódź](https://res.cloudinary.com/inspro/image/upload/v1553173070/rodm/tvp-lodz.png)
 
-patron medialny
-
+patronat medialny  
 [www.lodz.tvp.pl](http://www.lodz.tvp.pl/)
+
+## Radio Łódź
+
+![](https://res.cloudinary.com/inspro/image/upload/v1555595459/rodm/logo_radio_lodz.jpg)
+
+patronat medialny  
+[www.radiolodz.pl/](https://www.radiolodz.pl/ "www.radiolodz.pl/")
 
 ## Wolne Miasto Łódź
 
