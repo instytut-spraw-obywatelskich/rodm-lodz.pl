@@ -1,6 +1,5 @@
 +++
 date = "2019-05-02T22:00:00+00:00"
-draft = true
 main_image = "/v1556266356/rodm/Untitled%20design.jpg"
 slug = "umowa-z-japonia"
 title = "Umowa z Japonią daje nowe możliwości rozwoju"
