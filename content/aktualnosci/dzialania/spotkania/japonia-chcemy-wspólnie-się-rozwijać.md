@@ -5,10 +5,10 @@ slug = "japonia-chcemy-wspolnie-sie-rozwijac"
 title = "Japonia: Chcemy wspólnie się rozwijać"
 
 +++
-**Japonia: Chcemy wspólnie się rozwijać**  
-  
-Rozmowy #RODMŁódź: Z Tsukasą Kawadą, ambasadorem Japonii w Polsce, rozmawiamy o współpracy między Japonią i Unią Europejską w świetle nowej umowy gospodarczej EPA.  
-  
+**Japonia: Chcemy wspólnie się rozwijać**
+
+Rozmowy #RODMŁódź: Z Tsukasą Kawadą, ambasadorem Japonii w Polsce, rozmawiamy o współpracy między Japonią i Unią Europejską w świetle nowej umowy gospodarczej EPA.
+
 **Produkty mleczne i inne produkty spożywcze stanowią znaczną część towarów eksportowanych z Unii Europejskiej do Japonii. Przed podpisaniem umowy EPA taryfy handlowe wynosiły nawet 40 procent. Jakie są perspektywy dla polskich firm spożywczych na rynku japońskim w obliczu zniesienia tych taryf?**  
 **Tsukasa Kawada:** Polska w świetle umowy posiada duże perspektywy. Już teraz Japonia importuje dużo produktów spożywczych, w tym przemysłu mleczarskiego. W wyniku podpisania umowy EPA mamy mniej ograniczeń, na niektóre produkty nie ma taryf i ta tendencja będzie się pogłębiać. Bardzo cenimy produkty europejskie.
 
@@ -22,3 +22,5 @@ Jeśli chodzi o umowę EPA, ochrona środowiska jest jej bardzo ważnym elemente
 **Rozmawiała Marta Brewer**
 
 _(Rozmowa odbyła się podczas międzynarodowej konferencji „Nadzór korporacyjny, efektywność i społeczna odpowiedzialność biznesu. Unia Europejska-Japonia", zorganizowanej na Wydziale Ekonomiczno-Socjologicznym Uniwersytetu Łódzkiego 12 kwietnia 2019 roku)._
+
+Przeczytaj także: [**Umowa z Japonią daje nowe możliwości rozwoju**](https://www.rodm-lodz.pl/aktualnosci/dzialania/spotkania/umowa-z-japonia/)
