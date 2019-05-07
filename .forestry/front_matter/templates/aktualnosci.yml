@@ -27,8 +27,8 @@ fields:
   name: main_image
   label: Main image
 pages:
-- content/aktualnosci/dzialania/spotkania/japonia-chcemy-wspólnie-się-rozwijać.md
 - content/aktualnosci/dzialania/spotkania/umowa-z-japonią-daje-nowe-możliwości-rozwoju.md
+- content/aktualnosci/dzialania/spotkania/japonia-chcemy-wspólnie-się-rozwijać.md
 - content/aktualnosci/dzialania/debaty/relacja-z-debaty-bunt-długich-spódnic-kobiety-w-polityce-w-polsce-i-na-świecie.md
 - content/aktualnosci/odwiedźcie-miasteczko-humanitarne-w-trakcie-warszawskich-targów-humanitarnych.md
 - content/aktualnosci/dzialania/debaty/bunt-długich-spódnic-kobiety-w-polityce-w-polsce-i-na-świecie.md
