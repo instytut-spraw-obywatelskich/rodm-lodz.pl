@@ -7,8 +7,6 @@ menu:
     weight: 40
 
 ---
-## Media o naszych działaniach
-
 ## „20 lat Polski w NATO: Czy jesteśmy bezpieczni?”
 
 * [TVP Łódź](https://lodz.tvp.pl/41764707/w-pierwszej-debacie-lodzkiego-rodmu-przedstawiono-problem-bezpieczenstwa-rp) - relacja
