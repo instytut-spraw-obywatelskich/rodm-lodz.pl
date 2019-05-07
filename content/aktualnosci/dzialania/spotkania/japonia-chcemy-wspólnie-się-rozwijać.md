@@ -1,6 +1,6 @@
 +++
 date = "2019-05-06T22:00:00+00:00"
-main_image = "/v1554720748/rodm/japan.png"
+main_image = "/v1557225855/rodm/Untitled%20design.png"
 slug = "japonia-chcemy-wspolnie-sie-rozwijac"
 title = "Japonia: Chcemy wspólnie się rozwijać"
 
@@ -20,6 +20,8 @@ Tak, oczywiście. Niedawno odbyła się w Katowicach Konferencja Narodów Zjedno
 Jeśli chodzi o umowę EPA, ochrona środowiska jest jej bardzo ważnym elementem. W aspekcie ochrony klimatu kierujemy się zasadą zrównoważonego rozwoju. Dla nas rozwój gospodarczy jest ważny, ale musimy spojrzeć na niego w dłuższej perspektywie czasowej. Jeśli zniszczymy środowisko, nie będzie już przestrzeni dla żadnego rozwoju. Kiedy myślimy więc o rozwoju gospodarczym, jednocześnie musimy myśleć o równowadze środowiskowej i to jest dla nas kolejny długoterminowy projekt.
 
 **Rozmawiała Marta Brewer**
+
+zdj. Uniwersytet Łódzki
 
 _(Rozmowa odbyła się podczas międzynarodowej konferencji „Nadzór korporacyjny, efektywność i społeczna odpowiedzialność biznesu. Unia Europejska-Japonia", zorganizowanej na Wydziale Ekonomiczno-Socjologicznym Uniwersytetu Łódzkiego 12 kwietnia 2019 roku)._
 
