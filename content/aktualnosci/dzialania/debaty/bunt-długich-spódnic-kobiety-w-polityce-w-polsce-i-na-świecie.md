@@ -1,6 +1,6 @@
 +++
 date = "2019-04-14T22:00:00+00:00"
-main_image = "/v1555436936/rodm/miniaturka800600.jpg"
+main_image = "/v1557226143/rodm/Untitled%20design%20%281%29.jpg"
 slug = "bunt-dlugich-spodnic"
 title = "Bunt długich spódnic – kobiety w polityce w Polsce i na świecie"
 
