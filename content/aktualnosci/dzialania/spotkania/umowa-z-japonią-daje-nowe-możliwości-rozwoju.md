@@ -1,6 +1,6 @@
 +++
 date = "2019-04-30T22:00:00+00:00"
-main_image = "/v1556266356/rodm/Untitled%20design.jpg"
+main_image = "/v1557322805/rodm/umowa-z-japonia.jpg"
 slug = "umowa-z-japonia"
 title = "Umowa z Japonią daje nowe możliwości rozwoju"
 
