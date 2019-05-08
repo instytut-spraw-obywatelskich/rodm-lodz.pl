@@ -1,6 +1,6 @@
 +++
 date = "2019-05-06T22:00:00+00:00"
-main_image = "/v1557225855/rodm/Untitled%20design.png"
+main_image = "/v1557225855/rodm/japonia-chcemy-wspolnie-sie-rozwijac.png"
 slug = "japonia-chcemy-wspolnie-sie-rozwijac"
 title = "Japonia: Chcemy wspólnie się rozwijać"
 
