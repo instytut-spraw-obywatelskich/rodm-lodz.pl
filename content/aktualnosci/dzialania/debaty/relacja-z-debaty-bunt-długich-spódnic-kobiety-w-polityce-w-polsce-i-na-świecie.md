@@ -1,6 +1,6 @@
 +++
 date = "2019-04-25T22:00:00+00:00"
-main_image = "/v1557226143/rodm/Untitled%20design%20%281%29.jpg"
+main_image = "/v1557226143/rodm/bunt-dlugich-spodnic.jpg"
 slug = "debata-kwiecien-relacja"
 title = "Relacja z debaty \"Bunt długich spódnic – kobiety w polityce w Polsce i na świecie\""
 
