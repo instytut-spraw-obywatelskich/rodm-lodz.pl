@@ -5,9 +5,9 @@ slug = "umowa-z-japonia"
 title = "Umowa z Japonią daje nowe możliwości rozwoju"
 
 +++
-**Umowa z Japonią daje nowe możliwości rozwoju**
-
-**Rozmowy #RODMŁódź: Z profesor Jolantą Młodawską-Bronowską rozmawiamy o konferencji na temat EPA — nowej umowy gospodarczej między Unią Europejską a Japonią.**
+fot. EU/Etienne Ansotte  
+**  
+Rozmowy #RODMŁódź: Z profesor Jolantą Młodawską-Bronowską rozmawiamy o konferencji na temat EPA — nowej umowy gospodarczej między Unią Europejską a Japonią.**
 
 EPA — umowa o partnerstwie gospodarczym między Unią Europejską a Japonią weszła w życie 1 lutego 2019 roku. Umowa liberalizuje stosunki handlowe między Japonią a krajami członkowskimi Unii Europejskiej. Ułatwia unijnym przedsiębiorcom dostęp do rynku japońskiego.
 
@@ -24,8 +24,8 @@ Umowa EPA daje nowe możliwości, zwłaszcza małym firmom, głównie w przemyś
 
 _Profesor Jolanta Młodawska-Bronowska – pracownik naukowy Wydziału Ekonomiczno-Socjologicznego Uniwersytetu Łódzkiego. Do jej zainteresowań należą: funkcjonowanie gospodarki, instytucjonalne czynniki wzrostu oraz gospodarka Japonii. Od 2008 roku jest prezesem Klubu Yakumo-goto, który zrzesza miłośników Kraju Kwitnącej Wiśni._
 
-fot. EU/Etienne Ansotte  
-Rozmawiała Marta Brewer
+  
+**Rozmawiała Marta Brewer**
 
 _Rozmowa odbyła się podczas międzynarodowej konferencji „Nadzór korporacyjny, efektywność i społeczna odpowiedzialność biznesu. Unia Europejska-Japonia", zorganizowanej na Wydziale Ekonomiczno-Socjologicznym Uniwersytetu Łódzkiego 12 kwietnia 2019 roku)._
 
