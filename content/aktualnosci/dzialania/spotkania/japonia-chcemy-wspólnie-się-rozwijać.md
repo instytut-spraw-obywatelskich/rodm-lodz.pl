@@ -5,8 +5,6 @@ slug = "japonia-chcemy-wspolnie-sie-rozwijac"
 title = "Japonia: Chcemy wspólnie się rozwijać"
 
 +++
-**Japonia: Chcemy wspólnie się rozwijać**
-
 Rozmowy #RODMŁódź: Z Tsukasą Kawadą, ambasadorem Japonii w Polsce, rozmawiamy o współpracy między Japonią i Unią Europejską w świetle nowej umowy gospodarczej EPA.
 
 **Produkty mleczne i inne produkty spożywcze stanowią znaczną część towarów eksportowanych z Unii Europejskiej do Japonii. Przed podpisaniem umowy EPA taryfy handlowe wynosiły nawet 40 procent. Jakie są perspektywy dla polskich firm spożywczych na rynku japońskim w obliczu zniesienia tych taryf?**  
