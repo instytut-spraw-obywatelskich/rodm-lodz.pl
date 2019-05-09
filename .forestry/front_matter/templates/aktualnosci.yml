@@ -27,6 +27,7 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/dzialania/spotkania/umowa-z-japonią-daje-nowe-możliwości-rozwoju.md
 - content/aktualnosci/dzialania/warsztaty/rodm-lodz-w-regionie-z-lekcjami-o-bezpieczenstwie-energetycznym.md
 - content/aktualnosci/nawiazalismy-wspolprace-z-fundacja-wyszehradzka.md
 - content/aktualnosci/inicjatywy-miedzynarodowe/ambasador-japonii-na-ul-100-lat-polsko-japonskich-stosunkow-dyplomatycznych.md
@@ -34,7 +35,6 @@ pages:
 - content/aktualnosci/odwiedźcie-miasteczko-humanitarne-w-trakcie-warszawskich-targów-humanitarnych.md
 - content/aktualnosci/inicjatywy-miedzynarodowe/wolontariat-polska-pomoc-2019.md
 - content/aktualnosci/rodm-pod-skrzydlami-instytutu-spraw-obywatelskich.md
-- content/aktualnosci/dzialania/spotkania/umowa-z-japonią-daje-nowe-możliwości-rozwoju.md
 - content/aktualnosci/inicjatywy-miedzynarodowe/forum-polsko-czeskie-na-rzecz-zblizenia-spoleczenstw-poglebionej-wspolpracy-i-dobrego-sasiedztwa-2019.md
 - content/aktualnosci/dzialania/spotkania/rodm-lodz-na-spotkaniu-z-msz.md
 - content/aktualnosci/dzialania/debaty/zaproszenie-na-debatę-o-polskiej-wizji-unii-europejskiej.md
