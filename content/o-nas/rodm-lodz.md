@@ -3,10 +3,11 @@ title: RODM Łódź
 weight: 10
 menu:
   main:
-    parent: 'O nas'
+    parent: O nas
     weight: 10
+
 ---
-Regionalny Ośrodek Debaty Międzynarodowej (RODM) w Łodzi to część sieci informacyjnej Ministerstwa Spraw Zagranicznych promującej polską politykę zagraniczną. **RODM w Łodzi realizowany jest w latach 2019-2021 przez Instytut Spraw Obywatelskich.**
+Regionalny Ośrodek Debaty Międzynarodowej (RODM) w Łodzi to część sieci informacyjnej Ministerstwa Spraw Zagranicznych promującej polską politykę zagraniczną. RODM w Łodzi realizowany jest w latach 2019-2021 przez **Instytut Spraw Obywatelskich i współfinansowany przez Ministerstwo Spraw Zagranicznych RP w konkursie "Regionalny Ośrodek Debaty Międzynarodowej 2019-2021".**
 
 Naszym celem jest **przybliżenie mieszkańcom województwa łódzkiego polityki zagranicznej** oraz wzmocnienie kanałów współpracy pomiędzy MSZ, samorządem i organizacjami pozarządowymi.
 
