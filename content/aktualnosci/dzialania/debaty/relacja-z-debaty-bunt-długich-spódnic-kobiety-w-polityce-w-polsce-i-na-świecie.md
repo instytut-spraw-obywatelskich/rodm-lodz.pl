@@ -5,15 +5,41 @@ slug = "debata-kwiecien-relacja"
 title = "Relacja z debaty \"Bunt długich spódnic – kobiety w polityce w Polsce i na świecie\""
 
 +++
-25 kwietnia 2019 r. w łódzkiej klubokawiarni “6. Dzielnica” odbyła się debata „Bunt długich spódnic – kobiety w polityce w Polsce i na świecie”. W dyskusji udział wzięły: Beata Siemieniako – prawniczka, działaczka lokatorska oraz Kasia Gauza – programistka zajmująca się promocją historii Łodzi robotniczej. Rozmowę poprowadziła Anna Bojanowska z fundacji Ambitna Polska.
+„**Bunt długich spódnic – kobiety w polityce w Polsce i na świecie” to temat spotkania, które odbyło się 25 kwietnia 2019 roku w łódzkiej klubokawiarni 6. Dzielnica. Rozmowa była związana ze 101 rocznicą wywalczenia przez Polki praw wyborczych.**
 
-Spotkanie rozpoczęło się wprowadzeniem w historię ruchu na rzecz walki o prawa kobiet. Anna Bojanowska przybliżyła polską specyfikę ruchu, który wyróżniał się na tle innych krajów, pokazując wpływ takich postaci jak Aleksandra Piłsudska, organizacji takich jak „dromaderki”, czy pierwszych polskich posłanek.
+Gośćmi spotkania były **Beata Siemieniako** – prawniczka, działaczka lokatorska oraz **Kasia Gauza** – programistka, która zajmuje się promocją historii Łodzi robotniczej. Rozmowę poprowadziła **Anna Bojanowska** z fundacji Ambitna Polska. Wydarzenie zorganizował Regionalny Ośrodek Debaty Międzynarodowej prowadzony przez Instytut Spraw Obywatelskich przy wsparciu Ministerstwa Spraw Zagranicznych.
 
-Po przybliżeniu historii Polek od czasów walki o prawa wyborcze aż po dziś dzień, panelistki przyjrzały się współczesnej sytuacji kobiet w Polsce. Jednoznacznie oceniono, że na pewnych polach, takich jak edukacja, postęp jest widoczny. Polki zaczynają się aktywizować, biorą udział w strajkach – za przełomowy moment jednoznacznie uznano Czarny Protest w 2015 r. Jednocześnie kobiety wciąż ponoszą konsekwencje złych polityk społecznych. Przybliżono przyczyny nieugruntowanej wciąż pozycji Polek na scenie politycznej, wymieniając przede wszystkim ograniczenia wynikające z tradycyjnej roli kobiety w społeczeństwie oraz skłonność kobiet do pozostawania na stanowiskach czysto organizacyjnych. Wspomniano także o niskim poziomie wiedzy historycznej dotyczącej działań i osiągnięć kobiet. Panelistki podkreśliły, że wiele działań podejmowanych jest w kwestii walk o prawa socjalne. Rośnie nowe pokolenie kobiet bardziej świadomych. Beata Siemieniako przywołała przykłady nowo powstałych inicjatyw, takich jak Socjalny Kongres Kobiet, czy zespół ds. kobiet przy Naczelnej Radzie Adwokackiej. Podjęto również temat globalnego wymiaru feminizmu i tego, czy w swej walce Polki zbytnio skupiają się na własnych problemach, zapominając o tych dotykających kobiety w innych częściach świata. Beata Siemieniako podkreśliła, że umiędzynarodowienie ruchu feministycznego nie ma jeszcze wymiaru powszechnego, jednak kobiety z różnych części globu inspirują się wzajemnie swoimi działaniami. Kasia Gauza uznała zaś, że należy brać pod uwagę problemy globalne, jednak nigdy kosztem kwestii lokalnych. Panelistki zapytane o wizję pozycji kobiet za 10 lat, mówiły o wzmocnionej roli kobiet w polityce, rozwiązaniu problemów związanych z wyrównaniem płac, rolą kobiety w rodzinie, przemocą domową, czy walką o prawa osób transpłciowych.
+Anna Bojanowska opowiedziała o początkach polskiego ruchu kobiet, który wyróżniał się na tle innych krajów. Podkreśliła wsparcie znanych kobiet jak żona Józefa Piłsudskiego – Aleksandra Piłsudska, czy dokonania pierwszych polskich posłanek.
 
-Rozmowa ukazała, jak daleką drogę przeszły kobiety, równocześnie pokazując, że walka nie została ostatecznie wygrana. Pesymistyczny wydźwięk tego stwierdzenia przełamał jednak wyłaniający się z debaty wniosek, że obecnie żyjemy w czasach doniosłych zmian skutukujących wzrostem roli kobiet w polityce, a pozytywnie patrzeć w przyszłość pozwala nam nowe pokolenie.
+**Tak się zaczęło**
 
-![](https://res.cloudinary.com/inspro/image/upload/v1556263538/rodm/IMG_4949.jpg)
+Po 1918 roku kobiety chciały w pełni uczestniczyć w życiu nowej, niepodległej ojczyzny. Coraz głośniej domagały się swoich praw, również wyborczych. Co ciekawe, z ówczesnych ruchów politycznych to lewica była najbardziej przeciwna nadaniu kobietom praw wyborczych. Ostatecznie Polki wywalczyły je w 1918 roku.
+
+**Zmienny los**
+
+Pierwsze polskie posłanki zajmowały się walką z alkoholizmem, prostytucją, czy analfabetyzmem. Ich polityczny rozwój przerwała kolejna wojna.
+
+Po II wojnie światowej zachęcano Polki do wstępowania w szeregi partii. Nie miały one jednak rzeczywistego wpływu na partyjne decyzje.
+
+W latach 80. XX wieku Polki masowo brały udział w strajkach. Stanowiły też połowę członków Solidarności. Jednak kiedy doszło do decydujących rozmów przy Okrągłym Stole, zaproszono do nich jedynie dwie panie.
+
+**Lokalnie i globalnie**
+
+Podjęto również temat globalnego wymiaru feminizmu. Czy w swej walce Polki zbytnio nie skupiają się na własnych problemach, zapominając o tych, które dotykają kobiety w innych częściach globu?
+
+Beata Siemieniako podkreśliła, że ruch feministyczny nie ma powszechnie charakteru międzynarodowego, jednak kobiety z różnych części świata inspirują się wzajemnie swoimi działaniami. Kasia Gauza uznała, że należy brać pod uwagę problemy globalne, ale nigdy kosztem kwestii lokalnych.
+
+**Co dalej?**
+
+– Co zrobić, żeby głos kobiet był silniejszy, żeby kobiety stawały w obronie swojego wkładu i osiągnięć? – zastanawiała się Anna Bojanowska.
+
+Zdaniem Kasi Gauzy zmiany już się zaczęły. Kobiety się aktywizują, stają się liderkami. – Powinniśmy uczyć się na podstawie własnej historii, że nie każda walka od razu musi być wygrana. Pracę trzeba prowadzić na różnych polach. Trzeba pokładać nadzieje w nowym pokoleniu – podkreśliła.
+
+Z potrzebą pracy na różnych polach zgodziła się Beata Siemieniako. – Trzeba działać na wszystkich frontach, edukować młode pokolenie. Feminizm jest powoli „odczarowywany”.
+
+Powstały nowe instytucje jak Socjalny Kongres Kobiet, czy zespół ds. kobiet przy Naczelnej Radzie Adwokackiej. Ruch feministyczny powinien połączyć się z ruchem dotyczącym walki o prawa socjalne.
+
+Kobiety przebyły daleką drogę. Jednak wiele jest jeszcze do zrobienia. Jak zauważono podczas rozmowy, żyjemy w czasach doniosłych zmian, które wpływają na wzrost roli kobiet w polityce, a nowe pokolenie pozwala nam na patrzenie w przyszłość z nadzieją.
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1556263555/rodm/IMG_4941.jpg)
 
