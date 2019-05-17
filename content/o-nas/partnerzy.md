@@ -1,6 +1,6 @@
 ---
 title: Partnerzy
-weight: 20
+weight: "20"
 menu:
   main:
     parent: O nas
@@ -20,6 +20,11 @@ jest think-tankiem, którego celem jest wypracowywanie koncepcji zapewniających
 ![](https://res.cloudinary.com/inspro/image/upload/v1555507882/rodm/20170313_mkidn_logo2.jpg)
 
 Wiceprezes Rady Ministrów, Minister Kultury i Dziedzictwa Narodowego wyraził chęć współpracy z Regionalnym Ośrodkiem Debaty Międzynarodowej w Łodzi w zakresie organizacji debat i inicjatyw informacyjno-edukacyjnych.
+
+## Studenckie Koło Naukowe Prawa Europejskiego
+
+![](https://res.cloudinary.com/inspro/image/upload/v1558091222/rodm/logo%20ko%C5%82a.png)  
+Studenckie Koło Naukowe Prawa Europejskiego (SKNPE) powstało z inicjatywy studentów przy Katedrze Prawa Europejskiego WPiA UŁ w 2005 r. Opiekunem naukowym Koła jest **prof. nadzw. UŁ dr hab. Monika Namysłowska**, kierownik Zakładu Europejskiego Prawa Prywatnego w Katedrze Europejskiego Prawa Gospodarczego WPiA UŁ. Celem SKNPE jest rozpowszechnianie wśród studentów wiedzy dotyczącej funkcjonowania Unii Europejskiej, a także omawianie zjawisk występujących na obszarze krajów członkowskich. 
 
 ## Fundacja Wyszehradzka
 
