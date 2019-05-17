@@ -15,13 +15,13 @@ Uczestnicy warsztatów spotkali się w Łodzi 7 maja 2019 roku w Centrum Promocj
 
 Polska podczas wyborów do Parlamentu Europejskiego podzielona jest na 13 okręgów wyborczych.
 
-Przedstawiciel Stowarzyszenia 61 Paweł Kotarbiński przybliżył uczestnikom warsztatów kształt najważniejszych unijnych instytucji i proces podejmowania decyzji w UE. Przypomniał, że na stronie internetowej VoteWatch.eu można znaleźć listę najbardziej wpływowych europosłów. Jak wypadają na tym tle reprezentanci Polski? Czołowe miejsca wśród wszystkich europarlamentarzystów zajmują Jerzy Buzek (miejsce 3), Jarosław Wałęsa (11 miejsce) i była polska komisarz UE ds. polityki regionalnej Danuta Hübner (miejsce 16).
+Przedstawiciel Stowarzyszenia 61 Paweł Kotarbiński przybliżył uczestnikom warsztatów kształt najważniejszych unijnych instytucji i proces podejmowania decyzji w UE. Przypomniał, że na stronie internetowej VoteWatch.eu można znaleźć listę najbardziej wpływowych europosłów. Jak wypadają na tym tle reprezentanci Polski? Czołowe miejsca wśród wszystkich europarlamentarzystów zajmują Jerzy Buzek (miejsce 3), Jarosław Wałęsa (11 miejsce) i była polska komisarz UE ds. polityki regionalnej Danuta Hübner (16 miejsce).
 
 **Poczuj się jako europoseł**
 
 Prawdziwym wyzwaniem dla uczestników warsztatów była gra symulacyjna, w której uczestnicy mogli poczuć się jak euro parlamentarzyści i przyjrzeć się stanowieniu prawa w parlamencie.
 
-Uczestnicy zostali przydzieleni losowo do poszczególnych frakcji Parlamentu Europejskiego – chrześcijańskich demokratów, eurolewicy, eurorealistów i liberałów.
+Uczestnicy zostali przydzieleni losowo do poszczególnych frakcji Parlamentu Europejskiego –chrześcijańskich demokratów, eurolewicy, eurorealistów i liberałów.
 
 Przedstawiciele frakcji omówili najważniejsze postulaty swoich grup politycznych, a następnie rozpoczęli poszukiwania sprzymierzeńców, aby przegłosować swoje propozycje. By ustawa przeszła wymagane były dwa głosy z co najmniej dwóch frakcji.
 
