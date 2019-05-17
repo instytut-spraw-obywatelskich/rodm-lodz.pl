@@ -1,6 +1,6 @@
 ---
 title: RODM w mediach
-weight: 40
+weight: "40"
 menu:
   main:
     parent: O nas
@@ -19,3 +19,9 @@ menu:
 
 * ["Bunt długich spódnic", czyli debata o roli kobiety w polskiej i międzynarodowej polityce](https://www.radiolodz.pl/posts/52464-buncie-dlugich-spodnic-czyli-debata-o-roli-kobiety-w-polskiej-i-miedzynarodowej-polityce)
 * [Łódzki RODM zaprasza na debatę o roli kobiet w polityce](https://lodz.tvp.pl/42334410/lodzki-rodm-zaprasza-na-debate-o-roli-kobiet-w-polityce)
+
+## „Europa - unia państw czy superpaństwo? Polska perspektywa”
+
+* [Debata o polskiej wizji Unii Europejskiej](https://www.radiolodz.pl/posts/52823-debata-o-polskiej-wizji-unii-europejskiej)
+* [Dziś w Łodzi debata polskiej wizji Unii Europejskiej. “Europa — unia państw czy superpaństwo?"](https://dzienniklodzki.pl/dzis-w-lodzi-debata-polskiej-wizji-unii-europejskiej-europa-unia-panstw-czy-superpanstwo/ar/c1-14130959?fbclid=IwAR19ogX1ptz65cIuRRAnlLFdS_8SkD0taHJXwGmLJsMFrJJ_YGXasZB-v_w)
+* [RODM w Łodzi zaprasza na debatę o przyszłości Unii Europejskiej](https://lodz.tvp.pl/42608869/rodm-w-lodzi-zaprasza-na-debate-o-przyszlosci-unii-europejskiej)
