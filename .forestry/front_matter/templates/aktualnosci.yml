@@ -27,6 +27,7 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/dzialania/warsztaty/wybory-do-parlamentu-europejskiego-coraz-bliżej-poznaj-zasady-głosowania.md
 - content/aktualnosci/dzialania/debaty/unia-europejska-wspólnota-państw-czy-superpaństwo.md
 - content/aktualnosci/dzialania/spotkania/umowa-z-japonią-daje-nowe-możliwości-rozwoju.md
 - content/aktualnosci/dzialania/warsztaty/rodm-lodz-w-regionie-z-lekcjami-o-bezpieczenstwie-energetycznym.md
