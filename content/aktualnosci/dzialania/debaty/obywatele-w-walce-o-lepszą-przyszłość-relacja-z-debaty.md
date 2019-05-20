@@ -1,7 +1,7 @@
 +++
 date = "2019-05-19T22:00:00+00:00"
 main_image = "/v1558360200/rodm/KK.jpg"
-slug = "debata-kuznia-kampanierow"
+slug = "debata-kuznia-kampanierow-relacja"
 title = "Obywatele w walce o lepszą przyszłość – relacja z debaty"
 
 +++
