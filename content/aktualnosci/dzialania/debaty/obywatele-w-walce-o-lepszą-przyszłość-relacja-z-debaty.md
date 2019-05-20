@@ -50,6 +50,9 @@ Krzysztof Tańcula podkreślał aspekt praktyczny: ważne jest, by do ruchów cz
 O potrzebie posiadania wiary w prowadzone działania bez oczekiwania czegoś w zamian mówił Bartosz Brzyski.
 
 Jan Śpiewak na pierwszym planie postawił nieposłuszeństwo obywatelskie, które jego zdaniem jest jedyną odpowiedzią na dzisiejszą sytuację i podsumował dyskusję apelem:   
-– Nie lękajcie się i buntujcie się.
+– Nie lękajcie się i buntujcie się.  
+  
+Relacja: Marta Brewer  
+Zdjęcia: Piotr Skubisz
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1558360538/rodm/DSC07576.jpg)
