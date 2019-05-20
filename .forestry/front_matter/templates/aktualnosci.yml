@@ -27,6 +27,7 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/dzialania/debaty/obywatele-w-walce-o-lepszą-przyszłość-relacja-z-debaty.md
 - content/aktualnosci/dzialania/debaty/jak-wygrać-kampanię-obywatelską-w-zderzeniu-z-czołgiem-partyjnym-lub-korporacyjnym.md
 - content/aktualnosci/dzialania/warsztaty/wybory-do-parlamentu-europejskiego-coraz-bliżej-poznaj-zasady-głosowania.md
 - content/aktualnosci/dzialania/debaty/unia-europejska-wspólnota-państw-czy-superpaństwo.md
