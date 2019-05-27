@@ -11,6 +11,8 @@ Odpowiedzi na pytania szukali: **Jan Śpiewak** – działacz społeczny, socjol
 
 Spotkanie zorganizował Instytut Spraw Obywatelskich we współpracy z Regionalnym Ośrodkiem Debaty Międzynarodowej w Łodzi w ramach IV Kongresu Kuźni Kampanierów 18 maja 2019 roku w EC1 Łódź – Miasto Kultury.
 
+[Relacja wideo – KLIKNIJ TUTAJ](https://www.facebook.com/fundacja.inspro/videos/358193651498406/)
+
 ![](https://res.cloudinary.com/inspro/image/upload/v1558360263/rodm/DSC07519.jpg)
 
 **Czy miasto jest rzeczywiście nasze?**
@@ -49,9 +51,9 @@ Krzysztof Tańcula podkreślał aspekt praktyczny: ważne jest, by do ruchów cz
 
 O potrzebie posiadania wiary w prowadzone działania bez oczekiwania czegoś w zamian mówił Bartosz Brzyski.
 
-Jan Śpiewak na pierwszym planie postawił nieposłuszeństwo obywatelskie, które jego zdaniem jest jedyną odpowiedzią na dzisiejszą sytuację i podsumował dyskusję apelem:   
-– Nie lękajcie się i buntujcie się.  
-  
+Jan Śpiewak na pierwszym planie postawił nieposłuszeństwo obywatelskie, które jego zdaniem jest jedyną odpowiedzią na dzisiejszą sytuację i podsumował dyskusję apelem:  
+– Nie lękajcie się i buntujcie się.
+
 Relacja: Marta Brewer  
 Zdjęcia: Piotr Skubisz
 

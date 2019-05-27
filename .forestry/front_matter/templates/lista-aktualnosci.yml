@@ -14,9 +14,9 @@ fields:
   label: weight
   hidden: true
 pages:
-- content/aktualnosci/_index.md
-- content/aktualnosci/inicjatywy-miedzynarodowe/_index.md
-- content/aktualnosci/dzialania/warsztaty/_index.md
-- content/aktualnosci/dzialania/spotkania/_index.md
-- content/aktualnosci/dzialania/debaty/_index.md
 - content/aktualnosci/dzialania/_index.md
+- content/aktualnosci/dzialania/debaty/_index.md
+- content/aktualnosci/dzialania/spotkania/_index.md
+- content/aktualnosci/dzialania/warsztaty/_index.md
+- content/aktualnosci/inicjatywy-miedzynarodowe/_index.md
+- content/aktualnosci/_index.md
