@@ -12,9 +12,9 @@ Wstęp wolny!
 Czy zwykły obywatel ma szansę w starciu z międzynarodowymi sieciami biznesowych powiązań?  
 Czy na peryferiach można pozwolić sobie na więcej?
 
-**Jak wygrać kampanię obywatelską w zderzeniu z czołgiem partyjnym lub korporacyjnym?  
+**Jak wygrać kampanię obywatelską w zderzeniu z czołgiem partyjnym lub korporacyjnym?** 
   
-**Do debaty zaproszeni zostali:
+**Do debaty zaproszeni zostali:**
 
 Krzysztof Tańcula – [Obywatelski Mielec #OMielec](https://www.facebook.com/obywatelskimielec/?__tn__=K-R&eid=ARAOTXW9Btww3SUe9mETtfH9-u4DK8gobbkH3f1uKEpgiaIDGy84HgNXyRH1MXk-mMDZJoudziWmYv_b&fref=mentions&__xts__%5B0%5D=68.ARB6wmCmjY1tPBSzzFreWFPfQjYUt90yDZGZO0KTjyMTrfgDTIm4GDx36UlcfMkhP1eGv3x550NGme9eSXBGdWCBBDO6aCch0dNt38S_qqrtCk8dd5PE57Qem9sLhdE53rlpDgBq9JychzT0YvJGTjPFDZ_Bqn57JZo69dGKwHk4e2-_Ssq5NP7iEf8-qoMvdIvO2Pr8mCMooWZaNpZrPpKKLL1L2Y50oYms14xGLsi-ex7WwlsTjmcojmVe_SdGZ-qGwe44XCay3QVT4E9fEXILMAc9Btwgf5APEO50TeDF16vGYug2bQGUMBRG6ZzY6IhUYWOSI7nG6ICxf-hsc3I)  
 [Jan Śpiewak](https://www.facebook.com/JanDawidSpiewak/?__tn__=K-R&eid=ARBeaa_UzwZ62ZHmJXxCvY3MRNQ08RoscceFsFhKMTCSBVKU0scUREALNOYJVYI96Qi0MsDlLlclCRZc&fref=mentions&__xts__%5B0%5D=68.ARB6wmCmjY1tPBSzzFreWFPfQjYUt90yDZGZO0KTjyMTrfgDTIm4GDx36UlcfMkhP1eGv3x550NGme9eSXBGdWCBBDO6aCch0dNt38S_qqrtCk8dd5PE57Qem9sLhdE53rlpDgBq9JychzT0YvJGTjPFDZ_Bqn57JZo69dGKwHk4e2-_Ssq5NP7iEf8-qoMvdIvO2Pr8mCMooWZaNpZrPpKKLL1L2Y50oYms14xGLsi-ex7WwlsTjmcojmVe_SdGZ-qGwe44XCay3QVT4E9fEXILMAc9Btwgf5APEO50TeDF16vGYug2bQGUMBRG6ZzY6IhUYWOSI7nG6ICxf-hsc3I) – [Wolne Miasto Warszawa](https://www.facebook.com/wolnemiastowawa/?__tn__=K-R&eid=ARByrhFLzmk-GHvtYB6D6c1aWg4YTYdN6Ku5Yz2H93OZWzEsHXqRkvydJc2jS2rWTFn5YGWCwI3_zciS&fref=mentions&__xts__%5B0%5D=68.ARB6wmCmjY1tPBSzzFreWFPfQjYUt90yDZGZO0KTjyMTrfgDTIm4GDx36UlcfMkhP1eGv3x550NGme9eSXBGdWCBBDO6aCch0dNt38S_qqrtCk8dd5PE57Qem9sLhdE53rlpDgBq9JychzT0YvJGTjPFDZ_Bqn57JZo69dGKwHk4e2-_Ssq5NP7iEf8-qoMvdIvO2Pr8mCMooWZaNpZrPpKKLL1L2Y50oYms14xGLsi-ex7WwlsTjmcojmVe_SdGZ-qGwe44XCay3QVT4E9fEXILMAc9Btwgf5APEO50TeDF16vGYug2bQGUMBRG6ZzY6IhUYWOSI7nG6ICxf-hsc3I)  
