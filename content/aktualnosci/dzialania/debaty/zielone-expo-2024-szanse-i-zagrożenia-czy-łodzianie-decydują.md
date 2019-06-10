@@ -1,6 +1,5 @@
 +++
 date = "2019-06-09T22:00:00+00:00"
-draft = true
 main_image = "/v1560178863/rodm/expodebata800600.jpg"
 slug = "expo-2024-debata"
 title = "Zielone EXPO 2024 – szanse i zagrożenia. Czy łodzianie decydują?"
