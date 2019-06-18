@@ -13,6 +13,8 @@ Termin: **24 czerwca 2019, godz. 17:17-19:19**
 
 Miejsce: **Urząd Marszałkowski Województwa Łódzkiego, aleja Marszałka Józefa Piłsudskiego 8**
 
+REJESTRACJA: [https://www.facebook.com/events/2475474462517346/](https://www.facebook.com/events/2475474462517346/ "https://www.facebook.com/events/2475474462517346/")
+
 Po przegranej z Buenos Aires walce o tzw. małą wystawę światową EXPO władze Łodzi zdecydowały się na podjęcie walki o światową wystawę ogrodniczą – Horticultural Expo. Czy zielone EXPO jest szansą na rozwój Łodzi? Jakie modelowe rozwiązania możemy pokazać światu w roku 2024 i co pozostanie po EXPO dla łodzian? Jak wykorzystać EXPO do promocji Polski za granicą? Jakie są zagrożenia związane z organizacją międzynarodowej wystawy? Kto sfinansuje EXPO? Jaka jest rola władz państwowych w całym procesie i co ich wsparcie może dać Łodzi? Czy łodzianie mają realny głos w sprawie EXPO? Czy konsultacje pozwoliły mieszkańcom dostatecznie wypowiedzieć się na temat grodzenia parków, finansowania wydarzenia i lokalizacji pawilonów na terenach zieleni? Dlaczego miejsce imprezy zostało ustalone z góry i jak to ma się do wieloletnich dokumentów planistycznych miasta?
 
 Wydarzenie ma na celu stworzenie przestrzeni dla społecznej refleksji nad możliwościami, ale także problemami, jakie może nieść ze sobą organizacja tej wielkiej międzynarodowej imprezy w Łodzi.
