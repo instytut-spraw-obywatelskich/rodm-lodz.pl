@@ -7,11 +7,11 @@ title = "Zielone EXPO 2024 – szanse i zagrożenia. Czy łodzianie decydują?"
 +++
 **Regionalny Ośrodek Debaty Międzynarodowej w Łodzi i Instytut Spraw Obywatelskich zapraszają łodzian na wydarzenie z udziałem Premiera prof. dr hab. Piotra Glińskiego:**
 
-**„Zielone EXPO 2024 – szanse i zagrożenia. Czy łodzianie decydują?”  
-  
-Termin:** **24 czerwca 2019, godz. 17:17-19:19**
+„Zielone EXPO 2024 – szanse i zagrożenia. Czy łodzianie decydują?”
 
-**Miejsce: Urząd Marszałkowski Województwa Łódzkiego, aleja Marszałka Józefa Piłsudskiego 8**
+Termin: **24 czerwca 2019, godz. 17:17-19:19**
+
+Miejsce: **Urząd Marszałkowski Województwa Łódzkiego, aleja Marszałka Józefa Piłsudskiego 8**
 
 Po przegranej z Buenos Aires walce o tzw. małą wystawę światową EXPO władze Łodzi zdecydowały się na podjęcie walki o światową wystawę ogrodniczą – Horticultural Expo. Czy zielone EXPO jest szansą na rozwój Łodzi? Jakie modelowe rozwiązania możemy pokazać światu w roku 2024 i co pozostanie po EXPO dla łodzian? Jak wykorzystać EXPO do promocji Polski za granicą? Jakie są zagrożenia związane z organizacją międzynarodowej wystawy? Kto sfinansuje EXPO? Jaka jest rola władz państwowych w całym procesie i co ich wsparcie może dać Łodzi? Czy łodzianie mają realny głos w sprawie EXPO? Czy konsultacje pozwoliły mieszkańcom dostatecznie wypowiedzieć się na temat grodzenia parków, finansowania wydarzenia i lokalizacji pawilonów na terenach zieleni? Dlaczego miejsce imprezy zostało ustalone z góry i jak to ma się do wieloletnich dokumentów planistycznych miasta?
 
@@ -19,7 +19,7 @@ Wydarzenie ma na celu stworzenie przestrzeni dla społecznej refleksji nad możl
 
 **Spotkanie otworzy Wicepremier, Minister Kultury i Dziedzictwa Narodowego, Poseł Ziemi Łódzkiej, prof. dr hab. Piotr Gliński**, który był m.in. współzałożycielem i wieloletnim prezesem Społecznego Instytutu Ekologicznego, współorganizował Ogólnopolskie Zjazdy Ruchu Ekologicznego. Był także współzałożycielem oraz wieloletnim członkiem Zarządu Głównego Stowarzyszenia KLON/JAWOR, a także współzałożycielem i wieloletnim członkiem komisji rewizyjnej, członkiem Akademii Rozwoju Filantropii w Polsce.
 
-Do wygłoszenia wystąpienia została zaproszona także Hanna Zdanowska, Prezydent Miasta Łodzi oraz przedstawiciel Urzędu Marszałkowskiego Województwa Łódzkiego.
+W imieniu Hanny Zdanowskiej, Prezydent Miasta Łodzi wystąpienie wygłosi Wojciech Rosicki, Wiceprezydent Miasta Łodzi oraz przedstawiciel Urzędu Marszałkowskiego Województwa Łódzkiego.
 
 Następnie odbędzie się dyskusja, w której wezmą udział przedstawiciele nauki, władz i sektora społecznego.
 
@@ -27,11 +27,13 @@ Następnie odbędzie się dyskusja, w której wezmą udział przedstawiciele nau
 
 1\. Prof. dr hab. Maciej Zalewski – dyrektor Europejskiego Regionalnego Centrum Ekohydrologii Polskiej Akademii Nauk, stały współpracownik UNESCO.  
 2\. Dr hab. Mariusz Sokołowicz – Katedra Gospodarki Regionalnej i Środowiska, Wydział Ekonomiczno-Socjologiczny UŁ.  
-3\. Przedstawiciela Wydziału Zarządzania UŁ.  
+3\. Dr Dominik Drzazga – Katedra Zarządzania Miastem i Regionem, Wydział Zarządzania UŁ.  
 4\. Przedstawiciel Rządu RP.  
-5\. Przedstawiciel Urzędu Miasta Łodzi.  
+5\. Maciej Riemer – kierownik projektu EXPO HORTICULTURAL 2024 w Urzędzie Miasta Łodzi.  
 6\. Łukasz Kamiński – działacz ekologiczny i rowerowy. W 2009 roku współpracował z ERCE UNESCO w tworzeniu koncepcji Błękitno-Zielonej Sieci.  
 7\. Mikołaj Siwiński – łodzianin, prawnik, „inicjator uruchomienia miejskiego programu dopłat do kosztów wymiany źródeł ciepła”, radny osiedla Stare Polesie, propagator koncepcji Błękitno-Zielonej Sieci.
+
+Prowadzący: Krzysztof Ruciński – Regionalny Ośrodek Debaty Międzynarodowej w Łodzi, współtwórca kampanii obywatelskiej „Nie dla zabudowy lasu na Brusie”, jeden z założycieli Łódzkiego Alarmu Smogowego, w latach 2016-2018 przewodniczący Stowarzyszenia Nowa Łódź promującego zrównoważony rozwój Łodzi.
 
 Spotkanie przewiduje możliwość zadawania pytań uczestnikom dyskusji.
 
