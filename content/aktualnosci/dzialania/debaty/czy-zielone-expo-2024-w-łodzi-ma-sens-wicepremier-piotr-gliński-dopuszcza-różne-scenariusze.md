@@ -44,3 +44,6 @@ Spotkanie wywołało wśród łodzian ogromne zainteresowanie. Wejściówki na s
 Zaangażowanie mieszkańców pokazało, że jedno jest pewne: łodzianom zależy na tym, co dzieje się w ich mieście i niezależnie od przyjmowanego stanowiska wobec organizacji Expo Horticultural, pragną dla swej “małej ojczyzny” tego, co najlepsze.
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1561633487/rodm/DSC_4510-1.jpg)
+
+**Relacja: Marta Brewer  
+Zdjęcia: Aneta Jurek**
