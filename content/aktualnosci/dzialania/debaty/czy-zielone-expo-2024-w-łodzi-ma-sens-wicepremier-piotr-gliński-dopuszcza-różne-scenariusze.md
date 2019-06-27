@@ -5,8 +5,6 @@ slug = "expo-2024-relacja"
 title = "Czy Zielone EXPO 2024 w Łodzi ma sens? Wicepremier Piotr Gliński dopuszcza różne scenariusze"
 
 +++
-**Czy Zielone EXPO 2024 w Łodzi ma sens? Wicepremier Piotr Gliński dopuszcza różne scenariusze**
-
 Zamiar włodarzy Łodzi zorganizowania w mieście światowej wystawy ogrodniczej – Expo Horticultural – wywołuje skrajne reakcje łodzian: od zachwytów po zdecydowane protesty. Do wcielenia w życie projektu potrzebna jest zgoda rządu. Argumentów za i przeciw słuchaliśmy podczas gorącej dyskusji z udziałem wicepremiera Piotra Glińskiego w sali obrad łódzkiego Urzędu Marszałkowskiego 24 czerwca 2019 roku.
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1561633182/rodm/DSC_4489.jpg)Na ostatniej prostej w walce o organizację tzw. małej wystawy światowej – Expo International, Łódź przegrała z Buenos Aires. Wykorzystując nabyte doświadczenie i wiedzę władze miasta postanowiły zawalczyć o zorganizowanie innej wystawy, tym razem o charakterze ogrodniczym. Czy słusznie?
