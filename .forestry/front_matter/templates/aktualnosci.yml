@@ -27,6 +27,7 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/dzialania/debaty/czy-zielone-expo-2024-w-łodzi-ma-sens-wicepremier-piotr-gliński-dopuszcza-różne-scenariusze.md
 - content/aktualnosci/dzialania/debaty/zielone-expo-2024-szanse-i-zagrożenia-czy-łodzianie-decydują.md
 - content/aktualnosci/dzialania/warsztaty/co-ty-nato-20-lat-polski-w-sojuszu-północnoatlantyckim.md
 - content/aktualnosci/dzialania/warsztaty/wybory-do-parlamentu-europejskiego-coraz-bliżej-poznaj-zasady-głosowania.md
