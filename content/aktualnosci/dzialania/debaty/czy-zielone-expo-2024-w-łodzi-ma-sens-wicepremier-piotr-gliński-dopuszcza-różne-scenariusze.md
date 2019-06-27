@@ -7,11 +7,9 @@ title = "Czy Zielone EXPO 2024 w Łodzi ma sens? Wicepremier Piotr Gliński dopu
 +++
 **Czy Zielone EXPO 2024 w Łodzi ma sens? Wicepremier Piotr Gliński dopuszcza różne scenariusze**
 
-**Zamiar włodarzy Łodzi zorganizowania w mieście światowej wystawy ogrodniczej – Expo Horticultural – wywołuje skrajne reakcje łodzian: od zachwytów po zdecydowane protesty. Do wcielenia w życie projektu potrzebna jest zgoda rządu. Argumentów za i przeciw słuchaliśmy podczas gorącej dyskusji z udziałem wicepremiera Piotra Glińskiego w sali obrad łódzkiego Urzędu Marszałkowskiego 24 czerwca 2019 roku.  
-  
-![](https://res.cloudinary.com/inspro/image/upload/v1561633182/rodm/DSC_4489.jpg)**
+Zamiar włodarzy Łodzi zorganizowania w mieście światowej wystawy ogrodniczej – Expo Horticultural – wywołuje skrajne reakcje łodzian: od zachwytów po zdecydowane protesty. Do wcielenia w życie projektu potrzebna jest zgoda rządu. Argumentów za i przeciw słuchaliśmy podczas gorącej dyskusji z udziałem wicepremiera Piotra Glińskiego w sali obrad łódzkiego Urzędu Marszałkowskiego 24 czerwca 2019 roku.
 
-Na ostatniej prostej w walce o organizację tzw. małej wystawy światowej – Expo International, Łódź przegrała z Buenos Aires. Wykorzystując nabyte doświadczenie i wiedzę władze miasta postanowiły zawalczyć o zorganizowanie innej wystawy, tym razem o charakterze ogrodniczym. Czy słusznie?
+![](https://res.cloudinary.com/inspro/image/upload/v1561633182/rodm/DSC_4489.jpg)Na ostatniej prostej w walce o organizację tzw. małej wystawy światowej – Expo International, Łódź przegrała z Buenos Aires. Wykorzystując nabyte doświadczenie i wiedzę władze miasta postanowiły zawalczyć o zorganizowanie innej wystawy, tym razem o charakterze ogrodniczym. Czy słusznie?
 
 Na ten temat razem z wicepremierem Piotrem Glińskim dyskutowali mieszkańcy Łodzi, przedstawiciele władz miasta, świata nauki i działacze społeczni. Spotkanie zorganizował Regionalny Ośrodek Debaty Międzynarodowej w Łodzi, prowadzony przez Instytut Spraw Obywatelskich. Dyskusję „Zielone EXPO 2024 – szanse i zagrożenia. Czy łodzianie decydują?” poprowadził Krzysztof Ruciński.
 
