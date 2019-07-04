@@ -25,3 +25,10 @@ menu:
 * [Debata o polskiej wizji Unii Europejskiej](https://www.radiolodz.pl/posts/52823-debata-o-polskiej-wizji-unii-europejskiej)
 * [Dziś w Łodzi debata polskiej wizji Unii Europejskiej. “Europa — unia państw czy superpaństwo?"](https://dzienniklodzki.pl/dzis-w-lodzi-debata-polskiej-wizji-unii-europejskiej-europa-unia-panstw-czy-superpanstwo/ar/c1-14130959?fbclid=IwAR19ogX1ptz65cIuRRAnlLFdS_8SkD0taHJXwGmLJsMFrJJ_YGXasZB-v_w)
 * [RODM w Łodzi zaprasza na debatę o przyszłości Unii Europejskiej](https://lodz.tvp.pl/42608869/rodm-w-lodzi-zaprasza-na-debate-o-przyszlosci-unii-europejskiej)
+
+## "Zielone EXPO 2024 – szanse i zagrożenia. Czy łodzianie decydują?"
+
+* [Piotr Gliński: rząd nie zna projektu Zielonego EXPO](https://lodz.tvp.pl/43212127/piotr-glinski-rzad-nie-zna-projektu-zielonego-expo)
+* [Organizacja międzynarodowej wystawy Zielone Expo 2024 przez Łódź jest zagrożona](https://www.radiolodz.pl/posts/53922-organizacja-miedzynarodowej-wystawy-zielone-expo-2024-przez-lodz-jest-zagrozona)
+* [Dziś w Łodzi debata pod hasłem "Zielone EXPO 2024 - Szanse i zagrożenia. Czy łodzianie decydują?"]( "https://dzienniklodzki.pl/dzis-w-lodzi-debata-pod-haslem-zielone-expo-2024-szanse-i-zagrozenia-czy-lodzianie-decyduja/ar/c1-14232209")
+* [P. Gliński o wystawie Expo Horticultural: jest wiele znaków zapytania]( "https://dzieje.pl/kultura-i-sztuka/p-glinski-o-wystawie-expo-horticultural-jest-wiele-znakow-zapytania")
