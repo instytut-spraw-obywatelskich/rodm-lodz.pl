@@ -30,5 +30,5 @@ menu:
 
 * [Piotr Gliński: rząd nie zna projektu Zielonego EXPO](https://lodz.tvp.pl/43212127/piotr-glinski-rzad-nie-zna-projektu-zielonego-expo)
 * [Organizacja międzynarodowej wystawy Zielone Expo 2024 przez Łódź jest zagrożona](https://www.radiolodz.pl/posts/53922-organizacja-miedzynarodowej-wystawy-zielone-expo-2024-przez-lodz-jest-zagrozona)
-* [Dziś w Łodzi debata pod hasłem "Zielone EXPO 2024 - Szanse i zagrożenia. Czy łodzianie decydują?"]( "https://dzienniklodzki.pl/dzis-w-lodzi-debata-pod-haslem-zielone-expo-2024-szanse-i-zagrozenia-czy-lodzianie-decyduja/ar/c1-14232209")
-* [P. Gliński o wystawie Expo Horticultural: jest wiele znaków zapytania]( "https://dzieje.pl/kultura-i-sztuka/p-glinski-o-wystawie-expo-horticultural-jest-wiele-znakow-zapytania")
+* [Dziś w Łodzi debata pod hasłem "Zielone EXPO 2024 - Szanse i zagrożenia. Czy łodzianie decydują?"](https://dzienniklodzki.pl/dzis-w-lodzi-debata-pod-haslem-zielone-expo-2024-szanse-i-zagrozenia-czy-lodzianie-decyduja/ar/c1-14232209)
+* [P. Gliński o wystawie Expo Horticultural: jest wiele znaków zapytania](https://dzieje.pl/kultura-i-sztuka/p-glinski-o-wystawie-expo-horticultural-jest-wiele-znakow-zapytania)
