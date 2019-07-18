@@ -17,5 +17,6 @@ Najważniejszym punktem kolejnego dnia szczytu są sesje plenarne w formatach: m
 
 Szczyt Bałkanów Zachodnich w Poznaniu jest głównym wydarzeniem polskiego przewodnictwa w Procesie Berlińskim w 2019 r., inicjatywy zapoczątkowanej przez Niemcy i łączącej partnerów z Bałkanów Zachodnich oraz część państw Unii Europejskiej. Priorytety polskiego przewodnictwa to: gospodarka, wzajemne powiązania, społeczeństwo obywatelskie i bezpieczeństwo.
 
+[PROGRAM SZCZYTU](https://www.gov.pl/documents/1149181/1150183/Program_prasowy_-_Szczyt_Ba%C5%82kan%C3%B3w_Zachodnich.docx/2976783d-8c52-1e81-cf72-ea008bd3d3fc)  
   
-[PROGRAM SZCZYTU](https://www.gov.pl/documents/1149181/1150183/Program_prasowy_-_Szczyt_Ba%C5%82kan%C3%B3w_Zachodnich.docx/2976783d-8c52-1e81-cf72-ea008bd3d3fc)
+Źródło: Ministerstwo Spraw Zagranicznych
