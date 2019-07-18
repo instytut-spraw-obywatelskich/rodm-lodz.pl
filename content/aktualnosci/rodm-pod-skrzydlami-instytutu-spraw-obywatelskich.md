@@ -2,7 +2,7 @@
 title: RODM pod skrzydłami Instytutu Spraw Obywatelskich
 slug: rodm-pod-skrzydlami-instytutu-spraw-obywatelskich
 date: 2019-03-11 00:00:00 +0000
-main_image: "/v1552863844/rodm/rodm-pod-skrzydlami-instytutu-spraw-obywatelskich.png"
+main_image: "/v1552863844/rodm/rodm-pod-skrzydlami-instytutu-spraw-obywatelskich2.png"
 
 ---
 Miło nam poinformować, że w latach 2019-2021 Regionalny Ośrodek Debaty Międzynarodowej (RODM) w Łodzi będzie prowadzony przez Instytut Spraw Obywatelskich. Wyzwanie jaki stawiamy przed sobą to **przybliżenie mieszkańcom Łodzi i województwa tematów polityki zagranicznej**, a także wzmocnienie kanałów współpracy pomiędzy MSZ, jednostkami samorządu terytorialnego, organizacjami pozarządowymi, placówkami edukacyjnymi i naukowymi, firmami oraz innymi podmiotami, których działalność obejmuje szeroko rozumianą współpracę międzynarodową.<!--more-->
