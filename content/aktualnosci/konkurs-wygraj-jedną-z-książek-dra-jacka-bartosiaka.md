@@ -5,15 +5,13 @@ slug = "konkurs-jacek-bartosiak"
 title = "Konkurs: Wygraj jedną z książek dra Jacka Bartosiaka"
 
 +++
-
 **Wygraj jedną z pięciu książek dra Jacka Bartosiaka!  
 Wyślij nam odpowiedź na pytanie konkursowe “Jak się nazywają wyspy na Atlantyku, które są przedmiotem zainteresowania Chińczyków, a wcześniej były bazą Amerykanów?” w prywatnej wiadomości bądź na mail** [**rodm@rodm-lodz.pl**  
 ](mailto:rodm@rodm-lodz.pl) **Nagrodami w konkursie są książki “Przeszłość jest prologiem” (3 egzemplarze) i “Rzeczpospolita między lądem i morzem” (2 egzemplarze) autorstwa Jacka Bartosiaka. O przyznaniu nagród decyduje kolejność udzielenia poprawnej odpowiedzi. Nagrody zostaną przyznane wyłącznie osobom, które wezmą udział w wydarzeniu “Strategiczne przepływy, czyli o władzy i geopolityce” W przypadku nieobecności nagroda zostanie przyznana kolejnym obecnym na wydarzeniu osobom, które udzieliły poprawnej odpowiedzi. Nagrody zostaną wręczone osobiście pod koniec wydarzenia.**
 
-  
-Kompletny regulamin konkursu znajduje się poniżej:**  
-  
-REGULAMIN KONKURSU “WYGRAJ PUBLIKACJĘ DRA JACKA BARTOSIAKA”**
+Kompletny regulamin konkursu znajduje się poniżej:
+
+REGULAMIN KONKURSU “WYGRAJ PUBLIKACJĘ DRA JACKA BARTOSIAKA”
 
  1. Organizatorem konkursu “WYGRAJ PUBLIKACJĘ DRA JACKA BARTOSIAKA” (zwanym dalej “Konkursem”), jest Fundacja Instytut Spraw Obywatelskich, z siedzibą przy ul. Pomorskiej 40 w Łodzi (zwana dalej „Organizatorem”).
  2. Konkurs skierowany jest do członków grupy “Międzynarodowe Łódzkie” na portalu Facebooku i czytelników stron www Organizatora. ([https://www.facebook.com/groups/RODMLodzkie/](https://www.facebook.com/groups/RODMLodzkie/ "https://www.facebook.com/groups/RODMLodzkie/"), [https://www.rodm-lodz.pl/](https://www.rodm-lodz.pl/ "https://www.rodm-lodz.pl/"), [https://inspro.org.pl/](https://inspro.org.pl/ "https://inspro.org.pl/"))
