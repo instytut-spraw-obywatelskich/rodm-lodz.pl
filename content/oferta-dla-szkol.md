@@ -1,9 +1,9 @@
 ---
 title: Oferta dla szkół
-weight: 50
+weight: 40
 menu:
   main:
-    weight: 50
+    weight: 40
 
 ---
 W ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi pragniemy zachęcić do pogłębiania wiedzy z szerokiego zakresu spraw międzynarodowych, w tym polityki zagranicznej i obronnej, bezpieczeństwa energetycznego, społecznego, polityki klimatycznej, czy przyszłej karierze młodych ludzi w instytucjach międzynarodowych.
