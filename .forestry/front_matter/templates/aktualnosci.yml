@@ -27,6 +27,7 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/konkurs-wygraj-jedną-z-książek-dra-jacka-bartosiaka.md
 - content/aktualnosci/zapraszamy-na-spotkanie-z-jackiem-bartosiakiem-strategiczne-przepływy-czyli-o-władzy-i-geopolityce.md
 - content/aktualnosci/rozpoczął-się-szczyt-bałkanów-zachodnich-w-poznaniu.md
 - content/aktualnosci/dzialania/debaty/czy-zielone-expo-2024-w-łodzi-ma-sens-wicepremier-piotr-gliński-dopuszcza-różne-scenariusze.md
