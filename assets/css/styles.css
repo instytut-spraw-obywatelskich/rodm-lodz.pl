@@ -84,25 +84,49 @@ https://www.purgecss.com/whitelisting#in-the-css-directly */
 .content-single img {
   @apply block my-8 mx-auto;
 }
-.google-maps {
+.iframe {
   position: relative;
-  padding-bottom: 75%;
   height: 0;
   overflow: hidden;
 }
-.google-maps iframe {
+.iframe iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100% !important;
   height: 100% !important;
 }
+.google-maps {
+  padding-bottom: 75%;
+}
+.youtube {
+  padding-bottom: 57%;
+}
 @media (min-width: 768px) and (max-width: 992px) {
   .google-maps {
-    padding-bottom: 50%;  
+    padding-bottom: 57%;  
   }
 }
-
+@media (min-width: 500px) and (max-width: 749px) {
+  .youtube {
+    padding-bottom: 55%;  
+  }
+}
+@media (min-width: 535px) and (max-width: 767px) {
+  .youtube {
+    padding-bottom: 52%;  
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .youtube {
+    padding-bottom: 37%;  
+  }
+}
+@media (min-width: 992px) {
+  .youtube {
+    padding-bottom: 57%;  
+  }
+}
 .stroke-0 {
   stroke-width: 0;
 }
