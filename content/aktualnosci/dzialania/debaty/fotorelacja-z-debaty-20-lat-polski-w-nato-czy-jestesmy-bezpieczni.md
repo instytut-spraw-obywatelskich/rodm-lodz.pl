@@ -2,7 +2,7 @@
 date = "2019-03-15T22:00:00+00:00"
 main_image = "/v1554375859/rodm/pagelanding.jpg"
 slug = "20-lat-polski-w-nato-fotorelacja"
-title = "Fotorelacja z debaty \"20 lat Polski w NATO: Czy jesteśmy bezpieczni?\""
+title = "Relacja z debaty \"20 lat Polski w NATO: Czy jesteśmy bezpieczni?\""
 
 +++
 15 marca 2019 r. z okazji dwudziestolecia wstąpienia Polski do NATO Regionalny Ośrodek Debaty Międzynarodowej w Łodzi zorganizował debatę „20 lat Polski w NATO: Czy jesteśmy bezpieczni?”
@@ -18,8 +18,7 @@ Po godzinnej sesji pytań prowadzącego prelegenci mieli okazję odpowiedzieć n
 
 W podsumowaniu prof. Zybertowicz ocenił, że mieszkańcy UE nie doceniają roli NATO w tworzeniu warunków dla funkcjonowania europejskiej gospodarki. Goście RODM jednoznacznie zgodzili się, że obecność Polski w NATO to sukces ostatnich 20 lat, a Polska w najbliższym horyzoncie czasowym pozostanie w gronie najstabilniejszych państw świata.
 
-![](https://res.cloudinary.com/inspro/image/upload/v1554375361/rodm/54414046_365336077407059_3919439025202528256_o.jpg)
-![](https://res.cloudinary.com/inspro/image/upload/v1554375452/rodm/55529823_365336007407066_7377714784629686272_o%20%282%29.jpg)
-![](https://res.cloudinary.com/inspro/image/upload/v1554375344/rodm/54514235_365336504073683_8114605656499027968_o.jpg)
-![](https://res.cloudinary.com/inspro/image/upload/v1554375421/rodm/53934061_365336174073716_1428784406465609728_o.jpg)
-![](https://res.cloudinary.com/inspro/image/upload/v1554375313/rodm/53792671_365336434073690_941516720307175424_o.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/v1554375361/rodm/54414046_365336077407059_3919439025202528256_o.jpg) ![](https://res.cloudinary.com/inspro/image/upload/v1554375452/rodm/55529823_365336007407066_7377714784629686272_o%20%282%29.jpg) ![](https://res.cloudinary.com/inspro/image/upload/v1554375344/rodm/54514235_365336504073683_8114605656499027968_o.jpg) ![](https://res.cloudinary.com/inspro/image/upload/v1554375421/rodm/53934061_365336174073716_1428784406465609728_o.jpg) ![](https://res.cloudinary.com/inspro/image/upload/v1554375313/rodm/53792671_365336434073690_941516720307175424_o.jpg)  
+  
+Relacja: Krzysztof Ruciński  
+Zdjęcia: Aneta Jurek
