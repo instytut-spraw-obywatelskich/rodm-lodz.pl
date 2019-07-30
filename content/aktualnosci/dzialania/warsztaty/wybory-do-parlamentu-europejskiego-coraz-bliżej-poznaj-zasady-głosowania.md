@@ -32,3 +32,5 @@ Najbardziej skuteczna okazała się frakcja eurorealistów, która wygrała rywa
 Uczestnicy warsztatów zgodnie stwierdzili, że procedura głosowania w Parlamencie Europejskim jest trudna. Wymaga pójścia na pewne ustępstwa i przekonania innych frakcji do głosowania na poszczególne inicjatywy.
 
 Jedna z uczestniczek spotkania zauważyła, że o wyborach do Parlamentu Europejskiego i instytucjach europejskich opowiadać powinni sami kandydaci. Ich nadrzędnym celem musi być zachowanie bezpośredniego kontaktu z wyborcami.
+
+Relacja: Paweł Marczak
