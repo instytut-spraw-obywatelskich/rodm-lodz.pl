@@ -13,6 +13,8 @@ title = "Dokąd płyniemy? Jacek Bartosiak analizuje współczesne przepływy st
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J58NvdxJabs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## NAGRANIE ZE SPOTKANIA
+
 Jacek Bartosiak wyjaśniał, że strategiczne przepływy to ruch ludzi, towarów, technologii, wiedzy, informacji, kapitału czy danych, pomiędzy mocarstwami. Tworzą one geopolitykę, z niej zaś wynika historia. Historia, która w wykładzie dra Bartosiaka stanowiła tło, pozwalające zrozumieć istotę strategicznych przepływów.
 
 Z racji, że główną magistralą przepływów światowych dotychczas był Ocean światowy, szansę na przewagę zyskiwały państwa brzegowe. Spośród wszystkich graczy, na czoło wysunęły się Stany Zjednoczone, które ustalały reguły gry strategicznych przepływów w okresie globalizacji. Pomimo rozpadu Związku Radzieckiego nie powstała żadna koalicja balansująca. “Po 1991 r. udało się utrzymać dominację Stanów Zjednoczonych, na którą reszta Zachodu się godziła, o ile mogła się bogacić. Był to fenomen, który nie zdarzył się wcześniej, ale od 2018 roku ten świat jest w odwrocie” - stwierdził Jacek Bartosiak.
