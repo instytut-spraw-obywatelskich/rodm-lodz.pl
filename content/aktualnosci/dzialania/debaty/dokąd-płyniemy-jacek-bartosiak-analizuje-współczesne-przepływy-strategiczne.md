@@ -11,9 +11,11 @@ title = "Dokąd płyniemy? Jacek Bartosiak analizuje współczesne przepływy st
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1564059803/rodm/IMG_5281.jpg)
 
+## NAGRANIE ZE SPOTKANIA
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J58NvdxJabs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## NAGRANIE ZE SPOTKANIA
+## 
 
 Jacek Bartosiak wyjaśniał, że strategiczne przepływy to ruch ludzi, towarów, technologii, wiedzy, informacji, kapitału czy danych, pomiędzy mocarstwami. Tworzą one geopolitykę, z niej zaś wynika historia. Historia, która w wykładzie dra Bartosiaka stanowiła tło, pozwalające zrozumieć istotę strategicznych przepływów.
 
