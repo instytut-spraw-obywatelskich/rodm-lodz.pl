@@ -23,4 +23,6 @@ Rozporządzenie regulujące przebieg konkursu: [http://isap.sejm.gov.pl/DetailsS
 
 Wykaz wymagań i dane kontaktowe na stronie KPRM:
 
-[https://bip.kprm.gov.pl/kpr/konkursy-na-aplikacje-d/6611,Konkurs-na-aplikacje-dyplomatyczo-konsularna-ADK-2020-A.html](https://bip.kprm.gov.pl/kpr/konkursy-na-aplikacje-d/6611,Konkurs-na-aplikacje-dyplomatyczo-konsularna-ADK-2020-A.html "https://bip.kprm.gov.pl/kpr/konkursy-na-aplikacje-d/6611,Konkurs-na-aplikacje-dyplomatyczo-konsularna-ADK-2020-A.html")
+[https://bip.kprm.gov.pl/kpr/konkursy-na-aplikacje-d/6611,Konkurs-na-aplikacje-dyplomatyczo-konsularna-ADK-2020-A.html](https://bip.kprm.gov.pl/kpr/konkursy-na-aplikacje-d/6611,Konkurs-na-aplikacje-dyplomatyczo-konsularna-ADK-2020-A.html "https://bip.kprm.gov.pl/kpr/konkursy-na-aplikacje-d/6611,Konkurs-na-aplikacje-dyplomatyczo-konsularna-ADK-2020-A.html")  
+  
+Źródło: Ministerstwo Spraw Zagranicznych
