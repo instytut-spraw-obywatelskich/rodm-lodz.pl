@@ -24,8 +24,8 @@ _Profesor Jolanta Młodawska-Bronowska – pracownik naukowy Wydziału Ekonomicz
 
 **Rozmawiała Marta Brewer**
 
-_Rozmowa odbyła się podczas międzynarodowej konferencji „Nadzór korporacyjny, efektywność i społeczna odpowiedzialność biznesu. Unia Europejska-Japonia", zorganizowanej na Wydziale Ekonomiczno-Socjologicznym Uniwersytetu Łódzkiego 12 kwietnia 2019 roku)._
+_Rozmowa odbyła się podczas międzynarodowej konferencji „Nadzór korporacyjny, efektywność i społeczna odpowiedzialność biznesu. Unia Europejska-Japonia", zorganizowanej na Wydziale Ekonomiczno-Socjologicznym Uniwersytetu Łódzkiego 12 kwietnia 2019 roku._
 
-Przeczytaj także: [**Japonia: Chcemy wspólnie się rozwijać**](https://www.rodm-lodz.pl/aktualnosci/dzialania/spotkania/japonia-chcemy-wspolnie-sie-rozwijac/ "https://www.rodm-lodz.pl/aktualnosci/dzialania/spotkania/japonia-chcemy-wspolnie-sie-rozwijac/")**  
-  
-**fot. EU/Etienne Ansotte
+Przeczytaj także: [**Japonia: Chcemy wspólnie się rozwijać**](https://www.rodm-lodz.pl/aktualnosci/dzialania/spotkania/japonia-chcemy-wspolnie-sie-rozwijac/ "https://www.rodm-lodz.pl/aktualnosci/dzialania/spotkania/japonia-chcemy-wspolnie-sie-rozwijac/")
+
+fot. EU/Etienne Ansotte

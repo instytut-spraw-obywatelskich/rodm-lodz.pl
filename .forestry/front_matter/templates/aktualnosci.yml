@@ -27,6 +27,7 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/dzialania/spotkania/umowa-z-japonią-daje-nowe-możliwości-rozwoju.md
 - content/aktualnosci/zostań-dyplomatą.md
 - content/aktualnosci/dzialania/debaty/dokąd-płyniemy-jacek-bartosiak-analizuje-współczesne-przepływy-strategiczne.md
 - content/aktualnosci/zapraszamy-na-spotkanie-z-jackiem-bartosiakiem-strategiczne-przepływy-czyli-o-władzy-i-geopolityce.md
@@ -43,7 +44,6 @@ pages:
 - content/aktualnosci/dzialania/debaty/obywatele-w-walce-o-lepszą-przyszłość-relacja-z-debaty.md
 - content/aktualnosci/dzialania/debaty/jak-wygrać-kampanię-obywatelską-w-zderzeniu-z-czołgiem-partyjnym-lub-korporacyjnym.md
 - content/aktualnosci/dzialania/debaty/unia-europejska-wspólnota-państw-czy-superpaństwo.md
-- content/aktualnosci/dzialania/spotkania/umowa-z-japonią-daje-nowe-możliwości-rozwoju.md
 - content/aktualnosci/dzialania/warsztaty/rodm-lodz-w-regionie-z-lekcjami-o-bezpieczenstwie-energetycznym.md
 - content/aktualnosci/nawiazalismy-wspolprace-z-fundacja-wyszehradzka.md
 - content/aktualnosci/dzialania/debaty/fotorelacja-z-debaty-20-lat-polski-w-nato-czy-jestesmy-bezpieczni.md
