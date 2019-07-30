@@ -29,7 +29,6 @@ Zdaniem Tomasza Gabisia Unia jest związkiem państw, ale ma również cechy sup
 
 Z pewnością podstawą funkcjonowania UE są traktaty, podkreślił Michał Rulski. Jednak przykład unii bankowej pokazuje, że można wyjść poza porządek traktatowy. Unia nie jest superpaństwem, ale jest mocarstwem gospodarczym. Jego zdaniem nie będzie zmian traktatów. Raczej będzie dochodziło do działań, polegających na omijaniu traktatów.
 
-  
 **Ciąg dalszy zjednoczenia**
 
 Czasami widać pęknięcia na szwach narodowościowych. Wobec tego, jak dalej miałby przebiegać proces zjednoczeniowy? – dopytywał Marcin Giełzak.
@@ -59,3 +58,6 @@ Czy UE będzie alternatywą dla Chin i USA? – dopytywali słuchacze.
 Problemy geopolityczne i geostrategiczne pokazują, że Europa musi być jednością. Nie ma innej drogi. Europa jako wspólnota ma niesamowity kapitał. Pytanie, czy zostanie on w przyszłości wykorzystany.
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1557933812/rodm/DEB2.jpg)![](https://res.cloudinary.com/inspro/image/upload/v1557933655/rodm/DEBATA2.jpg)
+
+Relacja: Małgorzata Jankowska  
+Zdjęcia: RODM Łódź
