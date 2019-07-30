@@ -35,4 +35,6 @@ W 1917 r. jeszcze przed zakończeniem wojny kobiety polskie z trzech zaborów zw
 
 „Piłsudski, zgadzając się z tym, że w wolnej Polsce kobiety winny mieć prawa równe z mężczyznami, utrzymywał, że nie będą one umiały wykorzystać swych praw rozsądnie. (...) Ja, zacięta feministka, ogromnie się na to oburzyłam” – pisała w swoich „Wspomnieniach” Aleksandra Piłsudska.
 
-Przyszła żona Piłsudskiego przekonała go do poparcia prawa wyborczego dla kobiet.
+Przyszła żona Piłsudskiego przekonała go do poparcia prawa wyborczego dla kobiet.  
+  
+Relacja: Marta Brewer
