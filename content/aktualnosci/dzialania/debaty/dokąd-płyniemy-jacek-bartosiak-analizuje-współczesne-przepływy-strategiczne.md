@@ -5,12 +5,13 @@ slug = "jacek-bartosiak-lodz"
 title = "Dokąd płyniemy? Jacek Bartosiak analizuje współczesne przepływy strategiczne"
 
 +++
-
 **Czym są globalne przepływy strategiczne? To ruch ludzi, towarów, technologii czy wiedzy, który zbudował współczesny ład światowy. Jego mechanizmy objaśniał ekspert do spraw geopolityki, dr Jacek Bartosiak, podczas spotkania z słuchaczami na Wydziale Ekonomiczno-Socjologicznym Uniwersytetu Łódzkiego 24 lipca 2019 roku.**
 
 **Wykłady dra Jacka Bartosiaka, podobnie jak jego książki, cieszą się dużą popularnością. Wizyta eksperta w Łodzi zainteresowała bardzo wielu słuchaczy, którzy wypełnili uniwersytecką aulę. Po zakończeniu wystąpienia prelegenta był również czas na zadawanie pytań. Było ich wiele. Spotkanie zorganizował Regionalny Ośrodek Debaty Międzynarodowej prowadzony przez Instytut Spraw Obywatelskich.**
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1564059803/rodm/IMG_5281.jpg)
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/J58NvdxJabs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Morskie opowieści**
 
@@ -33,7 +34,7 @@ Dlaczego technologie są tak ważne? “Co jakiś czas, pojawia się jakiś (wyn
 **Wszystkie drogi poprowadzą do Pekinu?**
 
 Co prognozuje Bartosiak? “Pierwszą ofiarą każdej wojny jest prawda - każdy staje się żołnierzem walczącym o wygraną własnej prawdy.” Będzie miała zatem miejsce rywalizacja o wygląd “rules of the road” - głównych zasad prowadzenia przepływów strategicznych. Pojawi się dyskusja o alternatywnym modelu społecznego kontraktu. Historia tak naprawdę się nie skończyła: geopolityka będzie miała fundamentalny wpływ na gospodarkę. Więcej będzie spolaryzowanych, chaotycznych działań, mniej zaś tych przewidywalnych.  
- ![](https://res.cloudinary.com/inspro/image/upload/v1564059961/rodm/IMG_5331.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/v1564059961/rodm/IMG_5331.jpg)
 
 Gdzie w tym wszystkim miejsce Polski? Bartosiak mówi: “Położenie Polski i Rumunii na łuku Karpat, daje nam dywidendę geopolityczną w przypadku “Pasa i Szlaku”, stąd 16+1 czy 17+1, stąd Trójmorze, stąd niepokój Niemiec. Mocarstwa zewnętrzne, jak Stany Zjednoczone czy Chiny, widzą ten region podobnie, tylko z odmiennych stron: jako coś pomiędzy Niemcami i Rosją, co może balansować lewary na Rosji i Niemcach”.
 
