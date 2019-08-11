@@ -13,21 +13,21 @@ Spotkanie zorganizował Instytut Spraw Obywatelskich we współpracy z Regionaln
 
 [Relacja wideo – KLIKNIJ TUTAJ](https://www.facebook.com/fundacja.inspro/videos/358193651498406/)
 
-![](https://res.cloudinary.com/inspro/image/upload/v1558360263/rodm/DSC07519.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1558360263/rodm/DSC07519.jpg)
 
 **Czy miasto jest rzeczywiście nasze?**
 
 Jan Śpiewak nawiązał do nagłośnienia afery reprywatyzacyjnej w Warszawie oraz startu w wyborach samorządowych na prezydenta Warszawy w 2018 roku.  
 Mówiąc o swojej działalności w Miasto Jest Nasze, opisywał problemy związane z podziałem sceny politycznej i z rolą mediów, które nazwał puszką rezonansową. Choć na początku media chętnie mówiły o działaniach stowarzyszenia, które ujawniały kulisy afery reprywatyzacyjnej, po pewnym czasie zaczęły przedstawiać stowarzyszenie i Śpiewaka jako osoby działające wbrew rozwojowi miasta. Aktywista krytykował wizję społeczeństwa, które ma działać jak trybiki w zegarku sterowanym przez czołg partyjny i korporacyjny.
 
-![](https://res.cloudinary.com/inspro/image/upload/v1558360322/rodm/DSC07540.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1558360322/rodm/DSC07540.jpg)
 
 **W oparach absurdu i płyt wiórowych**
 
 Protest mieszkańców Mielca to przykład walki lokalnej społeczności z międzynarodowym korporacyjnym gigantem. Fabryka Kronospan produkuje płyty wiórowe. Jednocześnie emituje do atmosfery pyły, zanieczyszczające powietrze. Taka sytuacja zmusiła mielczan do organizacji marszu protestacyjnego z centrum miasta do Kronospanu w marcu 2018 roku.  
 W manifestacji udział wzięło 15 tys. ludzi – około 1/4 mieszkańców miasta. Chwilowe zainteresowanie mediów ogólnopolskich i tu nie przyniosło efektu: – Nic się nie wydarzyło. Przed wyborami samorządowymi zostaliśmy pogłaskani i tyle. Potrzeba większej konsekwencji niż apelowanie do mediów ogólnopolskich – skwitował Krzysztof Tańcula i podkreślił, że nagłaśnianie sprawy dla samego jej nagłaśniania nie ma sensu - trzeba mieć mimo wszystko plan działania.
 
-![](https://res.cloudinary.com/inspro/image/upload/v1558360368/rodm/DSC07565_1.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1558360368/rodm/DSC07565_1.jpg)
 
 **Zmiany? Ale jakie?**
 
@@ -35,13 +35,13 @@ Bartosz Brzyski opowiedział między innymi o prowadzonej przez Klub Jagiellońs
 
 Reakcja mediów, które określiły Klub Jagielloński, stowarzyszenie o prawicowych tendencjach, jako przeciwnika PiS potwierdziła, że polaryzacja dotyczy także opinii publicznej. – Istnieje przeświadczenie, że jeśli stajemy przeciw czemuś, co mówi jedna grupa, to jesteśmy z tej drugiej – stwierdził Brzyski. Ważne jest, by nie działać przeciwko konkretnym osobom czy ugrupowaniom, lecz całym mechanizmom.
 
-![](https://res.cloudinary.com/inspro/image/upload/v1558360418/rodm/DSC07547.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1558360418/rodm/DSC07547.jpg)
 
 **Na Zachodzie lepiej?**
 
 Słuchacze poprosili o porównanie skuteczności działań obywatelskich na zachodzie, które uznać można za dużo efektywniejsze, z sytuacją polską. Jan Śpiewak jako przykład przywołał protesty żółtych kamizelek we Francji. Jego zdaniem są one dowodem na to, że za granicą też zdarzają się przypadki kryminalizacji aktywności społecznych. Bartosz Brzyski dodał, że społeczeństwa zachodnie mają większe możliwości: są bogatsze, mają więcej wolnego czasu i dłuższy staż w działalności na rzecz dobra wspólnego. Krzysztof Tańcula określił polskie inicjatywy społeczne jako festyny problemów i zwrócił uwagę na niski poziom obywatelskości naszego społeczeństwa.
 
-![](https://res.cloudinary.com/inspro/image/upload/v1558360472/rodm/DSC07590.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1558360472/rodm/DSC07590.jpg)
 
 **Bunt bez strachu**
 
@@ -57,4 +57,4 @@ Jan Śpiewak na pierwszym planie postawił nieposłuszeństwo obywatelskie, któ
 Relacja: Marta Brewer  
 Zdjęcia: Piotr Skubisz
 
-![](https://res.cloudinary.com/inspro/image/upload/v1558360538/rodm/DSC07576.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1558360538/rodm/DSC07576.jpg)

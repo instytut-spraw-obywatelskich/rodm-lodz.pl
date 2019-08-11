@@ -41,6 +41,6 @@ Powstały nowe instytucje jak Socjalny Kongres Kobiet, czy zespół ds. kobiet p
 
 Kobiety przebyły daleką drogę. Jednak wiele jest jeszcze do zrobienia. Jak zauważono podczas rozmowy, żyjemy w czasach doniosłych zmian, które wpływają na wzrost roli kobiet w polityce, a nowe pokolenie pozwala nam na patrzenie w przyszłość z nadzieją.
 
-![](https://res.cloudinary.com/inspro/image/upload/v1556263555/rodm/IMG_4941.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1556263555/rodm/IMG_4941.jpg)
 
-![](https://res.cloudinary.com/inspro/image/upload/v1556263568/rodm/IMG_4958.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1556263568/rodm/IMG_4958.jpg)

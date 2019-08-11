@@ -21,4 +21,4 @@ Pozostajemy do Państwa dyspozycji.
 * Co Ty NATO? 20 lat Polski w Sojuszu Północnoatlantyckim
 * Dlaczego warto być aktywnym obywatelem? Korzyści płynące z uczestnictwa w społeczeństwie obywatelskim
 
-![](https://res.cloudinary.com/inspro/image/upload/v1554379674/rodm/IMG_4844%20%281%29.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1554379674/rodm/IMG_4844%20%281%29.jpg)

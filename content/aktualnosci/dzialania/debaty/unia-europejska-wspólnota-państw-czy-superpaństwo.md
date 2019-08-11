@@ -57,7 +57,7 @@ Czy UE będzie alternatywą dla Chin i USA? – dopytywali słuchacze.
 
 Problemy geopolityczne i geostrategiczne pokazują, że Europa musi być jednością. Nie ma innej drogi. Europa jako wspólnota ma niesamowity kapitał. Pytanie, czy zostanie on w przyszłości wykorzystany.
 
-![](https://res.cloudinary.com/inspro/image/upload/v1557933812/rodm/DEB2.jpg)![](https://res.cloudinary.com/inspro/image/upload/v1557933655/rodm/DEBATA2.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1557933812/rodm/DEB2.jpg)![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1557933655/rodm/DEBATA2.jpg)
 
 Relacja: Małgorzata Jankowska  
 Zdjęcia: RODM Łódź

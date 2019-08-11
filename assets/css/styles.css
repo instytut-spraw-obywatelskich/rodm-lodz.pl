@@ -81,7 +81,8 @@ https://www.purgecss.com/whitelisting#in-the-css-directly */
 .content-single a:focus {
   color: config('colors.rodm-red');
 }
-.content-single img {
+.content-single img,
+.content-single div {
   @apply block my-8 mx-auto;
 }
 .iframe {

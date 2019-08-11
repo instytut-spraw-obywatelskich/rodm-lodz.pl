@@ -9,4 +9,4 @@ title = "Co Ty NATO? 20 lat Polski w Sojuszu Północnoatlantyckim"
 
 Dziękujemy uczniom za zaangażowanie na zajęciach!
 
-![](https://res.cloudinary.com/inspro/image/upload/v1559305021/rodm/IMG_5062.jpg)![](https://res.cloudinary.com/inspro/image/upload/v1559305061/rodm/IMG_5125.jpg)![](https://res.cloudinary.com/inspro/image/upload/v1559305197/rodm/IMG_5054.jpg)
+![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1559305021/rodm/IMG_5062.jpg)![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1559305061/rodm/IMG_5125.jpg)![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1559305197/rodm/IMG_5054.jpg)
