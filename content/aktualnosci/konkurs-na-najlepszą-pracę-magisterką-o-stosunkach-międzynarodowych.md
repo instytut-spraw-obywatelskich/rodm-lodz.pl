@@ -1,6 +1,5 @@
 +++
 date = "2019-08-15T22:00:00+00:00"
-draft = true
 main_image = "/v1565958656/rodm/konkurs_pracadyplom_2019_vs9qde.jpg"
 slug = "konkurs-praca-magisterska-2019"
 title = "Konkurs na najlepszą pracę magisterką o stosunkach międzynarodowych"
