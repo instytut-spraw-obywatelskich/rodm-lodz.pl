@@ -5,8 +5,6 @@ slug = "konkurs-praca-magisterska-2019"
 title = "Konkurs na najlepszą pracę magisterką o stosunkach międzynarodowych"
 
 +++
-XXXI KONKURS MINISTRA SPRAW ZAGRANICZNYCH NA NAJLEPSZĄ PRACĘ MAGISTERSKĄ Z ZAKRESU WSPÓŁCZESNYCH STOSUNKÓW MIĘDZYNARODOWYCH
-
 Konkurs Ministra Spraw Zagranicznych jest organizowany corocznie od grudnia 1989 roku. Jego celem jest zwrócenie uwagi studentów na szczególnie istotne zagadnienia dotyczące miejsca Polski na scenie międzynarodowej oraz jej polityki zagranicznej oraz szerzej, na różnorodne wyzwania wynikające z rozwoju sytuacji w Europie i na świecie.
 
 **Zasady organizacji Konkursu**
