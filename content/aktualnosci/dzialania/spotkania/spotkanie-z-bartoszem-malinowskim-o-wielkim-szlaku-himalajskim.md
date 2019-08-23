@@ -1,5 +1,5 @@
 +++
-date = "2019-08-23T22:00:00+00:00"
+date = "2019-08-22T22:00:00+00:00"
 main_image = "/v1566555337/rodm/malinowski-szlak_himalajski_cgi7s1.jpg"
 slug = "malinowski-wielki-szlak-himalajski"
 title = "Spotkanie z Bartoszem Malinowskim o Wielkim Szlaku Himalajskim"
