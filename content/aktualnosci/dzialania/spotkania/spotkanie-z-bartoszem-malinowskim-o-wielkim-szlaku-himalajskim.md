@@ -9,7 +9,7 @@ Regionalny Ośrodek Debaty Międzynarodowej w Łodzi, Instytut Spraw Obywatelski
 
 Spotkanie odbędzie się **16 września (poniedziałek) br.** w godz. **od 18:18 do 20:20** w **KEJA Pub** (ul. Kopernika 46, 90-553 Łódź).
 
-Bartosz Malinowski wraz Joanną Lipowczan realizują od 2015 r. projekt przejścia trasy przez Himalaje znanej jako Wielki Szlak Himalajski. W tym czasie odwiedzili Nepal, Bhutan, Indie i Pakistan, wraz ze spornymi terenami Kaszmiru. W 2019 r. Bartosz Malinowski przemierzał dalszą część szlaku w górach Pakistanu z Jarosławem Kowalewskim. Podczas spotkania opowie o swoich doświadczeniach z wypraw, odpowiedzialnej turystyce, różnicach kulturowych i realiach życia w krajach szlaku.
+Bartosz Malinowski wraz z Joanną Lipowczan realizują od 2015 r. projekt przejścia trasy przez Himalaje znanej jako Wielki Szlak Himalajski. W tym czasie odwiedzili Nepal, Bhutan, Indie i Pakistan, wraz ze spornymi terenami Kaszmiru. W 2019 r. Bartosz Malinowski przemierzał dalszą część szlaku w górach Pakistanu z Jarosławem Kowalewskim. Podczas spotkania opowie o swoich doświadczeniach z wypraw, odpowiedzialnej turystyce, różnicach kulturowych i realiach życia w krajach szlaku.
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1566556000/rodm/P1012575_1_qtcfti.jpg)
 
@@ -23,4 +23,5 @@ Celem RODM jest przybliżenie obywatelom polskiej polityki zagranicznej oraz wzm
 
 Instytut Spraw Obywatelskich jest organizacją pozarządową niezależną od partii politycznych. Od 2004 roku walczy o dobro wspólne. Prowadzi inicjatywy i kampanie obywatelskie, m.in. Tiry na tory, Wolne od GMO? Chcę wiedzieć!, Centrum Wspierania Rad Pracowników, Obywatele decydują. W tym roku Instytut Spraw Obywatelskich obchodzi swoje 15-lecie działalności na rzecz dobra wspólnego.  
   
+Autor: Krzysztof Ruciński  
 Zdjęcia: Bartosz Malinowski
