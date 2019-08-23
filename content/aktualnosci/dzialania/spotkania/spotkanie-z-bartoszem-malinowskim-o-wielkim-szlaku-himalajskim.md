@@ -21,4 +21,6 @@ RODM w Łodzi realizowany jest w latach 2019-2021 przez Instytut Spraw Obywatels
 
 Celem RODM jest przybliżenie obywatelom polskiej polityki zagranicznej oraz wzmocnienie kanałów współpracy pomiędzy MSZ, samorządem i organizacjami pozarządowymi. Ośrodek jest odpowiedzialny za animowanie i inicjowanie w regionie spotkań, debat i innych wydarzeń z udziałem przedstawicieli najważniejszych instytucji, organizacji i ośrodków analityczno-badawczych. Spotkania oraz debaty są okazją do dyskusji na temat funkcjonowania polskiej polityki zagranicznej w kontekście regionalnym. Ośrodek prowadzi także działania edukacyjne, które mają pobudzać młodzież do myślenia o polityce zagranicznej Polski.
 
-Instytut Spraw Obywatelskich jest organizacją pozarządową niezależną od partii politycznych. Od 2004 roku walczy o dobro wspólne. Prowadzi inicjatywy i kampanie obywatelskie, m.in. Tiry na tory, Wolne od GMO? Chcę wiedzieć!, Centrum Wspierania Rad Pracowników, Obywatele decydują. W tym roku Instytut Spraw Obywatelskich obchodzi swoje 15-lecie działalności na rzecz dobra wspólnego.
+Instytut Spraw Obywatelskich jest organizacją pozarządową niezależną od partii politycznych. Od 2004 roku walczy o dobro wspólne. Prowadzi inicjatywy i kampanie obywatelskie, m.in. Tiry na tory, Wolne od GMO? Chcę wiedzieć!, Centrum Wspierania Rad Pracowników, Obywatele decydują. W tym roku Instytut Spraw Obywatelskich obchodzi swoje 15-lecie działalności na rzecz dobra wspólnego.  
+  
+Zdjęcia: Bartosz Malinowski
