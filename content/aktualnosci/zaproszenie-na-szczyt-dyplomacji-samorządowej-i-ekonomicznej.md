@@ -1,5 +1,5 @@
 +++
-date = "2019-08-23T22:00:00+00:00"
+date = "2019-08-26T22:00:00+00:00"
 main_image = "/v1566563400/rodm/dypl_ekonomiczna_sczyt2019_zdaalw.jpg"
 slug = "szczyt-dyplomacji-samorzadowej-ekonomicznej-2019"
 title = "Zaproszenie na Szczyt Dyplomacji Samorządowej i Ekonomicznej"
