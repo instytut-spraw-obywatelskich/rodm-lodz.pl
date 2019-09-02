@@ -1,6 +1,6 @@
 ---
 title: Oferta dla szkół
-weight: 40
+weight: "40"
 menu:
   main:
     weight: 40
@@ -10,15 +10,11 @@ W ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi pragniemy zachę
 
 **Szkoły i inne placówki edukacyjne zachęcamy do współpracy z RODM.** Zajęcia prowadzonego przez naszych konsultantów i współpracowników są **bezpłatne**.
 
-Zainteresowane szkoły prosimy o kontakt:   
-zespol-rodm@inspro.org.pl lub pod nr telefonu 691 487 749
+Zainteresowane szkoły prosimy o kontakt:  
+lub pod nr telefonu 691 487 749
 
-Pozostajemy do Państwa dyspozycji.
-
-##### Przykładowe tematy warsztatów:
-
-* Rywalizacja mocarstw w światowej grze o energię
-* Co Ty NATO? 20 lat Polski w Sojuszu Północnoatlantyckim
-* Dlaczego warto być aktywnym obywatelem? Korzyści płynące z uczestnictwa w społeczeństwie obywatelskim
-
-![](https://res.cloudinary.com/inspro/image/upload/c_limit,w_800/v1554379674/rodm/IMG_4844%20%281%29.jpg)
+Pozostajemy do Państwa dyspozycji.  
+  
+[PEŁNA OFERTA EDUKACYJNA - KLIKNIJ TUTAJ](https://issuu.com/rodmlodzkie/docs/oferta_edukacyjna_rodm_lodz_2019 "Oferta edukacyjna RODM")  
+  
+![](https://res.cloudinary.com/inspro/image/upload/v1567424270/rodm/spreads_ip0b9x.gif)
