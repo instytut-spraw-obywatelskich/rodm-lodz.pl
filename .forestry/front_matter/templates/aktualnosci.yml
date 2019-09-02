@@ -27,6 +27,7 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/oferta-edukacyjna-regionalnego-ośrodka-debaty-międzynarodowej-w-łodzi.md
 - content/aktualnosci/zaproszenie-na-szczyt-dyplomacji-samorządowej-i-ekonomicznej.md
 - content/aktualnosci/dzialania/spotkania/spotkanie-z-bartoszem-malinowskim-o-wielkim-szlaku-himalajskim.md
 - content/aktualnosci/konkurs-na-najlepszą-pracę-magisterką-o-stosunkach-międzynarodowych.md
