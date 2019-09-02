@@ -11,7 +11,7 @@ W ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi pragniemy zachę
 **Szkoły i inne placówki edukacyjne zachęcamy do współpracy z RODM.** Zajęcia prowadzonego przez naszych konsultantów i współpracowników są **bezpłatne**.
 
 Zainteresowane szkoły prosimy o kontakt:  
-lub pod nr telefonu 691 487 749
+pawel.marczak@inspro.org.pl lub pod nr telefonu 691 487 749
 
 Pozostajemy do Państwa dyspozycji.  
   
