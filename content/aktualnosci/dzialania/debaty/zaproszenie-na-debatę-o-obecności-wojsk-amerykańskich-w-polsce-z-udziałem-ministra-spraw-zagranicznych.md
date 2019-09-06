@@ -1,6 +1,6 @@
 +++
 date = "2019-09-05T22:00:00+00:00"
-main_image = "/v1567775904/rodm/laskwww800_xin7c4.jpg"
+main_image = "/v1567776471/rodm/laskwww800_z1djlw.jpg"
 slug = "msz-lask-debata"
 title = "Zaproszenie na debatę o obecności wojsk amerykańskich w Polsce z udziałem Ministra Spraw Zagranicznych"
 
