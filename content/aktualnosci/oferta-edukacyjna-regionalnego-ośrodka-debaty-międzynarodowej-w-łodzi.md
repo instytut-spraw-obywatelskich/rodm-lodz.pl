@@ -11,7 +11,7 @@ W ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi pragniemy zachę
 
 Oferujemy działania edukacyjno-informacyjne w formie lekcji i warsztatów, kierowane do szkół ponadgimnazjalnych w regionie łódzkim. Naszym celem jest poszerzanie wiedzy młodzieży o świecie, uwrażliwianie na międzynarodowe problemy i zachęcanie do aktywności obywatelskiej. Prowadzone przez nas zajęcia są darmowe.
 
-**Szkoły i inne placówki edukacyjne zachęcamy do współpracy z RODM.** Zajęcia prowadzonego przez naszych konsultantów i współpracowników są **bezpłatne**.
+**Szkoły i inne placówki edukacyjne zachęcamy do współpracy z RODM.** Zajęcia prowadzone przez naszych konsultantów i współpracowników są **bezpłatne**.
 
 Zainteresowane szkoły prosimy o kontakt:  
 pawel.marczak@inspro.org.pl / rodm@rodm-lodz.pl lub pod nr telefonu 691 487 749
