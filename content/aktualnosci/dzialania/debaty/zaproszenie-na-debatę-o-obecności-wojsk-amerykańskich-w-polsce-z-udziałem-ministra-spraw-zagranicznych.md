@@ -7,7 +7,7 @@ title = "Zaproszenie na debatę o obecności wojsk amerykańskich w Polsce z udz
 +++
 Regionalny Ośrodek Debaty Międzynarodowej w Łodzi zaprasza do rejestracji na spotkanie z Ministrem Spraw Zagranicznych, Panem prof. Jackiem Czaputowiczem pt.“Osiągnięcia polskiej polityki zagranicznej w latach 2015-2019: Obecność wojsk amerykańskich w Polsce”. Wydarzenie odbędzie się 20 września w godzinach 17:00-19:00 na terenie 32. Bazy Lotnictwa Taktycznego w Łasku - siedziba bazy: Gucin 58a, 98-113 Teodory, gmina Buczek. W ramach wydarzenia będzie można obejrzeć m.in. polski i amerykański egzemplarz samolotu F-16. Ze względów bezpieczeństwa (wstęp na teren jednostki wojskowej), by uczestniczyć w wydarzeniu, konieczna jest wcześniejsza rejestracja.
 
-Rejestracja online:  
+**Rejestracja online:**  
 [https://evenea.pl/event/mszlask/](https://evenea.pl/event/mszlask/ "https://evenea.pl/event/mszlask/")
 
 Możliwa jest także rejestracja telefoniczna w godzinach od 10:00 do 16:00 od poniedziałku do piątku bądź mailowa.
@@ -19,8 +19,8 @@ tel. 519 300 645
 
 By się zarejestrować na wydarzenie, należy podać imię i nazwisko oraz numer dowodu osobistego. W przypadku dojazdu samochodem, należy podać także numer rejestracyjny pojazdu. Numer dowodu osobistego oraz numer rejestracyjny pojazdu jest niezbędny, by uzyskać możliwość wjazdu na teren bazy wojskowej.
 
-_Zamknięcie zapisów: 19 września, godzina 12:00  
-_  
+**Zamknięcie zapisów: 18 września, godzina 12:00**  
+  
 Dane osobowe zebrane na potrzeby rejestracji na wydarzenie zostaną przekazane do 32. Bazy Lotnictwa Taktycznego w Łasku w celu umożliwienia wstępu do jednostki wojskowej.
 
 Rejestracja na wydarzenie jest jednoznaczna z wyrażeniem zgody na utrwalenie, wykorzystanie i rozpowszechnianie wizerunku przez Ministerstwo Spraw Zagranicznych.
