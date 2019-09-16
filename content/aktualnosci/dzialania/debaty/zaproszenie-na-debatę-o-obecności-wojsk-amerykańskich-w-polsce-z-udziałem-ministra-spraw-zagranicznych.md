@@ -19,8 +19,8 @@ tel. 519 300 645
 
 By się zarejestrować na wydarzenie, należy podać imię i nazwisko oraz numer dowodu osobistego. W przypadku dojazdu samochodem, należy podać także numer rejestracyjny pojazdu. Numer dowodu osobistego oraz numer rejestracyjny pojazdu jest niezbędny, by uzyskać możliwość wjazdu na teren bazy wojskowej.
 
-\**Zamknięcie zapisów: 16 września, godzina 12:00  
-\**  
+_Zamknięcie zapisów: 19 września, godzina 12:00  
+_  
 Dane osobowe zebrane na potrzeby rejestracji na wydarzenie zostaną przekazane do 32. Bazy Lotnictwa Taktycznego w Łasku w celu umożliwienia wstępu do jednostki wojskowej.
 
 Rejestracja na wydarzenie jest jednoznaczna z wyrażeniem zgody na utrwalenie, wykorzystanie i rozpowszechnianie wizerunku przez Ministerstwo Spraw Zagranicznych.
@@ -37,6 +37,6 @@ Debatę organizują Regionalny Ośrodek Debaty Międzynarodowej w Łodzi przy ws
 
 Celem RODM jest przybliżenie obywatelom polskiej polityki zagranicznej oraz wzmocnienie kanałów współpracy pomiędzy Ministerstwem Spraw Zagranicznych, samorządem i organizacjami pozarządowymi. Ośrodek jest odpowiedzialny za animowanie i inicjowanie w regionie spotkań, debat i innych wydarzeń z udziałem przedstawicieli najważniejszych instytucji, organizacji oraz ośrodków analityczno-badawczych. Spotkania oraz debaty są okazją do dyskusji na temat funkcjonowania polskiej polityki zagranicznej w kontekście regionalnym. Ośrodek prowadzi także działania edukacyjne, które mają pobudzać młodzież do myślenia o polskiej polityce zagranicznej.
 
-RODM w Łodzi jest współfinansowany przez Ministerstwo Spraw Zagranicznych RP w konkursie "Regionalny Ośrodek Debaty Międzynarodowej 2019-2021".  
-  
+RODM w Łodzi jest współfinansowany przez Ministerstwo Spraw Zagranicznych RP w konkursie "Regionalny Ośrodek Debaty Międzynarodowej 2019-2021".
+
 Zdjęcie w tle: U.S. Air Force photo/Airman 1st Class Lane T. Plummer
