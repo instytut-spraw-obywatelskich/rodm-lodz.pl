@@ -27,6 +27,7 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/dzialania/debaty/w-120-dni-dookoła-innego-świata.md
 - content/aktualnosci/dzialania/debaty/zaproszenie-na-debatę-o-obecności-wojsk-amerykańskich-w-polsce-z-udziałem-ministra-spraw-zagranicznych.md
 - content/aktualnosci/oferta-edukacyjna-regionalnego-ośrodka-debaty-międzynarodowej-w-łodzi.md
 - content/aktualnosci/zaproszenie-na-szczyt-dyplomacji-samorządowej-i-ekonomicznej.md
