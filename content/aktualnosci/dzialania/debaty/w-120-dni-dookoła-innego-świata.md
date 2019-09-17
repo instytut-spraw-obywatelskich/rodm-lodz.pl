@@ -5,8 +5,6 @@ slug = "bartosz-malinowski-120-dni"
 title = "W 120 dni dookoła innego świata"
 
 +++
-**W 120 dni dookoła innego świata**
-
 **Nepalski policjant w koszulce z nadrukiem „Dom Zły” Wojciecha Smarzowskiego – to nie początek kawału, czy urywek absurdalnej wizji sennej – to element jednej z fotografii prezentowanych przez Bartosza Malinowskiego, przewodnika górskiego, który 16 września 2019 r. w Keja Pubie w Łodzi, opowiadał o realizowanej przez niego wraz z Joanną Lipowczan wyprawie przez Himalaje.**
 
 Na zorganizowanym przez Regionalny Ośrodek Debaty Międzynarodowej w Łodzi spotkaniu uczestnicy poznali polityczne i społeczne kulisy wyprawy wzdłuż tzw. Wielkiego Szlaku Himalajskiego. Malinowski i Lipowczan przemierzając trasę odwiedzili Nepal, Bhutan, Indie i Pakistan oraz duże tereny Kaszmiru. Łącznie przebyli 1700 km, idąc pośród lasów tropikalnych, terenów pustynnych, aż po skute lodem zbocza górskie – istny kalejdoskop przyrodniczy i kulturowy. Trasa była trudna – Bartosz przywoływał zapiski Joanny z wyprawy, wedle których na 120 dni drogi, chciał zrezygnować 56 razy.
