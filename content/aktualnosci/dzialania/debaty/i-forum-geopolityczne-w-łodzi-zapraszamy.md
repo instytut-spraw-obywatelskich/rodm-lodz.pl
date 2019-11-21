@@ -13,7 +13,7 @@ Pytań jest coraz więcej, a odpowiedzi brak. Żyjemy w globalnej wiosce, w któ
 
 Zapraszamy na spotkanie i rozmowy. Wstęp bezpłatny. Prosimy o dokonywanie wcześniejszej rejestracji. Liczba miejsc ograniczona!
 
-[**Kliknij – Zarejestruj się już dziś**](https://evenea.pl/event/forumgeopolityczne/?source=directory)
+[**Kliknij – Zarejestruj się już dziś**](https://evenea.pl/event/forumgeopolityczne/)
 
 ## PROGRAM FORUM
 
