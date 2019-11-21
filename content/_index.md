@@ -2,7 +2,7 @@
 title: Regionalny Ośrodek Debaty Międzynarodowej – Łódź
 featured:
   image: "/v1574158257/rodm/I-forum-geopolityczne_uzoowy.png"
-  link: https://www.facebook.com/events/1390993387726610/
-  text: I Forum Geopolityczne w Łodzi
+  link: https://evenea.pl/event/forumgeopolityczne/
+  text: I Forum Geopolityczne w Łodzi – zarejestruj się już dziś!
 
 ---
