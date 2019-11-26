@@ -31,11 +31,11 @@ Zapraszamy na spotkanie i rozmowy. Wstęp bezpłatny. Prosimy o dokonywanie wcze
 
 Moderator: **Marcin Giełzak**, Fundacja Ambitna Polska
 
-14:35 – 15:30 Przerwa obiadowa
+14:35 – 15:30 Przerwa na gorącą zupę i rozmowy w kuluarach
 
 15:30 – 17:00 Panel dyskusyjny: **5G, AI, GMO – nowy wspaniały świat?**
 
-**Grzegorz Lindenberg** – doktor socjologii, menadżer, wydawca i dziennikarz. Był dyrektorem generalnym Agory, gdy powstawała „Gazeta Wyborcza”, tworzył „Super Express”. Jest pomysłodawcą dwóch wczesnych firm internetowych: Supermedia (1996) i eCard (2001), jednym z założycieli start-upu Webnalist (2016), współautorem kilkakrotnie wznawianej książki „Toskania i Umbria. Przewodnik subiektywny”, autorem książki „Ludzkość poprawiona”. Lubi zwierzęta, mieszka w podwarszawskiej wiosce z psem i dwoma kotami.
+**dr Grzegorz Lindenberg** – jest z wykształcenia socjologiem, a z zawodu menedżerem, doradcą, redaktorem i publicystą, a także autorem książek „Ludzkość poprawiona. Jak najbliższe lata zmienią świat, w którym żyjemy” oraz „Wzbierająca fala. Europa wobec eksplozji demograficznej w Afryce” (2019). Był m.in. dyrektorem generalnym „Agory”, gdy powstawała „Gazeta Wyborcza”, twórcą „Super Expressu” oraz pomysłodawcą dwóch wczesnych firm internetowych Supermedia (1996) i eCard (2001).
 
 **ppłk (rez.) Mariusz Rukat** – podpułkownik rezerwy Wojska Polskiego. Absolwent Wyższej Szkoły Oficerskiej Wojsk Zmechanizowanych im. T. Kościuszki we Wrocławiu (1996). W latach 2000 – 2008 analityk Departamentu Wojskowych Spraw Zagranicznych MON ds. relacji polityczno-wojskowych Sił Zbrojnych RP z zagranicą, w specjalizacji: Stany Zjednoczone, Chiny oraz państwa Dalekiego Wschodu, Azji Południowo-Wschodniej i Pacyfiku. W latach 2008-2012 r. zastępca attaché obrony przy Ambasadzie RP w Pekinie.
 
@@ -58,6 +58,10 @@ Moderator: **Marcin Giełzak**, Fundacja Ambitna Polska
 **Patronat medialny**
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1574368702/rodm/patronat-i-forum-geopolityczne_idu1ou.jpg)
+
+**Patronat nad wydarzeniem objęło Koło Naukowe Politologów Wydziału Studiów Międzynarodowych i Politologicznych Uniwersytetu Łódzkiego.**
+
+![](https://res.cloudinary.com/inspro/image/upload/v1574763700/rodm/kolo-naukowe-politologow-WSMiP-UL_krggwo.png)
 
 **Forum Geopolityczne organizuje Instytut Spraw Obywatelskich w ramach Regionalnego Ośrodka Debaty Międzynarodowej (RODM).**
 
