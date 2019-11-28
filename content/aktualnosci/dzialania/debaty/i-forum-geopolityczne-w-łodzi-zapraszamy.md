@@ -1,6 +1,6 @@
 +++
 date = 2019-11-20T23:00:00Z
-main_image = "/v1574368453/rodm/I-Forum-Geopolityczne-800x600_fvatcr.png"
+main_image = "/v1574980524/rodm/I-Forum-Geopolityczne-800x600_tlsgtp.png"
 slug = "i-forum-geopolityczne-w-lodzi"
 title = "I Forum Geopolityczne w Łodzi. Zapraszamy!"
 
