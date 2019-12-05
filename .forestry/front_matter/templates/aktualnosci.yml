@@ -27,6 +27,7 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/dzialania/warsztaty/oferta-edukacyjna-regionalnego-ośrodka-debaty-międzynarodowej-w-łodzi.md
 - content/aktualnosci/dzialania/debaty/geopolityka-powraca-i-forum-geopolityczne-w-łodzi.md
 - content/aktualnosci/dzialania/debaty/i-forum-geopolityczne-w-łodzi-zapraszamy.md
 - content/aktualnosci/dzialania/debaty/obecność-żołnierzy-usa-w-polsce-zwiększa-nasze-bezpieczeństwo-minister-jacek-czaputowicz-w-32-bazie-lotnictwa-taktycznego-w-łasku.md
