@@ -51,9 +51,9 @@ Zapraszamy do kontaktu!
 tel. 691 487 749
 rodm@rodm-lodz.pl
 
-**Paweł Marczak**
+**Paweł Marczak**  
 koordynator Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi
 
-Regionalny Ośrodek Debaty Międzynarodowej w Łodzi
-ul. Pomorska 40 91-408 Łódź tel.: 519 300 645
+Regionalny Ośrodek Debaty Międzynarodowej w Łodzi  
+ul. Pomorska 40 91-408 Łódź tel.: 519 300 645  
 e-mail: rodm@rodm-lodz.pl
