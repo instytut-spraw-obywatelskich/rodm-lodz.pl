@@ -21,10 +21,13 @@ Współorganizator: Cykl „Świat Z Innej Beczki”, Pub „Z Innej Beczki”
 Miejsce: Pub „Z Innej Beczki”  
 ul. Moniuszki 6, 90-111 Łódź
 
-„**W 240 dni dookoła świata: Kontenerowcem z Kanady, przez USA do Chin**” będzie **12. z 36.** spotkań organizowanych przez RODM. W naszych wydarzeniach wziął udział: m.in.: pomysłodawca i koordynator programu Wielki Szlak Himalajski Bartosz Malinowski.  
-   
+„**W 240 dni dookoła świata: Kontenerowcem z Kanady, przez USA do Chin**” będzie **12. z 36.** spotkań organizowanych przez RODM. W naszych wydarzeniach wziął udział: m.in.: pomysłodawca i koordynator programu Wielki Szlak Himalajski Bartosz Malinowski.
+
 RODM przybliża mieszkańcom województwa łódzkiego geopolitykę. Ośrodek animuje w regionie spotkania i debaty, które są okazją do dyskusji na temat polskiej polityki zagranicznej w kontekście regionu. RODM prowadzi także działania edukacyjne dla młodzieży.
 
 RODM w Łodzi realizowany jest w latach 2019-2021 przez Instytut Spraw Obywatelskich i współfinansowany przez Ministerstwo Spraw Zagranicznych RP w konkursie "Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
 Instytut Spraw Obywatelskich jest organizacją pozarządową niezależną od partii politycznych. Od 2004 roku walczy o dobro wspólne. Prowadzi inicjatywy i kampanie obywatelskie, m.in. Tiry na tory, Wolne od GMO? Chcę wiedzieć!, Centrum Wspierania Rad Pracowników, Obywatele decydują. W tym roku Instytut Spraw Obywatelskich obchodzi swoje 15-lecie działalności na rzecz dobra wspólnego.
+
+Autor: Paweł Marczak  
+Fot. archiwum domowe Andrzej Stasiłowicz
