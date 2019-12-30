@@ -1,6 +1,5 @@
 +++
 date = 2019-12-29T23:00:00Z
-draft = true
 main_image = "/v1577723637/rodm/2019-12-29_07.34.44_1_jzy9xp.jpg"
 slug = "swiat-okiem-marynarza"
 title = "Świat okiem marynarza"
