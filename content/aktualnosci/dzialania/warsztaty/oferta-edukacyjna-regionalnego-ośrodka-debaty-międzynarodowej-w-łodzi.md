@@ -5,13 +5,11 @@ slug = "oferta-edukacyjna-regionalnego-osrodka-debaty-miedzynarodowej-w-lodzi"
 title = "Oferta edukacyjna Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi"
 
 +++
-Darmowe zajęcia edukacyjne o polityce międzynarodowej
-
-czas trwania zajęć – 45 minut
+Bezpłatne warsztaty edukacyjne o sprawach międzynarodowych
 
 ## O zajęciach
 
-Regionalny Ośrodek Debaty Międzynarodowej w Łodzi oferuje działania edukacyjno-informacyjne w formie lekcji i warsztatów, kierowane do szkół ponadgimnazjalnych w regionie łódzkim. Naszym celem jest poszerzanie wiedzy młodzieży o świecie, uwrażliwianie na międzynarodowe problemy i zachęcanie do aktywności obywatelskiej. Prowadzone przez nas zajęcia są darmowe. Czas trwania zajęć to 45 minut. Uzupełniają one, zależnie od tematu, program zajęć z historii, wiedzy o społeczeństwie bądź edukacji dla bezpieczeństwa. Optymalna grupa odbiorców to jedna grupa zajęciowa (15-30 osób).
+Regionalny Ośrodek Debaty Międzynarodowej w Łodzi oferuje działania edukacyjno-informacyjne w formie lekcji i warsztatów, kierowane do szkół ponadpodstawowych w regionie łódzkim. W trakcie zajęć uczniowie mają możliwość poszerzenia swojej wiedzy nt. otaczającego ich świata oraz bieżącej polityki międzynarodowej. Prowadzone przez nas zajęcia są całkowicie bezpłatne. Czas trwania zajęć to od 1-2 godzin lekcyjnych. Zajęcia uzupełniają program lekcji historii, WOS-u, edukacji dla bezpieczeństwa, geografii, języka polskiego czy WOK-u. Sugerowana grupa zajęciowa to 15-35 osób.
 
 Poniżej przedstawiamy proponowane bloki tematyczne:
 
@@ -39,7 +37,27 @@ Jak działa współczesny międzynarodowy handel? Na przykładzie produkcji tele
 
 Warsztaty będą okazją do zarysowania polityczno-energetycznej gry, jaką rzucili Europie Rosjanie, którzy kontynuując budowę gazociągu po dnie Bałtyku bezpośrednio do Niemiec, dążą do uzależnienia Europy Środkowo-Wschodniej od swojego surowca. Na zajęciach zastanowimy się z uczniami, jakie Polska i kraje przeciwne inwestycji mają możliwości odpowiedzi na działania Kremla i czy w ogóle możliwe jest zatrzymanie tego projektu. Czy gazociąg ma znamiona projektu politycznego i rzeczywiście podzieli Europę, to najważniejsze pytanie, na jakie spróbujemy odpowiedzieć w trakcie zajęć.
 
-**Regionalny Ośrodek Debaty Międzynarodowej** w Łodzi to część sieci informacyjnej Ministerstwa Spraw Zagranicznych promującej polską politykę zagraniczną. RODM w Łodzi realizowany jest w latach 2019-2021 przez Instytut Spraw Obywatelskich i współfinansowany przez Ministerstwo Spraw Zagranicznych RP w konkursie “Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
+## Chiny - potęga czy kolos na glinianych nogach?
+
+Wszystkim znany jest napis "made in China", który świadczy o pochodzeniu towarów z Państwa Środka. Jednak, czy to znaczy, że Chiny są już gospodarczą potęgą? A może to tylko kraj, który ze sztuki kopiowania uczynił źródło swojej siły ekonomicznej? W obliczu 70. rocznicy powstania Chińskiej Republiki Ludowej spróbujemy odpowiedzieć na pytania, czy Chiny zdominują (lub już zdominowały) globalny układ sił? Czy trzymają w szachu Stany Zjednoczone? Czy dzięki technologiom informacyjnym i sztucznej inteligencji w 2049 roku- zgodnie z planem - Chiny będą mogły ogłosić się supermocarstwem?
+
+## Soft power – czyli jak budować markę Polski?
+
+Dlaczego niektóre kraje są są lepiej odbierane niż inne? Specjaliści od geopolityki, uważają że, sekret tkwi w tzw. soft power (z ang. miękka siła), czyli umiejętności wpływania na innych poprzez przyciąganie i perswazje. Miękką siłą z pewnością możemy nazwać struktury dyplomatyczne... ale co z kulturą, kuchnią czy tradycjami rejonu? Czy pizza lub croissant mogą być skutecznym narzędziem w polityce międzynarodowej? I jak może wyglądać polski soft power?
+
+## Obcy taki jak ja? Imigracja w kulturze popularnej
+
+Za apogeum kryzysu imigracyjnego uważa się rok 2015. Pomimo upływu blisko 5 lat temat uchodźców wciąż budzi polityczne emocje. Chociaż w przekazach medialnych temat migracji był przedstawiany z różnych perspektyw, to co wiemy o samych imigrantach? Na podstawie autobiografii Marjane Satrapi, Riada Satouffa czy Fabien Toulmé pokazujemy, jak wygląda życie imigranta – z czym musi się mierzyć? Co jest dla niego najtrudniejsze? Gdzie może szukać pomocy? Czy tęskni za domem? Zajęcia mają na celu zaznajomienie uczniów z wyzwaniami migracji w XXI w. i jego społecznymi kontekstami.
+
+## Brexit – nowa przyszłość Wielkiej Brytanii?
+
+Czy przedłużająca się miesiącami batalia o wyjście Wielkiej Brytanii z Unii Europejskiej doczeka się finału? 31 stycznia 2020 roku będzie ostatnim dniem Zjednoczonego Królestwa w strukturach UE? Zanim jednak do tego dojdzie, warto prześledzić początki kampanii brexitowej – jak renegocjacje umowy członkostwa Wielkiej Brytanii zapoczątkowane przez Davida Camerona doprowadziły do referendum, gdzie ponad 51% głosujących opowiedziało się za brexitem? Zajęcia będą okazją do poruszenia aktualnych problemów negocjacyjnych na linii Bruksela – Londyn i przyszłych relacji brytyjsko-unijnych. Czy Wielka Brytania zyska na brexicie i stanie się „Singapurem Europy”? A może wręcz przeciwnie, wyłączenie ze wspólnych struktur politycznych zepchnie Brytyjczyków na peryferia światowej polityki.
+
+***
+
+## Regionalny Ośrodek Debaty Międzynarodowej 
+
+w Łodzi to część sieci informacyjnej Ministerstwa Spraw Zagranicznych promującej polską politykę zagraniczną. RODM w Łodzi realizowany jest w latach 2019-2021 przez Instytut Spraw Obywatelskich i współfinansowany przez Ministerstwo Spraw Zagranicznych RP w konkursie “Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
 Celem RODM jest przybliżenie obywatelom polskiej polityki zagranicznej oraz wzmocnienie kanałów współpracy pomiędzy MSZ, samorządem i organizacjami pozarządowymi.
 
@@ -47,8 +65,8 @@ Ośrodek jest odpowiedzialny za animowanie i inicjowanie w regionie spotkań, de
 
 Ośrodek prowadzi także działania edukacyjne, które mają pobudzać młodzież do myślenia o polityce zagranicznej Polski.
 
-Zapraszamy do kontaktu!
-tel. 691 487 749
+Zapraszamy do kontaktu!  
+tel. 691 487 749  
 rodm@rodm-lodz.pl
 
 **Paweł Marczak**  
