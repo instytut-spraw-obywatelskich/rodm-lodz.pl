@@ -55,7 +55,7 @@ Czy przedłużająca się miesiącami batalia o wyjście Wielkiej Brytanii z Uni
 
 ***
 
-## Regionalny Ośrodek Debaty Międzynarodowej 
+## Regionalny Ośrodek Debaty Międzynarodowej
 
 w Łodzi to część sieci informacyjnej Ministerstwa Spraw Zagranicznych promującej polską politykę zagraniczną. RODM w Łodzi realizowany jest w latach 2019-2021 przez Instytut Spraw Obywatelskich i współfinansowany przez Ministerstwo Spraw Zagranicznych RP w konkursie “Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
@@ -66,11 +66,11 @@ Ośrodek jest odpowiedzialny za animowanie i inicjowanie w regionie spotkań, de
 Ośrodek prowadzi także działania edukacyjne, które mają pobudzać młodzież do myślenia o polityce zagranicznej Polski.
 
 Zapraszamy do kontaktu!  
-tel. 691 487 749  
-rodm@rodm-lodz.pl
+tel. 791 910 621  
+piotr.kazmierczak@instytut.lodz.pl
 
-**Paweł Marczak**  
-koordynator Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi
+**Piotr Kaźmierczak**  
+konsultant Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi
 
 Regionalny Ośrodek Debaty Międzynarodowej w Łodzi  
 ul. Pomorska 40 91-408 Łódź tel.: 519 300 645  
