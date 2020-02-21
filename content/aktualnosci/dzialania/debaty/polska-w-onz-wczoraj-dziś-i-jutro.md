@@ -1,6 +1,5 @@
 +++
 date = 2020-02-20T23:00:00Z
-draft = true
 main_image = "/v1582296760/rodm/DSC01335_fqg47l.jpg"
 slug = "polska-w-onz-wczoraj-dzis-jutro"
 title = "Polska w ONZ - wczoraj, dziś i jutro"
