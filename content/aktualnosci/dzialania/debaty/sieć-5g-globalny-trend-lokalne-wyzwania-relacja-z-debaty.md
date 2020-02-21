@@ -1,6 +1,5 @@
 +++
 date = 2020-02-13T23:00:00Z
-draft = true
 main_image = "/v1582294507/rodm/2020-02-13_10.20.33_1_e50cyq.jpg"
 slug = "siec-5g-globalny-trend-lokalne-wyzwania-relacja-z-debaty"
 title = "Sieć 5G - globalny trend, lokalne wyzwania. Relacja z debaty."
