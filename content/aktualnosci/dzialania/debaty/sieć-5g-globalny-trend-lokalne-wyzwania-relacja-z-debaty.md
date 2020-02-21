@@ -2,7 +2,7 @@
 date = 2020-02-13T23:00:00Z
 main_image = "/v1582294507/rodm/2020-02-13_10.20.33_1_e50cyq.jpg"
 slug = "siec-5g-globalny-trend-lokalne-wyzwania-relacja-z-debaty"
-title = "Sieć 5G - globalny trend, lokalne wyzwania. Relacja z debaty."
+title = "Sieć 5G - globalny trend, lokalne wyzwania"
 
 +++
 **Jak z wyzwaniami nowoczesnych technologii radzimy sobie w Polsce, a jak robi się to za granicą? Kwestie związane z 5G i budowaniem masztów telefonii komórkowej wypełniły dyskusję, którą Regionalny Ośrodek Debaty Międzynarodowej zorganizował 13 lutego 2020 na Złotnie – jednym z łódzkich osiedli.**
