@@ -43,15 +43,15 @@ Wszystkim znany jest napis "made in China", który świadczy o pochodzeniu towar
 
 ## Soft power – czyli jak budować markę Polski?
 
-Dlaczego niektóre kraje są są lepiej odbierane niż inne? Specjaliści od geopolityki, uważają że, sekret tkwi w tzw. soft power (z ang. miękka siła), czyli umiejętności wpływania na innych poprzez przyciąganie i perswazje. Miękką siłą z pewnością możemy nazwać struktury dyplomatyczne... ale co z kulturą, kuchnią czy tradycjami rejonu? Czy pizza lub croissant mogą być skutecznym narzędziem w polityce międzynarodowej? I jak może wyglądać polski soft power?
+Dlaczego niektóre kraje są lepiej odbierane niż inne? Specjaliści od geopolityki uważają, że sekret tkwi w tzw. „soft power” (z ang. miękka siła), czyli umiejętności wpływania na innych poprzez przyciąganie i perswazje. Miękką siłą z pewnością możemy nazwać struktury dyplomatyczne… ale co z kulturą, kuchnią czy tradycjami rejonu? Czy pizza lub croissant mogą być skutecznym narzędziem w polityce międzynarodowej? I jak może wyglądać polski soft power?
 
 ## Obcy taki jak ja? Imigracja w kulturze popularnej
 
 Za apogeum kryzysu imigracyjnego uważa się rok 2015. Pomimo upływu blisko 5 lat temat uchodźców wciąż budzi polityczne emocje. Chociaż w przekazach medialnych temat migracji był przedstawiany z różnych perspektyw, to co wiemy o samych imigrantach? Na podstawie autobiografii Marjane Satrapi, Riada Satouffa czy Fabien Toulmé pokazujemy, jak wygląda życie imigranta – z czym musi się mierzyć? Co jest dla niego najtrudniejsze? Gdzie może szukać pomocy? Czy tęskni za domem? Zajęcia mają na celu zaznajomienie uczniów z wyzwaniami migracji w XXI w. i jego społecznymi kontekstami.
 
-## Brexit – nowa przyszłość Wielkiej Brytanii?
+## Brexit – nowa przyszłość Wielką Brytanię poza Unią Europejską?
 
-Czy przedłużająca się miesiącami batalia o wyjście Wielkiej Brytanii z Unii Europejskiej doczeka się finału? 31 stycznia 2020 roku będzie ostatnim dniem Zjednoczonego Królestwa w strukturach UE? Zanim jednak do tego dojdzie, warto prześledzić początki kampanii brexitowej – jak renegocjacje umowy członkostwa Wielkiej Brytanii zapoczątkowane przez Davida Camerona doprowadziły do referendum, gdzie ponad 51% głosujących opowiedziało się za brexitem? Zajęcia będą okazją do poruszenia aktualnych problemów negocjacyjnych na linii Bruksela – Londyn i przyszłych relacji brytyjsko-unijnych. Czy Wielka Brytania zyska na brexicie i stanie się „Singapurem Europy”? A może wręcz przeciwnie, wyłączenie ze wspólnych struktur politycznych zepchnie Brytyjczyków na peryferia światowej polityki.
+31 stycznia Wielka Brytania ostatecznie opuściła struktury Unii Europejskiej. Procedura brexitu doczekała się końca, ale przyszłość Zjednoczonego Królestwa wciąż wywołuje wiele pytań. Atmosferę podgrzewają antybrexitowe nastroje w Szkocji i Irlandii Północnej. Jak w tej całej dezorganizacji wygląda sytuacja polskich imigrantów na Wyspach? Zajęcia rozpoczynają się wewnątrzklasowym referendum brexitowym, a następnie specjaliści RODM przeprowadzają uczniów przez procedurę, jakiej poddała się Wielka Brytania.
 
 ***
 
