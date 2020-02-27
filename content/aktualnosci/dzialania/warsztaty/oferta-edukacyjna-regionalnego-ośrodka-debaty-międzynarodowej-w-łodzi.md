@@ -9,7 +9,7 @@ Bezpłatne warsztaty edukacyjne o sprawach międzynarodowych
 
 ## O zajęciach
 
-Regionalny Ośrodek Debaty Międzynarodowej w Łodzi oferuje działania edukacyjno-informacyjne w formie lekcji i warsztatów, kierowane do szkół ponadpodstawowych w regionie łódzkim. W trakcie zajęć uczniowie mają możliwość poszerzenia swojej wiedzy nt. otaczającego ich świata oraz bieżącej polityki międzynarodowej. Prowadzone przez nas zajęcia są całkowicie bezpłatne. Czas trwania zajęć to od 1-2 godzin lekcyjnych. Zajęcia uzupełniają program lekcji historii, WOS-u, edukacji dla bezpieczeństwa, geografii, języka polskiego czy WOK-u. Sugerowana grupa zajęciowa to 15-35 osób.
+Regionalny Ośrodek Debaty Międzynarodowej w Łodzi oferuje działania edukacyjno-informacyjne w formie lekcji i warsztatów, kierowane do szkół podstawowych i ponadpodstawowych w regionie łódzkim. W trakcie zajęć uczniowie mają możliwość poszerzenia swojej wiedzy nt. otaczającego ich świata oraz bieżącej polityki międzynarodowej. Prowadzone przez nas zajęcia są całkowicie bezpłatne. Czas trwania zajęć to od 1-2 godzin lekcyjnych. Zajęcia uzupełniają program lekcji historii, WOS-u, edukacji dla bezpieczeństwa, geografii, języka polskiego czy WOK-u. Sugerowana grupa zajęciowa to 15-35 osób.
 
 Poniżej przedstawiamy proponowane bloki tematyczne:
 
@@ -51,7 +51,7 @@ Za apogeum kryzysu imigracyjnego uważa się rok 2015. Pomimo upływu blisko 5 l
 
 ## Brexit – nowa przyszłość Wielką Brytanię poza Unią Europejską?
 
-31 stycznia Wielka Brytania ostatecznie opuściła struktury Unii Europejskiej. Procedura brexitu doczekała się końca, ale przyszłość Zjednoczonego Królestwa wciąż wywołuje wiele pytań. Atmosferę podgrzewają antybrexitowe nastroje w Szkocji i Irlandii Północnej. Jak w tej całej dezorganizacji wygląda sytuacja polskich imigrantów na Wyspach? Zajęcia rozpoczynają się wewnątrzklasowym referendum brexitowym, a następnie specjaliści RODM przeprowadzają uczniów przez procedurę, jakiej poddała się Wielka Brytania. 
+31 stycznia Wielka Brytania ostatecznie opuściła struktury Unii Europejskiej. Procedura brexitu doczekała się końca, ale przyszłość Zjednoczonego Królestwa wciąż wywołuje wiele pytań. Atmosferę podgrzewają antybrexitowe nastroje w Szkocji i Irlandii Północnej. Jak w tej całej dezorganizacji wygląda sytuacja polskich imigrantów na Wyspach? Zajęcia rozpoczynają się wewnątrzklasowym referendum brexitowym, a następnie specjaliści RODM przeprowadzają uczniów przez procedurę, jakiej poddała się Wielka Brytania.
 
 ***
 
