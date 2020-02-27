@@ -1,6 +1,5 @@
 +++
 date = 2020-02-26T23:00:00Z
-draft = true
 main_image = "/v1582799982/rodm/Monika_Kubik_foto_archiwum_domowe_z5xebz.jpg"
 slug = "zostac-dyplomata"
 title = "Zostać dyplomatą "
