@@ -19,7 +19,7 @@ Wprowadzimy uczniów do historii praw człowieka. Przedstawimy podstawowe dokume
 
 ## Co Ty NATO? Polska obecność w Sojuszu Północnoatlantyckim
 
-Podczas tych zajęć opowiemy o istocie bezpieczeńswa, roli NATO w polskiej polityce zagranicznej, dziedzictwa NATO w światowym systemie bezpieczeństwa w mieszanej formie wykładowo–warsztatowej. W celu usystematyzowania wiedzy część zajęć będzie wymagała od uczniów pracy z materiałami i wypowiadania się na forum.
+Podczas tych zajęć opowiemy o istocie bezpieczeństwa, roli NATO w polskiej polityce zagranicznej, dziedzictwa NATO w światowym systemie bezpieczeństwa w mieszanej formie wykładowo–warsztatowej. W celu usystematyzowania wiedzy część zajęć będzie wymagała od uczniów pracy z materiałami i wypowiadania się na forum.
 
 ## Informacja w epoce fake news
 
