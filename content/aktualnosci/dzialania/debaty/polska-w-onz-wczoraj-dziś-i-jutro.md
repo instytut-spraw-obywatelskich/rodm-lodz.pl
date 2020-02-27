@@ -27,7 +27,7 @@ Konwoje ciężarówek wyładowanych po brzegi np. mąką, to już przeszłość.
 
 Aktywność na forach międzynarodowych służy budowaniu pozycji państwa. Jak podkreślał dyrektor Jerzy Baurski, Polska chce uczestniczyć w pracach ONZ, a nasza aktywność jest obowiązkiem wobec innych krajów.
 
-![](https://res.cloudinary.com/inspro/image/upload/v1582297429/rodm/DSC01395_wq8xvp.jpg)W latach 2018-2019 Polska sprawowała kadencję niestałego członka Rady Bezpieczeństwa ONZ. Jaki wnieśliśmy wkład w członkostwo, opowiedział dyrektor Jerzy Baurski. Głównym celem Polski było ochrona i poszanowanie prawa międzynarodowego. Odnieśliśmy się do aneksji Krymu, wykorzystania broni chemicznej w Syrii i nagłaśnialiśmy te wydarzenia. Podkreślaliśmy, jak ważne jest, szczególnie dla ludzi w strefie konfliktów, poszanowanie międzynarodowego prawa humanitarnego, które umożliwia działalność lekarzom oraz organizacjom humanitarnym.
+![](https://res.cloudinary.com/inspro/image/upload/v1582297429/rodm/DSC01395_wq8xvp.jpg)W latach 2018-2019 Polska sprawowała kadencję niestałego członka Rady Bezpieczeństwa ONZ. Jaki wnieśliśmy wkład w członkostwo, opowiedział dyrektor Jerzy Baurski. Głównym celem Polski była ochrona i poszanowanie prawa międzynarodowego. Odnieśliśmy się do aneksji Krymu, wykorzystania broni chemicznej w Syrii i nagłaśnialiśmy te wydarzenia. Podkreślaliśmy, jak ważne jest, szczególnie dla ludzi w strefie konfliktów, poszanowanie międzynarodowego prawa humanitarnego, które umożliwia działalność lekarzom oraz organizacjom humanitarnym.
 
 Zainicjowaliśmy rezolucję o sytuacji osób niepełnosprawnych w strefach objętych wojną i doprowadziliśmy do jej przegłosowania. Priorytetem Polski była również ochrona mniejszości religijnych. Zorganizowaliśmy posiedzenie Rady Bezpieczeństwa na ten temat, kładąc nacisk na sytuację chrześcijan na Bliskim Wschodzie. – Kiedy mówimy o mniejszościach religijnych, naszym priorytetem jest łączenie ludzi, a nie dzielenie. Chcemy budować międzynarodową wspólnotę. Naszym celem jest dialog, a nie konfrontacja – podkreślił dyrektor Baurski.
 
@@ -43,4 +43,4 @@ Przed Organizacją Narodów Zjednoczonych stoi wiele wyzwań zewnętrznych. Są 
 
 **Autor:** Małgorzata Jankowska, konsultantka RODM Łódź
 
-**Foto:** Piotr Kaźmierczak, konsultant RODM Łódź 
+**Foto:** Piotr Kaźmierczak, konsultant RODM Łódź
