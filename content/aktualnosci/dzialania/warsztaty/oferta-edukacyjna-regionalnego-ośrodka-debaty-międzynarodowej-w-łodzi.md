@@ -51,7 +51,7 @@ Za apogeum kryzysu imigracyjnego uważa się rok 2015. Pomimo upływu blisko 5 l
 
 ## Brexit – nowa przyszłość Wielką Brytanię poza Unią Europejską?
 
-31 stycznia Wielka Brytania ostatecznie opuściła struktury Unii Europejskiej. Procedura brexitu doczekała się końca, ale przyszłość Zjednoczonego Królestwa wciąż wywołuje wiele pytań. Atmosferę podgrzewają antybrexitowe nastroje w Szkocji i Irlandii Północnej. Jak w tej całej dezorganizacji wygląda sytuacja polskich imigrantów na Wyspach? Zajęcia rozpoczynają się wewnątrzklasowym referendum brexitowym, a następnie specjaliści RODM przeprowadzają uczniów przez procedurę, jakiej poddała się Wielka Brytania.
+31 stycznia 2020 roku Wielka Brytania ostatecznie opuściła struktury Unii Europejskiej. Procedura brexitu doczekała się końca, ale przyszłość Zjednoczonego Królestwa wciąż wywołuje wiele pytań. Atmosferę podgrzewają antybrexitowe nastroje w Szkocji i Irlandii Północnej. Jak w tej całej dezorganizacji wygląda sytuacja polskich imigrantów na Wyspach? Zajęcia rozpoczynają się wewnątrzklasowym referendum brexitowym, a następnie specjaliści RODM przeprowadzają uczniów przez procedurę, jakiej poddała się Wielka Brytania.
 
 ***
 
