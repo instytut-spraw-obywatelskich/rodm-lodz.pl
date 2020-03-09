@@ -45,13 +45,37 @@ Wszystkim znany jest napis "made in China", który świadczy o pochodzeniu towar
 
 Dlaczego niektóre kraje są lepiej odbierane niż inne? Specjaliści od geopolityki uważają, że sekret tkwi w tzw. „soft power” (z ang. miękka siła), czyli umiejętności wpływania na innych poprzez przyciąganie i perswazje. Miękką siłą z pewnością możemy nazwać struktury dyplomatyczne… ale co z kulturą, kuchnią czy tradycjami rejonu? Czy pizza lub croissant mogą być skutecznym narzędziem w polityce międzynarodowej? I jak może wyglądać polski soft power?
 
-## Obcy taki jak ja? Imigracja w kulturze popularnej
+## Jak wygląda życie uchodźcy?
 
-Za apogeum kryzysu imigracyjnego uważa się rok 2015. Pomimo upływu blisko 5 lat temat uchodźców wciąż budzi polityczne emocje. Chociaż w przekazach medialnych temat migracji był przedstawiany z różnych perspektyw, to co wiemy o samych imigrantach? Na podstawie autobiografii Marjane Satrapi, Riada Satouffa czy Fabien Toulmé pokazujemy, jak wygląda życie imigranta – z czym musi się mierzyć? Co jest dla niego najtrudniejsze? Gdzie może szukać pomocy? Czy tęskni za domem? Zajęcia mają na celu zaznajomienie uczniów z wyzwaniami migracji w XXI w. i jego społecznymi kontekstami.
+Za apogeum tzw. kryzysu migracyjnego uważa się rok 2015. Ale czy rzeczywiście Europa doświadczyła jakiegokolwiek kryzysu? Imigracja to zjawisko towarzyszące gatunkowi ludzkiemu od wieków, dlaczego więc tak bardzo się jej obawiamy? W trakcie zajęć uczniowie będą porównywać ze sobą przekazy medialne z relacjami uchodźców, którzy dotarli do Europy.
 
 ## Brexit – nowa przyszłość Wielką Brytanię poza Unią Europejską?
 
-31 stycznia 2020 roku Wielka Brytania ostatecznie opuściła struktury Unii Europejskiej. Procedura brexitu doczekała się końca, ale przyszłość Zjednoczonego Królestwa wciąż wywołuje wiele pytań. Atmosferę podgrzewają antybrexitowe nastroje w Szkocji i Irlandii Północnej. Jak w tej całej dezorganizacji wygląda sytuacja polskich imigrantów na Wyspach? Zajęcia rozpoczynają się wewnątrzklasowym referendum brexitowym, a następnie specjaliści RODM przeprowadzają uczniów przez procedurę, jakiej poddała się Wielka Brytania.
+31 stycznia 2020 roku Wielka Brytania ostatecznie opuściła struktury Unii Europejskiej. Procedura brexitu doczekała się końca, ale przyszłość Zjednoczonego Królestwa wciąż wywołuje wiele pytań. Atmosferę podgrzewają antybrexitowe nastroje w Szkocji i Irlandii Północnej. Jak w tej całej dezorganizacji wygląda sytuacja polskich imigrantów na Wyspach? Zajęcia rozpoczynają się wewnątrzklasowym referendum brexitowym, a następnie specjaliści RODM przeprowadzają uczniów przez procedurę, jakiej poddała się Wielka Brytania. 
+
+## Współczesne totalitaryzmy – czy jest się czego obawiać?
+
+XX w. w historii zostanie zapamiętany jako rozkwit ustrojów totalitarnych, które pozostawiły po sobie setki ofiar i zniszczeń. Jednak czy współcześnie stanowią dla nas zagrożenie? W trakcie zajęć uczniowie dowiedzą się jak rozpoznawać mechanizmy i sposoby działania systemów totalitarnych. Odwołując się do historii oraz współczesnych przykładów wyjaśniamy, jak funkcjonują społeczeństwa w krajach takich jak Korea Północna, Chiny czy Rosja. 
+
+## Czy czeka nas III Wojna Światowa?
+
+Kiedy w 2014 roku Rosjanie anektowali Krym, świat ogarnęła wizja III wojny światowej. Dziś, prawie 6 lat od tamtych wydarzeń, obawy przed kolejnym konfliktem światowym są wciąż wyczuwalne. Czy diagnozy o wybuchu światowego konfliktu się zrealizują? RODM Łódź zebrał diagnozy ekspertów, żeby razem z uczniami odszukać odpowiedzi na to zasadnicze pytanie.
+
+## Wojna i pokój - fotografie, które zmieniły świat
+
+Fotografia wojenna to niezwykła synteza dziennikarskiej dociekliwości i artystycznej wrażliwości. Jej mistrzowie, tacy jak Robert Capa czy Nick Ut ukazywali najmroczniejsze strony konfliktów zbrojnych, niejednokrotnie szokując opinię publiczną. W trakcie warsztatów uczniowie poznają najbardziej ikoniczne fotografie wojenne, by na ich podstawie odkryć nowe konteksty znanych z historii konfliktów zbrojnych.
+
+## Zawód: Reportażysta
+
+Reportaże stały się jednym z ciekawszych gatunków z pogranicza literatury pięknej i dziennikarstwa. Ich autorzy nierzadko sięgali po największe literackie nagrody (Swietłana Aleksijewicz, Ryszard Kapuściński, Jacek Hugo-Bader). Reportaże pisali również Winston Churchill czy Robert Makłowicz. Ale na czym właściwie polega praca reportażysty? O kulisach tego trudnego zawodu opowiadamy w sposób przystępny i bogaty w ciekawostki.
+
+## Terroryzm jako zagrożenie współczesnego świata
+
+Stereotypowy terrorysta to dwudziestokilkuletni mężczyzna w turbanie i wyraźnym zarostem. Oczywiście wyznawca islamu. Stereotypy są jednak mylące. Na przykładzie takich grup jak Frakcja Czerwonej Armii (RAF), Baskonia i Wolność (ETA) czy Irlandzka Armia Republikańska (IRA) wspólnie z uczniami szukamy źródeł tego niebezpiecznego zjawiska w Europie. W jakim stopniu Polska jest narażona na ataki terrorystyczne?
+
+## Jak świat przygotowuje się na katastrofę klimatyczną?
+
+Czy woda, lasy i paliwa kopalna mogą się kiedyś skończyć? Takie pytania postawili sobie członkowie Klubu Rzymskiego na początku lat 70-tych i po miesiącach badań oraz symulacji komputerowych znaleźli odpowiedź. Jaka była ich ostateczna diagnoza? Czy politycy wyciągnęli z niej jakiekolwiek wnioski? W czasach popularności ruchów ekologicznych opowiadamy o tym, jak kraje (w tym Polska) starają się ograniczyć degradację środowiska i w jakim stopniu im się to udaje?
 
 ***
 
