@@ -49,13 +49,13 @@ Dlaczego niektóre kraje są lepiej odbierane niż inne? Specjaliści od geopoli
 
 Za apogeum tzw. kryzysu migracyjnego uważa się rok 2015. Ale czy rzeczywiście Europa doświadczyła jakiegokolwiek kryzysu? Imigracja to zjawisko towarzyszące gatunkowi ludzkiemu od wieków, dlaczego więc tak bardzo się jej obawiamy? W trakcie zajęć uczniowie będą porównywać ze sobą przekazy medialne z relacjami uchodźców, którzy dotarli do Europy.
 
-## Brexit – nowa przyszłość Wielką Brytanię poza Unią Europejską?
+## Brexit – nowa przyszłość Wielkiej Brytanii poza Unią Europejską
 
-31 stycznia 2020 roku Wielka Brytania ostatecznie opuściła struktury Unii Europejskiej. Procedura brexitu doczekała się końca, ale przyszłość Zjednoczonego Królestwa wciąż wywołuje wiele pytań. Atmosferę podgrzewają antybrexitowe nastroje w Szkocji i Irlandii Północnej. Jak w tej całej dezorganizacji wygląda sytuacja polskich imigrantów na Wyspach? Zajęcia rozpoczynają się wewnątrzklasowym referendum brexitowym, a następnie specjaliści RODM przeprowadzają uczniów przez procedurę, jakiej poddała się Wielka Brytania. 
+31 stycznia 2020 roku Wielka Brytania ostatecznie opuściła struktury Unii Europejskiej. Procedura brexitu doczekała się końca, ale przyszłość Zjednoczonego Królestwa wciąż wywołuje wiele pytań. Atmosferę podgrzewają antybrexitowe nastroje w Szkocji i Irlandii Północnej. Jak w tej całej dezorganizacji wygląda sytuacja polskich imigrantów na Wyspach? Zajęcia rozpoczynają się wewnątrzklasowym referendum brexitowym, a następnie specjaliści RODM przeprowadzają uczniów przez procedurę, jakiej poddała się Wielka Brytania.
 
 ## Współczesne totalitaryzmy – czy jest się czego obawiać?
 
-XX w. w historii zostanie zapamiętany jako rozkwit ustrojów totalitarnych, które pozostawiły po sobie setki ofiar i zniszczeń. Jednak czy współcześnie stanowią dla nas zagrożenie? W trakcie zajęć uczniowie dowiedzą się jak rozpoznawać mechanizmy i sposoby działania systemów totalitarnych. Odwołując się do historii oraz współczesnych przykładów wyjaśniamy, jak funkcjonują społeczeństwa w krajach takich jak Korea Północna, Chiny czy Rosja. 
+XX w. w historii zostanie zapamiętany jako rozkwit ustrojów totalitarnych, które pozostawiły po sobie setki ofiar i zniszczeń. Jednak czy współcześnie stanowią dla nas zagrożenie? W trakcie zajęć uczniowie dowiedzą się jak rozpoznawać mechanizmy i sposoby działania systemów totalitarnych. Odwołując się do historii oraz współczesnych przykładów wyjaśniamy, jak funkcjonują społeczeństwa w krajach takich jak Korea Północna, Chiny czy Rosja.
 
 ## Czy czeka nas III Wojna Światowa?
 
