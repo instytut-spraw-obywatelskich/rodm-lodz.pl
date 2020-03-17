@@ -11,7 +11,7 @@ W ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi pragniemy zachę
 
 Oferujemy działania edukacyjno-informacyjne w formie lekcji i warsztatów, kierowane do szkół podstawowych i ponadpodstawowych w regionie łódzkim. Naszym celem jest poszerzanie wiedzy młodzieży o świecie, uwrażliwianie na międzynarodowe problemy i zachęcanie do aktywności obywatelskiej. 
 
-**Szkoły i inne placówki edukacyjne zachęcamy do współpracy z RODM.** Zajęcia prowadzone przez naszych konsultantów i współpracowników są **bezpłatne**.
+**Szkoły i inne placówki edukacyjne zachęcamy do współpracy z RODM Łódź**. Zajęcia prowadzone przez naszych konsultantów i współpracowników są **bezpłatne**.
 
 Zainteresowane szkoły prosimy o kontakt:  
 piotr.kazmierczak@instytut.lodz.pl/ rodm@rodm-lodz.pl lub pod nr telefonu 791 910 621
