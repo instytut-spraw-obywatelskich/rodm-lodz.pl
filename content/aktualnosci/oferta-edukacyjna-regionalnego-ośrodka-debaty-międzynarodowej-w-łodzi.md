@@ -9,7 +9,7 @@ Szanowni Państwo,
 
 W ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi pragniemy zachęcić do pogłębiania wiedzy z szerokiego zakresu spraw międzynarodowych, w tym polityki zagranicznej i obronnej, bezpieczeństwa energetycznego, społecznego, polityki klimatycznej, czy przyszłej karierze młodych ludzi w instytucjach międzynarodowych.
 
-Oferujemy działania edukacyjno-informacyjne w formie lekcji i warsztatów, kierowane do szkół podstawowych i ponadpodstawowych w regionie łódzkim. Naszym celem jest poszerzanie wiedzy młodzieży o świecie, uwrażliwianie na międzynarodowe problemy i zachęcanie do aktywności obywatelskiej. Prowadzone przez nas zajęcia są bezpłatne.
+Oferujemy działania edukacyjno-informacyjne w formie lekcji i warsztatów, kierowane do szkół podstawowych i ponadpodstawowych w regionie łódzkim. Naszym celem jest poszerzanie wiedzy młodzieży o świecie, uwrażliwianie na międzynarodowe problemy i zachęcanie do aktywności obywatelskiej. 
 
 **Szkoły i inne placówki edukacyjne zachęcamy do współpracy z RODM.** Zajęcia prowadzone przez naszych konsultantów i współpracowników są **bezpłatne**.
 
