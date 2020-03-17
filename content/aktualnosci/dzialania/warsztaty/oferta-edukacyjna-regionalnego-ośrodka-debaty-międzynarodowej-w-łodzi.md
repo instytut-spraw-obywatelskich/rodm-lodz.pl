@@ -57,9 +57,9 @@ Za apogeum tzw. kryzysu migracyjnego uważa się rok 2015. Ale czy rzeczywiście
 
 XX w. w historii zostanie zapamiętany jako rozkwit ustrojów totalitarnych, które pozostawiły po sobie setki ofiar i zniszczeń. Jednak czy współcześnie stanowią dla nas zagrożenie? W trakcie zajęć uczniowie dowiedzą się jak rozpoznawać mechanizmy i sposoby działania systemów totalitarnych. Odwołując się do historii oraz współczesnych przykładów wyjaśniamy, jak funkcjonują społeczeństwa w krajach takich jak Korea Północna, Chiny czy Rosja.
 
-## Czy czeka nas III Wojna Światowa?
+## Czy czeka nas III wojna światowa?
 
-Kiedy w 2014 roku Rosjanie anektowali Krym, świat ogarnęła wizja III wojny światowej. Dziś, prawie 6 lat od tamtych wydarzeń, obawy przed kolejnym konfliktem światowym są wciąż wyczuwalne. Czy diagnozy o wybuchu światowego konfliktu się zrealizują? RODM Łódź zebrał diagnozy ekspertów, żeby razem z uczniami odszukać odpowiedzi na to zasadnicze pytanie.
+Kiedy w 2014 roku Rosjanie anektowali Krym, świat ogarnęła wizja III wojny światowej. Dziś, prawie 6 lat od tamtych wydarzeń, obawy przed kolejnym konfliktem światowym są wciąż wyczuwalne. Czy diagnozy o wybuchu światowego konfliktu się zrealizują? RODM Łódź zebrał opinie ekspertów, żeby razem z uczniami odszukać odpowiedzi na to zasadnicze pytanie.
 
 ## Wojna i pokój - fotografie, które zmieniły świat
 
