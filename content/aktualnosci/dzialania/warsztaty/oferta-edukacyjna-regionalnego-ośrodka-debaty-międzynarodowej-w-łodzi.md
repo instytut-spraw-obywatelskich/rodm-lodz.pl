@@ -23,7 +23,7 @@ Podczas tych zajęć opowiemy o istocie bezpieczeństwa, roli NATO w polskiej po
 
 ## Informacja w epoce fake news
 
-Internet miał sprawić, że wiedza naukowa będzie dostępna od ręki dla każdego. W rzeczywistości jednak wartościowe treści wypierają często fałszywe komunikaty, a walka o przekaz w internecie stała się częścią przestrzeni sporu państw. Jak odnaleźć się w szumie informacyjnym i uzyskać wiarygodne informacje? Jak rozpoznać fake news i bardziej krytycznie analizować rzeczywistość? Podczas tych zajęć chcemy przede wszystkim rozwijać zdolność krytycznej oceny treści przeczytanych w internecie.
+Internet miał sprawić, że wiedza naukowa będzie dostępna od ręki dla każdego. W rzeczywistości jednak wartościowe treści często są wypierane przez fałszywe komunikaty, a walka o przekaz w internecie stała się częścią przestrzeni sporu państw. Jak odnaleźć się w szumie informacyjnym i uzyskać wiarygodne informacje? Jak rozpoznać fake news i bardziej krytycznie analizować rzeczywistość? Podczas tych zajęć chcemy przede wszystkim rozwijać zdolność krytycznej oceny treści przeczytanych w internecie.
 
 ## Bezpieczeństwo energetyczne Polski
 
@@ -51,11 +51,11 @@ Za apogeum tzw. kryzysu migracyjnego uważa się rok 2015. Ale czy rzeczywiście
 
 ## Brexit – nowa przyszłość Wielkiej Brytanii poza Unią Europejską
 
-31 stycznia 2020 roku Wielka Brytania ostatecznie opuściła struktury Unii Europejskiej. Procedura brexitu doczekała się końca, ale przyszłość Zjednoczonego Królestwa wciąż wywołuje wiele pytań. Atmosferę podgrzewają antybrexitowe nastroje w Szkocji i Irlandii Północnej. Jak w tej całej dezorganizacji wygląda sytuacja polskich imigrantów na Wyspach? Zajęcia rozpoczynają się wewnątrzklasowym referendum brexitowym, a następnie specjaliści RODM przeprowadzają uczniów przez procedurę, jakiej poddała się Wielka Brytania.
+31 stycznia 2020 roku Wielka Brytania ostatecznie opuściła struktury Unii Europejskiej. Procedura brexitu zakończyła się, ale przyszłość Zjednoczonego Królestwa wciąż wywołuje wiele pytań. Atmosferę podgrzewają antybrexitowe nastroje w Szkocji i Irlandii Północnej. Jak w tej całej dezorganizacji wygląda sytuacja polskich imigrantów na Wyspach? Zajęcia rozpoczynają się wewnątrzklasowym referendum brexitowym, a następnie specjaliści RODM przeprowadzają uczniów przez procedurę, jakiej poddała się Wielka Brytania.
 
 ## Współczesne totalitaryzmy – czy jest się czego obawiać?
 
-XX w. w historii zostanie zapamiętany jako rozkwit ustrojów totalitarnych, które pozostawiły po sobie setki ofiar i zniszczeń. Jednak czy współcześnie stanowią dla nas zagrożenie? W trakcie zajęć uczniowie dowiedzą się jak rozpoznawać mechanizmy i sposoby działania systemów totalitarnych. Odwołując się do historii oraz współczesnych przykładów wyjaśniamy, jak funkcjonują społeczeństwa w krajach takich jak Korea Północna, Chiny czy Rosja.
+XX w. w historii zostanie zapamiętany jako rozkwit ustrojów totalitarnych, które pozostawiły po sobie setki ofiar i zniszczeń. Jednak czy współcześnie stanowią dla nas zagrożenie? W trakcie zajęć uczniowie dowiedzą się, jak rozpoznawać mechanizmy i sposoby działania systemów totalitarnych. Odwołując się do historii oraz współczesnych przykładów wyjaśniamy, jak funkcjonują społeczeństwa w krajach takich jak Korea Północna, Chiny czy Rosja.
 
 ## Czy czeka nas III wojna światowa?
 
@@ -71,7 +71,7 @@ Reportaże stały się jednym z ciekawszych gatunków z pogranicza literatury pi
 
 ## Terroryzm jako zagrożenie współczesnego świata
 
-Stereotypowy terrorysta to dwudziestokilkuletni mężczyzna w turbanie i wyraźnym zarostem. Oczywiście wyznawca islamu. Stereotypy są jednak mylące. Na przykładzie takich grup jak Frakcja Czerwonej Armii (RAF), Baskonia i Wolność (ETA) czy Irlandzka Armia Republikańska (IRA) wspólnie z uczniami szukamy źródeł tego niebezpiecznego zjawiska w Europie. W jakim stopniu Polska jest narażona na ataki terrorystyczne?
+Stereotypowy terrorysta to dwudziestokilkuletni mężczyzna w turbanie z wyraźnym zarostem. Oczywiście wyznawca islamu. Stereotypy są jednak mylące. Na przykładzie takich grup jak Frakcja Czerwonej Armii (RAF), Baskonia i Wolność (ETA) czy Irlandzka Armia Republikańska (IRA) wspólnie z uczniami szukamy źródeł tego niebezpiecznego zjawiska w Europie. W jakim stopniu Polska jest narażona na ataki terrorystyczne?
 
 ## Jak świat przygotowuje się na katastrofę klimatyczną?
 
