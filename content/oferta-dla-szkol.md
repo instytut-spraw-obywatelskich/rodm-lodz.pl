@@ -30,12 +30,10 @@ Fotografia wojenna to niezwykła synteza dziennikarskiej dociekliwości i artyst
 
 ### Zainteresowane szkoły prosimy o kontakt:
 
-**Piotr Kaźmierczak**
+**Piotr Kaźmierczak  
+**tel.: 791 910 621 e-mail: piotr.kazmierczak@instytut.lodz.pl
 
-tel.: 791 910 621 e-mail: piotr.kazmierczak@instytut.lodz.pl
-
-**Paweł Marczak**
-
-tel.: 691 487 749 e-mail: pawel.marczak@instytut.lodz.pl
+**Paweł Marczak  
+**tel.: 691 487 749 e-mail: pawel.marczak@instytut.lodz.pl
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1567424270/rodm/spreads_ip0b9x.gif)
