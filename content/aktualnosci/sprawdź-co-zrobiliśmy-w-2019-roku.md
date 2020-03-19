@@ -1,6 +1,5 @@
 +++
 date = 2020-03-16T23:00:00Z
-draft = true
 main_image = "/v1584617028/rodm/sukcesy_2019_www_amnxkb.png"
 slug = "sprawdz-co-zrobilismy-w-2019-roku"
 title = "Sprawdź, co zrobiliśmy w 2019 roku"
