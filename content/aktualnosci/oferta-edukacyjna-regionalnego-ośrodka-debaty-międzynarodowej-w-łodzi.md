@@ -13,10 +13,15 @@ Oferujemy działania edukacyjno-informacyjne w formie lekcji i warsztatów, kier
 
 **Szkoły i inne placówki edukacyjne zachęcamy do współpracy z RODM Łódź**. Zajęcia prowadzone przez naszych konsultantów i współpracowników są **bezpłatne**.
 
-Zainteresowane szkoły prosimy o kontakt:  
-piotr.kazmierczak@instytut.lodz.pl/ rodm@rodm-lodz.pl lub pod nr telefonu 791 910 621
+##### Oferta edukacyjna Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi:
 
-Pozostajemy do Państwa dyspozycji.
+[OFERTA EDUKACYJNA RODM ŁÓDŹ - KLIKNIJ TUTAJ](https://instytutsprawobywatelskich.pl/pobierz/rodm-lodz/oferta_edu_rodm_lodz_2020.pdf "Oferta edukacyjna RODM Łódź")
 
-[PEŁNA OFERTA EDUKACYJNA - KLIKNIJ TUTAJ](https://issuu.com/rodmlodzkie/docs/oferta_edukacyjna_rodm_lodz_2019 "Oferta edukacyjna RODM")  
-![](https://res.cloudinary.com/inspro/image/upload/v1567424270/rodm/spreads_ip0b9x.gif)
+**Zainteresowane szkoły prosimy o kontakt:**  
+Piotr Kaźmierczak  
+tel.: 791 910 621 e-mail: piotr.kazmierczak@instytut.lodz.pl
+
+Paweł Marczak  
+tel.: 691 487 749 e-mail: pawel.marczak@instytut.lodz.pl
+
+<iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:526px;" src="//e.issuu.com/embed.html?backgroundColor=%23ba6144&d=oferta_edu_rodm_lodz_2020&u=inspro"></iframe>
