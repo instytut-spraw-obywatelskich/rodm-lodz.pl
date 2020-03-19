@@ -6,7 +6,7 @@ menu:
     weight: 40
 
 ---
-W ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi pragniemy zachęcić do pogłębiania wiedzy z szerokiego zakresu spraw międzynarodowych, w tym polityki zagranicznej i obronnej, bezpieczeństwa energetycznego, społecznego, polityki klimatycznej, polityki migracyjnej czy przyszłej kariery młodych ludzi w instytucjach międzynarodowych.
+![](https://res.cloudinary.com/inspro/image/upload/v1575542798/rodm/oferta-dla-szkol_xlf9o0.jpg)W ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi pragniemy zachęcić do pogłębiania wiedzy z szerokiego zakresu spraw międzynarodowych, w tym polityki zagranicznej i obronnej, bezpieczeństwa energetycznego, społecznego, polityki klimatycznej, polityki migracyjnej czy przyszłej kariery młodych ludzi w instytucjach międzynarodowych.
 
 **Szkoły podstawowe i ponadpodstawowe oraz inne placówki edukacyjne w regionie łódzkim zachęcamy do współpracy z RODM Łódź**. Zajęcia prowadzone przez naszych konsultantów i współpracowników są **bezpłatne**.
 
