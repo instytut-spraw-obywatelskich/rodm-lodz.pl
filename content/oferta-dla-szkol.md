@@ -26,14 +26,14 @@ Fotografia wojenna to niezwykła synteza dziennikarskiej dociekliwości i artyst
 
 #### Zachęcamy do zapoznania się z pełną ofertą edukacyjną Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi:
 
-[PEŁNA OFERTA EDUKACYJNA - KLIKNIJ TUTAJ](https://issuu.com/rodmlodzkie/docs/oferta_edukacyjna_rodm_lodz_2019 "Oferta edukacyjna RODM")
+[PEŁNA OFERTA EDUKACYJNA RODM ŁÓDŹ - KLIKNIJ TUTAJ](https://instytutsprawobywatelskich.pl/pobierz/rodm-lodz/oferta_edu_rodm_lodz_2020.pdf "Oferta edukacyjna RODM Łódź")
 
 ### Zainteresowane szkoły prosimy o kontakt:
 
-**Piotr Kaźmierczak  
-**tel.: 791 910 621 e-mail: piotr.kazmierczak@instytut.lodz.pl
+\**Piotr Kaźmierczak  
+\**tel.: 791 910 621 e-mail: piotr.kazmierczak@instytut.lodz.pl
 
-**Paweł Marczak  
-**tel.: 691 487 749 e-mail: pawel.marczak@instytut.lodz.pl
+\**Paweł Marczak  
+\**tel.: 691 487 749 e-mail: pawel.marczak@instytut.lodz.pl
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1567424270/rodm/spreads_ip0b9x.gif)
