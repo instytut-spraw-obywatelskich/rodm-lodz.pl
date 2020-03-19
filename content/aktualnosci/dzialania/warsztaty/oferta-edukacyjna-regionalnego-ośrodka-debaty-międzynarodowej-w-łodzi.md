@@ -11,7 +11,7 @@ Bezpłatne warsztaty edukacyjne o sprawach międzynarodowych
 
 Regionalny Ośrodek Debaty Międzynarodowej w Łodzi oferuje działania edukacyjno-informacyjne w formie lekcji i warsztatów, kierowane do szkół podstawowych i ponadpodstawowych w regionie łódzkim. W trakcie zajęć uczniowie mają możliwość poszerzenia swojej wiedzy nt. otaczającego ich świata oraz bieżącej polityki międzynarodowej. Prowadzone przez nas zajęcia są całkowicie bezpłatne. Czas trwania zajęć to od 1-2 godzin lekcyjnych. Zajęcia uzupełniają program lekcji historii, WOS-u, edukacji dla bezpieczeństwa, geografii, języka polskiego czy WOK-u. Sugerowana grupa zajęciowa to 15-35 osób.
 
-Oferta zawiera tematy realizowane w 2019 roku, uzupełnione o nowe propozycje z 2020 roku. 
+Oferta zawiera tematy realizowane w 2019 roku, uzupełnione o nowe propozycje z 2020 roku.
 
 Poniżej przedstawiamy proponowane bloki tematyczne:
 
@@ -29,7 +29,7 @@ Podczas tych zajęć opowiemy o istocie bezpieczeństwa, roli NATO w polskiej po
 
 ## Informacja w epoce fake news
 
-Internet miał sprawić, że wiedza naukowa będzie dostępna od ręki dla każdego. W rzeczywistości jednak wartościowe treści często są wypierane przez fałszywe komunikaty, a walka o przekaz w internecie stała się częścią przestrzeni sporu państw. Jak odnaleźć się w szumie informacyjnym i uzyskać wiarygodne informacje? Jak rozpoznać fake news i bardziej krytycznie analizować rzeczywistość? Podczas tych zajęć chcemy przede wszystkim rozwijać zdolność krytycznej oceny treści przeczytanych w internecie. 
+Internet miał sprawić, że wiedza naukowa będzie dostępna od ręki dla każdego. W rzeczywistości jednak wartościowe treści często są wypierane przez fałszywe komunikaty, a walka o przekaz w internecie stała się częścią przestrzeni sporu państw. Jak odnaleźć się w szumie informacyjnym i uzyskać wiarygodne informacje? Jak rozpoznać fake news i bardziej krytycznie analizować rzeczywistość? Podczas tych zajęć chcemy przede wszystkim rozwijać zdolność krytycznej oceny treści przeczytanych w internecie.
 
 **Zajęcia rekomendowane na lekcje: języka polskiego, WOSu, informatyki, godziny wychowawczej.**
 
@@ -43,7 +43,7 @@ Czy Polska po trzech dekadach od transformacji ustrojowej wybije się na suweren
 
 Jak działa współczesny międzynarodowy handel? Na przykładzie produkcji telefonów komórkowych prześledzimy, jak wygląda konkurencja krajów na globalnym rynku. Pokażemy również, jakie konsekwencje dla różnych części świata ma wydobycie zasobów naturalnych potrzebnych do produkcji baterii. Zajmiemy się także kwestią amerykańsko-chińskiej wojny handlowej.
 
-**Zajęcia rekomendowane na lekcje: WOSu, historii, geografii, podstaw przedsiębiorczości.** 
+**Zajęcia rekomendowane na lekcje: WOSu, historii, geografii, podstaw przedsiębiorczości.**
 
 ## Nord Stream 2 – gazowa gra Rosji
 
@@ -119,6 +119,20 @@ Czy woda, lasy i paliwa kopalna mogą się kiedyś skończyć? Takie pytania pos
 
 ***
 
+### Pobierz ofertę edukacyjną Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi:
+
+[OFERTA EDUKACYJNA RODM ŁÓDŹ - KLIKNIJ TUTAJ](https://instytutsprawobywatelskich.pl/pobierz/rodm-lodz/oferta_edu_rodm_lodz_2020.pdf "Oferta edukacyjna RODM Łódź")
+
+### **Zainteresowane szkoły prosimy o kontakt:**
+
+Piotr Kaźmierczak  
+tel.: 791 910 621 e-mail: piotr.kazmierczak@instytut.lodz.pl
+
+Paweł Marczak  
+tel.: 691 487 749 e-mail: pawel.marczak@instytut.lodz.pl
+
+***
+
 ## Regionalny Ośrodek Debaty Międzynarodowej
 
 w Łodzi to część sieci informacyjnej Ministerstwa Spraw Zagranicznych promującej polską politykę zagraniczną. RODM w Łodzi realizowany jest w latach 2019-2021 przez Instytut Spraw Obywatelskich i współfinansowany przez Ministerstwo Spraw Zagranicznych RP w konkursie “Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
@@ -128,14 +142,3 @@ Celem RODM jest przybliżenie obywatelom polskiej polityki zagranicznej oraz wzm
 Ośrodek jest odpowiedzialny za animowanie i inicjowanie w regionie spotkań, debat i innych wydarzeń z udziałem przedstawicieli najważniejszych instytucji, organizacji i ośrodków analityczno-badawczych. Spotkania oraz debaty są okazją do dyskusji na temat funkcjonowania polskiej polityki zagranicznej w kontekście regionalnym.
 
 Ośrodek prowadzi także działania edukacyjne, które mają pobudzać młodzież do myślenia o polityce zagranicznej Polski.
-
-Zapraszamy do kontaktu!  
-tel. 791 910 621  
-piotr.kazmierczak@instytut.lodz.pl
-
-**Piotr Kaźmierczak**  
-konsultant Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi
-
-Regionalny Ośrodek Debaty Międzynarodowej w Łodzi  
-ul. Pomorska 40 91-408 Łódź tel.: 519 300 645  
-e-mail: rodm@rodm-lodz.pl
