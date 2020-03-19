@@ -7,7 +7,7 @@ title = "Oferta edukacyjna Regionalnego Ośrodka Debaty Międzynarodowej w Łodz
 +++
 Szanowni Państwo,
 
-W ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi pragniemy zachęcić do pogłębiania wiedzy z szerokiego zakresu spraw międzynarodowych, w tym polityki zagranicznej i obronnej, bezpieczeństwa energetycznego, społecznego, polityki klimatycznej, czy przyszłej karierze młodych ludzi w instytucjach międzynarodowych.
+W ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi pragniemy zachęcić do pogłębiania wiedzy z szerokiego zakresu spraw międzynarodowych, w tym polityki zagranicznej i obronnej, bezpieczeństwa energetycznego, społecznego, polityki klimatycznej, polityki migracyjnej czy przyszłej kariery młodych ludzi w instytucjach międzynarodowych.
 
 Oferujemy działania edukacyjno-informacyjne w formie lekcji i warsztatów, kierowane do szkół podstawowych i ponadpodstawowych w regionie łódzkim. Naszym celem jest poszerzanie wiedzy młodzieży o świecie, uwrażliwianie na międzynarodowe problemy i zachęcanie do aktywności obywatelskiej.
 
