@@ -1,5 +1,5 @@
 ---
-title: Nasze Działania
+title: Działania
 layout: dzialania
 weight: 30
 menu:
