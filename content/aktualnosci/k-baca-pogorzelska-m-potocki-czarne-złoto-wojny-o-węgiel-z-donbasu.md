@@ -1,5 +1,5 @@
 +++
-date = 2020-03-30T22:00:00Z
+date = 2020-03-31T22:00:00Z
 main_image = "/v1585671815/rodm/czarne_z_oto_nowe_ibcokm.jpg"
 slug = "k-baca-pogorzelska-m-potocki-czarne-zloto-wojny-o-wegiel-z-donbasu"
 title = "K. Baca-Pogorzelska, M. Potocki: Czarne złoto. Wojny o węgiel z Donbasu"
