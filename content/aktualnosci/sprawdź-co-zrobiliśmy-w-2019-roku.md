@@ -1,5 +1,5 @@
 +++
-date = 2020-03-17T23:00:00Z
+date = 2020-03-18T23:00:00Z
 main_image = "/v1584617028/rodm/sukcesy_2019_www_amnxkb.png"
 slug = "sprawdz-co-zrobilismy-w-2019-roku"
 title = "Sprawdź, co zrobiliśmy w 2019 roku"
