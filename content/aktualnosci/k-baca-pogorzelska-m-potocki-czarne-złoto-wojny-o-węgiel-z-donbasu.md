@@ -1,6 +1,6 @@
 +++
 date = 2020-03-30T22:00:00Z
-main_image = "/v1585673444/rodm/czarne-z-oto_na_www_cewdsn.jpg"
+main_image = "/v1585674492/rodm/czarne-z-oto_kqyf30.jpg"
 slug = "k-baca-pogorzelska-m-potocki-czarne-zloto-wojny-o-wegiel-z-donbasu"
 title = "K. Baca-Pogorzelska, M. Potocki: Czarne złoto. Wojny o węgiel z Donbasu"
 
