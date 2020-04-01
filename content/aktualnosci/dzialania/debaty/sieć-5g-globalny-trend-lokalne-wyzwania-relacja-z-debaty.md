@@ -21,7 +21,7 @@ W Krakowie podejmuje się różne działania. Buduje świadomość mieszkańców
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1582295067/rodm/2020-02-13_10.20.39_1_w10u36.jpg)Zarówno dane o ich zachowaniach, czyli o historii działań w internecie, jak i decyzjach zakupowych oraz odwiedzanych stron. Również i głębsze dane, bardziej wrażliwe, dotyczące obywateli: od strony ubezpieczeniowej czy dane medyczne. W perspektywie widzimy, że zakres podejmowanych danych wciąż się poszerza. Oferowane są bardzo tanie badania genotypu, gdzie klient otrzymuje informację od firmy o podatności na choroby, o zalecanej diecie, a w zamian oddaje firmie wiedzę o swoim genotypie. W ten sposób widać, przechodzimy w kierunku gospodarki opartej na danych.
 
-![](https://res.cloudinary.com/inspro/image/upload/v1582295148/rodm/2020-02-13_10.20.50_1_fhvh56.jpg)O tym, jak w praktyce przebiega proces planowania i budowy masztów stacji bazowych opowiedziała przedstawicielka mieszkańców osiedla Złotno w Łodzi, którzy w sposób zorganizowany przeciwstawili się budowie kolejnej stacji bazowej na swoim osiedlu.
+![](https://res.cloudinary.com/inspro/image/upload/v1582295148/rodm/2020-02-13_10.20.50_1_fhvh56.jpg)O tym, jak w praktyce przebiega proces planowania i budowy masztów stacji bazowych opowiedziała Joanna Berlińska, przedstawicielka mieszkańców osiedla Złotno w Łodzi, którzy w sposób zorganizowany w ramach inicjatywy „STOP masztom na Złotnie” przeciwstawili się budowie kolejnej stacji bazowej na swoim osiedlu.
 
 **Autor:** Małgorzata Jankowska, konsultantka RODM Łódź
 
