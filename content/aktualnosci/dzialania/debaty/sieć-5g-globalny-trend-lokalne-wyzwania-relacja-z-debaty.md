@@ -21,7 +21,7 @@ W Krakowie podejmuje się różne działania. Buduje świadomość mieszkańców
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1582295067/rodm/2020-02-13_10.20.39_1_w10u36.jpg)
 
-{{ < youtube hw_uDRzCBW4 >}}
+{{ < youtube uDRzCBW4 >}}
 
 Zarówno dane o ich zachowaniach, czyli o historii działań w internecie, jak i decyzjach zakupowych oraz odwiedzanych stron. Również i głębsze dane, bardziej wrażliwe, dotyczące obywateli: od strony ubezpieczeniowej czy dane medyczne. W perspektywie widzimy, że zakres podejmowanych danych wciąż się poszerza. Oferowane są bardzo tanie badania genotypu, gdzie klient otrzymuje informację od firmy o podatności na choroby, o zalecanej diecie, a w zamian oddaje firmie wiedzę o swoim genotypie. W ten sposób widać, przechodzimy w kierunku gospodarki opartej na danych.
 
