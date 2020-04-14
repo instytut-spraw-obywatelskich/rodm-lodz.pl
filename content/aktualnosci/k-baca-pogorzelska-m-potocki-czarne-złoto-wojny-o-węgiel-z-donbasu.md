@@ -7,13 +7,13 @@ title = "K. Baca-Pogorzelska, M. Potocki: Czarne złoto. Wojny o węgiel z Donba
 +++
 **Donbas znaczy węgiel. To dzięki niemu zbudowano tam miasta i fabryki.**
 
-**Przez dekady przyciągał awanturników, uciekinierów i biznesmenów z całej Europy. Wojna i rosyjska agresja nic w tej kwestii nie zmieniły. Czarne złoto Donbasu wciąż idzie w świat. Dzisiaj handlu nim nie kontroluje jednak ani Ukraina, ani jej wielki biznes. Z błogosławieństwem Rosji przejęli go separatyści i związani z nimi przedsiębiorcy. Przemycają węgiel przez granicę, załatwiają mu lewe papiery i sprzedają dalej, mimo nałożonego przez Ukrainę zakazu, którego łamanie uznaje się tam za finansowanie terroryzmu. W niechlubnym procederze biorą również udział prywatne firmy z Polski. Śledztwo dziennikarskie w tej sprawie trwało dwa lata i objęło dwanaście państw. Jego rezultaty trzymają Państwo w rękach (z materiałów Wydawnictwa Czarne).** 
+**Przez dekady przyciągał awanturników, uciekinierów i biznesmenów z całej Europy. Wojna i rosyjska agresja nic w tej kwestii nie zmieniły. Czarne złoto Donbasu wciąż idzie w świat. Dzisiaj handlu nim nie kontroluje jednak ani Ukraina, ani jej wielki biznes. Z błogosławieństwem Rosji przejęli go separatyści i związani z nimi przedsiębiorcy. Przemycają węgiel przez granicę, załatwiają mu lewe papiery i sprzedają dalej, mimo nałożonego przez Ukrainę zakazu, którego łamanie uznaje się tam za finansowanie terroryzmu. W niechlubnym procederze biorą również udział prywatne firmy z Polski. Śledztwo dziennikarskie w tej sprawie trwało dwa lata i objęło dwanaście państw. Jego rezultaty trzymają Państwo w rękach (z materiałów Wydawnictwa Czarne).**
 
-Zachęcamy do lektury. Wydawnictwu Czarne, wydawcy książki _„Czarne złoto. Wojny o węgiel z Donbasu”_, dziękujemy za udostępnienie fragmentu do publikacji. 
+Zachęcamy do lektury. Wydawnictwu Czarne, wydawcy książki _„Czarne złoto. Wojny o węgiel z Donbasu”_, dziękujemy za udostępnienie fragmentu do publikacji.
 
 W ramach cyklu _#ZostanWdomu_ i czytaj z _#RODMŁódź_ publikujemy fragmenty książek o najważniejszych zagadnieniach ze stosunków międzynarodowych i polityki zagranicznej.
 
-##  _„Czarne złoto. Wojny o węgiel z Donbasu”_ (fragment) 
+## _„Czarne złoto. Wojny o węgiel z Donbasu”_ (fragment)
 
 \[...\] Ten biznes jest wart miliony. Kurczenko płaci kopalniom 25– 30 dolarów za tonę antracytu. Na Zachodzie sprzedaje się go po 100–160 dolarów. Niewielka część węgla jest wywożona do Rosji ciężarówkami. Najczęściej wjeżdża on koleją przez odcinek granicy kontrolowany przez separatystów. Spośród kilku tysięcy wagonów wykorzystywanych do transportu część to składy należące do ukraińskiej Ukrzaliznyci, które separatyści przechwycili na zajętym terenie obwodów donieckiego i ługańskiego. Jeżdżą nielegalnie także dlatego, że zgodnie z rosyjskim prawem wagony wyprodukowane przed 1985 rokiem co pięć lat powinny przechodzić remont generalny. Od rozpoczęcia okupacji minęło akurat tyle czasu, a Ukrzaliznycia nie mogła ich odnowić.
 
@@ -43,6 +43,6 @@ Minister do spraw terytoriów okupowanych Heorhij Tuka mówił agencji UNN tak:
 
 – Nie tylko, jest i metal, i ruda. Ale lwia część to węgiel. Na Morzu Azowskim korzystają z dwóch portów, Taganrogu i Azowa. I tylko jeśli chodzi o Taganrog, oficjalnie zaraportowali, że w 2017 roku przeładowano blisko 1,5 miliona ton. Ogólny wolumen według naszych ocen wynosi mniej więcej 7 milionów ton rocznie. Jeśli pomnożyć to przez 50–60 dolarów za tonę, można policzyć rząd wielkości zysków. \[...\]
 
-**Karolina Baca-Pogorzelska, Michał Potocki**: [Czarne złoto. Wojny o węgiel z Donbasu, Wydawnictwo Czarne 2020](https://czarne.com.pl/katalog/ksiazki/czarne-zloto). 
+**Karolina Baca-Pogorzelska, Michał Potocki**: [Czarne złoto. Wojny o węgiel z Donbasu, Wydawnictwo Czarne 2020](https://czarne.com.pl/katalog/ksiazki/czarne-zloto).
 
 Premiera książki: **8 kwietnia 2020**. 
