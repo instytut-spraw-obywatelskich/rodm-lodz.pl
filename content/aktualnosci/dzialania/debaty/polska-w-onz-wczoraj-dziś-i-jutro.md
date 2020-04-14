@@ -37,6 +37,8 @@ Zainicjowaliśmy rezolucję o sytuacji osób niepełnosprawnych w strefach obję
 
 Często nie zdajemy sobie z tego sprawy, ale z efektów działalności ONZ korzystamy na co dzień. Zwrócił na to uwagę Koordynator Programu Sprawy Globalne w Polskim Instytucie Spraw Międzynarodowych, dr Szymon Zaręba. Patrząc na ONZ w systemie Narodów Zjednoczonych, działające przy niej organy mają wpływ na wiele sfer naszego życia. Koordynowaniem walki z koronawirusem zajmuje się WHO, inne organy umożliwiają realizację m.in. międzynarodowych połączeń telekomunikacyjnych czy lotniczych.
 
+{{< youtube nG40wPHVNXE >}}
+
 ![](https://res.cloudinary.com/inspro/image/upload/v1582297708/rodm/DSC01447_qwuifp.jpg)
 
 Co dalej? Wyznacznikami polskiego zaangażowania w ramach ONZ będą: prawo międzynarodowe, międzynarodowe prawo humanitarne oraz świadczenie pomocy państwom objętym konfliktem.
