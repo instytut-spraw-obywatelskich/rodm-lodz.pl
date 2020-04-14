@@ -7,9 +7,9 @@ title = "O. Wiechnik: Posełki. Osiem pierwszych kobiet "
 +++
 **Wszyscy wokół albo oszuści, albo komedianci, albo ludzie bezdennie słabi. Ja miotam się bezsilnie, bo oczywiście „babie” nie pozwoli przecież nikt z tych mężów stanu polityki prowadzić, a tymczasem wierzcie mi, że my byśmy tę politykę o całe niebo dalej i lepiej prowadziły niż oni! – pisała w 1916 r. do męża Zofia Moraczewska.**
 
-100 lat temu Polki wywalczyły sobie prawa wyborcze. Do Sejmu Ustawodawczego, który miał na nowo określić sposób funkcjonowania państwa polskiego po odzyskaniu niepodległości, weszło 442 mężczyzn i 8 kobiet – była wśród nich Moraczewska. Nazywano je posełkami albo posełkiniami, czasem poślicami. Wywodziły się z różnych środowisk, ale – często wbrew swoim partiom – działały wspólnie w sprawach, które uważały za ważne: sprawach kobiet.
+**100 lat temu Polki wywalczyły sobie prawa wyborcze. Do Sejmu Ustawodawczego, który miał na nowo określić sposób funkcjonowania państwa polskiego po odzyskaniu niepodległości, weszło 442 mężczyzn i 8 kobiet – była wśród nich Moraczewska. Nazywano je posełkami albo posełkiniami, czasem poślicami. Wywodziły się z różnych środowisk, ale – często wbrew swoim partiom – działały wspólnie w sprawach, które uważały za ważne: sprawach kobiet.**
 
-Nie mają swoich ulic, nie mają pomników, nie uczy się o nich w szkołach. Kim były posełki, o co walczyły i jaki poniosły koszt tej walki? (z materiałów Wydawnictwa Poznańskiego).
+**Nie mają swoich ulic, nie mają pomników, nie uczy się o nich w szkołach. Kim były posełki, o co walczyły i jaki poniosły koszt tej walki? (z materiałów Wydawnictwa Poznańskiego).**
 
 Zachęcamy do lektury. Wydawnictwu Poznańskiemu, wydawcy książki _„Posełki. Osiem pierwszych kobiet”_, dziękujemy za udostępnienie fragmentu do publikacji.
 
