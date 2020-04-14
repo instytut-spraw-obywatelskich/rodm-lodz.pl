@@ -23,6 +23,8 @@ Na początku nasza pomoc polegała głównie na opiece zdrowotnej dla miejscowej
 
 Konwoje ciężarówek wyładowanych po brzegi np. mąką, to już przeszłość. Dziś do placówki zagranicznej przesyła się pieniądze, a wszystkie zakupy i inwestycje dokonywane są na miejscu. Daje to dodatkowe efekty w postaci wspierania lokalnej społeczności, handlu, rolnictwa.
 
+{{< youtube qpRnLhEA3As&t >}}
+
 **Korzyści dla Polski**
 
 Aktywność na forach międzynarodowych służy budowaniu pozycji państwa. Jak podkreślał dyrektor Jerzy Baurski, Polska chce uczestniczyć w pracach ONZ, a nasza aktywność jest obowiązkiem wobec innych krajów.
