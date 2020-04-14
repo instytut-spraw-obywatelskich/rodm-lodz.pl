@@ -1,6 +1,5 @@
 +++
 date = 2020-04-13T22:00:00Z
-draft = true
 main_image = "/v1586869002/rodm/e_poselki_300dpi_tr6p7v.jpg"
 slug = "o-wiechnik-poselki-osiem-pierwszych-kobiet"
 title = "O. Wiechnik: Posełki. Osiem pierwszych kobiet "
