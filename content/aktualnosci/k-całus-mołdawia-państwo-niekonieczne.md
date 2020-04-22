@@ -1,6 +1,5 @@
 +++
 date = 2020-04-21T22:00:00Z
-draft = true
 main_image = "/v1587545577/rodm/moldawia-1_wymiary_haxfcq.jpg"
 slug = "k-calus-moldawia-panstwo-niekonieczne"
 title = "K. Całus: Mołdawia. Państwo niekonieczne"
