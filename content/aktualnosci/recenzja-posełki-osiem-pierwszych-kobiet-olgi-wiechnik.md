@@ -1,6 +1,5 @@
 +++
 date = 2020-04-28T22:00:00Z
-draft = true
 main_image = "/v1588108808/rodm/Pose%C5%82ki_na_stron%C4%99_RODM_wymiary_jajstu.jpg"
 slug = "recenzja-poselki-osiem-pierwszych-kobiet-olgi-wiechnik"
 title = "Recenzja „Posełki. Osiem pierwszych kobiet” Olgi Wiechnik"
