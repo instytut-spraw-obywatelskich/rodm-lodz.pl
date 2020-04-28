@@ -1,0 +1,23 @@
++++
+date = 2020-04-28T22:00:00Z
+draft = true
+main_image = "/v1588108808/rodm/Pose%C5%82ki_na_stron%C4%99_RODM_wymiary_jajstu.jpg"
+slug = "recenzja-poselki-osiem-pierwszych-kobiet-olgi-wiechnik"
+title = "Recenzja „Posełki. Osiem pierwszych kobiet” Olgi Wiechnik"
+
++++
+**Niecałe 2%. Tylko tyle procent pierwszego Sejmu Ustawodawczego II RP stanowiły kobiety: Zofia Moraczewska, Zofia Sokolnicka, Maria Moczydłowska, Jadwiga Dziubińska, Anna Piasecka, Gabriela Balicka, Franciszka Wilczkowiakowa oraz Irena Kosmowska. To one walczyły i przecierały szlaki wszystkim kobietom, pokazały, że walcząc o swoje prawa, tworzyły historię i lepszy świat dla następnych pokoleń. Rozmaicie je nazywano, od posełek i posełkiń przez poślice. Wywodziły się z różnych środowisk, ale łączyła je walka o sprawy kobiet. Tworzyły historię.**
+
+Olga Wiechnik zaczyna i kończy swoją opowieść od historii Zofii Moraczewskiej. Rozdziały poświęcone jej życiu, przeplatane są biografiami pozostałych bohaterek. Autorka podjęła się trudnego wyzwania. Przybliża nam życie kobiet, o których nie mówi się na lekcjach historii. Zdarza się, że nawet w teczkach z Biblioteki Sejmowej nie znajdziemy istotnych wiadomości o pierwszych posłankach. To kobiety niedocenione i zapomniane. Tak jakby ich wkład w państwowość II Rzeczpospolitej, ich zasługi nic nie znaczyły. Wiechnik pokazuje, jak silne były to kobiety, do jakich poświęceń były zdolne, by ratować swoich rodaków, by walczyć w ich sprawie. Porusza również temat walki o edukację. Mówi o tym, jak kobiety brały sprawy w swoje ręce i same otwierały szkoły. Jak walczyły o godną i równą edukację dla młodzieży.  
+   
+Jedną z bohaterek jest Maria Moczydłowska. Z mężem Mieczysławem pracowała w szkole rolniczej w Liskowie, blisko współpracując z księdzem Wacławem Blizińskim, propagatorem spółdzielczości. Była najmłodszą z posełek i jako pierwsza kobieta zabrała głos na posiedzeniu Sejmu w nowej roli. Moczydłowska była członkinią trzech komisji sejmowych: ochrony pracy, oświatowej i społecznej. W swoim wystąpieniu zagwarantowała ponadpartyjną współpracę wszystkich posłanek. Głosiła, że celem ich posłannictwa jest pomoc dzieciom, ubogim, poprawa poziomu moralnego społeczeństwa. W kwestii równouprawnienia kobiet i mężczyzn mówiła, że jest ona zasadnicza dla ustroju państwa. Działała na rzecz prohibicji i walczyła o zaprzestanie produkcji alkoholu do celów spożywczych.
+
+O Moczydłowskiej mówiło się, że była jak aktorka. Potrafiła opuścić salę sejmową by „zatelefonować”, czym 16 marca 1921 roku przyczyniła się do przyjęcia lewicowej poprawki do konstytucji marcowej. Poprawka umożliwiała usunięcie wirylistów, czyli osoby piastujące dane stanowisko w parlamencie nie z wyborów powszechnych, ale dzięki sprawowaniu innego stanowiska, ze składu przyszłego Senatu. Wraz z innymi posełkami sprzeciwiła się dyskryminacji kobiet przy przyznawaniu nauczycielskiego dodatku drożyźnianego. W styczniu 1920 roku z Zofią Moraczewską i Gabrielą Balicką-Iwanowską złożyła wniosek o wycofanie przepisów pozbawiających kobiety polskiego obywatelstwa w przypadku poślubienia cudzoziemca. Po zakończeniu kadencji Sejmu Ustawodawczego Moczydłowskiej nie udało się uzyskać reelekcji. Po pracy poselskiej zajęła się organizowaniem polskich szkół we Francji, a później pracowała w kuratorium w Warszawie. 
+
+„Posełki” to także świadectwo tego, że na przestrzeni przeszło stu lat, opinie o kobietach wcale tak bardzo się nie zmieniły. Zarówno wtedy, jak i teraz pojawiają się głosy, że kobieta jest przede wszystkim opiekunką domowego ogniska. Wszak polityka nie jest dla nich, bo kto chciałby na nie głosować? Nie doszukamy się jednak moralizatorskiego wydźwięku w tej pozycji. To reportaż z prawdziwego zdarzenia. Przedstawia biografie kobiet na tle ówczesnych wydarzeń. Autorka włożyła ogrom pracy w napisanie tej książki. Research, który zrobiła, trzeba docenić.
+
+W „Posełkach” trudno doszukiwać się suchych faktów historycznych czy opisów systemu politycznego dostajemy raczej opowieść pisaną przez życie. Dostajemy historię wyjątkowych Polek, które były na tyle odważne, by zawalczyć o siebie i innych. 
+
+„Posełki. Osiem pierwszych kobiet” Olgi Wiechnik to dobrze napisany reportaż. Pozycja niezwykle potrzebna, którą powinien przeczytać każdy. O kobietach nie tylko dla kobiet. Świadectwo życia niezwykłej ósemki. Ósemki niesłusznie zapomnianej przez historię. Zachęcamy Was do lektury tej książki.
+
+**Autor i foto:** Aleksandra Rosińska, konsultantka RODM Łódź
