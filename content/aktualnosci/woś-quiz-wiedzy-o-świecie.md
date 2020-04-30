@@ -13,4 +13,4 @@ Cotygodniowy quiz to świetna okazja, aby sprawdźcie swoją wiedzę, począwszy
 
 1. Quiz nr 1:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScM78kD3_dkuMYlJcKEPCGPGgEknAYulxXjlh21nATOJxsKMw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
+<div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScM78kD3_dkuMYlJcKEPCGPGgEknAYulxXjlh21nATOJxsKMw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
