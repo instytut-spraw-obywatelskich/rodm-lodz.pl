@@ -19,7 +19,7 @@ W sytuacji zaostrzającego się konfliktu USA-Chiny, przyjęcie danej tezy będz
 
 **Czy Chiny osiągnęły przewagę w organizacjach międzynarodowych i, jeśli tak, to kiedy to się stało?**
 
-Przewodniczący WHO, zachodnim Etiopczyk Tedros Ghebreyesus to dziś, za sprawą częstych briefingów, jedna z najbardziej znanych postaci na świecie. Nie jest tajemnicą, że również Chiny udzieliły mu poparcia, gdy ubiegał się o to stanowisko i to może tłumaczyć, dlaczego WHO przyjęło neutralną ( lub wręcz życzliwą) postawę wobec Chin (paradoks całej sytuacji polega na tym iż Ghebreyesus to absolwent brytyjskich uczelni o poglądach lewicowo-liberalnych w rozumieniu zachodnim).
+Przewodniczący WHO, zachodnim Etiopczyk Tedros Ghebreyesus to dziś, za sprawą częstych briefingów, jedna z najbardziej znanych postaci na świecie. Nie jest tajemnicą, że również Chiny udzieliły mu poparcia, gdy ubiegał się o to stanowisko i to może tłumaczyć, dlaczego WHO przyjęło neutralną (lub wręcz życzliwą) postawę wobec Chin (paradoks całej sytuacji polega na tym iż Ghebreyesus to absolwent brytyjskich uczelni o poglądach lewicowo-liberalnych w rozumieniu zachodnim).
 
 To tylko jeden z wielu przykładów zwiększania wpływów Chin na świecie, w tym przede wszystkim w krajach pozaeuropejskich (choć w Europie także). To może spowodować trwałą przewagę w organizacjach międzynarodowych i, jeśli tak się stanie, znacznie ułatwiłoby nam to odpowiedź na pytanie numer trzy.
 
