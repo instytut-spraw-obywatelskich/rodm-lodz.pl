@@ -43,15 +43,15 @@ Wycofanie się czy krytyka to posunięcia łatwe i, co nie bez znaczenia w demok
 
 Koronawirus i ostatnie zamieszanie wokół WHO stawiają nas przed tymi niełatwymi pytaniami. Od odpowiedzi na nie zależy kształt świata, jaki wyłoni się po pandemii i w jakim przyjdzie nam żyć w XXI wieku.
 
+***
+
+[\[1\]](#_ftnref1) USA są największym sponsorem WHO i pokrywają blisko 16 % kosztów funkcjonowania organizacji, które wynoszą około 400 milionów rocznie. 44 % to trzy grupy darczyńców, z których wszyscy mają silne związki z USA. Pierwsza grupa, to amerykańscy sojusznicy tacy jak UK, Niemcy, Japonia, Komisja Europejska, druga to fundacje obywateli amerykańskich, jak np. fundacja Bila i Melindy Gates, Rotary International, a trzecia to organizacje utożsamiane z systemem Breton Woods: Bank Światowy, czy ONZ. Pozostałe kraje pokrywają jedynie 40 %.
+
 Felieton ukazał się w ramach comiesięcznego cyklu **„Pyffel komentuje”**, w którym autor analizuje bieżącą sytuację międzynarodową.
 
 **Foto:** Sala obrad plenarnych G20 w Hangzhou (Chiny, 2016). Archiwum prywatne autora.
 
-**Autor:** Radek Pyffel, (chiń. Rui De Xing)  
-   
+**Autor:** Radek Pyffel, (chiń. Rui De Xing)
+
 Kierownik studiów „Biznes chiński- jak działać skutecznie w czasach Jedwabnego Szlaku” w Akademii Leona Koźminskiego. W przeszłości między innymi Alternate Director i członek Rady Dyrektorów w Azjatyckim Banku Inwestycji Infrastrukturalnych (AIIB) z ramienia RP (2016-2018), Pełnomocnik Zarządu PKP Cargo ds. rynków wschodnich, prezes think-tanku Centrum Studiów Polska-Azja (CSPA), a także autor kilku książek dotyczących Chin i Azji.  
- Studiował (jako stypendysta MEN) na chińskich uczelniach wyższych m.in. Sun Yat Sen University w Kantonie i Beijing University.Włada angielskim, chińskim (mandaryńskim) i rosyjskim.
-
-***
-
-[\[1\]](#_ftnref1) USA są największym sponsorem WHO i pokrywają blisko 16 % kosztów funkcjonowania organizacji, które wynoszą około 400 milionów rocznie. 44 % to trzy grupy darczyńców, z których wszyscy mają silne związki z USA. Pierwsza grupa, to amerykańscy sojusznicy tacy jak UK, Niemcy, Japonia, Komisja Europejska, druga to fundacje obywateli amerykańskich, jak np. fundacja Bila i Melindy Gates, Rotary International, a trzecia to organizacje utożsamiane z systemem Breton Woods: Bank Światowy, czy ONZ. Pozostałe kraje pokrywają jedynie 40 %.
+Studiował (jako stypendysta MEN) na chińskich uczelniach wyższych m.in. Sun Yat Sen University w Kantonie i Beijing University.Włada angielskim, chińskim (mandaryńskim) i rosyjskim.
