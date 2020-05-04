@@ -45,7 +45,7 @@ Koronawirus i ostatnie zamieszanie wokół WHO stawiają nas przed tymi niełatw
 
 ***
 
-###### [\[1\] USA są największym sponsorem WHO i pokrywają blisko 16 % kosztów funkcjonowania organizacji, które wynoszą około 400 milionów rocznie. 44 % to trzy grupy darczyńców, z których wszyscy mają silne związki z USA. Pierwsza grupa, to amerykańscy sojusznicy tacy jak UK, Niemcy, Japonia, Komisja Europejska, druga to fundacje obywateli amerykańskich, jak np. fundacja Bila i Melindy Gates, Rotary International, a trzecia to organizacje utożsamiane z systemem Breton Woods: Bank Światowy, czy ONZ. Pozostałe kraje pokrywają jedynie 40 %.]()
+[\[1\]](#_ftnref1) USA są największym sponsorem WHO i pokrywają blisko 16 % kosztów funkcjonowania organizacji, które wynoszą około 400 milionów rocznie. 44 % to trzy grupy darczyńców, z których wszyscy mają silne związki z USA. Pierwsza grupa, to amerykańscy sojusznicy tacy jak UK, Niemcy, Japonia, Komisja Europejska, druga to fundacje obywateli amerykańskich, jak np. fundacja Bila i Melindy Gates, Rotary International, a trzecia to organizacje utożsamiane z systemem Breton Woods: Bank Światowy, czy ONZ. Pozostałe kraje pokrywają jedynie 40 %.
 
 Felieton ukazał się w ramach comiesięcznego cyklu **„Pyffel komentuje”**, w którym autor analizuje bieżącą sytuację międzynarodową.
 
