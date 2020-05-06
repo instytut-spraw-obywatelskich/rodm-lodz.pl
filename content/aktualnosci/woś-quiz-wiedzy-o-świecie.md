@@ -17,4 +17,4 @@ Quiz nr 1:
 
 Quiz nr 2:
 
-<div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewlkZdnOI0VXd055etlQKZYlZt08Ufi7rv-hXTy5iAWowfNQ/formResponse" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
+<div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewlkZdnOI0VXd055etlQKZYlZt08Ufi7rv-hXTy5iAWowfNQ/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
