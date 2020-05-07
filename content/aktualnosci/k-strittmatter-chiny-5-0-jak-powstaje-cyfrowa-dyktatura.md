@@ -33,4 +33,6 @@ W pierwszym kwartale 2018 roku Chiny po raz pierwszy prześcignęły USA w obrot
 
 **Kai Strittmatter**: [Chiny 5.0. Jak powstaje cyfrowa dyktatura, Wydawnictwo W.A.B 2020.](https://www.gwfoksal.pl/chiny-5-0-jak-powstaje-cyfrowa-dyktatura-kai-strittmatter-sku9401d51f1849c5ecfd48.html "https://www.gwfoksal.pl/chiny-5-0-jak-powstaje-cyfrowa-dyktatura-kai-strittmatter-sku9401d51f1849c5ecfd48.html")
 
+Książkę przełożyła Agnieszka Gadzała. 
+
 Premiera książki: **25 marca 2020.**
