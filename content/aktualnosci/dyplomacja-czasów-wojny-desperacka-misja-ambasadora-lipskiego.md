@@ -1,6 +1,5 @@
 +++
 date = 2020-05-07T22:00:00Z
-draft = true
 main_image = "/v1588949807/rodm/Ambasador_Lipski_g9qu07.png"
 slug = "dyplomacja-czasow-wojny-desperacka-misja-ambasadora-lipskiego"
 title = "Dyplomacja Czasów Wojny. Desperacka misja ambasadora Lipskiego"
