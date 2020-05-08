@@ -5,9 +5,9 @@ slug = "dyplomacja-czasow-wojny-desperacka-misja-ambasadora-lipskiego"
 title = "Dyplomacja Czasów Wojny. Desperacka misja ambasadora Lipskiego"
 
 +++
-📜✒️Cykl historyczny - [#DyplomacjaCzasówWojny](https://www.facebook.com/hashtag/dyplomacjaczas%C3%B3wwojny?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBGHv06gMDPAP6cd_qLlWcu3dciHV2_8SSgZBiyVLxZ_itchJhmv3nux0NGgK91KtHYU0Brr3ZXP7EknCFcfZXgOQVB75RYqTHjyUzma4tPbuyw7ehIuuq7ek6Wha37paxxhIQzuJij148U9QmX1sdAC4i7hCkVPRuWWuJRoCyF3oXkQVL_JeUvit877a4Ovcr_i1H1LiEm9bbb8QL7WQ-wrpsMVQMM9ihAm3Q5a7snfVklcesGPJCSx1X9aU5JeOSrL2ZnBlYeOgdgm7X77hFXV57IR6Z9gfVNhq9hLGfdJ_tDEod04DsaOt_ONRwmFxWCDygDH5aW9KfGvRAkJIc&__tn__=%2ANK-R) 🕰⌛️
+## 📜✒️Cykl historyczny - [#DyplomacjaCzasówWojny](https://www.facebook.com/hashtag/dyplomacjaczas%C3%B3wwojny?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBGHv06gMDPAP6cd_qLlWcu3dciHV2_8SSgZBiyVLxZ_itchJhmv3nux0NGgK91KtHYU0Brr3ZXP7EknCFcfZXgOQVB75RYqTHjyUzma4tPbuyw7ehIuuq7ek6Wha37paxxhIQzuJij148U9QmX1sdAC4i7hCkVPRuWWuJRoCyF3oXkQVL_JeUvit877a4Ovcr_i1H1LiEm9bbb8QL7WQ-wrpsMVQMM9ihAm3Q5a7snfVklcesGPJCSx1X9aU5JeOSrL2ZnBlYeOgdgm7X77hFXV57IR6Z9gfVNhq9hLGfdJ_tDEod04DsaOt_ONRwmFxWCDygDH5aW9KfGvRAkJIc&__tn__=%2ANK-R) 🕰⌛️
 
-**Co stało się po wybuchu wojny z polską placówką w Berlinie, z jej szefem, ambasadorem Józefem Lipskim i pracującymi w III Rzeszy dyplomatami?** 
+**Co stało się po wybuchu wojny z polską placówką w Berlinie, z jej szefem, ambasadorem Józefem Lipskim i pracującymi w III Rzeszy dyplomatami?**
 
 Po ataku Niemiec na Polskę Lipski wraz z personelem ambasady i konsulatu generalnego w Berlinie został 3 września ewakuowany do Kopenhagi. Tu zdecydował się na desperacki krok. Postanowił wrócić do Polski i mimo wojennego chaosu odszukać ministra Becka, by osobiście przekazać mu informacje o ostatnich godzinach poprzedzających w Berlinie wybuch wojny. Wykorzystując wszystkie możliwości transportowe, zmierzając przez Sztokholm, Helsinki, Tallin i Rygę dotarł 9 września do Wilna. Stamtąd przez Baranowicze, Równe i Dubno przedostał się do Krzemieńca i Kut, gdzie zdążył osobiście zdać raport szefowi resortu, zanim rząd przekroczył granicę polsko-rumuńską. Potem chciał wracać do Warszawy, ale okazało się to już niemożliwe.
 
