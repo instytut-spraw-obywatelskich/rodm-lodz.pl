@@ -5,7 +5,7 @@ slug = "75-rocznica-zakonczenia-drugiej-wojny-swiatowej"
 title = "75. rocznica zakończenia drugiej wojny światowej "
 
 +++
-**75 lat po zakończeniu II wojny światowej składamy hołd jej ofiarom. Pamiętamy o niezłomnej walce Narodu Polskiego z nazistowskimi Niemcami przez cały czas trwania konfliktu w Europie od września 1939 do maja 1945 roku.**
+## **75 lat po zakończeniu II wojny światowej składamy hołd jej ofiarom. Pamiętamy o niezłomnej walce Narodu Polskiego z nazistowskimi Niemcami przez cały czas trwania konfliktu w Europie od września 1939 do maja 1945 roku.**
 
 Polska wniosła niezaprzeczalny wkład w zwycięstwo nad Hitlerem: Wojsko Polskie było ósmą co do liczebności armią aliancką, nasi żołnierze walczyli na wszystkich frontach tej wojny, w tym: broniąc Polski w 1939, walcząc pod Narwikiem, we Francji i w Bitwie o Anglię 1940, w Afryce 1941-1942, na froncie wschodnim od 1943, pod Monte Cassino, Ankoną, Falaise, Arnhem 1944, wyzwalając Bolonię oraz biorąc udział w zdobyciu Berlina 1945. To polscy matematycy jeszcze w latach trzydziestych złamali kod Enigmy, co pozwoliło wywiadowi alianckiemu śledzić posunięcia Niemców.
 
