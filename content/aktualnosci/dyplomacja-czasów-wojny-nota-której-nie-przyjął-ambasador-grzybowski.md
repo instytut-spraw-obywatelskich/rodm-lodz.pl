@@ -1,0 +1,17 @@
++++
+date = 2020-05-11T22:00:00Z
+draft = true
+main_image = "/v1589289605/rodm/Fot.4_eqgxf3.png"
+slug = "dyplomacja-czasow-wojny-nota-ktorej-nie-przyjal-ambasador-grzybowski"
+title = "Dyplomacja czasów wojny. Nota, której nie przyjął ambasador Grzybowski"
+
++++
+## 📜✒️Cykl historyczny - [#DyplomacjaCzasówWojny](https://www.facebook.com/hashtag/dyplomacjaczas%C3%B3wwojny?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBGHv06gMDPAP6cd_qLlWcu3dciHV2_8SSgZBiyVLxZ_itchJhmv3nux0NGgK91KtHYU0Brr3ZXP7EknCFcfZXgOQVB75RYqTHjyUzma4tPbuyw7ehIuuq7ek6Wha37paxxhIQzuJij148U9QmX1sdAC4i7hCkVPRuWWuJRoCyF3oXkQVL_JeUvit877a4Ovcr_i1H1LiEm9bbb8QL7WQ-wrpsMVQMM9ihAm3Q5a7snfVklcesGPJCSx1X9aU5JeOSrL2ZnBlYeOgdgm7X77hFXV57IR6Z9gfVNhq9hLGfdJ_tDEod04DsaOt_ONRwmFxWCDygDH5aW9KfGvRAkJIc&__tn__=%2ANK-R) 🕰⌛️
+
+**17 września Rzeczpospolita walcząca z niemieckim najazdem otrzymała cios w plecy. O świcie liczące około półtora miliona żołnierzy oddziały Armii Czerwonej wkroczyły na wschodnie tereny Polski.** 
+
+Związek Radziecki zrealizował tym samym polityczny zamiar rozciągnięcia swej strefy interesów, ujęty w tajnym protokole do niemiecko-radzieckiego paktu o nieagresji, który podpisali 23 sierpnia 1939 roku ministrowie spraw zagranicznych III Rzeszy i ZSRR – Joachim von Ribbentrop i Wiaczesław Mołotow.
+
+Na krótko przed rozpoczęciem agresji, o godz. 3 nad ranem zastępca komisarza spraw zagranicznych ZSRR Władimir Potiomkin wezwał ambasadora RP w Moskwie Wacława Grzybowskiego i usiłował wręczyć mu notę uzasadniającą wkroczenie Armii Czerwonej do Polski. Ambasador odrzucił zawarty w niej argument o zaniku państwa polskiego i odmówił przyjęcia dokumentu. Tekst noty – uzyskany od dyplomatów rosyjskich w Rumunii dzięki kontaktom ambasady RP w Bukareszcie – dotarł do rąk ministra Becka przebywającego w Kutach na pograniczu polsko-rumuńskim 17 września około południa. Minister zaakceptował postępowanie ambasadora i polecił personelowi czterech polskich placówek – ambasady w Moskwie, konsulatów generalnych w Kijowie i Mińsku oraz konsulatu w Leningradzie – opuszczenie ZSRR. Na przeszkodzie ewakuacji stanęła decyzja władz radzieckich, które przyznały przywileje dyplomatyczne ambasadorowi Grzybowskiemu, ale odmówiły ich pozostałym dyplomatom. Rosjanie zmienili stanowisko i wydali Polakom wizy wyjazdowe po interwencji ambasadorów mocarstw zachodnich. Polski personel dyplomatyczny mógł opuścić ZSRR dopiero 10 października. Mimo starań i interwencji nie udało się odszukać konsula generalnego RP w Kijowie Jerzego Matusińskiego, który został najprawdopodobniej aresztowany i zamordowany przez NKWD. „Jesteśmy w stanie wojny z Rosją już przez sam fakt agresji. (…) Dla zaistnienia stanu wojny formalne jej wypowiedzenie nie jest warunkiem koniecznym. Wojna rosyjsko-japońska 1904 lub polsko-niemiecka z 1939 są tego klasycznymi przykładami” – komentował w kilka miesięcy później stan stosunków polsko-radzieckich były minister spraw zagranicznych Jan Szembek.
+
+Ilustracja: Telefonogram Ambasady RP w Bukareszcie z tekstem noty radzieckiej z 17 września 1939 r.
