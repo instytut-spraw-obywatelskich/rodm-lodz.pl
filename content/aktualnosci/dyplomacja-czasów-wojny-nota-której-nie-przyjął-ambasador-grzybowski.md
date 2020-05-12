@@ -1,6 +1,5 @@
 +++
 date = 2020-05-11T22:00:00Z
-draft = true
 main_image = "/v1589289605/rodm/Fot.4_eqgxf3.png"
 slug = "dyplomacja-czasow-wojny-nota-ktorej-nie-przyjal-ambasador-grzybowski"
 title = "Dyplomacja czasów wojny. Nota, której nie przyjął ambasador Grzybowski"
