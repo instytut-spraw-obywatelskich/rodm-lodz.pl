@@ -13,7 +13,7 @@ Mało kto wierzył, że niedoświadczony, chorowity chłopiec wychowywany w izol
 
 Jak wyglądało dzieciństwo Kim Dzong Una? Skąd wzięła się legenda o boskim pochodzeniu rodu Kimów? Dlaczego siostra Wielkiego Następcy nazywana jest koreańską Ivanką Trump i jaką rolę odegrała w polityce międzynarodowej? Czy powolne uwalnianie gospodarki w socjalistycznym kraju to najlepszy przepis na długie rządy?
 
-Anna Fifield rekonstruuje przeszłe i teraźniejsze życie dyktatora, powołując się na ekskluzywne relacje osób z jego otoczenia, i przygląda się dynastycznym ambicjom Kimów. Dzięki połączeniu sceptycyzmu i rozległej wiedzy odmalowuje fascynujący obraz najdziwniejszego i najbardziej skrytego reżimu świata. Reżimu, który prowadzi politykę izolacjonizmu, a mimo to ma ogromne znaczenie na arenie międzynarodowej, który trwa w stanie permanentnego bankructwa, choć stać go na broń atomową. Autorka ze znawstwem kreśli sylwetkę jego przywódcy, Wielkiego Następcy, Niepokonanego Zwycięskiego Generała, Słońca Socjalizmu, wodza Kim Dzong Una (z materiałów Wydawnictwa SQN). 
+Anna Fifield rekonstruuje przeszłe i teraźniejsze życie dyktatora, powołując się na ekskluzywne relacje osób z jego otoczenia, i przygląda się dynastycznym ambicjom Kimów. Dzięki połączeniu sceptycyzmu i rozległej wiedzy odmalowuje fascynujący obraz najdziwniejszego i najbardziej skrytego reżimu świata. Reżimu, który prowadzi politykę izolacjonizmu, a mimo to ma ogromne znaczenie na arenie międzynarodowej, który trwa w stanie permanentnego bankructwa, choć stać go na broń atomową. Autorka ze znawstwem kreśli sylwetkę jego przywódcy, Wielkiego Następcy, Niepokonanego Zwycięskiego Generała, Słońca Socjalizmu, wodza Kim Dzong Una (z materiałów Wydawnictwa SQN).
 
 Zachęcamy do lektury. Wydawnictwu SQN, wydawcy książki _„Wielki Następca. Niebiańskie przeznaczenie błyskotliwego towarzysza Kim Dzong Una”_, dziękujemy za udostępnienie fragmentu do publikacji.
 
@@ -79,8 +79,8 @@ Ziarnko nadziei obumarło, a jego miejsce zajęło rozczarowanie. Mąż i najbli
 
 Wielki Następca zdołał przejąć władzę po ojcu. Teraz musiał jeszcze udowodnić, że jest w stanie cokolwiek wykrzesać z sypiącej się kleptokracji, którą odziedziczył. \[…\]
 
-**Anna Fifield**: [Wielki Następca. Niebiańskie przeznaczenie błyskotliwego towarzysza Kim Dzong Una, Wydawnictwo SQN 2020.](https://www.wsqn.pl/ksiazki/wielki-nastepca-niebianskie-przeznaczenie-blyskotliwego-towarzysza-kim-dzong-una/ "https://www.wsqn.pl/ksiazki/wielki-nastepca-niebianskie-przeznaczenie-blyskotliwego-towarzysza-kim-dzong-una/") 
+**Anna Fifield**: [Wielki Następca. Niebiańskie przeznaczenie błyskotliwego towarzysza Kim Dzong Una, Wydawnictwo SQN 2020.](https://www.wsqn.pl/ksiazki/wielki-nastepca-niebianskie-przeznaczenie-blyskotliwego-towarzysza-kim-dzong-una/ "https://www.wsqn.pl/ksiazki/wielki-nastepca-niebianskie-przeznaczenie-blyskotliwego-towarzysza-kim-dzong-una/")
 
-Książkę przetłumaczył Grzegorz Gajek. 
+Książkę przetłumaczył Grzegorz Gajek.
 
-Premiera książki: **29 stycznia 2020**. 
+Premiera książki: **29 stycznia 2020**.
