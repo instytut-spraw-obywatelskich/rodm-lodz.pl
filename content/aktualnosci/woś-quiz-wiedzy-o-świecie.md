@@ -5,9 +5,9 @@ slug = "wos-quiz-wiedzy-o-swiecie"
 title = "WOŚ - Quiz Wiedzy o Świecie "
 
 +++
-Czas przymusowej izolacji dotknął nas wszystkich – w szczególności uczniów i studentów, którzy czas nauki spędzają w domu. Dlatego RODM Łódź ma dla Was propozycję: WOŚ– Quiz Wiedzy o Świecie.
+Czas przymusowej izolacji dotknął nas wszystkich – w szczególności uczniów i studentów, którzy naukę realizują w domu. Dlatego RODM Łódź wychodzi Wam naprzeciw z propozycję: WOŚ– Quiz Wiedzy o Świecie.
 
-Cotygodniowy quiz to świetna okazja, aby sprawdźcie swoją wiedzę, począwszy od historii, kultury i tradycji, aż po politykę, środowisko i religię.
+Cotygodniowy quiz to świetna okazja, aby sprawdźcie swoją wiedzę z różnych dziedzin - począwszy od historii, kultury i tradycji, aż po politykę, środowisko i religię.
 
 **Zapraszamy do wspólnej zabawy!**
 
@@ -19,6 +19,6 @@ Quiz nr 2:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewlkZdnOI0VXd055etlQKZYlZt08Ufi7rv-hXTy5iAWowfNQ/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
 
-Quiz nr 3: 
+Quiz nr 3:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd2DGpFS3Eh-404N-f5wPlaxSEopr4N0Ad18ONhUM9BTQvYbg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
