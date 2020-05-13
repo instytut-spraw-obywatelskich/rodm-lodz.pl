@@ -1,6 +1,5 @@
 +++
 date = 2020-05-12T22:00:00Z
-draft = true
 main_image = "/v1589360280/rodm/kim-okladka-front_1000px_ygpbwn.jpg"
 slug = "a-fifield-wielki-nastepca-niebianskie-przeznaczenie-blyskotliwego-towarzysza-kim-dzong-una"
 title = "A. Fifield: Wielki Następca. Niebiańskie przeznaczenie błyskotliwego towarzysza Kim Dzong Una"
