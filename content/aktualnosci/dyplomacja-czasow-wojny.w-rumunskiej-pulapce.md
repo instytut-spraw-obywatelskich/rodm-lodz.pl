@@ -1,6 +1,5 @@
 +++
 date = 2020-05-13T22:00:00Z
-draft = true
 main_image = "/v1589445979/rodm/W_rumu%C5%84skiej_pu%C5%82apce_RODM_prsuys.jpg"
 slug = "dyplomacja-czasow-wojny-w-rumunskiej-pulapce"
 title = "Dyplomacja czasów wojny. W rumuńskiej pułapce"
