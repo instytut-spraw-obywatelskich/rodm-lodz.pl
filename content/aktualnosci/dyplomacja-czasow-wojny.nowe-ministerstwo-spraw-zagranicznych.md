@@ -1,6 +1,5 @@
 +++
 date = 2020-05-15T22:00:00Z
-draft = true
 main_image = "/v1589640581/rodm/Nowe_MSZ_gockju.png"
 slug = "dyplomacja-czasow-wojny-nowe-ministerstwo-spraw-zagranicznych"
 title = "Dyplomacja czasów wojny. Nowe Ministerstwo Spraw Zagranicznych "
