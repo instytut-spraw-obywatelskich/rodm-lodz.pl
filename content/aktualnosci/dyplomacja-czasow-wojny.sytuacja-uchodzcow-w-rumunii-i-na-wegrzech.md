@@ -1,6 +1,5 @@
 +++
 date = 2020-05-18T22:00:00Z
-draft = true
 main_image = "/v1589897124/rodm/Fot.7_rozmiar_chqujp.png"
 slug = "dyplomacja-czasow-wojny-sytuacja-uchodzcow-w-rumunii-i-na-wegrzech"
 title = "Dyplomacja czasów wojny. Sytuacja uchodźców w Rumunii i na Węgrzech"
