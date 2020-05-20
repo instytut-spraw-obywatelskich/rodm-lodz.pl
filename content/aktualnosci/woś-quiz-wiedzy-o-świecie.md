@@ -1,5 +1,5 @@
 +++
-date = 2020-05-12T22:00:00Z
+date = 2020-05-19T22:00:00Z
 main_image = "/v1588182872/rodm/Quiz_WO%C5%9A_na_RODM_kvauzc.png"
 slug = "wos-quiz-wiedzy-o-swiecie"
 title = "WOŚ - Quiz Wiedzy o Świecie "
@@ -22,3 +22,7 @@ Quiz nr 2:
 Quiz nr 3:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd2DGpFS3Eh-404N-f5wPlaxSEopr4N0Ad18ONhUM9BTQvYbg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
+
+Quiz nr 4: 
+
+<div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSek-cLSbjWQpXWXLrEspqd_Pfsd5KX2c397dEpyr0S2RdlZvQ/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
