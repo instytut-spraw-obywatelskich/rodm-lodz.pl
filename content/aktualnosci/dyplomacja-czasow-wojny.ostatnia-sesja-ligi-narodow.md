@@ -1,6 +1,5 @@
 +++
 date = 2020-05-20T22:00:00Z
-draft = true
 main_image = "/v1590090387/rodm/Ostatnia_sesja_Ligi_Narod%C3%B3w_btrply.png"
 slug = "dyplomacja-czasow-wojny-ostatnia-sesja-ligi-narodow"
 title = "Dyplomacja czasów wojny. Ostatnia sesja Ligi Narodów"
