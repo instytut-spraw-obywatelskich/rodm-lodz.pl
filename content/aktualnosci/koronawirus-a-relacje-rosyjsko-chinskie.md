@@ -17,8 +17,10 @@ Michał Lubina odpowiada, Rafał Górski pyta.
 
 Zachęcamy do wysłuchania całej rozmowy w ramach audycji [„Czy masz świadomość?”](https://instytutsprawobywatelskich.pl/koronawirus-a-relacje-rosyjsko-chinskie/ "https://instytutsprawobywatelskich.pl/koronawirus-a-relacje-rosyjsko-chinskie/"):
 
-{{< youtube bYvxSLE0mXE >}}  
+{{< youtube bYvxSLE0mXE >}}
 
-![](https://res.cloudinary.com/inspro/image/upload/v1589991167/rodm/Michal-Lubina_wesoiv.jpg)  
+![](https://res.cloudinary.com/inspro/image/upload/v1589991167/rodm/Michal-Lubina_wesoiv.jpg)
 
 Michał Lubina, doktor nauk społecznych, adiunkt w Instytucie Bliskiego i Dalekiego Wschodu UJ, autor siedmiu książek, w tym dwóch bestsellerów naukowych - "Niedźwiedź w cieniu smoka. Rosja-Chiny 1991-2014" (Kraków, Akademicka 2014) i "Pani Birmy. Biografia polityczna Aung San Suu Kyi" (Warszawa, PWN 2015), a także debiutu międzynarodowego "Russia and China. A Political Marriage of Convenience" (Opladen-Berlin-Toronto 2017) oraz monografii habilitacyjnej "The Moral Democracy". Odwiedził ponad 70 krajów świata, mieszkał w Rosji, Chinach i Tajlandii (w Bangkoku pracował jako profesor wizytujący).
+
+Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
