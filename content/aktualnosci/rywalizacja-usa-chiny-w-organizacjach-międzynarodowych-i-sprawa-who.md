@@ -57,3 +57,5 @@ Kierownik studiów „Biznes chiński- jak działać skutecznie w czasach Jedwab
 Studiował (jako stypendysta MEN) na chińskich uczelniach wyższych m.in. Sun Yat Sen University w Kantonie i Beijing University.Włada angielskim, chińskim (mandaryńskim) i rosyjskim.
 
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
+
+Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP. 
