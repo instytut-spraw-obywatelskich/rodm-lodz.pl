@@ -1,6 +1,5 @@
 +++
 date = 2020-05-28T22:00:00Z
-draft = true
 main_image = "/v1590744834/rodm/Podcast_2_strona_hagzss.jpg"
 slug = "koronawirus-w-azji-poludniowo-wschodniej"
 title = "Koronawirus w Azji Południowo-Wschodniej"
