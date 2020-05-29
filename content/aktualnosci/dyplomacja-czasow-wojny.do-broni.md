@@ -1,7 +1,7 @@
 +++
 date = 2020-05-28T22:00:00Z
 draft = true
-main_image = "/v1590748645/rodm/Fot.9_kijejv.png"
+main_image = "/v1590748934/rodm/Do_broni_strona_msplun.png"
 slug = "dyplomacja-czasow-wojny-do-broni"
 title = "Dyplomacja czasów wojny. Do broni! "
 
