@@ -17,7 +17,7 @@ Michał Lubina odpowiada, Rafał Górski pyta.
 
 Zachęcamy do wysłuchania całej rozmowy w ramach audycji [„Czy masz świadomość?”](https://instytutsprawobywatelskich.pl/koronawirus-w-azji-poludniowo-wschodniej/ "https://instytutsprawobywatelskich.pl/koronawirus-w-azji-poludniowo-wschodniej/"):
 
-{{< youtube UqtukIgPatc&t >}}
+{{< youtube UqtukIgPatc >}}
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1589991167/rodm/Michal-Lubina_wesoiv.jpg)
 
