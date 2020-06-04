@@ -1,6 +1,5 @@
 +++
 date = 2020-06-01T22:00:00Z
-draft = true
 main_image = "/v1591273663/rodm/WHO_na_stron%C4%99_RODM_kcahty.png"
 slug = "pokerowe-rozgrywki-chin"
 title = "Pokerowe rozgrywki Chin"
