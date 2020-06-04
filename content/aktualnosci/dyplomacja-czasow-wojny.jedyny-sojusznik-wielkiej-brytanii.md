@@ -1,6 +1,5 @@
 +++
 date = 2020-06-03T22:00:00Z
-draft = true
 main_image = "/v1591277751/rodm/Wielka_Brytania_Foto_na_RODM_f2743x.png"
 slug = "dyplomacja-czasow-wojny-jedyny-sojusznik-wielkiej-brytanii"
 title = "Dyplomacja czasów wojny. Jedyny sojusznik Wielkiej Brytanii"
