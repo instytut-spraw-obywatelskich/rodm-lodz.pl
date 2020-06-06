@@ -1,6 +1,5 @@
 +++
 date = 2020-06-05T22:00:00Z
-draft = true
 main_image = "/v1591438118/rodm/Fot.11_na_strone_RODM_rjqoy7.jpg"
 slug = "dyplomacja-czasow-wojny-punkt-kontaktowy-w-barcelonie"
 title = "Dyplomacja czasów wojny. Punkt kontaktowy w Barcelonie"
