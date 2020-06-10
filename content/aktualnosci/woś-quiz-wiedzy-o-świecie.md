@@ -27,6 +27,10 @@ Quiz nr 4:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSek-cLSbjWQpXWXLrEspqd_Pfsd5KX2c397dEpyr0S2RdlZvQ/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
 
-Quiz nr 5: 
+Quiz nr 5:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeUYkzn3J8eFdJhOoZpXf8iNHxpqkpzgDDYC5FlJJd-lqeoKw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
+
+Quiz nr 6: 
+
+<div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf2EJpAM1TGN9D_07VMsAgRWZ34VI51zErBvL_FYUfr7QnisA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
