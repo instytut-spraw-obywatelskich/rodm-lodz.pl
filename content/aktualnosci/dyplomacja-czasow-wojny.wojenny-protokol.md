@@ -1,6 +1,5 @@
 +++
 date = 2020-06-11T22:00:00Z
-draft = true
 main_image = "/v1591959062/rodm/Fot.12a_strona_ckekra.jpg"
 slug = "dyplomacja-czasow-wojny-wojenny-protokol"
 title = "Dyplomacja czasów wojny. Wojenny protokół"
