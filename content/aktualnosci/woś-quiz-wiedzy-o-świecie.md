@@ -37,4 +37,4 @@ Quiz nr 6:
 
 Quiz maturzysty 2020 - Wiedza o Społeczeństwie: 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeSEsmwQI2hzyOYt8Ox5z2evZDIPFYk4UnZIDBipbwWQAsN-Q/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
+<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSeSEsmwQI2hzyOYt8Ox5z2evZDIPFYk4UnZIDBipbwWQAsN-Q/viewform?embedded=tru]()e" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
