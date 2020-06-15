@@ -1,5 +1,5 @@
 +++
-date = 2020-06-09T22:00:00Z
+date = 2020-06-12T22:00:00Z
 main_image = "/v1588182872/rodm/Quiz_WO%C5%9A_na_RODM_kvauzc.png"
 slug = "wos-quiz-wiedzy-o-swiecie"
 title = "WOŚ - Quiz Wiedzy o Świecie "
@@ -37,4 +37,6 @@ Quiz nr 6:
 
 Quiz maturzysty 2020 - Wiedza o Społeczeństwie: 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeSEsmwQI2hzyOYt8Ox5z2evZDIPFYk4UnZIDBipbwWQAsN-Q/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
+<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSeSEsmwQI2hzyOYt8Ox5z2evZDIPFYk4UnZIDBipbwWQAsN-Q/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSeSEsmwQI2hzyOYt8Ox5z2evZDIPFYk4UnZIDBipbwWQAsN-Q/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSeSEsmwQI2hzyOYt8Ox5z2evZDIPFYk4UnZIDBipbwWQAsN-Q/viewform?embedded=true")" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
+
+<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSeSEsmwQI2hzyOYt8Ox5z2evZDIPFYk4UnZIDBipbwWQAsN-Q/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSeSEsmwQI2hzyOYt8Ox5z2evZDIPFYk4UnZIDBipbwWQAsN-Q/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSeSEsmwQI2hzyOYt8Ox5z2evZDIPFYk4UnZIDBipbwWQAsN-Q/viewform?embedded=true")" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
