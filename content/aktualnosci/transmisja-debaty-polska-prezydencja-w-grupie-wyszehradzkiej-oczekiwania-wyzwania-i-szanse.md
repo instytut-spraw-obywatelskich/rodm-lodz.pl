@@ -1,6 +1,5 @@
 +++
 date = 2020-06-17T22:00:00Z
-draft = true
 main_image = "/v1592437821/rodm/rodm_rmfjvv.jpg"
 slug = "transmisja-debaty-polska-prezydencja-w-grupie-wyszehradzkiej-oczekiwania-wyzwania-i-szanse"
 title = "TRANSMISJA DEBATY „POLSKA PREZYDENCJA W GRUPIE WYSZEHRADZKIEJ – OCZEKIWANIA, WYZWANIA I SZANSE”"
