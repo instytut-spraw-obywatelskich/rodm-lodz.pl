@@ -1,11 +1,11 @@
 +++
-date = 2020-06-17T22:00:00Z
+date = 2020-06-16T22:00:00Z
 main_image = "/v1592437821/rodm/rodm_rmfjvv.jpg"
 slug = "transmisja-debaty-polska-prezydencja-w-grupie-wyszehradzkiej-oczekiwania-wyzwania-i-szanse"
 title = "Transmisja debaty „Polska prezydencja w Grupie Wyszehradzkiej – oczekiwania, wyzwania i szanse”"
 
 +++
-**Regionalny Ośrodek Debaty Międzynarodowej w Krakowie, Ministerstwo Spraw Zagranicznych, The Warsaw Institute Review wraz z Fundacją Warsaw Institute zapraszają na debatę online. Debata ekspercka pt.: „Polska prezydencja w Grupie Wyszehradzkiej – oczekiwania, wyzwania i szanse” będzie transmitowana na żywo w czwartek, 18 czerwca o godzinie 18:00. Transmisja dostępna będzie na kanałach Facebook, Twitter i Youtube MSZ, RODM Kraków, Warsaw Institute i Warsaw Institute Review.**
+**Regionalny Ośrodek Debaty Międzynarodowej w Krakowie, Ministerstwo Spraw Zagranicznych, The Warsaw Institute Review wraz z Fundacją Warsaw Institute zapraszają na debatę online. Debata ekspercka pt.: „Polska prezydencja w Grupie Wyszehradzkiej – oczekiwania, wyzwania i szanse” będzie transmitowana na żywo w czwartek, 18 czerwca o godzinie 18:00. Transmisja dostępna będzie na kanałach Facebook, Twitter i Youtube MSZ, RODM Kraków, Warsaw Institute i Warsaw Institute Review.** 
 
 W debacie wezmą udział:
 
