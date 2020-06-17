@@ -1,5 +1,5 @@
 +++
-date = 2020-06-12T22:00:00Z
+date = 2020-06-16T22:00:00Z
 main_image = "/v1588182872/rodm/Quiz_WO%C5%9A_na_RODM_kvauzc.png"
 slug = "wos-quiz-wiedzy-o-swiecie"
 title = "WOŚ - Quiz Wiedzy o Świecie "
