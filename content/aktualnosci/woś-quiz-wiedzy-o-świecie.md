@@ -35,6 +35,10 @@ Quiz nr 6:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf2EJpAM1TGN9D_07VMsAgRWZ34VI51zErBvL_FYUfr7QnisA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
 
-Quiz maturzysty 2020 - Wiedza o Społeczeństwie: 
+Quiz maturzysty 2020 - Wiedza o Społeczeństwie:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeSEsmwQI2hzyOYt8Ox5z2evZDIPFYk4UnZIDBipbwWQAsN-Q/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
+
+Quiz maturzysty 2020 - Geografia: 
+
+<div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeu9zz6veRsou4sV9FWSuT3GINs3JfsMyGn3MSwDJ5LnCX0Rg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
