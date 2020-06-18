@@ -1,6 +1,5 @@
 +++
 date = 2020-06-17T22:00:00Z
-draft = true
 main_image = "/v1592512933/rodm/prawa_epidemii_-_Mockup_www_tehbng.jpg"
 slug = "a-kucharski-prawa-epidemii-skad-sie-epidemie-biora-i-czemu-wygasaja"
 title = "A. Kucharski: Prawa epidemii. Skąd się epidemie biorą i czemu wygasają? "
