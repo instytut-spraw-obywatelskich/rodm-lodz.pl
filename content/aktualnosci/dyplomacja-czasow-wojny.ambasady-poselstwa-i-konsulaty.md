@@ -1,6 +1,5 @@
 +++
 date = 2020-06-17T22:00:00Z
-draft = true
 main_image = "/v1592510367/rodm/Fot.13_RODM_efdgot.png"
 slug = "dyplomacja-czasow-wojny-ambasady-poselstwa-i-konsulaty"
 title = "Dyplomacja czasów wojny. Ambasady, poselstwa i konsulaty"
