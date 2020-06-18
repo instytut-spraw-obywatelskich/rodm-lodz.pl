@@ -24,10 +24,10 @@ Na początku lipca 2020 roku przewodnictwo w Grupie Wyszehradzkiej obejmie Polsk
 #### KIM SĄ EKSPERCI?
 
 **Piotr Bajda**  
-\- doktor habilitowany nauk politycznych, od 2007 r. wykładowca Uniwersytetu Kardynała Stefana Wyszyńskiego. Autor m.in. książek Elity polityczne na Słowacji. Kręta droga do nowoczesnego państwa (2010) i Małe państwo na arenie międzynarodowej. Polityka zagraniczna Republiki Słowackiej w latach 1993-2016 (2018) oraz Raportu polskiego przewodnictwa w Grupie Wyszehradzkiej lipiec 2012 – czerwiec 2013 (2013).
+– doktor habilitowany nauk politycznych, od 2007 r. wykładowca Uniwersytetu Kardynała Stefana Wyszyńskiego. Autor m.in. książek Elity polityczne na Słowacji. Kręta droga do nowoczesnego państwa (2010) i Małe państwo na arenie międzynarodowej. Polityka zagraniczna Republiki Słowackiej w latach 1993-2016 (2018) oraz Raportu polskiego przewodnictwa w Grupie Wyszehradzkiej lipiec 2012 – czerwiec 2013 (2013).
 
 **Szymon Szynkowski vel Sęk**  
-\- absolwent Wydziału Prawa i Administracji Uniwersytetu im. Adama Mickiewicza w Poznaniu (kierunek: stosunki międzynarodowe). Od 2015 r. poseł na Sejm RP, członek sejmowej Komisji ds. Unii Europejskiej oraz Komisji Spraw Zagranicznych, a także przewodniczący polsko-niemieckiej grupy bilateralnej w Sejmie. Jest autorem wielu publikacji prasowych nt. prawa europejskiego i polityki lokalnej.
+– absolwent Wydziału Prawa i Administracji Uniwersytetu im. Adama Mickiewicza w Poznaniu (kierunek: stosunki międzynarodowe). Od 2015 r. poseł na Sejm RP, członek sejmowej Komisji ds. Unii Europejskiej oraz Komisji Spraw Zagranicznych, a także przewodniczący polsko-niemieckiej grupy bilateralnej w Sejmie. Jest autorem wielu publikacji prasowych nt. prawa europejskiego i polityki lokalnej.
 
 **Vít Dostál**  
-\- dyrektor Centrum Badawczego AMO (Stowarzyszenia ds. Międzynarodowych). Koncentruje się na czeskiej polityce zagranicznej i europejskiej, współpracy w Europie Środkowej oraz polskiej polityce zagranicznej i wewnętrznej. Od 2006 roku pracuje dla AMO. W tym czasie był autorem oraz redaktorem wielu publikacji dotyczących czeskiej polityki zagranicznej i Europy Środkowej.
+– dyrektor Centrum Badawczego AMO (Stowarzyszenia ds. Międzynarodowych). Koncentruje się na czeskiej polityce zagranicznej i europejskiej, współpracy w Europie Środkowej oraz polskiej polityce zagranicznej i wewnętrznej. Od 2006 roku pracuje dla AMO. W tym czasie był autorem oraz redaktorem wielu publikacji dotyczących czeskiej polityki zagranicznej i Europy Środkowej.
