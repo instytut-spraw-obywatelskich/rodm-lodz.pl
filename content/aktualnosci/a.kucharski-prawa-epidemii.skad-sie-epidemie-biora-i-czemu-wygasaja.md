@@ -1,0 +1,53 @@
++++
+date = 2020-06-17T22:00:00Z
+draft = true
+main_image = "/v1592512933/rodm/prawa_epidemii_-_Mockup_www_tehbng.jpg"
+slug = "a-kucharski-prawa-epidemii-skad-sie-epidemie-biora-i-czemu-wygasaja"
+title = "A. Kucharski: Prawa epidemii. Skąd się epidemie biorą i czemu wygasają? "
+
++++
+**W hotelowym lobby w Hong Kongu lekarz z gorączką spotyka nieznajomego. W Nowym Jorku dziennikarz uczestniczy w branżowym spotkaniu pełnym spanikowanych bankowców.**
+
+**W Australii turystka udostępnia w sieci film, który uczyni ją sławną – i którego będzie bardzo żałować…**
+
+**Wybuchające epidemie – chorób, newsów i idei – rozprzestrzeniają się teraz szybciej niż kiedykolwiek. Co nimi rządzi, według jakich zasad się roznoszą? I co nam mówią o naszym życiu?**
+
+Adam Kucharski w pasjonujący sposób opowiada czytelnikom o epidemiach. Z tej książki dowiesz się jakie są zasady rozprzestrzeniania się wirusów, mód i idei oraz jak te uniwersalne prawa kształtują zachowania i wpływają na nasze życie (z materiałów Wydawnictwa Relacja). 
+
+Zachęcamy do lektury. Wydawnictwu Relacja, wydawcy książki _„Prawa epidemii. Skąd się biorą i czemu wygasają?”_, dziękujemy za udostępnienie fragmentu do publikacji.
+
+**_„Prawa epidemii. Skąd się biorą i czemu wygasają?” (fragment)_**
+
+\[...\] W połowie czwartego roku pierwszej wojny światowej pojawiło się nowe zagrożenie życia. Podczas gdy armia niemiecka rozpoczynała swoją ofensywę wiosenną we Francji, po drugiej stronie Atlantyku, w Camp Funston, ruchliwej bazie wojskowej w Kansas, zaczęli umierać ludzie. Przyczyną był nowy rodzaj wirusa grypy, który prawdopodobnie przeskoczył ze zwierząt na ludzi na pobliskiej farmie. W 1918 i 1919 roku infekcja miała stać się globalną epidemią - zwaną inaczej pandemią - i zabiła ponad pięćdziesiąt milionów osób. Ostateczna liczba ofiar śmiertelnych była dwukrotnie wyższa niż ofiar całej pierwszej wojny światowej.
+
+W ciągu następnych stu lat doszło do czterech kolejnych pandemii grypy. Budzi to oczywiste pytanie: jak będzie wyglądać następna? Niestety trudno powiedzieć, bo wszystkie poprzednie nieco różniły się między sobą. Występowały różne szczepy wirusa, a choroba uderzała w niektórych miejscach silniej niż w innych. Mamy nawet w mojej branży takie powiedzonko: „Jeśli widziałeś jedną pandemię, to widziałeś… jedną pandemię”.
+
+Problem jest ten sam, niezależnie od tego, czy badamy rozprzestrzenianie się choroby, trendu internetowego czy jeszcze czegoś innego; jedna epidemia niekoniecznie przypomina drugą. Potrzebujemy jakiegoś sposobu, by oddzielić cechy charakterystyczne dla konkretnego przypadku od podstawowych zasad rządzących zakażeniem. Sposobu, który pozwoli wyjść poza uproszczone wyjaśnienia i odkryć, co naprawdę stoi za obserwowanymi przez nas wzorcami rozwoju wydarzeń.
+
+To właśnie jest celem tej książki. Analizując zaraźliwość w różnych obszarach życiowych, dowiemy się, co sprawia, że różne zjawiska się rozprzestrzeniają, i dlaczego epidemie rozwijają się tak, a nie inaczej. Po drodze przyjrzymy się powiązaniom pojawiającym się między na pozór niezwiązanymi ze sobą problemami, od kryzysów bankowych, przemocy z użyciem broni palnej i fake newsów, po rozwój chorób, uzależnienie od opioidów i nierówności społeczne. Omówimy pomysły, które mogą pomóc nam radzić sobie z epidemiami, i przyjrzymy się nietypowym sytuacjom, które zmieniają nasz sposób myślenia o schematach infekcji, przekonaniach i naszym własnym zachowaniu.
+
+Zacznijmy od kształtu epidemii. Kiedy naukowcy zajmujący się chorobami dowiadują się o jakimś nowym zagrożeniu, jedną z pierwszych rzeczy, którą robimy, jest narysowanie tzw. krzywej rozwoju epidemii - czyli wykresu pokazującego liczbę przypadków w czasie. Chociaż kształt może być bardzo zróżnicowany, z reguły obejmuje on cztery główne etapy: wybuch, wzrost, szczyt i spadek. W niektórych przypadkach etapy te występują wielokrotnie - kiedy w kwietniu 2009 roku dotarła do Wielkiej Brytanii pandemia „świńskiej grypy”, liczba zachorowań rosła szybko wczesnym latem, osiągając szczyt w lipcu, po czym znów wzrosła, osiągając kolejny szczyt pod koniec października (w dalszej części książki dowiemy się dlaczego).
+
+Mimo istnienia różnych etapów rozwoju epidemii ludzie często skupiają się na samym jej wybuchu. Chcą wiedzieć, czemu do niej doszło, jak się zaczęła i kto był za to odpowiedzialny. Z perspektywy czasu kuszące jest wymyślanie wyjaśnień i narracji, jakby wybuch epidemii był nieunikniony i mógł powtórzyć się w ten sam sposób. Ale jeśli po prostu wypiszemy listę cech charakterystycznych infekcji czy trendów, które szybko się rozprzestrzeniają, uzyskamy niepełny obraz prawdziwego przebiegu takich sytuacji. Większość epidemii nie wybucha: na każdy wirus grypy, który przeskoczy ze zwierząt na ludzi i rozprzestrzeni się na całym świecie jako pandemia, przypadają miliony, którym nie udaje się zarazić żadnego człowieka. Na każdego tweeta, który zyskuje ogromną popularność, przypada o wiele więcej wiadomości, którym się to nie udaje.
+
+![](https://res.cloudinary.com/inspro/image/upload/v1592513748/rodm/Wykres_prawo_epidemii_kqnejg.jpg)
+
+Nawet jeśli dane zjawisko „chwyci”, to dopiero początek. Spróbuj wyobrazić sobie rozwój konkretnego zjawiska. Może to być epidemia choroby albo ekspansja jakiejś nowej koncepcji. Jak szybko się rozprzestrzenia? I dlaczego tak szybko? Kiedy osiąga szczyt? Czy tylko jeden? Jak długo trwa etap spadkowy?
+
+Zamiast analizować rozwój zjawisk tylko pod kątem tego, czy udaje im się zyskać popularność, czy też nie, musimy się zastanowić, jak je mierzyć i przewidywać. Weźmy epidemię wirusa ebola w Afryce Zachodniej w 2014 roku. Kiedy wirus przedostał się z Gwinei do Sierra Leone i Liberii, liczba zachorowań zaczęła szybko rosnąć. Wczesne analizy naszego zespołu sugerowały, że zasięg epidemii podwaja się w najmocniej dotkniętych chorobą regionach co dwa tygodnie. Oznaczało to, że jeśli w danej chwili mieliśmy 100 przypadków, to za dwa tygodnie mogło ich być więcej o 200, a po miesiącu o kolejne 400. Organy służby zdrowia musiały więc reagować szybko: im dłużej zajmowało im opanowanie epidemii, tym większe wysiłki były potrzebne, by ją kontrolować. Krótko mówiąc, otwarcie jednego ośrodka leczenia choroby od razu równało się otwarciu czterech po miesiącu.
+
+Niektóre epidemie rozwijają się w jeszcze krótszym horyzoncie czasowym. W maju 2017 roku wirus komputerowy WannaCry zaatakował urządzenia na całym świecie, m.in. kluczowe systemy nhs (National Health Service). W początkowych etapach atak podwajał swoje rozmiary niemal co godzinę, w ostatecznym rozrachunku obejmując ponad 200 000 komputerów w 150 krajach. Inne rodzaje technologii potrzebują nieraz dużo więcej czasu. Kiedy na początku lat 80. xx wieku popularne stały się magnetowidy, liczba użytkowników podwajała się zaledwie co około 480 dni.
+
+Oprócz tempa ważna jest też kwestia rozmiaru: zakażenie, które rozprzestrzenia się szybko, niekoniecznie spowoduje ogólnie większą epidemię. Co więc sprawia, że dane zjawisko osiąga szczyt? I co dzieje się potem? To temat istotny dla wielu branż, od finansów i polityki, po technologię i zdrowie. Jednak nie każdy ma takie samo podejście do wybuchów epidemii. Moja żona pracuje w reklamie - podczas gdy moje badania mają na celu powstrzymanie przenoszenia się chorób, ona chce, by pomysły i komunikaty się rozpowszechniały. Chociaż te punkty widzenia wydają się bardzo różne, coraz częściej udaje się mierzyć i porównywać zaraźliwość w różnych branżach, korzystając z pomysłów z jednej dziedziny życia, by lepiej zrozumieć inną. W kolejnych rozdziałach przyjrzymy się, dlaczego kryzysy finansowe przypominają choroby przenoszone drogą płciową, czemu naukowcy zajmujący się chorobami z łatwością potrafią przewidywać zabawy takie jak _ice bucket challenge_ i jak koncepcje wykorzystywane w likwidacji wirusa ospy pomagają powstrzymać przemoc z użyciem broni palnej. Przyjrzymy się też technikom, których możemy użyć, by spowolnić rozprzestrzenianie się choroby lub - w przypadku marketingu - podtrzymać rozpowszechnianie informacji.
+
+Nasze pojmowanie zaraźliwości w ostatnich latach bardzo się zmieniło, i to nie tylko w mojej dziedzinie badań nad chorobami. Przy pomocy szczegółowych danych na temat interakcji społecznych naukowcy odkrywają, jak informacje mogą ewoluować, by stawać się bardziej przekonujące i godne udostępniania, dlaczego niektóre epidemie osiągają coraz to nowe szczyty - jak na przykład pandemia grypy z 2009 roku - i jak powiązania między odległymi przyjaciółmi w tym „małym świecie” mogą pomóc niektórym koncepcjom szeroko się rozpowszechniać (a przeszkadzać innym). Jednocześnie coraz więcej dowiadujemy się o tym, jak pojawiają się i rozpowszechniają plotki, dlaczego niektóre epidemie trudniej wyjaśnić niż inne i jak algorytmy online wpływają na nasze życie i naruszają naszą prywatność.
+
+Wskutek tego koncepcje pochodzące z dziedziny epidemiologii pomagają dziś radzić sobie z zagrożeniami w innych obszarach. Banki centralne korzystają z tych metod, by zapobiec przyszłym kryzysom finansowym, a firmy technologiczne budują nowe mechanizmy obrony przed szkodliwym oprogramowaniem. Jednocześnie naukowcy podważają funkcjonujące od dawna założenia dotyczące rozwoju chorób. Kiedy dochodzi do zakażenia, historia pokazuje, że przekonania co do tego, jak coś się rozprzestrzenia, nie zawsze zgadzają się z rzeczywistością. Na przykład społeczeństwa średniowieczne za sporadyczny charakter wybuchów epidemii winiły wpływy astrologiczne - po włosku _influenza_, czyli grypa, oznacza „wpływ”.
+
+Popularne wyjaśnienia epidemii wciąż są obalane przez odkrycia naukowe. Badania ujawniają tajemnice zaraźliwości, pokazując nam, jak unikać uproszczonych interpretacji i nieskutecznych rozwiązań. Jednak mimo tych postępów wiedza na temat rozwoju zjawisk wciąż jest raczej niejasna: po prostu słyszymy, że coś jest zaraźliwe albo że zyskuje wielką popularność. Rzadko dowiadujemy się, dlaczego rozwinęło się tak szybko (albo wolno), co sprawiło, że osiągnęło szczyt, albo czego się spodziewać następnym razem. Niezależnie od tego, czy jesteśmy zainteresowani rozpowszechnianiem pomysłów i innowacji, czy też powstrzymaniem wirusów i przemocy, musimy się dowiedzieć, co przyczynia się do zaraźliwości. A czasem oznacza to zrewidowanie wszystkich naszych przekonań na temat jakiejś infekcji. \[...\]
+
+**Adam Kucharski**: [Prawa epidemii. Skąd się biorą i czemu wygasają?, Wydawnictwo Relacja 2020. ](https://relacja.net/product-pol-548-Prawa-epidemii-Skad-sie-epidemie-biora-i-czemu-wygasaja.html "https://relacja.net/product-pol-548-Prawa-epidemii-Skad-sie-epidemie-biora-i-czemu-wygasaja.html")
+
+Książkę przetłumaczyła Jowita Maksymowicz-Hamann.
+
+Premiera książki: **7 kwietnia 2020**. 
