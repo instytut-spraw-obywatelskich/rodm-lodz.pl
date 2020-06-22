@@ -5,7 +5,7 @@ slug = "cykl-wiedzy-o-grupie-wyszehradzkiej-#V4-30-lat-razem"
 title = "Cykl wiedzy o Grupie Wyszehradzkiej #V4 - 30 lat razem"
 
 +++
-## Jak to się zaczęło, czyli geneza Grupy Wyszehradzkiej #V4
+## Jak to się zaczęło, czyli geneza powstania Grupy Wyszehradzkiej #V4
 
 Wraz z zakończeniem zimnej wojny narody Europy Środkowej stanęły na rozdrożu. Z jednej strony miały już nowe wybrane demokratyczne rządy, lecz z drugiej odbiegały zasadniczo od starych demokracji Europy Zachodniej. Rządy komunistów w Czechosłowacji, Polsce czy na Węgrzech odcisnęły piętno, z którym musiano się zmierzyć. Grupa Wyszehradzka (V4) była odpowiedzią na zapotrzebowanie społeczne i polityczne ostatniej dekady XX wieku w tej części kontynentu europejskiego.
 
