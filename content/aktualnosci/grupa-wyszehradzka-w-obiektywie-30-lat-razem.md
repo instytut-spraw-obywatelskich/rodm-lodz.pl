@@ -18,3 +18,15 @@ Lata 1998-1999 to okres wzmożonej pracy polityków V4. Prowadzili negocjację z
 **Fot. Paweł Kula**
 
 **Źródło: sejm.gov.pl**
+
+## Młodzi o przyszłości regionu i świata, czyli Letnia Szkoła Wyszehradzka 
+
+![](https://res.cloudinary.com/inspro/image/upload/v1592931384/rodm/visegrad-summer-school_v5-2_gzjwmp.jpg)
+
+W chwili powołania do życia Grupy Wyszehradzkiej jednym z jej celów oprócz wspólnych interesów politycznych było umocnienie więzi społeczeństw Europy Środkowej. Do tego celu powołany został 9 czerwca 2000 roku Międzynarodowy Fundusz Wyszehradzki. Jego zadaniem jest wyznaczanie środków potrzebnych do zrealizowania projektów społeczno-naukowo-kulturowych w ramach V4 i jej wschodnich sąsiadów. Jednym z nich jest organizowana corocznie Letnia Szkoła Wyszehradzka.
+
+Wydarzenie to jest organizowane w Krakowie przy współpracy Międzynarodowego Funduszu Wyszehradzkiego, województwa małopolskiego oraz prywatnych sponsorów. Letnia Szkoła Wyszehradzka jest dwutygodniowym cyklem szkoleń przeznaczonym dla młodzieży akademickiej, dziennikarzy, doktorantów i nauczycieli z krajów V4, ale także m.in. z Armenii, Azerbejdżanu, Białorusi, Francji, Litwy, Kosowa, Niemiec, Rosji. Letnia Szkoła Wyszehradzka to liczne warsztaty, debaty i wykłady poświęcone tematyce współpracy międzynarodowej. Spotkania stanowią platformę budowania dialogu, przyjaźni oraz przezwyciężania stereotypów.
+
+Dotychczas odbyło się 17 spotkań organizowanych w krakowskim ośrodku „Villa Decius”, w których udział wzięło ponad 500 uczestników i wielu gości z polskiej i zagranicznej sceny politycznej m.in. Danuta Hübner, Leszek Balcerowicz, Jan Kavan. Z powodu pandemii COVID-19 tegoroczna edycja Letniej Szkoły Wyszehradzkiej odbędzie się w formie spotkań online.
+
+**Źródło: villa.org.pl**
