@@ -5,7 +5,7 @@ slug = "indo-pacyfik-reaktywacja"
 title = "Indo-Pacyfik – reaktywacja"
 
 +++
-Jak obecnie wygląda sytuacja na Indo-Pacyfiku w kontekście nasilającej się rywalizacji, pomiędzy USA a Chinami? W co grają USA, Indie, Australia i Japonia? Dlaczego powinniśmy interesować się reaktywacją idei Indo-Pacyfiku?
+## Jak obecnie wygląda sytuacja na Indo-Pacyfiku w kontekście nasilającej się rywalizacji, pomiędzy USA a Chinami? W co grają USA, Indie, Australia i Japonia? Dlaczego powinniśmy interesować się reaktywacją idei Indo-Pacyfiku?
 
 Michał Lubina odpowiada, Rafał Górski pyta.
 
