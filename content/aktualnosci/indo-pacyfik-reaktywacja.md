@@ -1,6 +1,5 @@
 +++
 date = 2020-06-22T22:00:00Z
-draft = true
 main_image = "/v1592928145/rodm/Indo-Pacyfik_RODM_rkjbpy.jpg"
 slug = "indo-pacyfik-reaktywacja"
 title = "Indo-Pacyfik – reaktywacja"
