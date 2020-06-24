@@ -1,5 +1,5 @@
 +++
-date = 2020-06-16T22:00:00Z
+date = 2020-06-23T22:00:00Z
 main_image = "/v1588182872/rodm/Quiz_WO%C5%9A_na_RODM_kvauzc.png"
 slug = "wos-quiz-wiedzy-o-swiecie"
 title = "WOŚ - Quiz Wiedzy o Świecie "
@@ -39,6 +39,10 @@ Quiz maturzysty 2020 - Wiedza o Społeczeństwie:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeSEsmwQI2hzyOYt8Ox5z2evZDIPFYk4UnZIDBipbwWQAsN-Q/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
 
-Quiz maturzysty 2020 - Geografia: 
+Quiz maturzysty 2020 - Geografia:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeu9zz6veRsou4sV9FWSuT3GINs3JfsMyGn3MSwDJ5LnCX0Rg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
+
+Quiz o Grupie Wyszehradzkiej #V4: 
+
+<div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8T2JCxiOMnVS5OomfODGdsvaWmckJOO0uYIdl6_uqbUiUqw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
