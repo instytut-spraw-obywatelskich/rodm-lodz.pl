@@ -1,6 +1,5 @@
 +++
 date = 2020-06-24T22:00:00Z
-draft = true
 main_image = "/v1593112312/rodm/MP_NKJ_3D_front_strona_RODM_s6onmy.jpg"
 slug = "m-palin-korea-polnocna-dziennik-podrozy"
 title = "M. Palin: Korea Północna. Dziennik podróży"
