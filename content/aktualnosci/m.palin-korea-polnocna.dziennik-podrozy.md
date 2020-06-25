@@ -13,11 +13,11 @@ Teraz Palin publikuje swój starannie ukrywany dziennik, spisywany podczas pobyt
 
 W niepodrabialnej, ciepłej narracji Michaela Palina, okraszonej jedynym w swoim rodzaju poczuciem humoru, przeczytamy o uderzającym kontraście między nowoczesną stolicą pełną monumentalnych pomników a ubogą prowincją, która nie zmieniła się od dekad; o pięknie północnokoreańskiej przyrody; o wycieczce do strefy zdemilitaryzowanej i o wizycie w kilkusetletniej akademii konfucjańskiej.
 
-W tej bogato ilustrowanej zdjęciami książce czytelnicy znajdą też to, co w twórczości Palina cenią sobie najbardziej – jego rozmowy z miejscowymi: przewodnikami, nauczycielami, artystami na usługach propagandy, rolnikami i żołnierzami. Uniwersalne ludzkie wartości ujmująco przeplatają się w nich z brakiem zrozumienia dla innego pojmowania świata, co zachęca do refleksji nad istotą i główną siłą napędową życia obywateli w jednym z najbardziej ponurych i zatrważających reżimów świata (z materiałów Wydawnictwa Insignis). 
+W tej bogato ilustrowanej zdjęciami książce czytelnicy znajdą też to, co w twórczości Palina cenią sobie najbardziej – jego rozmowy z miejscowymi: przewodnikami, nauczycielami, artystami na usługach propagandy, rolnikami i żołnierzami. Uniwersalne ludzkie wartości ujmująco przeplatają się w nich z brakiem zrozumienia dla innego pojmowania świata, co zachęca do refleksji nad istotą i główną siłą napędową życia obywateli w jednym z najbardziej ponurych i zatrważających reżimów świata (z materiałów Wydawnictwa Insignis).
 
-Zachęcamy do lektury. Wydawnictwu Insignis, wydawcy książki _„_Korea Północna. Dziennik podróży_”_, dziękujemy za udostępnienie fragmentu do publikacji.
+Zachęcamy do lektury. Wydawnictwu Insignis, wydawcy książki _„Korea Północna. Dziennik podróży”_, dziękujemy za udostępnienie fragmentu do publikacji.
 
-**_„Korea Północna. Dziennik podróży”_** 
+**_„Korea Północna. Dziennik podróży”_**
 
 **Dzień 4**
 
@@ -97,6 +97,6 @@ Tuż przed pójściem spać długo przyglądam się nocnej panoramie Pjongjangu.
 
 **Michael Palin**: [Korea Północna. Dziennik podróży, Wydawnictwo Insignis 2020. ](http://www.insignis.pl/ksiazki/korea-polnocna-dziennik-podrozy/ "http://www.insignis.pl/ksiazki/korea-polnocna-dziennik-podrozy/")
 
-Książkę przetłumaczyła Dorota Malina. 
+Książkę przetłumaczyła Dorota Malina.
 
 Premiera książki: **6 maja 2020**.
