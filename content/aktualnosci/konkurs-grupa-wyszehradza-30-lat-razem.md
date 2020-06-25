@@ -1,5 +1,5 @@
 +++
-date = 2020-06-23T22:00:00Z
+date = 2020-06-24T22:00:00Z
 draft = true
 main_image = "/v1593033841/rodm/v4_RODM_strona_lebzpq.png"
 slug = "konkurs-grupa-wyszehradzka-30-lat-razem"
