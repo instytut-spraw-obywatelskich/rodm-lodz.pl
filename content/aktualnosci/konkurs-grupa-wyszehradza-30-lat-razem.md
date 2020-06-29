@@ -23,7 +23,7 @@ Kompletny regulamin konkursu znajduje się poniżej:
 
 2\. Organizatorem Konkursu „GRUPA WYSZEHRADZKA-30 LAT RAZEM” (zwanym dalej „Konkursem”) jest Fundacja Instytut Spraw Obywatelskich z siedzibą w Łodzi przy ul. Pomorskiej 40 (zwana dalej „Organizatorem”).
 
-3\. Konkurs rozpoczyna się 25.06.2020 r. (czwartek) o godz. 10:00, jego rozstrzygnięcie ma miejsce 30.06.2020 r. (wtorek) o godz. 16:00. Odpowiedzi należy udzielać do dnia 29.06.2020 r. (poniedziałek), do godziny 16:00.
+3\. Konkurs rozpoczyna się 25.06.2020 r. (czwartek) o godz. 10:00, jego rozstrzygnięcie ma miejsce 06.07.2020 r. (poniedziałek) o godz. 16:00. Odpowiedzi należy udzielać do dnia 02.07.2020 r. (czwartek), do godziny 16:00.
 
 4\. Udział w Konkursie jest dobrowolny i bezpłatny.
 
