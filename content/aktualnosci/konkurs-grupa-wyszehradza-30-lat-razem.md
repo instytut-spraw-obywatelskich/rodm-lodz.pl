@@ -9,7 +9,7 @@ title = "KONKURS: GRUPA WYSZEHRADZKA-30 LAT RAZEM"
 
 **Z tej okazji RODM Łódź zachęca Was do wzięcia udziału w konkursie. Wystarczy, że odpowiesz na pytanie „Który z krajów V4 (oprócz Polski) jest Ci najbliższy i dlaczego?”, a możesz wygrać jedną z trzech książek „Okiem stratega i dyplomaty. Stosunki polsko-amerykańskie po 1918 roku” pod red. Roberta Kupieckiego.**
 
-Konkurs trwa od 25.06.2020 r. (czwartek) od godz. 10:00 do 02.07.2020 r. (czwartek) do godz. 16:00. Zwycięzców ogłosimy 06.07.2020 r. (poniedziałek) o godz. 16:00.
+Konkurs trwa od 25.06.2020 r. (czwartek) od godz. 10:00 do 02.07.2020 r. (czwartek) do godz. 16:00. Zwycięzców ogłosimy 06.07.2020 r. (poniedziałek) o godz. 16:00. 
 
 Kompletny regulamin konkursu znajduje się poniżej:
 
