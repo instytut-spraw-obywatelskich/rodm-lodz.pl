@@ -1,6 +1,5 @@
 +++
 date = 2020-06-29T22:00:00Z
-draft = true
 main_image = "/v1593505967/rodm/Foto_ksiazki_strona_RODM_jok7xj.jpg"
 slug = "korea-polnocna-okiem-komika-recenzja-ksiazki-m-palina"
 title = "Korea Północna okiem komika. Recenzja książki M. Palina"
