@@ -1,6 +1,5 @@
 +++
 date = 2020-06-29T22:00:00Z
-draft = true
 main_image = "/v1593503474/rodm/Fot.14_na_RODM_ccndln.jpg"
 slug = "dyplomacja-czasow-wojny-artysci-pisarze-i-naukowcy-w-sluzbie-dyplomatycznej"
 title = "Dyplomacja czasów wojny. Artyści, pisarze i naukowcy w służbie dyplomatycznej"
