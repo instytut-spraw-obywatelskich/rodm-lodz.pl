@@ -1,6 +1,5 @@
 +++
 date = 2020-06-30T22:00:00Z
-draft = true
 main_image = "/v1593608193/rodm/China_Indie_USA_h79nqx.jpg"
 slug = "ofensywa-wilczych-wojownikow-nowy-rozdzial-chinskiej-dyplomacji"
 title = "Ofensywa wilczych wojowników – nowy rozdział chińskiej dyplomacji"
