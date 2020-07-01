@@ -19,7 +19,7 @@ Lata 1998-1999 to okres wzmożonej pracy polityków V4. Prowadzili negocjację z
 
 **Źródło: sejm.gov.pl**
 
-## Młodzi o przyszłości regionu i świata, czyli Letnia Szkoła Wyszehradzka 
+## Młodzi o przyszłości regionu i świata, czyli Letnia Szkoła Wyszehradzka
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1592931384/rodm/visegrad-summer-school_v5-2_gzjwmp.jpg)
 
@@ -30,3 +30,17 @@ Wydarzenie to jest organizowane w Krakowie przy współpracy Międzynarodowego F
 Dotychczas odbyło się 17 spotkań organizowanych w krakowskim ośrodku „Villa Decius”, w których udział wzięło ponad 500 uczestników i wielu gości z polskiej i zagranicznej sceny politycznej m.in. Danuta Hübner, Leszek Balcerowicz, Jan Kavan. Z powodu pandemii COVID-19 tegoroczna edycja Letniej Szkoły Wyszehradzkiej odbędzie się w formie spotkań online.
 
 **Źródło: villa.org.pl**
+
+## Międzynarodowy Fundusz Wyszehradzki, czyli finansowe zaplacze V4
+
+![](https://res.cloudinary.com/inspro/image/upload/v1593637630/rodm/Visegrad_fund_strona_uoozmk.jpg)
+
+Kraje Europy Środkowej po okresie politycznej i kulturalnej dominacji Związku Radzieckiego w latach 1945-1989 musiały się zmierzyć z problemem częściowego kryzysu tożsamości kulturalnej. Przywrócenie jej stało się jednym z celów Grupy Wyszehradzkiej, która 9 czerwca 2000 roku doprowadziła do powołania Międzynarodowego Funduszu Wyszehradzkiego. Zadaniem Funduszu jest promowanie i zachęcanie do bliższej współpracy między państwami i społeczeństwami Grupy Wyszehradzkiej poprzez dofinansowywanie wspólnych wyszehradzkich projektów kulturalnych, naukowych i edukacyjnych, wymianę młodzieży, współpracę transgraniczną oraz w dziedzinie promocji turystyki.
+
+O granty finansowane mogą ubiegać się organizacje pozarządowe, władze lokalne i gminne, ale także szkoły wyższe, instytucje publiczne i osoby fizyczne.
+
+Międzynarodowy Fundusz Wyszehradzki przyznaje trzy typy dofinansowań: Grant Wyszehradzki związany bezpośrednio z państwem członkowskim, Grant Wyszehradzki+ dotyczący inicjatyw wykraczających poza obszar krajów V4 oraz Grant Strategiczny zrzeszający wszystkich kraje V4. Dofinansowania dotyczą współpracy na polu kultury, edukacji, innowacji, mediów czy środowiska.
+
+Podczas prezydencji Czech w Grupie Wyszehradzkiej (lipiec 2019 – czerwiec 2020) przyznano aż 77 grantów na programy stypendialne organizowane przez uczelnie krajów V4.
+
+**Źródło: gov.pl**
