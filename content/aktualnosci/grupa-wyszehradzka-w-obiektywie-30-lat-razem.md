@@ -1,5 +1,5 @@
 +++
-date = 2020-06-22T22:00:00Z
+date = 2020-06-30T22:00:00Z
 main_image = "/v1592841388/rodm/Foto_V4_Pawel_Kula_uca4ek.jpg"
 slug = "grupa-wyszehradzka-w-obiektywie-30-lat-razem"
 title = "Grupa Wyszehradzka w obiektywie - 30 lat razem "
