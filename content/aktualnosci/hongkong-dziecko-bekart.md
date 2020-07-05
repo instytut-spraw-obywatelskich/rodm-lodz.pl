@@ -1,6 +1,5 @@
 +++
 date = 2020-07-04T22:00:00Z
-draft = true
 main_image = "/v1593968014/rodm/Hongkong_na_strone_RODM_jfgpsm.jpg"
 slug = "hongkong-dziecko-bekart"
 title = "Hongkong – dziecko bękart"
