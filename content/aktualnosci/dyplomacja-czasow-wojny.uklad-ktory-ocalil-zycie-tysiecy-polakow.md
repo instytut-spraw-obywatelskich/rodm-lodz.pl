@@ -1,6 +1,5 @@
 +++
 date = 2020-07-04T22:00:00Z
-draft = true
 main_image = "/v1593959873/rodm/Uklad_Sikorski_strona_RODM_ibxr9z.jpg"
 slug = "dyplomacja-czasow-wojny-uklad-ktory-ocailil-zycie-tysiecy-polakow"
 title = "Dyplomacja czasów wojny. Układ, który ocalił życie tysięcy Polaków"
