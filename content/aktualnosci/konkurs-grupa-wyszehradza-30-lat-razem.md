@@ -23,7 +23,7 @@ Kompletny regulamin konkursu znajduje się poniżej:
 
 2\. Organizatorem Konkursu „GRUPA WYSZEHRADZKA-30 LAT RAZEM” (zwanym dalej „Konkursem”) jest Fundacja Instytut Spraw Obywatelskich z siedzibą w Łodzi przy ul. Pomorskiej 40 (zwana dalej „Organizatorem”).
 
-3\. Konkurs rozpoczyna się 25.06.2020 r. (czwartek) o godz. 10:00, jego rozstrzygnięcie ma miejsce 06.07.2020 r. (poniedziałek) o godz. 16:00. Odpowiedzi należy udzielać do dnia 02.07.2020 r. (czwartek), do godziny 16:00. 
+3\. Konkurs rozpoczyna się 25.06.2020 r. (czwartek) o godz. 10:00, jego rozstrzygnięcie ma miejsce 06.07.2020 r. (poniedziałek) o godz. 16:00. Odpowiedzi należy udzielać do dnia 02.07.2020 r. (czwartek), do godziny 16:00.
 
 4\. Udział w Konkursie jest dobrowolny i bezpłatny.
 
@@ -59,7 +59,7 @@ Kompletny regulamin konkursu znajduje się poniżej:
 
 1\. Nagrodą w konkursie jest książka „Okiem stratega i dyplomaty. Stosunki polsko-amerykańskie po 1918 roku” (3 egzemplarze) pod redakcją Roberta Kupieckiego- po jednym egzemplarzu książki dla jednego Zwycięzcy.
 
-2\. Nagroda zostanie przesłane na adres podany w wiadomości prywatnej na Facebooku i Instagramie w ciągu 14 dni od wysłania przez Uczestnika informacji, o których mowa w **§**4 ust.1, niezbędnych do przekazania Nagrody.
+2\. Nagroda zostanie przesłane na adres podany w wiadomości prywatnej na Facebooku i Instagramie w ciągu 14 dni od wysłania przez Uczestnika informacji, o których mowa w §4 ust.1, niezbędnych do przekazania Nagrody.
 
 3\. Wyniki konkursu zostaną ogłoszone w komentarzu pod postem konkursowym w serwisie Facebook ([https://www.facebook.com/RODMLodzkie](https://www.facebook.com/RODMLodzkie "https://www.facebook.com/RODMLodzkie")) i Instagram ([https://www.instagram.com/rodmlodzkie](https://www.instagram.com/rodmlodzkie "https://www.instagram.com/rodmlodzkie")). Zwycięzcy zostaną poproszeni o kontakt w wiadomości prywatnej.
 
