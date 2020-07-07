@@ -51,6 +51,6 @@ Cykl #RODMturysta - Quiz Wiedzy o Brazylii:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdH4SzTG8TytLIGyOxlSLFsHHTXXX8qF8vQ-X6Eebs9SN1brw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
 
-Cykl #RODMturysta - Quiz Wiedzy o Austrii: 
+Cykl #RODMturysta - Quiz Wiedzy o Austrii:
 
-<div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfU_uRvQ77K9x9BWf5E_kX-xn8MidVgmPVwNBnx3IrC1ZeVhw/viewform?usp=sf_link" width="700" height="520" framebordr="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
+<div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfU_uRvQ77K9x9BWf5E_kX-xn8MidVgmPVwNBnx3IrC1ZeVhw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję</iframe></div>
