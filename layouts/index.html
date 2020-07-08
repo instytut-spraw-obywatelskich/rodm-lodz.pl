@@ -10,7 +10,7 @@
 
 <main class="overflow-hidden mt-16">
   <section class="md:flex flex-wrap md:-mr-6 lg:-mr-4">
-    {{ range first 4 (where .Pages "Section" "aktualnosci") }}
+    {{ range first 8 (where .Pages "Section" "aktualnosci") }}
       {{ partial "summary.html" . }}
     {{ end }}
   </section>
