@@ -44,3 +44,13 @@ Międzynarodowy Fundusz Wyszehradzki przyznaje trzy typy dofinansowań: Grant Wy
 Podczas prezydencji Czech w Grupie Wyszehradzkiej (lipiec 2019 – czerwiec 2020) przyznano aż 77 grantów na programy stypendialne organizowane przez uczelnie krajów V4.
 
 **Źródło: gov.pl**
+
+## V4 w NATO 
+
+![](https://res.cloudinary.com/inspro/image/upload/v1594363004/rodm/Polska_Zbrojna_xjidbv.jpg)Wraz z zakończeniem II Wojny Światowej Europę podzieliła żelazna kurtyna. Upadek sojuszu Moskwy i zachodu spowodował powstanie dwóch przeciwstawnych bloków ideologiczno-ekonomicznych. Wobec agresywnej polityki ZSRR i jej chęci dominacji na kontynencie, kraje Europy Zachodniej zmuszone były zawrzeć sojusz obronny skierowany przeciwko zagrożeniu ze wschodu – NATO. Sojusz Północnoatlantycki zrzeszający kraje Europy Zachodniej, Stany Zjednoczone i Kanadę stanowił przeszkodę dla bloku wschodniego. ZSRR i jego satelici nie pozostali bierni. 14 maja 1955 roku do życia powołano Układ Warszawski, w skład którego weszły m.in. Polska, Węgry i Czechosłowacja. Taki status quo utrzymywał się aż do końca lat 80.tych XX wieku. Wiatr zmian zapoczątkował rok 1989. Układ Warszawski, a tym samym blok wschodni zaczął się rozpadać. W 1991 roku Układ Warszawski rozwiązano. Polska, Czechosłowacja i Węgry znalazły się w próżni.
+
+Prężnie rozwijające się tendencje prozachodnie doprowadziły do powstania 15 lutego 1991 roku zrzeszenia zwanego Trójkątem Wyszehradzkim. Z czasem wobec rozpadu Czechosłowacji przemianowano go na Grupę Wyszehradzką, określaną również jako V4.
+
+Państwa te postanowiły działać razem, zarówno jeśli chodzi o akcesję w UE, jak i NATO. Wejście w skład Sojuszu Północnoatlantyckiego wymagało od nich licznych zmian. Musiały zostać opracowane nowe zasady dowodzenia i współdziałania sił zbrojnych odpowiadających standardom, jakie już wdrożono w strukturach Paktu. Oprócz planowania wspólnych manewrów i ćwiczeń wyzwaniem była wysokość składek finansowych wnoszonych na rzecz sojuszu. Ostatecznie 3 spośród 4 krajów Grupy Wyszehradzkiej (Czechy, Polska, i Węgry) 12 marca 1999 roku przystąpiły do Paktu Północnoatlantyckiego. Słowacja dołączyła do sojuszu 29 marca 2004 roku. Polska i inne kraje V4 biorą czynny udział w zadaniach i projektach NATO. Dodatkowo od 2004 kraje V4 uczestniczą w dyżurach bojowych w ramach Europejskich Sił Szybkiego Reagowania, które docelowo mają działać wspólnie z siłami Paktu podczas ewentualnych kryzysów. Pierwszy dyżur Wyszehradzkiej Grupy Bojowej podjęto wraz z Ukrainą w 2016 roku, a kolejny rozpocznie się w połowie 2023 roku.
+
+**Źródło: polska-zbrojna.pl**
