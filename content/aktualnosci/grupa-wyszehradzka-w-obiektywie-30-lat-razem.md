@@ -2,7 +2,7 @@
 date = 2020-07-09T22:00:00Z
 main_image = "/v1592841388/rodm/Foto_V4_Pawel_Kula_uca4ek.jpg"
 slug = "grupa-wyszehradzka-w-obiektywie-30-lat-razem"
-title = "Grupa Wyszehradzka w obiektywie - 30 lat razem "
+title = "Grupa Wyszehradzka w obiektywie – 30 lat razem "
 
 +++
 ## Jak to się zaczęło, czyli geneza Grupy Wyszehradzkiej #V4
