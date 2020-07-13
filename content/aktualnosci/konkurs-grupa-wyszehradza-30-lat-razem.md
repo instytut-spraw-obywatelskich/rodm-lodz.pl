@@ -2,7 +2,7 @@
 date = 2020-06-24T22:00:00Z
 main_image = "/v1593033841/rodm/v4_RODM_strona_lebzpq.png"
 slug = "konkurs-grupa-wyszehradzka-30-lat-razem"
-title = "KONKURS: GRUPA WYSZEHRADZKA –  30 LAT RAZEM"
+title = "KONKURS: GRUPA WYSZEHRADZKA – 30 LAT RAZEM"
 
 +++
 ## **Już tylko dni dzielą nas od rozpoczęcia przez Polskę rotacyjnej prezydencji w Grupie Wyszehradzkiej. Przewodnictwo Polski (01.07.2020-30.06.2021) przypada w roku jubileuszowym. 15.02.2021 roku będziemy obchodzić 30. rocznicę powołania płaszczyzny współpracy czterech państw Europy Środkowej.**
