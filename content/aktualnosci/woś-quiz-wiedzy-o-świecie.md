@@ -2,7 +2,7 @@
 date = 2020-07-08T22:00:00Z
 main_image = "/v1588182872/rodm/Quiz_WO%C5%9A_na_RODM_kvauzc.png"
 slug = "wos-quiz-wiedzy-o-swiecie"
-title = "WOŚ - Quiz Wiedzy o Świecie "
+title = "WOŚ – Quiz Wiedzy o Świecie "
 
 +++
 Czas przymusowej oceny dotknął nas wszystkich - w grupie studentów i studentów, którzy naukowcy realizują w domu. Dlatego RODM Łódź wychodzi Wam naprzeciw z propozycją: WOŚ - Quiz Wiedzy o Świecie.
