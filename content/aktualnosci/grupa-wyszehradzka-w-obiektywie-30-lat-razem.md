@@ -1,5 +1,5 @@
 +++
-date = 2020-07-09T22:00:00Z
+date = 2020-07-13T22:00:00Z
 main_image = "/v1592841388/rodm/Foto_V4_Pawel_Kula_uca4ek.jpg"
 slug = "grupa-wyszehradzka-w-obiektywie-30-lat-razem"
 title = "Grupa Wyszehradzka w obiektywie – 30 lat razem "
@@ -45,7 +45,7 @@ Podczas prezydencji Czech w Grupie Wyszehradzkiej (lipiec 2019 – czerwiec 2020
 
 **Źródło: gov.pl**
 
-## V4 w NATO 
+## V4 w NATO
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1594363004/rodm/Polska_Zbrojna_xjidbv.jpg)Wraz z zakończeniem II Wojny Światowej Europę podzieliła żelazna kurtyna. Upadek sojuszu Moskwy i zachodu spowodował powstanie dwóch przeciwstawnych bloków ideologiczno-ekonomicznych. Wobec agresywnej polityki ZSRR i jej chęci dominacji na kontynencie, kraje Europy Zachodniej zmuszone były zawrzeć sojusz obronny skierowany przeciwko zagrożeniu ze wschodu – NATO. Sojusz Północnoatlantycki zrzeszający kraje Europy Zachodniej, Stany Zjednoczone i Kanadę stanowił przeszkodę dla bloku wschodniego. ZSRR i jego satelici nie pozostali bierni. 14 maja 1955 roku do życia powołano Układ Warszawski, w skład którego weszły m.in. Polska, Węgry i Czechosłowacja. Taki status quo utrzymywał się aż do końca lat 80.tych XX wieku. Wiatr zmian zapoczątkował rok 1989. Układ Warszawski, a tym samym blok wschodni zaczął się rozpadać. W 1991 roku Układ Warszawski rozwiązano. Polska, Czechosłowacja i Węgry znalazły się w próżni.
 
@@ -54,3 +54,17 @@ Prężnie rozwijające się tendencje prozachodnie doprowadziły do powstania 15
 Państwa te postanowiły działać razem, zarówno jeśli chodzi o akcesję w UE, jak i NATO. Wejście w skład Sojuszu Północnoatlantyckiego wymagało od nich licznych zmian. Musiały zostać opracowane nowe zasady dowodzenia i współdziałania sił zbrojnych odpowiadających standardom, jakie już wdrożono w strukturach Paktu. Oprócz planowania wspólnych manewrów i ćwiczeń wyzwaniem była wysokość składek finansowych wnoszonych na rzecz sojuszu. Ostatecznie 3 spośród 4 krajów Grupy Wyszehradzkiej (Czechy, Polska, i Węgry) 12 marca 1999 roku przystąpiły do Paktu Północnoatlantyckiego. Słowacja dołączyła do sojuszu 29 marca 2004 roku. Polska i inne kraje V4 biorą czynny udział w zadaniach i projektach NATO. Dodatkowo od 2004 kraje V4 uczestniczą w dyżurach bojowych w ramach Europejskich Sił Szybkiego Reagowania, które docelowo mają działać wspólnie z siłami Paktu podczas ewentualnych kryzysów. Pierwszy dyżur Wyszehradzkiej Grupy Bojowej podjęto wraz z Ukrainą w 2016 roku, a kolejny rozpocznie się w połowie 2023 roku.
 
 **Źródło: polska-zbrojna.pl**
+
+## Traktat w Trianon traumą dla Węgrów
+
+![](https://res.cloudinary.com/inspro/image/upload/v1594737914/rodm/Traktat_w_Trianon_gsw3ku.jpg)W tym roku obchodzimy w Polsce 100. rocznicę Bitwy Warszawskiej. O ile dla nas wydarzenia sprzed stu lat są okazją do świętowania, tak dla Węgrów rok 1920 stał się traumą oraz elementem martyrologii narodowej. W ich rozumieniu wydarzenia z Trianon stały się symbolem swoistej zdrady zachodu, które po dziś dzień są stale obecne w dyskursie publicznym i politycznym. Widać to najlepiej w narracji historycznej prowadzonej przez premiera Węgier Viktora Orbána.
+
+Zakończenie I Wojny Światowej zmieniło status quo w Europie. Rozpad pokonanej w wojnie monarchii Austro-Węgierskiej doprowadził do powstania 16 listopada 1918 roku Republiki Węgierskiej. Jako dawna część składowa monarchii Habsburgów musiała się ona zmierzyć konsekwencjami wynikającymi z klęski militarnej. 4 czerwca 1920 roku zwycięska Ententa wymogła na węgierskich delegatach uczestniczących w rozmowach pokojowych podpisanie traktatu pokojowego w pałacu Grand Trianon w Wersalu. Na jego mocy 2/3 terytorium dawnego Królestwa Węgier przypadło w udziale innym państwom: Polsce, Rumunii czy Czechosłowacji. W wyniku oderwania znacznej części terytorium 62% etnicznych Węgrów znalazło się poza granicami kraju.
+
+W okresie II Wojny Światowej rządzący na Węgrzech admirał Miklós Horthy sprzymierzył się z III Rzeszą w celu restauracji dawnego obszaru Królestwa Węgier. Klęska wojenna i triumf komunizmu zahamował roszczenia terytorialne i koncepcje rewizjonistyczne. Upadek żelaznej kurtyny i ZSRR w ostatniej dekadzie XX wieku na nowo ożywił węgierską narrację historyczną. Była ona jednak pozbawiona rewizjonistycznego charakteru. Nowe realia polityczne wymagały od Węgier i pozostałych państw współpracy. Efektem pokojowych rozmów było między innymi powołanie 15 lutego 1991 Grupy Wyszehradzkiej.
+
+Po długoletnich rządach socjalistów 29 maja 2010 roku na fotelu premiera zasiadł Viktor Orbán z partii Fidesz. Sprawa mniejszości węgierskiej i zdrada w Trianon stały się bardzo żywe i często wykorzystywane w bieżącej polityce. Już w maju 2010 roku rozpoczęto wydawanie paszportów dla Węgrów mieszkających poza granicami kraju. Ułatwiono im również możliwość uzyskania obywatelstwa, a dzień 4 czerwca ustanowiono państwowym świętem Narodowego Dnia Jedności.
+
+Kolejnym krokiem wpisującym się w nową politykę historyczną Węgier było wprowadzenie w życie 1 stycznia 2012 roku nowej konstytucji. Znaleźć w niej można zapis, że Węgry to obszar zamieszkiwany przez Węgrów również poza wytyczonymi granicami państwa. Zapis ten jednak w obecnych realiach odnosi się do poszanowania praw mniejszości węgierskiej niż realnych roszczeń terytorialnych.
+
+**Źródło:** [**https://en.wikipedia.org/wiki/Treaty_of_Trianon**](https://en.wikipedia.org/wiki/Treaty_of_Trianon "https://en.wikipedia.org/wiki/Treaty_of_Trianon")
