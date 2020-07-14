@@ -67,4 +67,4 @@ Po długoletnich rządach socjalistów 29 maja 2010 roku na fotelu premiera zasi
 
 Kolejnym krokiem wpisującym się w nową politykę historyczną Węgier było wprowadzenie w życie 1 stycznia 2012 roku nowej konstytucji. Znaleźć w niej można zapis, że Węgry to obszar zamieszkiwany przez Węgrów również poza wytyczonymi granicami państwa. Zapis ten jednak w obecnych realiach odnosi się do poszanowania praw mniejszości węgierskiej niż realnych roszczeń terytorialnych.
 
-**Źródło:** [**https://en.wikipedia.org/wiki/Treaty_of_Trianon**](https://en.wikipedia.org/wiki/Treaty_of_Trianon "https://en.wikipedia.org/wiki/Treaty_of_Trianon")
+**Źródło:** **https://en.wikipedia.org/wiki/Treaty_of_Trianon**
