@@ -1,6 +1,6 @@
 +++
 date = 2020-07-19T22:00:00Z
-main_image = "/v1595243965/rodm/rodm-tiry-strona-wymiary_qi1zh7.jpg"
+main_image = "/v1595244260/rodm/rodm-tiry-strona-wymiary-RODM_pqwieo.jpg"
 slug = "debata-online-tiry-na-tory-towary-na-kolej-transport-a-miedzynarodowe-interesy"
 title = "Debata online „Tiry na Tory – towary na kolej? Transport a międzynarodowe interesy”"
 
