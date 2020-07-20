@@ -1,6 +1,5 @@
 +++
 date = 2020-07-19T22:00:00Z
-draft = true
 main_image = "/v1595242486/rodm/rodm-tiry-strona-www_uymcz3.jpg"
 slug = "debata-online-tiry-na-tory-towary-na-kolej-transport-a-miedzynarodowe-interesy"
 title = "Debata online „Tiry na Tory – towary na kolej? Transport a międzynarodowe interesy”"
