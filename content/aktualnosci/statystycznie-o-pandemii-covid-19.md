@@ -1,6 +1,5 @@
 +++
 date = 2020-07-22T22:00:00Z
-draft = true
 main_image = "/v1595450791/rodm/Artykul_Pandemia_RODM_wymiary_dganha.jpg"
 slug = "statystycznie-o-pandemii-covid-19"
 title = "Statystycznie o pandemii Covid-19 "
