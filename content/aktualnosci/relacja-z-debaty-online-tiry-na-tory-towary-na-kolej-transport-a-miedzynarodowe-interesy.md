@@ -1,6 +1,5 @@
 +++
 date = 2020-07-23T22:00:00Z
-draft = true
 main_image = "/v1595588832/rodm/DEBATA_RODM_TNT_strona_wozjo8.jpg"
 slug = "tiry-na-tory-transport-debata"
 title = "Relacja z debaty online „Tiry na Tory — towary na kolej? Transport a międzynarodowe interesy”"
