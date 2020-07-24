@@ -8,3 +8,7 @@ summaryLength = 40
   cloudinary_url = "https://res.cloudinary.com/inspro/image/upload"
 [blackfriday]
   fractions = false
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
