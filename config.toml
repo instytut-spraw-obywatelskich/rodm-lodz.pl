@@ -12,3 +12,4 @@ summaryLength = 40
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      xhtml = true
