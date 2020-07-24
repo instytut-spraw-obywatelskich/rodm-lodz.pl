@@ -1,5 +1,5 @@
 +++
-date = 2020-07-14T22:00:00Z
+date = 2020-07-23T22:00:00Z
 main_image = "/v1588182872/rodm/Quiz_WO%C5%9A_na_RODM_kvauzc.png"
 slug = "wos-quiz-wiedzy-o-swiecie"
 title = "WOŚ – Quiz Wiedzy o Świecie "
@@ -58,3 +58,7 @@ Cykl #RODMturysta — Quiz Wiedzy o Austrii:
 Cykl #RODMturysta — Quiz Wiedzy o Szwecji:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScJZgO5PWJaOD7XUAQmS28AYqNoh_8c6CuzvplQU80cCvgN3w/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję</iframe></div>
+
+Cykl #RODMturysta — Quiz Wiedzy o Szwecji: 
+
+<div class="iframe google-maps"><iframe src="[https://docs.google.com/forms/d/e/1FAIpQLScJZgO5PWJaOD7XUAQmS28AYqNoh_8c6CuzvplQU80cCvgN3w/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLScJZgO5PWJaOD7XUAQmS28AYqNoh_8c6CuzvplQU80cCvgN3w/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLScJZgO5PWJaOD7XUAQmS28AYqNoh_8c6CuzvplQU80cCvgN3w/viewform?embedded=true")" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję</iframe></div>
