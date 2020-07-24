@@ -3,8 +3,7 @@ module.exports = {
 	plugins: [
 		require("tailwindcss")("./assets/css/tailwindcss/tailwind.config.js"),
 		require("autoprefixer")({
-			grid: false,
-			browsers: [">1%"]
+			grid: false
 		}),
 		...(process.env.NODE_ENV !== "development"
 			? [
