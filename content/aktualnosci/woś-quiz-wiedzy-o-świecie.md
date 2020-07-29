@@ -58,3 +58,7 @@ Cykl #RODMturysta — Quiz Wiedzy o Austrii:
 Cykl #RODMturysta — Quiz Wiedzy o Szwecji:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScJZgO5PWJaOD7XUAQmS28AYqNoh_8c6CuzvplQU80cCvgN3w/viewform?embedded=true<" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
+
+Cykl #RODMturysta — Quiz Wiedzy o Włoszech
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd9_uw_iyKrw2Nr4ztfOnVU5sk2q6SkM57PK4dutARCeybnvA/viewform?embedded=true" width="640" height="1223" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
