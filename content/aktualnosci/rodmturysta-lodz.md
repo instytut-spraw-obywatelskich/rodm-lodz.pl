@@ -62,7 +62,7 @@ Stacja Radegast jest zabytkowym budynkiem kolejowym z 1941 roku. Podczas II wojn
 
 3) https://lodz.travel/turystyka/co-zobaczyc/ksiezy-mlyn/
 
-4)https://lodz.travel/turystyka/co-zobaczyc/lodzkie-muzea/muzeum-miasta-lodzi/
+4) https://lodz.travel/turystyka/co-zobaczyc/lodzkie-muzea/muzeum-miasta-lodzi/
 
 5) https://lodz.travel/turystyka/co-zobaczyc/murale/
 
