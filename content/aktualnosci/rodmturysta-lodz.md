@@ -54,3 +54,20 @@ To instytucja kultury współprowadzona przez miasto Łódź oraz Ministra Kultu
 Stacja Radegast jest zabytkowym budynkiem kolejowym z 1941 roku. Podczas II wojny światowej była związana z gettem, utworzonym w 1940 roku w Łodzi (Litzmannstadt). Od stycznia 1942 r. Stacja stała się miejscem, z którego wywożono ludność żydowską do obozów zagłady Kulmhof w Chełmnie nad Nerem i Auschwitz-Birkenau. Dziś budynek ten jest miejscem pamięci, elementem Pomnika Zagłady Litzmannstadt Getto, powstałym w 2004 r. oraz siedzibą oddziału Muzeum Tradycji Niepodległościowych w Łodzi.
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1596106601/rodm/radegast_iii_vviyrg.jpg)
+
+Źródła fotografii:  
+1) https://uml.lodz.pl/czas-wolny/ulica-piotrkowska/
+
+2)https://www.palac-herbsta.org.pl/strona-13-historia.html https://lodz.travel/turystyka/co-zobaczyc/lodzkie-muzea/muzeum-palac-herbsta-oddzial-muzeum-sztuki/
+
+3) https://lodz.travel/turystyka/co-zobaczyc/ksiezy-mlyn/
+
+4)https://lodz.travel/turystyka/co-zobaczyc/lodzkie-muzea/muzeum-miasta-lodzi/
+
+5) https://lodz.travel/turystyka/co-zobaczyc/murale/
+
+6) https://www.centrumdialogu.com/park-ocalalych
+
+7) https://ec1lodz.pl/ https://www.facebook.com/EC1LodzMiastoKultury/
+
+8) https://muzeumtradycji.pl/oddzial-stacja-radegast https://lodz.travel/turystyka/co-zobaczyc/litzmannstadt-ghetto/stacja-radegast/
