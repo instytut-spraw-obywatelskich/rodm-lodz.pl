@@ -58,7 +58,7 @@ Stacja Radegast jest zabytkowym budynkiem kolejowym z 1941 roku. Podczas II wojn
 Źródła fotografii:  
 1) https://uml.lodz.pl/czas-wolny/ulica-piotrkowska/
 
-2)https://www.palac-herbsta.org.pl/strona-13-historia.html https://lodz.travel/turystyka/co-zobaczyc/lodzkie-muzea/muzeum-palac-herbsta-oddzial-muzeum-sztuki/
+2) https://www.palac-herbsta.org.pl/strona-13-historia.html https://lodz.travel/turystyka/co-zobaczyc/lodzkie-muzea/muzeum-palac-herbsta-oddzial-muzeum-sztuki/
 
 3) https://lodz.travel/turystyka/co-zobaczyc/ksiezy-mlyn/
 
