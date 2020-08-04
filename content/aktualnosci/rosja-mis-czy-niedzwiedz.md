@@ -11,7 +11,7 @@ title = "Rosja – miś czy niedźwiedź?"
 
 **„Istnieje takie powiedzenie, że żeby obalić jakiś rząd potrzeba co najmniej 3,5% społeczeństwa. W Rosji potrzebne byłoby co najmniej 10%. \[...\] Z perspektywy człowieka, któremu nie podoba się ten model funkcjonowania państwa rosyjskiego, zamiast organizować protesty, najprościej jest wyjechać na zachód. \[...\]”** odpowiada Michał Lubina na pytanie o podejście zwykłych obywateli do rosyjskiej polityki.
 
-{{< youtube 9aTtYxrBgc8&feature >}}
+{{< youtube 9aTtYxrBgc8 >}}
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1589991167/rodm/Michal-Lubina_wesoiv.jpg)
 
