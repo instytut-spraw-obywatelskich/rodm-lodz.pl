@@ -1,6 +1,5 @@
 +++
 date = 2020-08-03T22:00:00Z
-draft = true
 main_image = "/v1596549490/rodm/mis_q9emju.jpg"
 slug = "rosja-mis-czy-niedzwiedz"
 title = "Rosja – miś czy niedźwiedź?"
