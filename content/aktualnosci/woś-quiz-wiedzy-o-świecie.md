@@ -62,3 +62,7 @@ Cykl #RODMturysta — Quiz Wiedzy o Szwecji:
 Cykl #RODMturysta — Quiz Wiedzy o Włoszech
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd9_uw_iyKrw2Nr4ztfOnVU5sk2q6SkM57PK4dutARCeybnvA/viewform?embedded=true" width="640" height="1223" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
+
+Cykl #RODMturysta — Quiz Wiedzy o Anglii
+
+<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSf9ZnVEQSaiL1pquNEvT9AYgrHO9-DDQbevLb2cCkH-H8uOKQ/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSf9ZnVEQSaiL1pquNEvT9AYgrHO9-DDQbevLb2cCkH-H8uOKQ/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSf9ZnVEQSaiL1pquNEvT9AYgrHO9-DDQbevLb2cCkH-H8uOKQ/viewform?embedded=true")" width="640" height="1055" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
