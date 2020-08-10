@@ -1,5 +1,5 @@
 +++
-date = 2020-08-05T22:00:00Z
+date = 2020-08-06T22:00:00Z
 main_image = "/v1588182872/rodm/Quiz_WO%C5%9A_na_RODM_kvauzc.png"
 slug = "wos-quiz-wiedzy-o-swiecie"
 title = "WOŚ – Quiz Wiedzy o Świecie "
@@ -59,6 +59,10 @@ Cykl #RODMturysta — Quiz Wiedzy o Szwecji:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScJZgO5PWJaOD7XUAQmS28AYqNoh_8c6CuzvplQU80cCvgN3w/viewform?embedded=true<" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
 
-Cykl #RODMturysta — Quiz Wiedzy o Włoszech
+Cykl #RODMturysta — Quiz Wiedzy o Włoszech:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd9_uw_iyKrw2Nr4ztfOnVU5sk2q6SkM57PK4dutARCeybnvA/viewform?embedded=true" width="640" height="1223" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
+<div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd9_uw_iyKrw2Nr4ztfOnVU5sk2q6SkM57PK4dutARCeybnvA/viewform?embedded=true<" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
+
+Cykl #RODMturysta — Quiz Wiedzy o Anglii: 
+
+<div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf9ZnVEQSaiL1pquNEvT9AYgrHO9-DDQbevLb2cCkH-H8uOKQ/viewform?embedded=true<" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
