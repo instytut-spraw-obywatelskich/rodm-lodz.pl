@@ -2,7 +2,7 @@
 date = 2020-07-29T22:00:00Z
 main_image = "/v1596106852/rodm/z24897580V_Lodz--28-lipca-2018--595--urodziny-Lodzi--ulica-Pi_xrnvu3.jpg"
 slug = "rodm-turysta-lodz"
-title = "RODMturysta - Łódź"
+title = "RODMturysta – Łódź"
 
 +++
 ### **Ul. Piotrkowska**
