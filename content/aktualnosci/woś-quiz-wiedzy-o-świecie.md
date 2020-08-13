@@ -5,9 +5,9 @@ slug = "wos-quiz-wiedzy-o-swiecie"
 title = "WOŚ – Quiz Wiedzy o Świecie "
 
 +++
-Czas przymusowej oceny dotknął nas wszystkich - w grupie studentów i studentów, którzy naukowcy realizują w domu. Dlatego RODM Łódź wychodzi Wam naprzeciw z propozycją: WOŚ - Quiz Wiedzy o Świecie.
+Czas przymusowej izolacji dotknął nas wszystkich – w szczególności uczniów i studentów, którzy naukę realizują w domu. Dlatego RODM Łódź wychodzi Wam naprzeciw z propozycją quizów z cyklu: WOŚ – Quiz Wiedzy o Świecie.
 
-Cotygodniowy quiz to świetna okazja, aby sprawdzić swoją historię z różnych dziedzin - zależne od historii, kultury i tradycji, aż po politykę, środowisko i religię.
+Cotygodniowy quiz to świetna okazja, aby sprawdzić swoją wiedzę z różnych dziedzin – począwszy od historii, kultury i tradycji, aż po politykę, środowisko i religię.
 
 **Zapraszamy do wspólnej zabawy!**
 
@@ -63,6 +63,6 @@ Cykl #RODMturysta — Quiz Wiedzy o Włoszech:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd9_uw_iyKrw2Nr4ztfOnVU5sk2q6SkM57PK4dutARCeybnvA/viewform?embedded=true<" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
 
-Cykl #RODMturysta — Quiz Wiedzy o Anglii: 
+Cykl #RODMturysta — Quiz Wiedzy o Anglii:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf9ZnVEQSaiL1pquNEvT9AYgrHO9-DDQbevLb2cCkH-H8uOKQ/viewform?embedded=true<" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
