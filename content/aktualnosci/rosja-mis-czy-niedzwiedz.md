@@ -5,11 +5,17 @@ slug = "rosja-mis-czy-niedzwiedz"
 title = "Rosja – miś czy niedźwiedź?"
 
 +++
-**„Rosyjski niedźwiedź zorientował się, że Azja i Pacyfik są ważne. Rosja zaznacza, że przyszłość kraju jest właśnie tam. Jednakże niedźwiedź to zwierzę europejskie. \[...\]”** odpowiada Michał Lubina, zapytany o przyszłe działania Rosji.
+## Czy Rosja jest misiem europejskim czy niedźwiedziem azjatyckim? W co gra Rosja z Chinami na Dalekim Wschodzie? W jakim stopniu niedźwiedź jest języczkiem u wagi w globalnej grze mocarstw? Na czym polega drenaż mózgów w Rosji? Co mówią, a co robią elity skupione w Moskwie? Czy ranny niedźwiedź jest groźny dla Polski?
 
-**„Rosja chciałaby być graczem w konflikcie między Stanami Zjednoczonymi a Chinami. \[...\] Z punktu widzenia samego konfliktu ani Stany Zjednoczone, ani Chiny nie chcą III wojny światowej, przez co konflikt zostaje przeniesiony na sferę gospodarczą. \[...\] Jeśli wojna ma się odbywać w kwestiach gospodarczych, to Rosja jest niepotrzebna. \[...\]”** odpowiada Michał Lubina, zapytany o miejsce Rosji na mapie świata.
+Michał Lubina odpowiada, Rafał Górski pyta.
 
-**„Istnieje takie powiedzenie, że żeby obalić jakiś rząd potrzeba co najmniej 3,5% społeczeństwa. W Rosji potrzebne byłoby co najmniej 10%. \[...\] Z perspektywy człowieka, któremu nie podoba się ten model funkcjonowania państwa rosyjskiego, zamiast organizować protesty, najprościej jest wyjechać na zachód. \[...\]”** odpowiada Michał Lubina na pytanie o podejście zwykłych obywateli do rosyjskiej polityki.
+**„\[...\] Rosyjski niedźwiedź zorientował się, że Azja i Pacyfik są ważne. Rosja zaznacza, że przyszłość kraju jest właśnie tam. Jednakże niedźwiedź to zwierzę europejskie. \[...\]”** odpowiada Michał Lubina, zapytany o przyszłe działania Rosji.
+
+**„\[...\] Rosja chciałaby być graczem w konflikcie między Stanami Zjednoczonymi a Chinami. \[...\] Z punktu widzenia samego konfliktu ani Stany Zjednoczone, ani Chiny nie chcą III wojny światowej, przez co konflikt zostaje przeniesiony na sferę gospodarczą. \[...\] Jeśli wojna ma się odbywać w kwestiach gospodarczych, to Rosja jest niepotrzebna. \[...\]”** odpowiada Michał Lubina, zapytany o miejsce Rosji na mapie świata.
+
+**„\[...\] Istnieje takie powiedzenie, że żeby obalić jakiś rząd potrzeba co najmniej 3,5% społeczeństwa. W Rosji potrzebne byłoby co najmniej 10%. \[...\] Z perspektywy człowieka, któremu nie podoba się ten model funkcjonowania państwa rosyjskiego, zamiast organizować protesty, najprościej jest wyjechać na zachód. \[...\]”** odpowiada Michał Lubina na pytanie o podejście zwykłych obywateli do rosyjskiej polityki.
+
+Zachęcamy do wysłuchania całej rozmowy w ramach audycji [„Czy masz świadomość?”](https://instytutsprawobywatelskich.pl/rosja-mis-czy-niedzwiedz/ "https://instytutsprawobywatelskich.pl/rosja-mis-czy-niedzwiedz/"):
 
 {{< youtube 9aTtYxrBgc8 >}}
 
