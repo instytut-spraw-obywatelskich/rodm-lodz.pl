@@ -15,7 +15,7 @@ Gwarantujemy ciekawie opowieści i mile spędzony czas. Zapraszamy serdecznie!
 
 Pierwszy z cykli spacerów będzie poświęcony Łodzi filmowej i odbędzie się **16.08.2020 r. w godzinach 11:00-13:00. Start: brama Państwowej Wyższej Szkoły Filmowej, Telewizyjnej i Teatralnej, ul. Targowa 61/63**.
 
-Udział w wydarzeniu jest bezpłatny. W związku z aktualną sytuacją epidemiologiczną prosimy o zachowanie środków bezpieczeństwa: zakrywanie ust i nosa lub zachowanie bezpiecznego dystansu.
+**Udział w wydarzeniu jest bezpłatny. W związku z aktualną sytuacją epidemiologiczną prosimy o zachowanie środków bezpieczeństwa: zakrywanie ust i nosa lub zachowanie bezpiecznego dystansu.**
 
 ### Harmonogram pozostałych spacerów:
 
