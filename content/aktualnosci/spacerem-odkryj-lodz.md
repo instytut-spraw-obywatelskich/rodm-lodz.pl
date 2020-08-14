@@ -1,8 +1,8 @@
 +++
 date = 2020-08-12T22:00:00Z
 main_image = "/v1597333648/rodm/spacery_-_strona_RODM_Lodz_bkxr6u.jpg"
-slug = "spacerem-odkryj-lodz"
-title = "Spacerem odkryj Łódź "
+slug = "spacerujac-odkrywaj-lodz"
+title = "Spacerując odkrywaj Łódź!"
 
 +++
 ## Regionalny Ośrodek Debaty Międzynarodowej w Łodzi wspólnie z Centrum Inicjatyw na Rzecz Rozwoju REGIO zapraszają na cykl miejskich spacerów tematycznych po Łodzi.
