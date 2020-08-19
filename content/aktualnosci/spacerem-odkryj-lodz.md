@@ -26,3 +26,15 @@ Pierwszy z cykli spacerów będzie poświęcony Łodzi filmowej i odbędzie się
 5. 11 października godz. 11:00: Szlak Łodzi wielokulturowej (Centrum), miejsce startu: Instytut Europejski, ul. Piotrkowska 262.
 6. 18 października godz. 11:00: Szlak Łodzi przemysłowej (Księży Młyn), miejsce startu: Muzeum Kinematografii, pl. Zwycięstwa 1.
 7. 25 października godz. 11:00: Szlak Łodzi wielkomiejskiej (Piotrkowska), miejsce startu: Pomnik Jednorożca, ul. Piotrkowska/ al. Mickiewicza.
+
+### Fotorelacja ze „Spaceru szlakiem filmowej Łodzi”, 16 sierpnia 2020 r.:
+
+![](https://res.cloudinary.com/inspro/image/upload/v1597836248/rodm/2020-08-18_01.49.18_1_lxrytr.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1597836402/rodm/2020-08-18_01.49.10_1_xdddvd.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1597836500/rodm/2020-08-18_01.49.01_1_u6ybpo.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1597836672/rodm/2020-08-18_01.48.50_1_p1upeo.jpg)
+
+**Foto:** Piotr Kaźmierczak, RODM Łódź
