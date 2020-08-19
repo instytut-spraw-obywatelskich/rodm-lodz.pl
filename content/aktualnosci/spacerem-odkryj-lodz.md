@@ -27,7 +27,7 @@ Pierwszy z cykli spacerów będzie poświęcony Łodzi filmowej i odbędzie się
 6. 18 października godz. 11:00: Szlak Łodzi przemysłowej (Księży Młyn), miejsce startu: Muzeum Kinematografii, pl. Zwycięstwa 1.
 7. 25 października godz. 11:00: Szlak Łodzi wielkomiejskiej (Piotrkowska), miejsce startu: Pomnik Jednorożca, ul. Piotrkowska/ al. Mickiewicza.
 
-### Fotorelacja ze „Spaceru szlakiem filmowej Łodzi”, 16 sierpnia 2020 r.:
+### Fotorelacja ze spaceru „Szlakiem filmowej Łodzi”, 16 sierpnia 2020 r.:
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1597836248/rodm/2020-08-18_01.49.18_1_lxrytr.jpg)
 
