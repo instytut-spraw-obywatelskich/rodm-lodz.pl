@@ -36,8 +36,41 @@ Ród rozsławił żyjący w XVI wieku Walerian, autor „Liber Chamorum” zawie
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1597826124/rodm/900x600_rychlocice_dwor_0_1_b4dp4m.jpg)
 
-**Rychłocice. Założenie dworsko-parkowe Trepków z pocz. XIX w. (fot. Renata Leśniak-Kordzińska)**
+**_Rychłocice. Założenie dworsko-parkowe Trepków z pocz. XIX w. (fot. Renata Leśniak-Kordzińska)_**
 
-### **Konopnica** 
+### **Konopnica**
 
 W Konopnicy znajduje się wczesnobarokowy kościół św. Rocha, którego wieża widoczna jest ze znacznej odległości. W Konopnicy znajduje się również neogotycki dworek użytkowany przez Politechnikę Łódzką. Swój status miejscowości „letniskowej” Konopnica zyskała dzięki bardzo ładnej plaży nad Wartą oraz pięknych lasów ciągnących się w kierunku Rychłocic i Niechmirowa. Przy trasie prowadzącej do Osjakowa warto znaleźć uliczkę o nazwie Zamkowa. Prowadzi ona w kierunku grodziska usytuowanego nad urwistym brzegiem Warty.
+
+![](https://res.cloudinary.com/inspro/image/upload/v1597827654/rodm/konopnica_em19fc.jpg)
+
+### **Burzenin**
+
+Burzenin podobnie jak Widawa uzyskał i utracił prawa miejskie. Obecnie jest wsią letniskową położoną na brzegu Warty. Jedynym zabytkiem, jaki przetrwał w Burzeninie do dziś, jest barokowy kościół św. Stanisława i św. Wojciecha.
+
+![](https://res.cloudinary.com/inspro/image/upload/v1597827901/rodm/Kosciol_-_Burzenin_oj809s.jpg)
+
+### **Zabytki na terenie Parku Krajobrazowego Międzyrzecza Warty i Widawki**
+
+#### **Strońsko**
+
+* **Kościół pod wezwaniem św. Urszuli i Jedenastu Tysięcy Dziewic;**
+
+  ![](https://res.cloudinary.com/inspro/image/upload/v1597828560/rodm/stro%C5%84sko_strona_ywvweb.jpg)
+
+
+* **Bunkry z 1939 roku;**
+* **We wrześniu warto odwiedzić Strońsko/Beleń na inscenizację bitwy pod Beleniem z czasów II wojny światowej;**
+* **Bunkry z czasów II wojny światowej w lasach między Grabnem a Widawą;**
+* **Cmentarz wojskowy z I wojny światowej na trasie Łask-Widawa;** 
+* **„Wapienniki”, czyli piece do wypalania wapna. Największy znajduje się przy drodze Brzyków-Siemiechów.**
+
+![](https://res.cloudinary.com/inspro/image/upload/v1597829467/rodm/wapienniki_zk7de9.jpg)
+
+Źródła fotografii:
+
+1. [http://www.swiathegemona.pl/w-miedzyrzeczu-warty-i-widawki/](http://www.swiathegemona.pl/w-miedzyrzeczu-warty-i-widawki/ "http://www.swiathegemona.pl/w-miedzyrzeczu-warty-i-widawki/")
+2. [https://parkilodzkie.pl/spk/pk-miedzyrzecza-warty-i-widawki](https://parkilodzkie.pl/spk/pk-miedzyrzecza-warty-i-widawki "https://parkilodzkie.pl/spk/pk-miedzyrzecza-warty-i-widawki")
+3. [http://www.turystyka.wielun.pl/pl/poi/3273610](http://www.turystyka.wielun.pl/pl/poi/3273610 "http://www.turystyka.wielun.pl/pl/poi/3273610")
+4. [http://www.kultura.lodz.pl/pl/poi/40](http://www.kultura.lodz.pl/pl/poi/40 "http://www.kultura.lodz.pl/pl/poi/40")
+5. [https://pl.wikipedia.org/wiki/Burzenin](https://pl.wikipedia.org/wiki/Burzenin "https://pl.wikipedia.org/wiki/Burzenin")
