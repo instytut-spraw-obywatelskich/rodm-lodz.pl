@@ -1,6 +1,5 @@
 +++
 date = 2020-08-18T22:00:00Z
-draft = true
 main_image = "/v1597824228/rodm/park-krajobrazowy-miedzyrzecza-warty-i-widawki._stronajpg_znktlm.jpg"
 slug = "rodmturysta-park-krajobrazowy-miedzyrzecza-warty-i-widawki"
 title = "RODMturysta – Park Krajobrazowy Międzyrzecza Warty i Widawki "
