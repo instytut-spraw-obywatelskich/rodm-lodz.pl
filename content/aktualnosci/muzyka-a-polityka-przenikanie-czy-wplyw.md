@@ -55,8 +55,8 @@ Utworów muzycznych, które odnosiły się do czasów walk solidarnościowych o 
 5. Bajm – „Józek, nie daruję ci tej nocy” – pierwotnie tytułowy Józek miał być Wojtkiem, stanowiąc wyraźną aluzję do Wojciecha Jaruzelskiego, a noc, której nie można było darować, przyrównywana była do nocy wprowadzenia stanu wojennego;
 6. Kult – „Hej, czy nie wiecie” – utwór sprzeciwiający się działaniom zbrojnym i tyranii;
 7. Lady Pank – „Mniej niż zero” – przebój stał się protest songiem wobec morderstwa Grzegorza Przemyka, mimo iż pierwotnie wcale nie takie było założenie twórców. Piosenka została błędnie zinterpretowana i zaczęła żyć własnym życiem do tego stopnia, że wycofano ją z listy przebojów Trójki;
-8. Maanam – „Nocny patrol” – Maanam to zespół, który zapracował sobie na opinię buntowników PRL-u. Koncertom często towarzyszyły skandale, jak chociażby odmowa zagrania na zlocie Komunistycznej Młodzieży z Polski i ZSRR. Efektem tego był m.in. zakaz emitowania w radiu utworu „To tylko tango”; 
-9. Dezerter – „Spytaj milicjanta” – refren utworu tej punkrockowej kapeli „Spytaj milicjanta/On Ci prawdę powie!” nie pozostawia dużego pola do interpretacji. Cenzura, jak głosi często przytaczana anegdota, nie zrozumiała ironicznego wydźwięku kompozycji i tylko dlatego piosenka ujrzała światło dzienne. 
+8. Maanam – „Nocny patrol” – Maanam to zespół, który zapracował sobie na opinię buntowników PRL-u. Koncertom często towarzyszyły skandale, jak chociażby odmowa zagrania na zlocie Komunistycznej Młodzieży z Polski i ZSRR. Efektem tego był m.in. zakaz emitowania w radiu utworu „To tylko tango”;
+9. Dezerter – „Spytaj milicjanta” – refren utworu tej punkrockowej kapeli „Spytaj milicjanta/On Ci prawdę powie!” nie pozostawia dużego pola do interpretacji. Cenzura, jak głosi często przytaczana anegdota, nie zrozumiała ironicznego wydźwięku kompozycji i tylko dlatego piosenka ujrzała światło dzienne.
 
 Powyższe utwory to tylko promil twórczości opozycyjnej w Polsce. Czas zwycięstwa nad socjalizmem, przemian ustrojowych i narodzin III Rzeczpospolitej mocno naznaczył nasz kraj, stąd takie bogactwo twórczości. Wokaliści i autorzy tekstów w swoich utworach przekazywali prawdę o czasach przełomu. Muzyka była ucieczką od codziennych trosk, ale także szansą manifestacji światopoglądu.
 
@@ -68,7 +68,7 @@ Scorpions w sierpniu 1989 r. razem z plejadą gwiazd muzyki rockowej (Motley Cru
 
 Festiwal odbył się 12 i 13 sierpnia 1989 roku i został przez organizatorów okrzyknięty mianem „rosyjskiego Woodstocku”. Wydarzenie miało rozpocząć międzynarodową współpracę w zakresie pomocy Rosji w walce z rosnącą falą używek wśród młodych Rosjan i rozrastającym się przemysłem narkotykowym w myśl hasła: „Rock against drugs and alcohol”. Niestety nie doczekał się kolejnych edycji.
 
-### **Biało-czerwona flaga** 
+### **Biało-czerwona flaga**
 
 Zespół U2 to kolejny przykład zainteresowania sprawami polskich przemian epoki pierwszej Solidarności i walk o uwolnienie się z komunistycznego jarzma. Bono, który żywo interesuje się polityką, napisał utwór „New Years Day”, odwołujący się do Lecha Wałęsy i Solidarności.
 
