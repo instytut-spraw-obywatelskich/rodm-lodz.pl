@@ -1,6 +1,5 @@
 +++
 date = 2020-08-23T22:00:00Z
-draft = true
 main_image = "/v1598274229/rodm/muzyka_a_polityka_grafika_tjepyh.jpg"
 slug = "muzyka-a-polityka-przenikanie-czy-wplyw"
 title = "Muzyka a polityka – przenikanie czy wpływ?"
