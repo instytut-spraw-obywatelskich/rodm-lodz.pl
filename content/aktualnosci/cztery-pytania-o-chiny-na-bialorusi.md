@@ -1,6 +1,5 @@
 +++
 date = 2020-08-24T22:00:00Z
-draft = true
 main_image = "/v1598382539/rodm/Bia%C5%82oru%C5%9B_bpmdch.jpg"
 slug = "cztery-pytania-o-chiny-na-bialorusi"
 title = "Cztery pytania o Chiny na Białorusi"
