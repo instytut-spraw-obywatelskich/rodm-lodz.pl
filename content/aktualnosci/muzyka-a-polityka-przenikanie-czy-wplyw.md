@@ -101,7 +101,7 @@ Między muzyką a polityką jest jedna zasadnicza różnica. Polityczne ustroje 
 
 To moje spojrzenie na przenikanie się muzyki i świata polityki. W pełni subiektywna wizja. Artykuł jest tylko wstępem do tematu, który mam nadzieję, drogi Czytelniku zachęcił Cię do rozważań.
 
-**Autor**: Michał Jarosławski
+**Autor:** Michał Jarosławski
 
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
