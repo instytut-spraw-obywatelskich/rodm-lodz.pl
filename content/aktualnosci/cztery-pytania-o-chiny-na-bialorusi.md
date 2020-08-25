@@ -11,11 +11,7 @@ title = "Cztery pytania o Chiny na Białorusi"
 
 **To oznacza, iż do gry wcześniej czy później będą musiały wejść światowe mocarstwa i uzgodnić między sobą jakiś konsensus dotyczący przyszłości Białorusi i Aleksandra Łukaszenki. Pytanie, jakie chciałbym zadać w tym krótkim felietonie to: czy w tej grze wezmą udział Chiny i jeśli tak, to w jakiej formule?**
 
-\---------------
-
 Pandemia, o której wspomnieliśmy, nie tylko przyspiesza geopolityczną i społeczną rewolucję, ale jest także swoistym strestestem. I to nie tylko dla organizacji międzynarodowych, państw, czy instytucji, ale także dla wielu koncepcji politycznych czy konkretnych polityk. Zmusza ona bowiem poszczególnych graczy do wyłożenia kart na stół i to niemalże na komendę „sprawdzam”. Z taką sytuacją z pewnością będziemy mieli do czynienia, jeśli chodzi o politykę Chin na Białorusi. Dotychczas obfitowała ona w liczne symboliczne gesty, mówiło się dużo o „dobrym klimacie”, ale trudno było ocenić, czy kryje się za nimi prawdziwe partnerstwo polityczne i co konkretnie oznacza. Sprawy zaszły już jednak tak daleko, że wkrótce powinniśmy – a przynajmniej mamy duże szanse na to – przekonać się, czy wpływ Chin na sytuację na Białorusi jest rzeczywisty, czy iluzoryczny.
-
-\---------------------------------------
 
 O najwyższą stawkę gra oczywiście Rosja (i Litwa, która jak się okazało, też w tej grze uczestniczy). Całkowita porażka, a taką byłoby wypadnięcie Białorusi z rosyjskiej strefy wpływów, oznaczałaby powrót do granic Wielkiego Księstwa Moskiewskiego, a całkowity sukces, wariant ZSRR, czyli zbliżenie się do granic RP i być może aneksję państw bałtyckich. Pomiędzy tymi dwoma scenariuszami istnieje wiele innych i wygląda na to, że główni gracze na Białorusi, może z wyjątkiem wspomnianej Rosji (i Litwy), raczej nie optują za radykalnymi zmianami (z wymianą Łukaszenki włącznie), a zamieszanie za naszą wschodnią granicą, nie jest im na rękę.
 
@@ -42,8 +38,6 @@ Drugi z nich to zmuszenie społeczności międzynarodowej (a więc głównych mo
 **W jaki sposób to zrobią?**
 
 **Jeśli zareagują, to czy w zgodzie z Rosją, czy może będą to posunięcia kontrujące? Jeśli tak, to jak daleko, są w stanie się posunąć?**
-
-\----------------
 
 Zastanawiając się nad reakcją Chin, nie mamy oczywiście na myśli działań symbolicznych, takich jak powszechność chińskich znaków w przestrzeni publicznej w Mińsku, czy nawet inwestycja w Wielki Kamień (park przemysłowy Wielki Kamień budowany przez państwowy konglomerat - Chińską Agencję Inżynieryjną (CAMCE), obok międzynarodowego lotniska w Mińsku. Jego powierzchnia to 112 km kwadratowych, chociaż oficjalna strona internetowa wspomina o 850 ha. Obecnie na terenie Parku działa ponad 60 firm, w tym aż 33 z Chin, a tylko 12 z Białorusi. Reszta to firmy zachodnie, głównie niemieckie – przyp. red.), która po 10 latach wciąż nie odgrywa istotnej roli ani w białoruskiej gospodarce, ani na Nowym Jedwabnym Szlaku, ale stanowi „gamechangers”, czyli działania realnie zmieniające sytuację.
 
