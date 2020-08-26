@@ -70,3 +70,5 @@ Cykl #RODMturysta — Quiz Wiedzy o Anglii:
 Cykl #RODMturysta — Quiz Wiedzy o Szkocji:
 
 <div class="iframe google-maps"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfx_KEdO-Dk7jP8c7eTGHOE3KQ9BcphAQMT6V3LGW2c3UkE6g/viewform?embedded=true<" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
+
+Cykl #RODMturysta — Quiz Wiedzy o Irlandii i Irlandii Północnej: 
