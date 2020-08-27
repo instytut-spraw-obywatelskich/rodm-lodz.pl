@@ -1,6 +1,5 @@
 +++
 date = 2020-08-26T22:00:00Z
-draft = true
 main_image = "/v1598544682/rodm/lokomotywa_RODM_ar2agg.jpg"
 slug = "rodmturysta-zdunska-wola"
 title = "RODMturysta – Zduńska Wola"
