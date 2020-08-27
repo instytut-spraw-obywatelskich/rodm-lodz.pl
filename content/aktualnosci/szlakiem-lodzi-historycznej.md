@@ -11,7 +11,7 @@ Za nami pierwszy spacer **Szlakiem filmowej Łodzi**, podczas którego poznaliś
 
 Teraz kolej na Łódź z okresu II wojny światowej.
 
-Trasa spaceru poprowadzi m.in. przez takie miejsca, jak Pałac Biedermannów (obecnie budynek należący do UŁ przy ul. Franciszkańskiej 1/3), Stare Miasto oraz teren dawnego obozu dla ludności cygańskiej, utworzonego przez nazistów (1941-1942). Zobaczymy murale związane tematycznie z gettem oraz usłyszymy o pierwowzorze bohatera filmu z Robinem Williamsem „Jakub kłamca”.
+Trasa spaceru poprowadzi m.in. przez takie miejsca jak Pałac Biedermannów (obecnie budynek należący do UŁ przy ul. Franciszkańskiej 1/3), Stare Miasto oraz teren dawnego obozu dla ludności cygańskiej, utworzonego przez nazistów (1941-1942). Zobaczymy murale związane tematycznie z gettem oraz usłyszymy o pierwowzorze bohatera filmu z Robinem Williamsem „Jakub kłamca”.
 
 Łódź ma niezwykłe bogatą historię. Cykl naszych spacerów tematycznych przybliży ją mieszkańcom miasta i regionu. Poznamy Łódź filmową, literacką, wielkomiejską. Zwiedzimy Księży Młyn i doświadczymy wielokulturowości Łodzi.
 
