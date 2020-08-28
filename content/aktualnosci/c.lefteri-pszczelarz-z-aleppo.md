@@ -1,6 +1,5 @@
 +++
 date = 2020-08-27T22:00:00Z
-draft = true
 main_image = "/v1598603150/rodm/Lefteri_Pszczelarz_m_RODM_dx3gxf.jpg"
 slug = "c-lefteri-pszczelarz-z-aleppo"
 title = "C. Lefteri: Pszczelarz z Aleppo"
