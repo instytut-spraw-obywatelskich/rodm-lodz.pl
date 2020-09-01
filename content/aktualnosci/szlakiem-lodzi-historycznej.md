@@ -34,3 +34,11 @@ Na najbliższy spacer **Szlakiem Łodzi z czasów II wojny światowej** zaprasza
 18 października godz. 11:00: Szlak Łodzi przemysłowej (Księży Młyn), miejsce startu: Muzeum Kinematografii, pl. Zwycięstwa 1.
 
 25 października godz. 11:00: Szlak Łodzi wielkomiejskiej (Piotrkowska), miejsce startu: Pomnik Jednorożca, ul. Piotrkowska/ al. Mickiewicza.
+
+### Fotorelacja ze spaceru „Szlakiem Łodzi z czasów II wojny światowej”, 30 sierpnia 2020 r.:
+
+![](https://res.cloudinary.com/inspro/image/upload/v1598951188/rodm/2020-09-01_12.02.13_1_mggyic.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1598951311/rodm/2020-08-31_11.59.35_1_z8iwyi.jpg)![](https://res.cloudinary.com/inspro/image/upload/v1598951342/rodm/2020-09-01_12.02.07_1_ztcovb.jpg)![](https://res.cloudinary.com/inspro/image/upload/v1598951406/rodm/2020-09-01_12.00.23_1_gdnr5x.jpg)
+
+**Foto:** Piotr Kaźmierczak, RODM Łódź
