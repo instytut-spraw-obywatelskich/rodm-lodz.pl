@@ -1,5 +1,5 @@
 +++
-date = 2020-08-25T22:00:00Z
+date = 2020-08-31T22:00:00Z
 main_image = "/v1598445640/rodm/spacery_-_strona_RODM_iufd3s.jpg"
 slug = "szlakiem-lodzi-historycznej"
 title = "Szlakiem Łodzi historycznej"
