@@ -1,5 +1,5 @@
 +++
-date = 2020-09-01T22:00:00Z
+date = 2020-09-02T22:00:00Z
 main_image = "/v1599051976/rodm/Uchod%C5%BAcy_rjxv0l.jpg"
 slug = "a-morales-nie-jestesmy-uchodzcami"
 title = "A. Morales: Nie jesteśmy uchodźcami. "
