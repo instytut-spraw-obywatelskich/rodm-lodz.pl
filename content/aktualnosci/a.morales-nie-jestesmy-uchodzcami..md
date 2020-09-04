@@ -2,7 +2,7 @@
 date = 2020-09-02T22:00:00Z
 main_image = "/v1599051976/rodm/Uchod%C5%BAcy_rjxv0l.jpg"
 slug = "a-morales-nie-jestesmy-uchodzcami"
-title = "A. Morales: Nie jesteśmy uchodźcami. "
+title = "A. Morales: Nie jesteśmy uchodźcami"
 
 +++
 ### **Największy kryzys uchodźczy od czasów II wojny światowej.** 
