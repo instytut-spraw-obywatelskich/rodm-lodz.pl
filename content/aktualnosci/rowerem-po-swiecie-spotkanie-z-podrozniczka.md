@@ -17,6 +17,6 @@ Oprócz tego są jeszcze rozmowy. Dużo rozmów i pytań lokalnej społeczności
 
 Uczestnicy debaty:
 
-• Monika Orzeł – nigdy nie odmawia przygodom, pracuje, aby podróżować, podróżuje, aby doświadczać, rower jest nieodłącznym elementem jej życia, również na co dzień. Zawodowo związana z Łódzką Specjalną Strefą Ekonomiczną, jako specjalistka ds. pozyskiwania i obsługi inwestora.
+• **Monika Orzeł** – nigdy nie odmawia przygodom, pracuje, aby podróżować, podróżuje, aby doświadczać, rower jest nieodłącznym elementem jej życia, również na co dzień. Zawodowo związana z Łódzką Specjalną Strefą Ekonomiczną, jako specjalistka ds. pozyskiwania i obsługi inwestora.
 
-• Piotr Kaźmierczak – moderator debaty, konsultant Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi.
+• **Piotr Kaźmierczak** – moderator debaty, konsultant Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi.
