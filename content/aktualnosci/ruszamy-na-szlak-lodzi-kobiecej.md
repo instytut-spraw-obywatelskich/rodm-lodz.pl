@@ -1,6 +1,5 @@
 +++
 date = 2020-09-07T22:00:00Z
-draft = true
 main_image = "/v1599554140/rodm/strona_RODM_spacer_III_lt4kov.jpg"
 slug = "ruszamy-na-szlak-lodzi-kobiecej"
 title = "Ruszamy na szlak Łodzi kobiecej "
