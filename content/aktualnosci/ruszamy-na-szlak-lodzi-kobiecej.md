@@ -1,5 +1,5 @@
 +++
-date = 2020-09-06T22:00:00Z
+date = 2020-09-07T22:00:00Z
 draft = true
 main_image = "/v1599554140/rodm/strona_RODM_spacer_III_lt4kov.jpg"
 slug = "ruszamy-na-szlak-lodzi-kobiecej"
@@ -18,7 +18,7 @@ Na najbliższy spacer **Szlakiem Łodzi kobiecej** **zapraszamy w niedzielę, 13
 
 Idąc ul. Piotrkowską, mijamy rzeźby tworzące Galerię Wielkich Łodzian. Ani jedna z nich nie przedstawia kobiety!? Dlaczego? Przecież było wiele wybitnych łodzianek. Obalając stereotypy my poszukamy miejsc związanych z historią łódzkich kobiet i ich dokonaniami. Bohaterkami spaceru będą m.in. artystki, działaczki społeczne, pisarki – te znane i te zapomniane – których losy splotły się z naszym miastem.
 
-Mamy nadzieję, że nasze spacery odkryją przed Wami wszystkie tajemnice Łodzi. Zapraszamy serdecznie!
+Mamy nadzieję, że nasze spacery odkryją przed Wami wszystkie tajemnice Łodzi. Serdecznie zapraszamy! 
 
 **Harmonogram pozostałych spacerów:**
 
