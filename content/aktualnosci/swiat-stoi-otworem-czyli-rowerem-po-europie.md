@@ -44,6 +44,8 @@ Pokonywały po około 100 km dziennie. Nie robiły niczego na siłę. Słuchały
 
 ### **Gościnność**
 
+![](https://res.cloudinary.com/inspro/image/upload/v1599826113/rodm/P_20180831_164305_BF_mjila2.jpg)
+
 Kwestie różnic kulturowych? Nigdy nie było negatywnych reakcji, czy też niezręcznych sytuacji. Spędzały dużo czasu na rozmowach z panami pracującymi na stacjach benzynowych, bo to były często miejsca ich postojów. Oni też dzielili się swoimi opowieściami.
 
 Rumunia podbiła ich serca. Pierwszy nocleg zamierzały spędzić w hostelu. To był długi dzień. Kiedy jechały, nagle zatrzymał się obok nich samochód. Jechał nim młody mężczyzna z rodziną. – Zapytał, skąd jesteśmy, porozmawialiśmy, pojechali dalej. I nagle on zawrócił i zaoferował, że nas podwiezie. Powiedział, że jego znajomy prowadzi miejsce z noclegami. Był pod wrażeniem. Za pasję i determinację spędziłyśmy za darmo noc w apartamencie – opowiadała Monika.
