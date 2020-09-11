@@ -1,6 +1,5 @@
 +++
 date = 2020-09-10T22:00:00Z
-draft = true
 main_image = "/v1599814322/rodm/Pionierzy_RODM_fhvjdy.jpg"
 slug = "o-pionierach-ameryki-recenzja-ksiazki-davida-mccullougha"
 title = "O pionierach Ameryki. Recenzja książki Davida McCullougha"
