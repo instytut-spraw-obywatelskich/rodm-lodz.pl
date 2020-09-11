@@ -71,6 +71,6 @@ Nie można się bać, wątpić i zastanawiać, co może być po drodze. Wyłącz
 
 – Nigdy nie byłam i nie jestem obecna w mediach społecznościowych. Skupiam się na podróży, robię zdjęcia. Doceniłam ich wartość, chcę, żeby zdjęcie przypominało mi jakiś moment. Jest mi dobrze, tak jak jest – podsumowała.
 
-**Relacja i foto z debaty:** zespół RODM Łódź
+**Relacja i foto z debaty:** Zespół RODM Łódź
 
-**Foto z podróży:** Joanna Guzek, Monika Orzeł 
+**Foto z podróży:** Joanna Guzek, Monika Orzeł
