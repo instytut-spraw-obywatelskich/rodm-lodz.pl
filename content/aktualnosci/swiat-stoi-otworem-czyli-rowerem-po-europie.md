@@ -1,6 +1,5 @@
 +++
 date = 2020-09-10T22:00:00Z
-draft = true
 main_image = "/v1599816877/rodm/20200909_191523_bahipn.jpg"
 slug = "swiat-stoi-otworem-czyli-rowerem-po-europie"
 title = "Świat stoi otworem, czyli rowerem po Europie"
