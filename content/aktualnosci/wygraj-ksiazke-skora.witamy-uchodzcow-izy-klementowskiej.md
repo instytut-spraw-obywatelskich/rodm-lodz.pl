@@ -19,7 +19,7 @@ Kompletny regulamin konkursu znajduje się poniżej:
 
 **POSTANOWIENIA OGÓLNE**
 
-1\. Konkurs jest organizowany pod nazwą **„**KONKURS KSIĄŻKOWY - „SKÓRA. WITAMY UCHODŹCÓW” IZY KLEMENTOWSKIEJ”.
+1\. Konkurs jest organizowany pod nazwą „KONKURS KSIĄŻKOWY - „SKÓRA. WITAMY UCHODŹCÓW” IZY KLEMENTOWSKIEJ”.
 
 2\. Organizatorem konkursu książkowego - „SKÓRA. WITAMY UCHODŹCÓW” IZY KLEMENTOWSKIEJ (zwanym dalej „Konkursem”) jest Fundacja Instytut Spraw Obywatelskich z siedzibą w Łodzi przy ul. Pomorskiej 40 (zwana dalej „Organizatorem”).
 
@@ -43,7 +43,7 @@ Kompletny regulamin konkursu znajduje się poniżej:
 
 2\. Warunkiem uczestnictwa w Konkursie jest łączne spełnienie następujących warunków:
 
-· osoba biorąca udział w Konkursie musi posiadać status Uczestnika zgodnie z §2 pkt 1.
+· osoba biorąca udział w Konkursie musi posiadać status Uczestnika zgodnie z §2 pkt 1,
 
 · osoba biorąca udział w Konkursie musi odpowiedzieć na pytanie konkursowe **„Co, Twoim zdaniem, Europa mogłaby zyskać czerpiąc z kultury i tradycji uchodźców?”** w komentarzu pod postem konkursowym w serwisie Facebook ([https://www.facebook.com/RODMLodzkie](https://www.facebook.com/RODMLodzkie "https://www.facebook.com/RODMLodzkie")) oraz w komentarzu pod postem w serwisie Instagram ([https://www.instagram.com/rodmlodzkie](https://www.instagram.com/rodmlodzkie "https://www.instagram.com/rodmlodzkie")).
 
@@ -59,7 +59,7 @@ Kompletny regulamin konkursu znajduje się poniżej:
 
 1\. Nagrodą w konkursie jest książka „Skóra. Witamy uchodźców” (3 egzemplarze) autorstwa Izy Klementowskiej - po jednym egzemplarzu książki dla jednego Zwycięzcy.
 
-2\. Nagroda zostanie przesłane na adres podany w wiadomości prywatnej na Facebooku i Instagramie w ciągu 14 dni od wysłania przez Uczestnika informacji, o których mowa w **§**4 ust.1, niezbędnych do przekazania Nagrody.
+2\. Nagroda zostanie przesłane na adres podany w wiadomości prywatnej na Facebooku i Instagramie w ciągu 14 dni od wysłania przez Uczestnika informacji, o których mowa w §4 ust.1, niezbędnych do przekazania Nagrody.
 
 3\. Wyniki konkursu zostaną ogłoszone w komentarzu pod postem konkursowym w serwisie Facebook ([https://www.facebook.com/RODMLodzkie](https://www.facebook.com/RODMLodzkie "https://www.facebook.com/RODMLodzkie")) i Instagram ([https://www.instagram.com/rodmlodzkie](https://www.instagram.com/rodmlodzkie "https://www.instagram.com/rodmlodzkie")). Zwycięzcy zostaną poproszeni o kontakt w wiadomości prywatnej.
 
