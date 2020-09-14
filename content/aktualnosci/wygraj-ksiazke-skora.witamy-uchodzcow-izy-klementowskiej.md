@@ -1,6 +1,5 @@
 +++
 date = 2020-09-13T22:00:00Z
-draft = true
 main_image = "/v1600080371/rodm/rodm_ljyru4.png"
 slug = "wygraj-ksiazke-skora-witamy-uchodzcow-izy-klementowskiej"
 title = "Wygraj książkę „Skóra. Witamy uchodźców” Izy Klementowskiej!"
