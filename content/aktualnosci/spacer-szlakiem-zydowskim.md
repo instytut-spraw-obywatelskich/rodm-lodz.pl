@@ -1,6 +1,5 @@
 +++
 date = 2020-09-14T22:00:00Z
-draft = true
 main_image = "/v1600175181/rodm/spacer_RODM_%C5%81%C3%B3d%C5%BA_sc328z.jpg"
 slug = "spacer-szlakiem-zydowskim"
 title = "Spacer szlakiem żydowskim "
