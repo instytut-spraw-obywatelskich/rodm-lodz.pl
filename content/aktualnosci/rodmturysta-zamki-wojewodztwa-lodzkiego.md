@@ -1,6 +1,5 @@
 +++
 date = 2020-09-17T22:00:00Z
-draft = true
 main_image = "/v1600434765/rodm/1024px-Zamek_Kr%C3%B3lewski_w_%C5%81%C4%99czycy_RODM_iu3o6g.jpg"
 slug = "rodmturysta-zamki-wojewodztwa-lodzkiego"
 title = "RODMturysta – Zamki województwa łódzkiego"
