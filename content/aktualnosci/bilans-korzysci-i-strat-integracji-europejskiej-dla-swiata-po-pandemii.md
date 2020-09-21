@@ -1,6 +1,6 @@
 +++
 date = 2020-09-20T22:00:00Z
-main_image = "/v1600690246/rodm/FB_Wyklad_Geremek_1_RODM_xb33ni.png"
+main_image = "/v1600690556/rodm/FB_Wyklad_Geremek_1_RODM_wauors.png"
 slug = "Bilans-korzysci-i-strat-integracji-europejskiej-dla-swiata-po-pandemii"
 title = "Bilans korzyści i strat integracji europejskiej dla świata po pandemii "
 
