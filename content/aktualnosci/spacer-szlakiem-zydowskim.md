@@ -26,3 +26,5 @@ Nie może Was zabraknąć! Serdecznie zapraszamy!
 18 października godz. 11:00: Szlak Łodzi przemysłowej (Księży Młyn), miejsce startu: Muzeum Kinematografii, pl. Zwycięstwa 1.
 
 25 października godz. 11:00: Szlak Łodzi wielkomiejskiej (Piotrkowska), miejsce startu: Pomnik Jednorożca, ul. Piotrkowska/ al. Mickiewicza.
+
+### Fotorelacja ze spaceru „Szlak Łodzi żydowskiej”, 20 września 2020 r.:
