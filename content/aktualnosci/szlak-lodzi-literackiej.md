@@ -1,6 +1,5 @@
 +++
 date = 2020-09-21T22:00:00Z
-draft = true
 main_image = "/v1600772733/rodm/spacery_-_strona_Szlak_literacki_RODM_dbaiac.jpg"
 slug = "szlak-lodzi-literackiej"
 title = "Szlak Łodzi literackiej "
