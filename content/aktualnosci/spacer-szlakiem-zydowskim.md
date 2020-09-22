@@ -28,3 +28,13 @@ Nie może Was zabraknąć! Serdecznie zapraszamy!
 25 października godz. 11:00: Szlak Łodzi wielkomiejskiej (Piotrkowska), miejsce startu: Pomnik Jednorożca, ul. Piotrkowska/ al. Mickiewicza.
 
 ### Fotorelacja ze spaceru „Szlak Łodzi żydowskiej”, 20 września 2020 r.:
+
+![](https://res.cloudinary.com/inspro/image/upload/v1600780726/rodm/Foto_1_zxcbia.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1600780762/rodm/Foto_2_twnbjw.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1600780787/rodm/Foto_3_lkj4j3.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1600780835/rodm/Foto_4_dphezk.jpg)
+
+**Foto:** Paweł Marczak, RODM Łódź
