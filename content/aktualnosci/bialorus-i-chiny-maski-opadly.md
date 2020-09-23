@@ -1,6 +1,5 @@
 +++
 date = 2020-09-22T22:00:00Z
-draft = true
 main_image = "/v1600853921/rodm/bialorus-i-chiny-maski-opadly-RODM_lzn9oq.jpg"
 slug = "bialorus-i-chiny-maski-opadly"
 title = "Białoruś i Chiny – maski opadły"
