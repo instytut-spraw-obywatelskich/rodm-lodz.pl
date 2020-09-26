@@ -2,7 +2,7 @@
 title: Regionalny Ośrodek Debaty Międzynarodowej – Łódź
 featured:
   image: "/v1588608101/rodm/kopia_pp_oqppsh.jpg"
-  link: https://www.rodm-lodz.pl/aktualnosci/cztery-pytania-o-chiny-na-bialorusi/
+  link: https://www.rodm-lodz.pl/aktualnosci/teqball-soft-power-korony-swietego-stefana/
   text: 'Cykl felietonów: Pyffel komentuje '
 
 ---
