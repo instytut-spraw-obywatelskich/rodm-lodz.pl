@@ -1,5 +1,5 @@
 +++
-date = 2020-09-24T22:00:00Z
+date = 2020-09-25T22:00:00Z
 main_image = "/v1601115727/rodm/RODM_Teqball_avpbzw.jpg"
 slug = "teqball-soft-power-korony-swietego-stefana"
 title = "Teqball. Soft Power Korony Świętego Stefana"
@@ -21,7 +21,7 @@ Po pierwsze, zaletą gry jest jej przystępność i demokratyczność, chyba jes
 
 Po drugie, gra jest niezwykle widowiskowa i może się podobać widzom. Szczególnie polecam niesamowity finał miksta mistrzostw świata w 2019 roku, które odbyły się w Budapeszcie, a który na YouTube obejrzało już ponad 2 miliony widzów. Spotkały się w nim pary z Brazylii i Węgier, Natalia Guitler/Marcos Viera versus Csba Banyik/Zsanett Janicsek. Brazylijska para prezentowała się niczym bohaterowie z komiksów, ona – wysoka, zgrabna, szczupła, z długimi nogami, dzięki którym widowiskowo kończyła wiele akcji, on – niższy od niej o głowę, niesamowicie szybki, energetyczny, dobiegający do każdej piłki „człowiek pchełka”. Po drugiej stronie stołu Węgrzy – szczupły i wysoki zawodnik i jego partnerka, szybka, dużo biegająca wokół stołu i także odbierająca każdą piłkę. Wyniku nie zdradzam, za to dołączam link[\[1\]](#_ftn1). Niezwykłe widowisko!
 
-{{< youtube kmCDd7goWtE&t >}}
+{{< youtube kmCDd7goWtE >}}
 
 Po trzecie, teqball to element budowania prestiżu. I sądząc po rozgrywkach nie tylko Węgier, ale także całej Korony Świętego Stefana, czyli terenów zamieszkanych przez ludność węgierską, w tym znajdujących się poza granicami współczesnego państwa węgierskiego (o czym jeszcze napiszę).
 
@@ -37,7 +37,7 @@ Osobiście ciekawi mnie, czy teqball podbije Chiny i Azję, gdzie kocha się chy
 
 Po piąte, co z pewnością jest bardzo ważne dla węgierskiej polityki utrzymywania łączności z rodakami, mieszkającymi poza granicami kraju, dominują w tym sporcie również Węgrzy spoza Węgier. I tak na przykład, mistrz świata z 2018 roku, to reprezentujący Rumunię Barna Szecsi[\[4\]](#_ftn4), a brązowi medaliści w deblu na tej samej imprezie to Szabolcs Ilyes i Zsolt Lazar[\[5\]](#_ftn5). No cóż, raczej nie są to rumuńsko-brzmiące nazwiska…
 
-{{< youtube Pp6eyEsHUWM&t >}}
+{{< youtube Pp6eyEsHUWM >}}
 
 Wielu Węgrów z krajów ościennych dominuje w lokalnych związkach teqballa, startuje w zawodach i nawet znajduje się we władzach światowej federacji teqballa, stąd mówię o wszystkich Węgrach łącznie i o Koronie Świętego Stefana. Niektórzy mogą się tu doszukiwać jakieś zawoalowanej formy nacjonalizmu, ale inni odpowiedzą, że to przecież tylko sport i dobra zabawa…
 
