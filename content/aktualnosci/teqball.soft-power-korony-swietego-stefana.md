@@ -1,6 +1,5 @@
 +++
 date = 2020-09-25T22:00:00Z
-draft = true
 main_image = "/v1601115727/rodm/RODM_Teqball_avpbzw.jpg"
 slug = "teqball-soft-power-korony-swietego-stefana"
 title = "Teqball. Soft Power Korony Świętego Stefana"
