@@ -79,7 +79,7 @@ Współczesny świat pokazuje, że jeśli chcemy zbudować atrakcyjny wizerunek 
 
 Felieton ukazał się w ramach comiesięcznego cyklu **„Pyffel komentuje”**, w którym autor analizuje bieżącą sytuację międzynarodową.
 
-**Foto nr I:** Pierwsze Plażowe Mistrzostwa Polski Teqball Płock 2020. Archiwum prywatne autora.
+**Foto nr I:** I Plażowe Mistrzostwa Polski Teqball Płock 2020. Archiwum prywatne autora.
 
 **Foto nr II:** Radek Pyffel i Maciej Sołdan z parą Ochendalski/Trusiński. Archiwum prywatne autora.
 
