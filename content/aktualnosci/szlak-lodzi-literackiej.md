@@ -24,3 +24,11 @@ Na najbliższy **Spacer Szlakiem Łodzi literackiej zapraszamy w najbliższą ni
 18 października godz. 11:00: Szlak Łodzi przemysłowej (Księży Młyn), miejsce startu: Muzeum Kinematografii, pl. Zwycięstwa 1.
 
 25 października godz. 11:00: Szlak Łodzi wielkomiejskiej (Piotrkowska), miejsce startu: Pomnik Jednorożca, ul. Piotrkowska/ al. Mickiewicza.
+
+### Fotorelacja ze spaceru „Szlak Łodzi literackiej”, 27 września 2020 r.:
+
+![](https://res.cloudinary.com/inspro/image/upload/v1601319505/rodm/2020-09-28_11.54.36_1_zof10i.jpg)![](https://res.cloudinary.com/inspro/image/upload/v1601320524/rodm/2020-09-28_11.58.03_1_tojw1n.jpg)![](https://res.cloudinary.com/inspro/image/upload/v1601319900/rodm/2020-09-28_11.51.40_1_xnjxvr.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1601321015/rodm/Fot_4_nyebye.jpg)
+
+**Foto:** Piotr Kaźmierczak, RODM Łódź
