@@ -1,6 +1,5 @@
 +++
 date = 2020-09-28T22:00:00Z
-draft = true
 main_image = "/v1601387156/rodm/Ze%C5%82e%C5%84ski_RODM_in06go.jpg"
 slug = "pierwszy-rok-prezydentury-wolodymyra-zelenskiego-problemy-i-osiagniecia"
 title = "Pierwszy rok prezydentury Wołodymyra Zełeńskiego – problemy i osiągnięcia"
