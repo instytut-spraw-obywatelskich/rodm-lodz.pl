@@ -2,7 +2,7 @@
 date = 2020-09-28T22:00:00Z
 main_image = "/v1601387156/rodm/Ze%C5%82e%C5%84ski_RODM_in06go.jpg"
 slug = "pierwszy-rok-prezydentury-wolodymyra-zelenskiego-problemy-i-osiagniecia"
-title = "Pierwszy rok prezydentury Wołodymyra Zełeńskiego – problemy i osiągnięcia"
+title = "Pierwszy rok prezydentury Wołodymyra Zełeńskiego –problemy i osiągnięcia"
 
 +++
 **Ukraińskie społeczeństwo jest bardzo cierpliwym, może znieść różne warunki życia. Swoje niezadowolenie z elity politycznej wyraża przy urnie wyborczej. Zdarza się, że u władzy – szczególnie na poziomie lokalnym – pozostają ci sami politycy po 4 – 5 kadencji z rzędu. Na poziomie krajowym tylko prezydent Łeonid Kuczma przetrwał dwie kadencje, ale ta druga była dość burzliwą i pełną skandali o zasięgu krajowym, i międzynarodowym. Od 2004 roku Ukraińcy najczęściej oddają głos nie „za”, a „przeciw” ugrupowaniu politycznemu lub kandydatowi na urząd prezydenta. Wybory z ubiegłego roku tylko to potwierdziły. Głosując na Zełeńskiego, Ukraińcy dali lekcję politykom poprzednich formacji, wybierając człowieka, który zawodowo nie zajmował się polityką.**
