@@ -1,6 +1,5 @@
 +++
 date = 2020-10-05T22:00:00Z
-draft = true
 main_image = "/v1602001283/rodm/Spacer_%C5%81odzi_wielkomiejskiej_RODM_t0hkfy.jpg"
 slug = "szlakiem-lodzi-wielokulturowej"
 title = "Szlakiem Łodzi wielokulturowej"
