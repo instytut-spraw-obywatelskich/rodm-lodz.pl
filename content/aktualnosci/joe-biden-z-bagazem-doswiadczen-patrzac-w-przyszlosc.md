@@ -11,9 +11,8 @@ Jednak nie mniej wyjątkowi są główni aktorzy procesu wyborczego wystawieni p
 
 Na to i wiele innych ważnych pytań spróbujemy odpowiedzieć w serii dwóch artykułów cyklu „Dwie wizje Ameryki? – USA w obliczu wyborów prezydenckich”.
 
-**„Joe Biden: z bagażem doświadczeń patrząc w przyszłość”**
+**...**
 
-  
 **Jest 20 sierpnia 2020 r. Konwencja wyborcza Partii Demokratycznej trwa w najlepsze**[**\[2\]**](#_ftn2)**. Nie jest to konwencja jak każda inna. Z racji panującej pandemii największe wydarzenie polityczne Partii Demokratycznej, które co cztery lata gromadzi tysiące Demokratów w wypchanych po brzegi salach, tym razem jest puste. Nie ma wiwatów, braw, głośnych okrzyków. Nie ma podekscytowanego tłumu, żywo reagującego na każde słowo zgromadzonych na scenie polityków. Nie ma nic. Cisza. Tylko przemawiający, kamera i odbiorca – telewidz, zagorzały Demokrata bądź potencjalny wyborca. Znak czasów, w jakich obecnie się znajdujemy.**
 
 Epidemia koronawirusa przewartościowała wszystko. Nie ominęła także polityki. Czas płynął. Kolejni mówcy kończyli swoje wystąpienia, budując napięcie i wyczekując na to, co ma wydarzyć się w kulminacyjnym momencie. To przecież na wystąpieniu kandydata na urząd Prezydenta Stanów Zjednoczonych z ramienia Partii Demokratycznej oparte jest całe wydarzenie. Przyszłość partii leży w rękach osoby, która już za chwilę miała pojawić się na scenie. Jeśli Demokraci na poważnie rozważają wyparcie administracji Donalda Trumpa z Białego Domu nie może być pomyłki. Na szali jest zbyt wiele. Partyjnych działaczy nie stać na popełnienie błędu.
@@ -80,14 +79,6 @@ Czas do wyborów wypełnią arcyciekawe debaty Trump-Pence vs. Biden - Harris, k
 
 Czy parze Biden-Harris uda się w większym stopniu skupić na własnym programie politycznym, który zrealizują w razie wyborczego triumfu? A może oprą swój przekaz na krytyce adwersarza[\[25\]](#_ftn25)? Odpowiedź w sprawie wyboru strategii kampanijnej poznamy w ciągu najbliższych tygodni.
 
-**Źródło foto:** [https://joebiden.com/together-we-will-beat-donald-trump/](https://joebiden.com/together-we-will-beat-donald-trump/ "https://joebiden.com/together-we-will-beat-donald-trump/"). 
-
-**Autor:** Michał Jarosławski
-
-Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
-
-Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
-
 ***
 
 [\[1\]](#_ftnref1) Pod koniec kwietnia w USA koronawirus zabił więcej Amerykanów niż zginęło w wojnie w Wietnamie. Wszystko rozpoczęło się 1 listopada 1955 roku. Na przestrzeni dwóch dekad śmierć poniosło 58 220 Amerykanów. Tymczasem dane z kwietnia 2020 roku w USA wskazywały, że z powodu zakażenia koronawirusem życie straciło więcej ludzi niż podczas całego tego konfliktu (**W Stanach Zjednoczonych z powodu choroby wywołanej koronawirusem zmarło 58 955 osób – stan na koniec kwietnia 2020 r.),** źródło: [https://www.o2.pl/informacje/koronawirus-zabil-juz-w-usa-wiecej-amerykanow-niz-zginelo-na-wojnie-w-wietnamie-6505010696976513a](https://www.o2.pl/informacje/koronawirus-zabil-juz-w-usa-wiecej-amerykanow-niz-zginelo-na-wojnie-w-wietnamie-6505010696976513a "https://www.o2.pl/informacje/koronawirus-zabil-juz-w-usa-wiecej-amerykanow-niz-zginelo-na-wojnie-w-wietnamie-6505010696976513a"), obecnie (stan na 28.09.2020) liczba przypadków przekroczyła już 200 tys. – oznacza to, że koronawirus zabił więcej Amerykanów niż w pięciu wojnach z udziałem USA razem wziętych - szacują naukowcy z Uniwersytetu Johnsa Hopkinsa, mając na myśli wojny: koreańską, w Wietnamie, w Iraku, w Afganistanie i w Zatoce Perskiej.
@@ -141,3 +132,11 @@ Lekarz wykonuje test MoCA tj. 10-minutowy egzamin mający na celu wykrycie łago
 [\[24\]](#_ftnref24) 29.09.2020 – pierwsza debata tzw. prezydencka Trump vs. Biden., Cleveland, Ohio; 7.10.2020 – debata Wiceprezydencka Pence vs Harris, Salt Lake City, Utah; 15.10.2020 – druga debata prezydencka Trump vs. Biden, Miami, Floryda; 22.10.2020 – trzecia debata prezydencka Trump vs. Biden, 22.10.2020, Nashville, Tennessee, źródło: [https://edition.cnn.com/2019/07/08/politics/2020-presidential-debates-fast-facts/index.html](https://edition.cnn.com/2019/07/08/politics/2020-presidential-debates-fast-facts/index.html "https://edition.cnn.com/2019/07/08/politics/2020-presidential-debates-fast-facts/index.html")
 
 [\[25\]](#_ftnref25) W myśl oficjalnego hasła: „We Know Who Donald Trump is. We Have to Let Everyone Know Who We Are” – tłum. ”Wiemy kim jest Donald Trump. Naszym zadaniem – w tej kampanii - jest pokazać kim jesteśmy my.” - żródło: [www.joebiden.com](http://www.joebiden.com)
+
+**Źródło foto:** [https://joebiden.com/together-we-will-beat-donald-trump/](https://joebiden.com/together-we-will-beat-donald-trump/ "https://joebiden.com/together-we-will-beat-donald-trump/").
+
+**Autor:** Michał Jarosławski
+
+Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
+
+Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
