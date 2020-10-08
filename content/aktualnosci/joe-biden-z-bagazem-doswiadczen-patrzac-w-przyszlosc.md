@@ -1,6 +1,5 @@
 +++
 date = 2020-10-07T22:00:00Z
-draft = true
 main_image = "/v1602157818/rodm/Biden_Harris_strona_RODM_ymuufr.jpg"
 slug = "Joe-Biden-z-bagazem-doswiadczen-patrzac-w-przyszlosc"
 title = "Joe Biden: z bagażem doświadczeń patrząc w przyszłość"
