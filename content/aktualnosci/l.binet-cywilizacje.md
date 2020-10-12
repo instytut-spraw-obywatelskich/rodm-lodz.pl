@@ -17,7 +17,7 @@ Około roku 1000: córka Eryka Rudego, Freydis, obiera kurs na południe.
 
 Scenariusz niemożliwy? Gdyby Inkowie mieli konie, żelazo i antybiotyki, mogliby pokonać konkwistadorów, a historia świata potoczyłaby się inaczej.
 
-_„Cywilizacje” _to powieść osnuta wokół tej hipotezy. Atahualpa przybywa do Europy Karola V Habsburga. Co w niej zastaje?
+„Cywilizacje” to powieść osnuta wokół tej hipotezy. Atahualpa przybywa do Europy Karola V Habsburga. Co w niej zastaje?
 
 Inkwizycję hiszpańską, reformację Lutra, rodzący się kapitalizm. Cudowny wynalazek druku i strony, które mówią. Monarchie wyczerpane niekończącymi się wojnami i zagrożeniem ze strony osmańskiej Turcji. Morza opanowane przez piratów.
 
