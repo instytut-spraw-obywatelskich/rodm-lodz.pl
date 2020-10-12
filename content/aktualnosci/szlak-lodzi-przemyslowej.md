@@ -1,5 +1,5 @@
 +++
-date = 2020-10-11T22:00:00Z
+date = 2020-10-12T22:00:00Z
 main_image = "/v1602536249/rodm/Szlak_%C5%81odzi_przemys%C5%82owej_RODM_vlyusp.jpg"
 slug = "szlak-lodzi-przemyslowej"
 title = "Szlak Łodzi przemysłowej"
