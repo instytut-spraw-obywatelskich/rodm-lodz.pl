@@ -96,6 +96,6 @@ Musi tu być bydło, bo widziałem czaszki, chyba krowie.
 
 **Laurent Binet**: [Cywilizacje, Wydawnictwo Literackie 2020.](https://www.wydawnictwoliterackie.pl/ksiazka/5295/Cywilizacje----Laurent-Binet "https://www.wydawnictwoliterackie.pl/ksiazka/5295/Cywilizacje----Laurent-Binet")
 
-Książka w przekładzie Wiktora Dłuskiego. 
+Książka w przekładzie Wiktora Dłuskiego.
 
 Polska premiera książki: **21 października 2020**.
