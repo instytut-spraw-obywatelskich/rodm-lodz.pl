@@ -2,7 +2,7 @@
 date = 2020-10-11T22:00:00Z
 main_image = "/v1602001283/rodm/Spacer_%C5%81odzi_wielkomiejskiej_RODM_t0hkfy.jpg"
 slug = "szlakiem-lodzi-wielokulturowej"
-title = "Szlakiem Łodzi wielokulturowej"
+title = "Szlak Łodzi wielokulturowej"
 
 +++
 ### **Łódź wielokulturowa stoi otworem! Regionalny Ośrodek Debaty Międzynarodowej w Łodzi oraz Centrum Inicjatyw na Rzecz Rozwoju REGIO zapraszają na kolejny spacer tematyczny po Łodzi.**
