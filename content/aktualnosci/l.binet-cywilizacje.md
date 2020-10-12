@@ -1,6 +1,5 @@
 +++
 date = 2020-10-12T22:00:00Z
-draft = true
 main_image = "/v1602543541/rodm/cywilizacje_bry%C5%82a_RODM_800px_xlufd3.jpg"
 slug = "l-binet-cywilizacje"
 title = "L. Binet: Cywilizacje"
