@@ -1,6 +1,5 @@
 +++
 date = 2020-10-12T22:00:00Z
-draft = true
 main_image = "/v1602610781/rodm/Pyffel_1_RODM_frmlun.jpg"
 slug = "Polski-biznes-w-niestabilnym-swiecie"
 title = "Polski biznes w niestabilnym świecie"
