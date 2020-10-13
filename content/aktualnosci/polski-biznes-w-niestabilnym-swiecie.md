@@ -78,6 +78,8 @@ Wierzę, że poradzimy sobie zarówno z nowymi wyzwaniami, jak i samym koronawir
 
 #### Prezentacja „Polski biznes w niestabilnym świecie”:
 
+<iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=polski_biznes_prezentacja_kongres_firm_katowice_3_&pageLayout=singlePage&u=inspro"></iframe>
+
 Felieton ukazał się w ramach comiesięcznego cyklu **„Pyffel komentuje”**, w którym autor analizuje bieżącą sytuację międzynarodową.
 
 **Autor:** Radek Pyffel, (chiń. Rui De Xing)
