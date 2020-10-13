@@ -1,7 +1,7 @@
 +++
 date = 2020-10-12T22:00:00Z
 draft = true
-main_image = ""
+main_image = "/v1602610781/rodm/Pyffel_1_RODM_frmlun.jpg"
 slug = "Polski-biznes-w-niestabilnym-swiecie"
 title = "Polski biznes w niestabilnym świecie"
 
@@ -28,6 +28,8 @@ Kolejny, trzeci punkt to wojny handlowe i celne, które postrzegałem nie tylko 
 
 Czy hasło „America First” tak skuteczne w kampanii 2016 roku, które wtedy stało się równie modne w stosunkach międzynarodowych, okazało się skuteczną polityką? Po dwóch latach odważę się napisać, że chyba jednak nie do końca. W wielu sytuacjach odniosła ona odwrotny skutek, wpychając dawnych sojuszników amerykańskich (czy partnerów) w bliższe relacje z Chinami. Szczególnie istotne znaczenie dla Polski ma zbliżenie UE-Chiny i tu przyznam, że biorąc w 2018 roku takie zbliżenie za jedną z możliwych opcji (bo w pejzażu różnych zależności i interesów, rysowała się ona wyraźnie), to uważałem ją jednocześnie za jednak trudną do wyobrażenia.
 
+![](https://res.cloudinary.com/inspro/image/upload/v1602611018/rodm/Pyffel_3_sncz8t.jpg)
+
 Czwarty punkt to chińska koncepcja, czy też inicjatywa Pasa i Szlaku, wyznaczająca ramy i będąca punktem odniesienia dla jakiegokolwiek działalności międzynarodowego biznesu naszych czasów. Ale niekoniecznie rozumiana jako przedstawiane do znudzenia wykresy pokazujące wzrastającą siłę nabywczą tamtejszej klasy średniej, ale jako eksport chińskiej nadmocy – overcapacity, surowców, know-how, kapitału, który już wtedy trwał w najlepsze i nie został zahamowany ani przez nakładane cła (często zresztą symetrycznie, gdyż Chiny często odpowiadały USA tym samym), ani próby decouplingu (czyli rozerwania łańcuchów dostaw, przynajmniej na razie), ani wreszcie przez pandemię.
 
 Inicjatywa Pasa i Szlaku, rozumiana jako eksport chińskiej nadmocy i wyjście Chin w świat postępuje, i spoglądanie na mapę Eurazji (i oczywiście Afrykę, a nawet Amerykę Łacińską) nadal jest zasadne. Powstają tam nowe inwestycje, nowa infrastruktura i nowe korytarze transportowe, które całkowicie zmieniają poszczególne regiony świata oraz relacje między nimi, i oczywiście globalny układ sił. A przecież według nieskrywanych już planów Pekinu, to ma być dopiero początek.
@@ -47,6 +49,8 @@ Jednocześnie – i tu po dziewiąte – będzie to oznaczać konkurencje z chi�
 Po dziesiąte wszystko wskazywało na to, że ta konkurencja toczyć się będzie nie tylko z Chinami na rynkach trzecich, ale niejako o Chiny i pozycje w nowych łańcuchach dostaw, które te wyznaczają. I będzie to konkurencja o kształt korytarzy transportowych, wpływy podatkowe i usługi (logistyczne, prawne i inne).
 
 No cóż, nie wchodząc w szczegóły, po dwóch latach możemy powiedzieć, że tej rywalizacji nikt nie zauważył i w dużej mierze umknęła ona uwadze polskich instytucji i opinii publicznej. O przyczynach nie ma co się rozwodzić, bo zasługują one na odmienne opracowanie. Wydaję się, iż w Polsce po prostu niewiele osób potraktowało to zagadnienie jako poważne (czyli realne). Dopiero teraz zaczyna być szerzej podnoszony problem tworzenia się nowych łańcuchów dostaw i tego, jak ważna jest możliwość wpływu na nie (nie mówię tu o możliwości ich tworzenia czy destabilizowania, bo to chyba przekracza możliwości Polski lub jest mało prawdopodobne, by było opłacalne). Tyle że wyścig ten ruszył już dawno temu i trwał w najlepsze od dobrych kilku lat.
+
+![](https://res.cloudinary.com/inspro/image/upload/v1602611149/rodm/Pyffel_2_vucpbv.jpg)
 
 Ostatnią częścią wystąpienia były konkluzje i rekomendacje. Jeśli chodzi o konkluzje, to można powiedzieć, że dziś byłyby takie same (tylko o co najmniej dwa lata spóźnione).
 
@@ -81,6 +85,8 @@ Wierzę, że poradzimy sobie zarówno z nowymi wyzwaniami, jak i samym koronawir
 <iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=polski_biznes_prezentacja_kongres_firm_katowice_3_&pageLayout=singlePage&u=inspro"></iframe>
 
 Felieton ukazał się w ramach comiesięcznego cyklu **„Pyffel komentuje”**, w którym autor analizuje bieżącą sytuację międzynarodową.
+
+**Foto:** Wystąpienie podczas Kongresu Firm Rodzinnych w Katowicach, 13 października 2018 roku. Archiwum prywatne autora.
 
 **Autor:** Radek Pyffel, (chiń. Rui De Xing)
 
