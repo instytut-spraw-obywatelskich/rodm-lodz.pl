@@ -37,3 +37,5 @@ Paweł Marczak
 tel.: 691 487 749 e-mail: pawel.marczak@instytut.lodz.pl
 
 <iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:526px;" src="//e.issuu.com/embed.html?backgroundColor=%23ba6144&d=oferta_edu_rodm_lodz_2020&u=inspro"></iframe>
+
+<iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=polski_biznes_prezentacja_kongres_firm_katowice_3_&pageLayout=singlePage&u=inspro"></iframe>
