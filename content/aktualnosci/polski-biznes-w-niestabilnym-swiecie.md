@@ -87,6 +87,8 @@ Felieton ukazał się w ramach comiesięcznego cyklu **„Pyffel komentuje”**,
 
 **Foto:** Wystąpienie podczas 11. Ogólnopolskiego Zjazdu Firm Rodzinnych U-RODZINY w Katowicach, 13 października 2018 roku. Archiwum prywatne autora.
 
+**Pełna relacja z 11. Ogólnopolskiego Zjazdu Firm Rodzinnych U-RODZINY:** [https://u-rodziny.pl/archiwum-u-rodziny-2018/](https://u-rodziny.pl/archiwum-u-rodziny-2018/ "https://u-rodziny.pl/archiwum-u-rodziny-2018/"). 
+
 **Autor:** Radek Pyffel, (chiń. Rui De Xing)
 
 Kierownik studiów „Biznes chiński- jak działać skutecznie w czasach Jedwabnego Szlaku” w Akademii Leona Koźminskiego. W przeszłości między innymi Alternate Director i członek Rady Dyrektorów w Azjatyckim Banku Inwestycji Infrastrukturalnych (AIIB) z ramienia RP (2016-2018), Pełnomocnik Zarządu PKP Cargo ds. rynków wschodnich, prezes think-tanku Centrum Studiów Polska-Azja (CSPA), a także autor kilku książek dotyczących Chin i Azji. Studiował (jako stypendysta MEN) na chińskich uczelniach wyższych m.in. Sun Yat Sen University w Kantonie i Beijing University. Włada angielskim, chińskim (mandaryńskim) i rosyjskim.
