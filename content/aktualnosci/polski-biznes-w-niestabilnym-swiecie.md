@@ -5,7 +5,7 @@ slug = "Polski-biznes-w-niestabilnym-swiecie"
 title = "Polski biznes w niestabilnym świecie"
 
 +++
-**Dokładnie dwa lata temu 13 października 2018 roku zostałem poproszony o wystąpienie wprowadzające, w czasie sesji plenarnej Kongresu Firm Rodzinnych, odbywającego się w Katowicach, z udziałem kilkuset przedsiębiorców i ich rodzin z całego kraju. Było to bardzo ciekawe i inspirujące spotkanie z niezwykłymi ludźmi, dającymi sobie radę na często odległych i wciąż uważanych w Polsce za tzw. egzotyczne rynkach. Liczę, że również mój „opening speech”, który wygłosiłem mimo przeziębienia i podwyższonej temperatury (dziś nie byłoby to możliwe) okazał się inspirujący dla uczestników.**
+**Dokładnie dwa lata temu 13 października 2018 roku zostałem poproszony o wystąpienie wprowadzające, w czasie sesji plenarnej 11. Ogólnopolskiego Zjazdu Firm Rodzinnych U-RODZINY, odbywającego się w Katowicach, z udziałem kilkuset przedsiębiorców i ich rodzin z całego kraju. Było to bardzo ciekawe i inspirujące spotkanie z niezwykłymi ludźmi, dającymi sobie radę na często odległych i wciąż uważanych w Polsce za tzw. egzotyczne rynkach. Liczę, że również mój „opening speech”, który wygłosiłem mimo przeziębienia i podwyższonej temperatury (dziś nie byłoby to możliwe) okazał się inspirujący dla uczestników.**
 
 Zachowując taką nadzieję, chciałbym po dwóch latach wrócić w tym felietonie do tego wystąpienia, aby sprawdzić które obawy i nadzieje się potwierdziły, a które nie wytrzymały próby czasu. Do tekstu dołączam niezmienioną od tamtego czasu prezentację, aby każdy z Państwa mógł się z nią zapoznać. Wystąpienie składało się z dziesięciu tez, konkluzji i rekomendacji.
 
