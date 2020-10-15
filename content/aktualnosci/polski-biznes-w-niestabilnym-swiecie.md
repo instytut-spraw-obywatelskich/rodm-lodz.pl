@@ -85,7 +85,7 @@ Wierzę, że poradzimy sobie zarówno z nowymi wyzwaniami, jak i samym koronawir
 
 Felieton ukazał się w ramach comiesięcznego cyklu **„Pyffel komentuje”**, w którym autor analizuje bieżącą sytuację międzynarodową.
 
-**Foto:** Wystąpienie podczas Kongresu Firm Rodzinnych w Katowicach, 13 października 2018 roku. Archiwum prywatne autora.
+**Foto:** Wystąpienie podczas 11. Ogólnopolskiego Zjazdu Firm Rodzinnych U-RODZINY w Katowicach, 13 października 2018 roku. Archiwum prywatne autora.
 
 **Autor:** Radek Pyffel, (chiń. Rui De Xing)
 
