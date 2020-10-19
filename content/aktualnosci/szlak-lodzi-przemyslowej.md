@@ -18,3 +18,15 @@ Cykl **#RODMturysta** zachęca do poznawania różnych regionów i najciekawszyc
 **Harmonogram pozostałych spacerów:**
 
 25 października godz. 11:00: Szlak Łodzi wielkomiejskiej (Piotrkowska), miejsce startu: Pomnik Jednorożca, ul. Piotrkowska/ al. Mickiewicza.
+
+### Fotorelacja ze spaceru „Szlak Łodzi przemysłowej (Księży Młyn)”, 18 października 2020 r.:
+
+![](https://res.cloudinary.com/inspro/image/upload/v1603134130/rodm/Przemys%C5%82_RODM_wp088r.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1603134405/rodm/Przemys%C5%82_2_nuxcug.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1603134581/rodm/Przemys%C5%82_3_nhixqs.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1603134735/rodm/Przemys%C5%82_4_vz5ksw.jpg)
+
+**Foto:** Piotr Kaźmierczak, RODM Łódź
