@@ -1,6 +1,5 @@
 +++
 date = 2020-10-18T22:00:00Z
-draft = true
 main_image = "/v1603134957/rodm/Szlak_%C5%81odzi_wielkomiejskiej_RODM_z3hiqz.jpg"
 slug = "szlak-lodzi-wielkomiejskiej"
 title = "Szlak Łodzi wielkomiejskiej"
