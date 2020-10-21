@@ -6,7 +6,7 @@ slug = "pomyslec-szwecja-pomyslec-(nie)dobrze"
 title = "Pomyśleć Szwecja - pomyśleć (nie)dobrze?"
 
 +++
-#### **Ekologia, sport, Eurowizja, Nobel — to hasła najczęściej wyszukiwane na całym świecie w połączeniu ze słowem „Szwecja”**[**\[1\]**](#_ftn1)**. Przez ostatnie lata właśnie takie było zdanie opinii międzynarodowej na temat tego skandynawskiego państwa. Gdy myślimy o Szwecji to wyobrażamy sobie narciarzy przemierzających zimowe krajobrazy w drodze po zwycięstwo w Igrzyskach Olimpijskich.** 
+#### **Ekologia, sport, Eurowizja, Nobel — to hasła najczęściej wyszukiwane na całym świecie w połączeniu ze słowem „Szwecja”**[**\[1\]**](#_ftn1)**. Przez ostatnie lata właśnie takie było zdanie opinii międzynarodowej na temat tego skandynawskiego państwa. Gdy myślimy o Szwecji to wyobrażamy sobie narciarzy przemierzających zimowe krajobrazy w drodze po zwycięstwo w Igrzyskach Olimpijskich.**
 
 Myśleć o Szwecji znaczy usłyszeć międzynarodowy język, jakże często spotykany w okolicach Gamla Stan w Sztokholmie. Myślenie o Szwecji przypomina smak cynamonowej bułeczki kupionej na najbliższym stoisku w drodze do pracy. Niestety ani Igrzyska Olimpijskie, ani wielokulturowość, ani nawet smak szwedzkich wypieków, nie uchroniło naszego nadmorskiego sąsiada przed konsekwencjami pandemii koronawirusa. Nie chodzi jednak o konsekwencje z punktu widzenia medycznego, czy gospodarczego. To, co najbardziej zaszkodziło Szwecji w 2020 roku to ciągle zmienna sinusoida wizerunkowa.
 
@@ -74,11 +74,11 @@ Może nie jest to odpowiednia droga? W końcu „nie zabija się much młotkiem�
 
 [\[13\]](#_ftnref13) [https://tinyurl.com/yxp8cfsg](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv") , \[dostęp: 13.10.2020\].
 
-**Źródło foto:**
+**Źródło foto Andersa Tegnella: Dziennik Gazeta Prawna.** 
 
 **Autor**: Wojciech Szymczak
 
-Student ekonomii na Uniwersytecie Warszawskim. Od niedawna dołączył do zespołu RODM Łódź jako praktykant, a następnie wolontariusz, gdzie zajmuję się m.in. wyszukiwaniem oraz pozyskiwaniem informacji. Najbardziej interesują go analiza danych oraz nauki behawioralne. W wolnym czasie uczy się szwedzkiego. Pasjonat kina Wesa Andersona. 
+Student ekonomii na Uniwersytecie Warszawskim. Od niedawna dołączył do zespołu RODM Łódź jako praktykant, a następnie wolontariusz, gdzie zajmuję się m.in. wyszukiwaniem oraz pozyskiwaniem informacji. Najbardziej interesują go analiza danych oraz nauki behawioralne. W wolnym czasie uczy się szwedzkiego. Pasjonat kina Wesa Andersona.
 
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
