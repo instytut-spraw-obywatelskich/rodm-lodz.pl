@@ -2,7 +2,7 @@
 date = 2020-10-20T22:00:00Z
 main_image = "/v1603273350/rodm/Anders_Tegnell_foto_tshcng.jpg"
 slug = "pomyslec-szwecja-pomyslec-(nie)dobrze"
-title = "Pomyśleć Szwecja - pomyśleć (nie)dobrze?"
+title = "Pomyśleć Szwecja – pomyśleć (nie)dobrze?"
 
 +++
 #### **Ekologia, sport, Eurowizja, Nobel — to hasła najczęściej wyszukiwane na całym świecie w połączeniu ze słowem „Szwecja”**[**\[1\]**](#_ftn1)**. Przez ostatnie lata właśnie takie było zdanie opinii międzynarodowej na temat tego skandynawskiego państwa. Gdy myślimy o Szwecji to wyobrażamy sobie narciarzy przemierzających zimowe krajobrazy w drodze po zwycięstwo w Igrzyskach Olimpijskich.**
