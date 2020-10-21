@@ -1,6 +1,5 @@
 +++
 date = 2020-10-20T22:00:00Z
-draft = true
 main_image = "/v1603273350/rodm/Anders_Tegnell_foto_tshcng.jpg"
 slug = "pomyslec-szwecja-pomyslec-(nie)dobrze"
 title = "Pomyśleć Szwecja - pomyśleć (nie)dobrze?"
