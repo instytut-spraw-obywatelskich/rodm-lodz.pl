@@ -6,7 +6,7 @@ slug = "kirgistan-wladza-z-lufy-karabinu"
 title = "Kirgistan – władza z lufy karabinu"
 
 +++
-### **Dlaczego powinniśmy interesować się sytuacją w Kirgistanie? O obalaniu władzy przez Kirgizów. Jak to możliwe, że Sadyr Dżeparow jednego dnia siedzi w więzieniu, następnego jest premierem, a po kilku kolejnych dniach prezydentem kraju? O turystyce w Szwajcarii Azji Środkowej.**
+## **Dlaczego powinniśmy interesować się sytuacją w Kirgistanie? O obalaniu władzy przez Kirgizów. Jak to możliwe, że Sadyr Dżeparow jednego dnia siedzi w więzieniu, następnego jest premierem, a po kilku kolejnych dniach prezydentem kraju? O turystyce w Szwajcarii Azji Środkowej.**
 
 Michał Lubina odpowiada, Rafał Górski pyta.
 
