@@ -1,6 +1,5 @@
 +++
 date = 2020-10-22T22:00:00Z
-draft = true
 main_image = "/v1603389828/rodm/kirgistan-wladza-z-lufy-karabinu_RODM__strona_wp3dcr.jpg"
 slug = "kirgistan-wladza-z-lufy-karabinu"
 title = "Kirgistan – władza z lufy karabinu"
