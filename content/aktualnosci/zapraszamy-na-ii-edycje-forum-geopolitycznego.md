@@ -28,7 +28,7 @@ Panel – **Samodzielność strategiczna – Jak obronić Polskę?**
 4. Tomasz Gabiś – publicysta, myśliciel konserwatywny, w latach 1991–2003 był redaktorem naczelnym pisma „Stańczyk”, autor książki „Gry Imperialne”. **(TBC – do potwierdzenia)**
 5. Prowadzenie: Magda Doliwa – Górska – konsultantka RODM Łódź, szefowa Rady Instytutu Spraw Obywatelskich, absolwentka studiów „Biznes chiński – jak działać skutecznie w czasach Jedwabnego Szlaku” Akademia L. Koźmińskiego, słuchaczka studiów „Geopolityka i Geostrategia”.
 
-Środa 25 listopada   
+Środa 25 listopada  
 18:00-20:00
 
 Panel – **Afryka: neokolonizacja czy game changer nowego ładu światowego?**
@@ -36,9 +36,9 @@ Panel – **Afryka: neokolonizacja czy game changer nowego ładu światowego?**
 1. Marcin Wojtalik – działacz społeczny, pracownik organizacji pozarządowych, autor publikacji popularyzatorskich, raportów i analiz, trener, ekspert w zakresie współpracy rozwojowej i edukacji globalnej. Członek zarządu Instytutu Globalnej Odpowiedzialności (IGO), wcześniej m.in. członek zarządu Grupy Zagranica, platformy ponad 60 polskich organizacji działających na rzecz zagranicy, oraz członek pierwszej kadencji Rady Programowej Współpracy Rozwojowej przy Ministrze Spraw Zagranicznych.
 2. Przedstawiciel Departamentu Afryki i Bliskiego Wschodu Ministerstwa Spraw Zagranicznych.
 3. John Godson – polsko-nigierski polityk, nauczyciel akademicki, działacz samorządowy oraz rolnik. Poseł na Sejm VI i VII kadencji, od 2013 do 2014 roku wiceprezes Polski Razem. Po 2015 roku powrócił do Nigerii, gdzie poprzez swoją spółkę zaczął prowadzić liczące kilkaset hektarów ranczoo nazwie „Pilgrim Ranch”.
-4. Prowadzenie: Grzegorz Kmieciński (PwC). **(TBC – do potwierdzenia)**
+4. Prowadzenie: Grzegorz Kmieciński – absolwent studiów azjatyckich na Collegium Civitas. Autor pracy o współczesnych relacjach chińsko-afrykańskich. W trakcie dziesięcioletniego doświadczenia obsługiwał klientów głównie z branży IT, ale także bankowości, kontrolingu i FMCG (fast-moving consumer goods – produkty szybkozbywalne). Przeprowadzał transakcje zarówno na poziomie korporacyjnym, jak i lokalnym. **(TBC – do potwierdzenia)**
 
-Czwartek 26 listopada   
+Czwartek 26 listopada  
 18:00-20:00
 
 Panel – **Czy istnieją granice wzrostu?**
@@ -48,21 +48,21 @@ Panel – **Czy istnieją granice wzrostu?**
 3. prof. Elżbieta Mączyńska – ekonomistka, prof. dr hab. nauk ekonomicznych, absolwentka studiów ekonomicznych Związana ze Szkołą Główną Handlową w Warszawie (SGH), kierownik studiów podyplomowych „Wycena Nieruchomości”.
 4. Prowadzenie: Marcin Giełzak (Fundacja Ambitna Polska).
 
-Piątek 27 listopada   
+Piątek 27 listopada  
 18:00-20:00
 
 Panel – **Czy nowe technologie nas uratują czy zniszczą?**
 
 1. Andrzej Zybertowicz – socjolog, publicysta, nauczyciel akademicki, profesor nadzwyczajny Uniwersytetu Mikołaja Kopernika w Toruniu. W latach 2008–2010 doradca społeczny prezydenta RP Lecha Kaczyńskiego, od 2015 doradca społeczny prezydenta RP Andrzeja Dudy, doradca szefa Biura Bezpieczeństwa Narodowego (BBN).
 2. Małgorzata Fraser – dziennikarka i edukatorka cyfrowa, szczególnie zainteresowana wpływem cyberbezpieczeństwa na geopolitykę. Bada zagadnienia prywatności w internecie i analizuje przemiany, jakie pod wpływem nowych technologii zachodzą w społeczeństwie.
-3. Wiesław Bartkowski – projektant interakcji i badacz systemów złożonych. Kierownik i współtwórca studiów podyplomowych CreativeCoding.pl antydyscyplinarnie przełamujących granice pomiędzy sztuką, dizajnem, nauką i technologią. Twórca terminu i manifestu „materia kodu”. Pracuje na Uniwersytecie SWPS. Uczy artystów i projektantów wykorzystywania w swoim warsztacie „materii kodu”. **(TBC – do potwierdzenia)**
+3. Jan J. Zygmuntowski – ekonomista związany z obszarami innowacji, cyfrowej gospodarki i zrównoważonego rozwoju. Prezes zarządu think-tanku Instrat. Doświadczenie zdobywał m.in. w Polskim Funduszu Rozwoju. Doradza i wspiera w rozwoju projekty technologiczne z pozytywnym wpływem społecznym. Student Szkoły Doktorskiej Akademii Leona Koźmińskiego. **(TBC – do potwierdzenia)**
 4. Prowadzenie: Rafał Górski – prezes Instytutu Spraw Obywatelskich, redaktor naczelny Tygodnika Spraw Obywatelskich. Od 1995 roku na frontach kampanii obywatelskich m.in. Tiry na tory, Obywatele decydują, Centrum Wspierania Rad Pracowników, Wolne od GMO? Chcę wiedzieć! Pisał m.in. dla Magazynu Obywatel, Tygodnika Solidarność, Super Expressu, Wprost.
 
 ### **Relacja z I edycji Forum Geopolitycznego:**
 
 {{< youtube eacMDaZZ13o >}}
 
-**II edycję Forum Geopolitycznego organizuje** [**Instytut Spraw Obywatelskich**](https://instytutsprawobywatelskich.pl/ "https://instytutsprawobywatelskich.pl/") **w ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi.** 
+**II edycję Forum Geopolitycznego organizuje** [**Instytut Spraw Obywatelskich**](https://instytutsprawobywatelskich.pl/ "https://instytutsprawobywatelskich.pl/") **w ramach Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi.**
 
 Celem RODM jest przybliżenie obywatelom polskiej polityki zagranicznej oraz wzmocnienie kanałów współpracy pomiędzy Ministerstwem Spraw Zagranicznych, samorządem i organizacjami pozarządowymi. Ośrodek jest odpowiedzialny za animowanie i inicjowanie w regionie spotkań, debat i innych wydarzeń z udziałem przedstawicieli najważniejszych instytucji, organizacji oraz ośrodków analityczno-badawczych. Spotkania oraz debaty są okazją do dyskusji na temat funkcjonowania polskiej polityki zagranicznej w kontekście regionalnym.
 
