@@ -1,6 +1,5 @@
 +++
 date = 2020-10-27T23:00:00Z
-draft = true
 main_image = "/v1603872497/rodm/strona_rodm_i7sb4d.jpg"
 slug = "zapraszamy-na-II-edycje--forum-geopolitycznego"
 title = "Zapraszamy na II edycję Forum Geopolitycznego! "
