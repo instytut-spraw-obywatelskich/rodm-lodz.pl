@@ -1,6 +1,5 @@
 +++
 date = 2020-10-27T23:00:00Z
-draft = true
 main_image = "/v1603875754/rodm/Donald-Trump-Mike-Pence-RODM_xw1voo.jpg"
 slug = "reelekcja-uslana-przeszkodami-trudne-wybory-donalda-trumpa"
 title = "Reelekcja usłana przeszkodami  – trudne wybory Donalda Trumpa"
