@@ -44,7 +44,7 @@ Czwartek 26 listopada
 Panel – **Czy istnieją granice wzrostu?**
 
 1. Paweł Szypulski – dyrektor programowy Greenpeace Polska. **(TBC – do potwierdzenia)**
-2. Jan Chudzyński – ekonomista, członek ruchu Rethinking Economics. Jest przekonany, że w dużej mierze to idee ujęte w programach nauczania ekonomii i nauk o zarządzaniu są źródłem kryzysów, z jakimi współcześnie się mierzymy. Pyta i pisze m.in. w Zielonych Wiadomościach, Dzikim Życiu, F5. Prowadzi fanpage „Ekonomia a klimat”.
+2. Jan Chudzyński – absolwent Szkoły Głównej Handlowej w Warszawie oraz studiów Rozwój i wzrost gospodarczy na Uniwersytecie Karola III w Madrycie. W ramach międzynarodowego ruchu Rethinking Economics domaga się zmian w nauczaniu ekonomii, w szczególności w odniesieniu do wzrostu gospodarczego i środowiska. Pisze o ekonomii, pyta ekonomistów, prowadzi fanpage „Ekonomia a klimat”.
 3. prof. Elżbieta Mączyńska – ekonomistka, prof. dr hab. nauk ekonomicznych, absolwentka studiów ekonomicznych Związana ze Szkołą Główną Handlową w Warszawie (SGH), kierownik studiów podyplomowych „Wycena Nieruchomości”.
 4. Prowadzenie: Marcin Giełzak (Fundacja Ambitna Polska).
 
