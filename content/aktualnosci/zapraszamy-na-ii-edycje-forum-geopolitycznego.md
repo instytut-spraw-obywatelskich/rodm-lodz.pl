@@ -25,8 +25,7 @@ Panel – **Samodzielność strategiczna – Jak obronić Polskę?**
 1. Leszek Sykulski – historyk, doktor nauk o polityce, prezes Polskiego Towarzystwa Geostrategicznego. Główne obszary badawcze to: geopolityka i geostrategia, walka informacyjna, bezpieczeństwo międzynarodowe, polityka bezpieczeństwa Rosji.
 2. Albert Świdziński – absolwent Collegium Civitas i Uniwersytetu Warszawskiego, wcześniej studiował psychologię na Uniwersytecie w Aberdeen, dyrektor analiz w Strategy&Future.
 3. Bogdan Góralczyk – politolog, sinolog, dyplomata i publicysta. W latach 2003-2008 ambasador RP w Królestwie Tajlandii, Republice Filipin i Związku Myanmar (Birma).
-4. Tomasz Gabiś – publicysta, myśliciel konserwatywny, w latach 1991–2003 był redaktorem naczelnym pisma „Stańczyk”, autor książki „Gry Imperialne”. **(TBC – do potwierdzenia)**
-5. Prowadzenie: Magda Doliwa – Górska – konsultantka RODM Łódź, szefowa Rady Instytutu Spraw Obywatelskich, absolwentka studiów „Biznes chiński – jak działać skutecznie w czasach Jedwabnego Szlaku” Akademia L. Koźmińskiego, słuchaczka studiów „Geopolityka i Geostrategia”.
+4. Prowadzenie: Magda Doliwa – Górska – konsultantka RODM Łódź, szefowa Rady Instytutu Spraw Obywatelskich, absolwentka studiów „Biznes chiński – jak działać skutecznie w czasach Jedwabnego Szlaku” Akademia L. Koźmińskiego, słuchaczka studiów „Geopolityka i Geostrategia”.
 
 Środa 25 listopada  
 18:00-20:00
