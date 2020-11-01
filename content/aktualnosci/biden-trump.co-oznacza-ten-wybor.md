@@ -1,6 +1,5 @@
 +++
 date = 2020-10-31T23:00:00Z
-draft = true
 main_image = "/v1604256868/rodm/USA-China_boxing_nsdzb2.jpg"
 slug = "Biden-Trump-co-oznacza-ten-wybor"
 title = "Biden – Trump. Co oznacza ten wybór?"
