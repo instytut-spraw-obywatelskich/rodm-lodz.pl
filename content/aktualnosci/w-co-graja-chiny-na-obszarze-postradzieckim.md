@@ -1,6 +1,5 @@
 +++
 date = 2020-10-30T23:00:00Z
-draft = true
 main_image = "/v1604259217/rodm/Chiny_RODM_a8iap6.jpg"
 slug = "W-co-graja-Chiny-na-obszarze-postradzieckim"
 title = "W co grają Chiny na obszarze postradzieckim?"
