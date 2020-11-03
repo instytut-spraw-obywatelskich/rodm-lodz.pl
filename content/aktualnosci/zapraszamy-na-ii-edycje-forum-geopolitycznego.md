@@ -9,7 +9,11 @@ title = "Zapraszamy na II edycję Forum Geopolitycznego! "
 
 Pytania można by mnożyć, a my spróbujemy odpowiedzieć, choć na część z nich podczas II edycji Forum Geopolitycznego. Z uwagi na obecną sytuację epidemiologiczną wydarzenie odbędzie się w formie wirtualnej, gdzie od 24 do 27 listopada 2020 roku spędzicie Państwo z nami tydzień z debatą o wyzwaniach współczesnego świata.
 
-**Już wkrótce zamieścimy tutaj link do rejestracji na wydarzenie.**
+**Uruchamiamy rejestrację na wydarzenie. Już dziś możesz dołączyć do tygodnia dyskusji o globalnych wyzwaniach.**
+
+## [Zarejestruj się na II Forum Geopolityczne](https://zoom.us/webinar/register/WN_Qz-CXQd5T3aEQG5xi_s9Jw "https://zoom.us/webinar/register/WN_Qz-CXQd5T3aEQG5xi_s9Jw") 
+
+Tygodnik Spraw Obywatelskich objął patronat nad wydarzeniem.
 
 ### **Program II edycji Forum Geopolitycznego**
 
