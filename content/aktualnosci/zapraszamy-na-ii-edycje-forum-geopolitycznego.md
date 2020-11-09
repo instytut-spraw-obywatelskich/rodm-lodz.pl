@@ -11,7 +11,7 @@ Pytania można by mnożyć, a my spróbujemy odpowiedzieć, choć na część z 
 
 **Uruchamiamy rejestrację na wydarzenie. Już dziś możesz dołączyć do tygodnia dyskusji o globalnych wyzwaniach.**
 
-## [Zarejestruj się na II Forum Geopolityczne](https://zoom.us/webinar/register/WN_Qz-CXQd5T3aEQG5xi_s9Jw "https://zoom.us/webinar/register/WN_Qz-CXQd5T3aEQG5xi_s9Jw") 
+## [Zarejestruj się na II Forum Geopolityczne](https://zoom.us/webinar/register/WN_Qz-CXQd5T3aEQG5xi_s9Jw "https://zoom.us/webinar/register/WN_Qz-CXQd5T3aEQG5xi_s9Jw")
 
 Tygodnik Spraw Obywatelskich objął patronat nad wydarzeniem.
 
@@ -57,7 +57,7 @@ Piątek 27 listopada
 Panel – **Czy nowe technologie nas uratują czy zniszczą?**
 
 1. Andrzej Zybertowicz – socjolog, publicysta, nauczyciel akademicki, profesor nadzwyczajny Uniwersytetu Mikołaja Kopernika w Toruniu. W latach 2008–2010 doradca społeczny prezydenta RP Lecha Kaczyńskiego, od 2015 doradca społeczny prezydenta RP Andrzeja Dudy, doradca szefa Biura Bezpieczeństwa Narodowego (BBN).
-2. Małgorzata Fraser – dziennikarka i edukatorka cyfrowa, szczególnie zainteresowana wpływem cyberbezpieczeństwa na geopolitykę. Bada zagadnienia prywatności w internecie i analizuje przemiany, jakie pod wpływem nowych technologii zachodzą w społeczeństwie.
+2. Maciej Kawecki – doktor nauk prawnych, nauczyciel akademicki, urzędnik państwowy, koordynator krajowej reformy ochrony danych osobowych, od 2018 r. dyrektor departamentu zarządzania danymi w Ministerstwie Cyfryzacji. W 2018 zajął 23 miejsce w rankingu 50 najbardziej wpływowych prawników w Polsce Dziennika Gazety Prawnej, w 2019 awansował w tym samym rankingu na 15 pozycję, zostając uznanym „twarzą RODO w Polsce”. Od października 2019 r. Dziekan Wyższej Szkoły Bankowej w Warszawie. Prezes Zarządu Instytut Polska Przyszłości im. Stanisława Lema.
 3. Jan J. Zygmuntowski – ekonomista związany z obszarami innowacji, cyfrowej gospodarki i zrównoważonego rozwoju. Założyciel i były Prezes zarządu think-tanku Instrat. Doświadczenie zdobywał m.in. w Polskim Funduszu Rozwoju. Doradza i wspiera w rozwoju projekty technologiczne z pozytywnym wpływem społecznym. Obecnie wykłada na Akademii Leona Koźmińskiego i jest współprzewodniczącym Polskiej Sieci Ekonomii.
 4. Prowadzenie: Rafał Górski – prezes Instytutu Spraw Obywatelskich, redaktor naczelny Tygodnika Spraw Obywatelskich. Od 1995 roku na frontach kampanii obywatelskich m.in. Tiry na tory, Obywatele decydują, Centrum Wspierania Rad Pracowników, Wolne od GMO? Chcę wiedzieć! Pisał m.in. dla Magazynu Obywatel, Tygodnika Solidarność, Super Expressu, Wprost.
 
