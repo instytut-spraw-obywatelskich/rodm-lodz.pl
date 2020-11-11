@@ -1,6 +1,5 @@
 +++
 date = 2020-11-10T23:00:00Z
-draft = true
 main_image = "/v1605087792/rodm/STRONA_RODM_bkkiho.png"
 slug = "konkurs-wygraj-ksiazke-cywilizacje-laurenta-bineta"
 title = "Konkurs: Wygraj książkę „Cywilizacje” Laurenta Bineta!"
