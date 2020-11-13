@@ -1,6 +1,5 @@
 +++
 date = 2020-11-12T23:00:00Z
-draft = true
 main_image = "/v1605281472/rodm/Fot._Szymon_Mala%C5%84ski_Forum_Geopolityczne_2019_RODM_oefbui.jpg"
 slug = "globalna-siec-powiazan-ma-wplyw-na-sytuacje-polski"
 title = "Globalna sieć powiązań ma wpływ na sytuację Polski"
