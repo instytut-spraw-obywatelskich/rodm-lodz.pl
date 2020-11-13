@@ -56,6 +56,8 @@ Jesteśmy już na ostatnim, finalnym etapie przygotowań. Za chwilę pełną par
 
 **Dziękuję za rozmowę.**
 
+Fot. Szymon Malański, debata **„Jak nie dać się zgnieść? Polska pomiędzy Niemcami a Rosją”**, I edycja Forum Geopolitycznego w Łodzi, 30.11.2019. 
+
 ## [Zarejestruj się na II Forum Geopolityczne](https://zoom.us/webinar/register/WN_Qz-CXQd5T3aEQG5xi_s9Jw "https://zoom.us/webinar/register/WN_Qz-CXQd5T3aEQG5xi_s9Jw")
 
 Tygodnik Spraw Obywatelskich objął patronat nad wydarzeniem.
