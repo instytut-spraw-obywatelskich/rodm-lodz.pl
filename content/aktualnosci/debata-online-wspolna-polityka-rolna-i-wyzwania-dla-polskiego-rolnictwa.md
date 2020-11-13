@@ -1,6 +1,6 @@
 +++
 date = 2020-11-09T23:00:00Z
-main_image = "/v1605170566/rodm/strona_rodm_poprawiona_obdnbc.jpg"
+main_image = "/v1605268261/rodm/RODM_grafika_kvfxtz.jpg"
 slug = "debata-online-wspolna-polityka-rolna-i-wyzwania-dla-polskiego-rolnictwa"
 title = "Debata online „Wspólna Polityka Rolna i wyzwania dla polskiego rolnictwa”"
 
