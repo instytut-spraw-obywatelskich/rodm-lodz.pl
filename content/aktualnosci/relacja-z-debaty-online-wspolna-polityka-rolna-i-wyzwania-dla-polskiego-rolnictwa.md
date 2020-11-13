@@ -1,6 +1,5 @@
 +++
 date = 2020-11-12T23:00:00Z
-draft = true
 main_image = "/v1605268261/rodm/RODM_grafika_kvfxtz.jpg"
 slug = "relacja-z-debaty-online-wspolna-polityka-rolna-i-wyzwania-dla-polskiego-rolnictwa"
 title = "Relacja z debaty online „Wspólna Polityka Rolna i wyzwania dla polskiego rolnictwa”"
