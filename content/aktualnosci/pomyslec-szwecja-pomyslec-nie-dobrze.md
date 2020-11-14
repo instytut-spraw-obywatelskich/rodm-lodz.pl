@@ -43,37 +43,37 @@ Może nie jest to odpowiednia droga? W końcu „nie zabija się much młotkiem�
 
 ***
 
-[\[1\]](#_ftnref1) źródło: Google Trends, dane za rok 2018 i 2019 \[dostęp: 13.10.2020\].
+[\[1\]](#_ftnref1) źródło: Google Trends, dane za rok 2018 i 2019, \[dostęp: 13.10.2020\].
 
 [\[2\]](#_ftnref2) M. Romanowska, Alianse strategiczne przedsiębiorstw, Warszawa 1997, s. 51.
 
 [\[3\]](#_ftnref3) Premierem rządu Królestwa Szwecji przez 64 lata był członek partii Socjaldemokratycznej, licząc od 1939 roku.
 
-[\[4\]](#_ftnref4) [https://tinyurl.com/y2m3bhzv](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv") \[dostęp: 13.10.2020\].
+[\[4\]](#_ftnref4) [https://tinyurl.com/y2m3bhzv](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
-[\[5\]](#_ftnref5) [https://tinyurl.com/y4tlekc4](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv") \[dostęp: 13.10.2020\].
+[\[5\]](#_ftnref5) [https://tinyurl.com/y4tlekc4](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
-[\[6\]](#_ftnref6) Państwowy Instytut Zdrowia - organ ekspercki zajmujący się zdrowiem publicznym na poziomie narodowym. Organizacja została powołana w 2014 roku przez ministra zdrowia. Jej zadaniem jest reagowanie na niebezpieczeństwa zdrowia publicznego.
+[\[6\]](#_ftnref6) Państwowy Instytut Zdrowia – organ ekspercki zajmujący się zdrowiem publicznym na poziomie narodowym. Organizacja została powołana w 2014 roku przez ministra zdrowia. Jej zadaniem jest reagowanie na niebezpieczeństwa zdrowia publicznego.
 
-[\[7\]](#_ftnref7) [https://tinyurl.com/y5u6x3az](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv") \[dostęp: 13.10.2020\].
+[\[7\]](#_ftnref7) [https://tinyurl.com/y5u6x3az](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
-[\[8\]](#_ftnref8) [https://tinyurl.com/y6bg582o](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv") \[dostęp: 13.10.2020\].
+[\[8\]](#_ftnref8) [https://tinyurl.com/y6bg582o](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
 [\[9\]](#_ftnref9) [https://www.sport.pl/sport/7,173950,25851462,norwegia-wygrywa-z-koronawirusem-i-zarzuca-klamstwa-szwecji.html](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 14.10.2020\].
 
-[\[10\]](#_ftnref10) [https://tinyurl.com/yxbzm2mt](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv") , \[dostęp: 13.10.2020\].
+[\[10\]](#_ftnref10) [https://tinyurl.com/yxbzm2mt](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
 .[https://tinyurl.com/y4tdcc2w](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
-[https://tinyurl.com/y2vpe6qx,](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv") \[dostęp: 13.10.2020\].
+[https://tinyurl.com/y2vpe6qx](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
-[\[11\]](#_ftnref11) [https://tinyurl.com/y4fxzmmn](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv") \[dostęp: 13.10.2020\].
+[\[11\]](#_ftnref11) [https://tinyurl.com/y4fxzmmn](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
-[\[12\]](#_ftnref12) [https://tinyurl.com/yc83xgaf](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv") \[dostęp: 13.10.2020\].
+[\[12\]](#_ftnref12) [https://tinyurl.com/yc83xgaf](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
-[\[13\]](#_ftnref13) [https://tinyurl.com/yxp8cfsg](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv") , \[dostęp: 13.10.2020\].
+[\[13\]](#_ftnref13) [https://tinyurl.com/yxp8cfsg](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
-**Źródło foto Andersa Tegnella: Dziennik Gazeta Prawna.** 
+**Źródło foto Andersa Tegnella: Dziennik Gazeta Prawna.**
 
 **Autor**: Wojciech Szymczak
 
