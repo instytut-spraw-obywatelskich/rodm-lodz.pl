@@ -1,6 +1,5 @@
 +++
 date = 2020-11-13T23:00:00Z
-draft = true
 main_image = "/v1605351158/rodm/psy_artyku%C5%82_na4igy.jpg"
 slug = "pieskie-zycie-u-boku-liderow-politycznych"
 title = "Pieskie życie u boku liderów politycznych "
