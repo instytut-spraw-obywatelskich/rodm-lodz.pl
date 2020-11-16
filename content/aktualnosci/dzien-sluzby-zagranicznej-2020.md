@@ -1,5 +1,5 @@
 +++
-date = 2020-11-14T23:00:00Z
+date = 2020-11-15T23:00:00Z
 draft = true
 main_image = "/v1605454302/rodm/KOMUNIKAT_RODM_mvq03g.png"
 slug = "dzien-sluzby-zagranicznej-2020"
@@ -17,3 +17,9 @@ W tym roku przypada także 75. rocznica zakończenia II wojny światowej oraz 75
 Po wybuchu pandemii polska dyplomacja pomogła wydostać się Polakom z najdalej położonych miejsc, od Peru, przez Czad, Goa po Japonię. Wykonano loty powrotne z 71 miejsc na świecie. W ramach akcji #LOTdoDomu, oprócz Polaków, z naszej pomocy skorzystało także ponad 2 tys. obywateli innych państw. W ciągu zaledwie 22 dni, Polskie Linie Lotnicze LOT zrealizowały 388 specjalnych rejsów czarterowych, dzięki którym ponad 55 tys. osób bezpiecznie wróciło do kraju.
 
 Pomoc okazywana w dobie pandemii przez Polskę miała także szerszy wymiar. W jej ramach zorganizowano wyjazdy zespołów polskich lekarzy, pielęgniarzy i ratowników medycznych Polskiego Centrum Pomocy Międzynarodowej do Włoch, USA, Kirgistanu, i Tadżykistanu. Z kolei na Białoruś, Ukrainę i do Mołdawii wysłaliśmy transporty samochodowe ze sprzętem medycznym. Polska akcja pomocowa jest ważną częścią naszej polityki zagranicznej realizowanej w czasie epidemii COVID-19. Jest też istotnym elementem polskiej pomocy rozwojowej i stanowi narzędzie realizacji naszych zobowiązań międzynarodowych.
+
+![](https://res.cloudinary.com/inspro/image/upload/v1605487263/rodm/4A_dyplomaciWW2_knbe6a.png)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1605487382/rodm/4B_dyplomaciWW2_w9ugwz.png)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1605487427/rodm/4C_dyplomaciWW2_wncy4l.png)
