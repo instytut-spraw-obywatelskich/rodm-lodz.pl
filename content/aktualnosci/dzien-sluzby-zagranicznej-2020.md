@@ -1,6 +1,5 @@
 +++
 date = 2020-11-15T23:00:00Z
-draft = true
 main_image = "/v1605454302/rodm/KOMUNIKAT_RODM_mvq03g.png"
 slug = "dzien-sluzby-zagranicznej-2020"
 title = "Dzień Służby Zagranicznej 2020"
