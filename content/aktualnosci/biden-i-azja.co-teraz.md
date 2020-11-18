@@ -1,6 +1,5 @@
 +++
 date = 2020-11-17T23:00:00Z
-draft = true
 main_image = "/v1605712502/rodm/biden-i-azja-co-teraz-RODM_kwwile.jpg"
 slug = "Biden-i-Azja-co-teraz"
 title = "Biden i Azja. Co teraz?"
