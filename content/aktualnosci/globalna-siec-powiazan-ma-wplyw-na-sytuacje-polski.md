@@ -83,16 +83,15 @@ Panel – **Samodzielność strategiczna – Jak obronić Polskę?**
 Panel – **Afryka: neokolonizacja czy game changer nowego ładu światowego?**
 
 1. Marcin Wojtalik – działacz społeczny, pracownik organizacji pozarządowych, autor publikacji popularyzatorskich, raportów i analiz, trener, ekspert w zakresie współpracy rozwojowej i edukacji globalnej. Członek zarządu Instytutu Globalnej Odpowiedzialności (IGO), wcześniej m.in. członek zarządu Grupy Zagranica, platformy ponad 60 polskich organizacji działających na rzecz zagranicy, oraz członek pierwszej kadencji Rady Programowej Współpracy Rozwojowej przy Ministrze Spraw Zagranicznych.
-2. Przedstawiciel Departamentu Afryki i Bliskiego Wschodu Ministerstwa Spraw Zagranicznych.
-3. John Godson – polsko-nigierski polityk, nauczyciel akademicki, działacz samorządowy oraz rolnik. Poseł na Sejm VI i VII kadencji, od 2013 do 2014 roku wiceprezes Polski Razem. Po 2015 roku powrócił do Nigerii, gdzie poprzez swoją spółkę zaczął prowadzić liczące kilkaset hektarów ranczoo nazwie „Pilgrim Ranch”.
-4. Prowadzenie: Grzegorz Kmieciński – absolwent studiów azjatyckich na Collegium Civitas. Autor pracy o współczesnych relacjach chińsko-afrykańskich. W trakcie dziesięcioletniego doświadczenia obsługiwał klientów głównie z branży IT, ale także bankowości, kontrolingu i FMCG (fast-moving consumer goods – produkty szybkozbywalne). Przeprowadzał transakcje zarówno na poziomie korporacyjnym, jak i lokalnym. **(TBC – do potwierdzenia)**
+2. John Godson – polsko-nigierski polityk, nauczyciel akademicki, działacz samorządowy oraz rolnik. Poseł na Sejm VI i VII kadencji, od 2013 do 2014 roku wiceprezes Polski Razem. Po 2015 roku powrócił do Nigerii, gdzie poprzez swoją spółkę zaczął prowadzić liczące kilkaset hektarów ranczoo nazwie „Pilgrim Ranch”.
+3. Prowadzenie: Radosław Pyffel – kierownik studiów „Biznes chiński- jak działać skutecznie w czasach Jedwabnego Szlaku” w Akademii Leona Koźminskiego. W przeszłości między innymi Alternate Director i członek Rady Dyrektorów w Azjatyckim Banku Inwestycji Infrastrukturalnych (AIIB) z ramienia RP (2016-2018), Pełnomocnik Zarządu PKP Cargo ds. rynków wschodnich, prezes think-tanku Centrum Studiów Polska-Azja (CSPA), a także autor kilku książek dotyczących Chin i Azji. Studiował (jako stypendysta MEN) na chińskich uczelniach wyższych m.in. Sun Yat Sen University w Kantonie i Beijing University.
 
 Czwartek 26 listopada  
 18:00-20:00
 
 Panel – **Czy istnieją granice wzrostu?**
 
-1. Paweł Szypulski – dyrektor programowy Greenpeace Polska. **(TBC – do potwierdzenia)**
+1. Marek Tatała – ekonomista, analityk, komentator wydarzeń polityczno-gospodarczych. Od 2010 r. współpracownik Forum Obywatelskiego Rozwoju, gdzie od jesieni 2013 r. pełni funkcję Wiceprezesa Zarządu. Założyciel „Legalnie nad Wisłą”. Redaktor naczelny Bloga Obywatelskiego Rozwoju. Studiował ekonomię i ekonomiczną analizę prawa w Szkole Głównej Handlowej oraz ekonomię i nauki polityczne na Uniwersytecie w Bristolu w Wielkiej Brytanii. Były prezes Polish Society of University of Bristol i były członek Zarządu SKN Ekonomicznej Analizy Prawa.
 2. Jan Chudzyński – absolwent Szkoły Głównej Handlowej w Warszawie oraz studiów Rozwój i wzrost gospodarczy na Uniwersytecie Karola III w Madrycie. W ramach międzynarodowego ruchu Rethinking Economics domaga się zmian w nauczaniu ekonomii, w szczególności w odniesieniu do wzrostu gospodarczego i środowiska. Pisze o ekonomii, pyta ekonomistów, prowadzi fanpage „Ekonomia a klimat”.
 3. prof. Elżbieta Mączyńska – ekonomistka, prof. dr hab. nauk ekonomicznych, absolwentka studiów ekonomicznych Związana ze Szkołą Główną Handlową w Warszawie (SGH), kierownik studiów podyplomowych „Wycena Nieruchomości”.
 4. Prowadzenie: Marcin Giełzak (Fundacja Ambitna Polska).
