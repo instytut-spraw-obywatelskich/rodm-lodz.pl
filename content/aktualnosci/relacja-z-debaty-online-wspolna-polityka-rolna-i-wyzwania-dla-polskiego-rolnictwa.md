@@ -5,7 +5,7 @@ slug = "relacja-z-debaty-online-wspolna-polityka-rolna-i-wyzwania-dla-polskiego-
 title = "Relacja z debaty online „Wspólna Polityka Rolna i wyzwania dla polskiego rolnictwa”"
 
 +++
-#### 12 listopada 2020 roku odbyła się kolejna debata z cyklu #RODMonline organizowana przez Regionalny Ośrodek Debaty Międzynarodowej w Łodzi. Przedmiotem debaty była „Wspólna Polityka Rolna i wyzwania dla polskiego rolnictwa”. 
+#### 12 listopada 2020 roku odbyła się kolejna debata z cyklu #RODMonline organizowana przez Regionalny Ośrodek Debaty Międzynarodowej w Łodzi. Przedmiotem debaty była „Wspólna Polityka Rolna i wyzwania dla polskiego rolnictwa”.
 
 W debacie wzięli udział: Danuta Pilarska – Prezes Zarządu Związku Zawodowego Rolników Ekologicznych św. Franciszka z Asyżu, Justyna Zwolińska – przedstawicielka organizacji „Koalicja Żywa Ziemia”, Katarzyna Laskowska – Naczelnik Wydziału Programowania Wspólnej Polityki Rolnej w Departamencie Wspólnej Polityki Rolnej Ministerstwa Rolnictwa i Rozwoju Wsi (MRiRW) oraz Tomasz Figurski Naczelnik Wydziału Realizacji Płatności Bezpośrednich​ w Departamencie Płatności Obszarowych MRiRW. Debatę moderował Rafał Górski – prezes Instytutu Spraw Obywatelskich.
 
@@ -19,12 +19,14 @@ Kolejne pytanie dotyczyło strategii „Od pola do stołu”, czyli wsparcia prz
 
 Debata była niezwykle zacięta, a czas powoli się kurczył. Przyszła pora na pytania ze strony słuchaczy. Pierwsze pytanie dotyczyło wskazania możliwych luzowań regulacji ze względu na trwającą rywalizację amerykańsko-chińską. Przedstawiciele Ministerstwa Rolnictwa stwierdzili, że jest to zakres polityki handlowej, który nie dotyczy obszaru ich kompetencji, jednak negocjacje w zakresie ewentualnych poluzowań zobowiązań toczą się w oparciu o już leżące na stole dokumenty. Danuta Pilarska odpowiedziała na to pytanie wskazując na swoje wieloletnie doświadczenie. – Ja bym nic z Chin nie zjadła – stwierdziła Danuta Pilarska, odnosząc się niejako do wpływu rywalizacji amerykańsko-chińskiej. Podkreśliła, że dla rolników czas pandemii to czas wytężonej pracy i większych zysków, bo ludzie kupują bezpośrednio zdrowe produkty od rolników m.in. buraki, marchew. Justyna Zwolińska wskazała, że konkurencyjność Unii Europejskiej powinna polegać na jakości. Jeśli na tym będzie polegała produkcja żywności na starym kontynencie, to nasz rynek się obroni – podsumowała przedstawicielka „Koalicja Żywa Ziemia”.
 
+{{< youtube maKeOccVrtI >}}
+
 W kolejnym pytaniu od uczestników koordynator RODM Łódź Paweł Marczak zapytał o szanse dla polskiego rolnictwa w związku z panującą pandemią i przerwanymi łańcuchami dostaw, czy wydłużonym czasem oczekiwania na towary. Danuta Pilarska powiedziała, że świat widoczny w mediach jest dla niej obecnie dość nienaturalny. Ludzie zaczęli zwracać się do rolnictwa ekologicznego. – My mamy aptekę na polu – podsumowała rolniczka. Zwolińska wspomniała o problemach branży mleczarskiej, powstałych podczas epidemii Covid-19. Z drugiej strony wskazała na zmiany w podejściu konsumentów, w wyniku czego żywność jest coraz bardziej kojarzona ze zdrowiem. Konsumenci w obawie przed utrudnieniami w dostawie żywności zaczęli szukać rolników, którzy produkują z szacunkiem i standardami ekologicznymi.
 
 Na koniec Rafał Górski zapytał o oczekiwania wobec konsumentów. Pilarska, zapraszając konsumentów do korzystania z produktów ekologicznych wykazała, że zwrócenie się konsumentów wobec względnie droższej żywności ekologicznej może doprowadzić do oszczędności w walce o swoje zdrowie. Laskowska próbowała zachęcić konsumentów do interesowania się swoją żywnością. Justyna Zwolińska wskazała na brak oczekiwań wobec konsumentów, jednakże krytycznie wyraziła swoje oczekiwania wobec polityków i decydentów. Jako przedstawiciela jednej z organizacji tworzącej „Koalicję Żywej Ziemi” wyraziła chęć walki o zwiększenie świadomości rolników wobec Wspólnej Polityki Rolnej.
 
 Podczas debaty na pewno nie zabrakło wielu emocji związanych z wyzwaniami polskiego rolnictwa. Widać było różnice związane z postrzeganiem problemu ze strony politycznej w zderzeniu z przedstawicielami III sektora oraz rolników. Oznacza to, że debata ta była wstępem do dyskusji o przyszłości Wspólnej Polityki Rolnej i polskiego rolnictwa.
 
-**Autor:** Wojciech Szymczak pod redakcją zespołu RODM Łódź 
+**Autor:** Wojciech Szymczak pod redakcją zespołu RODM Łódź
 
 **Foto:** Zespół RODM Łódź
