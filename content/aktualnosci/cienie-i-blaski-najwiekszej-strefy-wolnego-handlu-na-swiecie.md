@@ -1,8 +1,8 @@
 +++
 date = 2020-11-23T23:00:00Z
 main_image = "/v1606228520/rodm/rcep_gqf6gu.jpg"
-slug = "cienie-i-blaski-najwiekszej-strefy-wolnego-handlu-na-swiecie"
-title = "Cienie i blaski największej strefy wolnego handlu na świecie"
+slug = "blaski-i-cienie-najwiekszej-strefy-wolnego-handlu-na-swiecie"
+title = "Blaski i cienie największej strefy wolnego handlu na świecie"
 
 +++
 **Gdy w kwietniu tego roku rozpoczynaliśmy cykl „Pyffel komentuje” to oczywiście nie zakładałem, że zabraknie nam tematów do kolejnych tekstów. Z drugiej jednak strony nie spodziewałem się, że zdarzą się miesiące (ba nawet tygodnie), w których rozgrywać się będą wydarzenia, o jakich będziemy czytać w podręcznikach historii. I że nasz comiesięczny cykl może okazać się niewystarczający, by nadążać za tak dynamicznym rozwojem wypadków.**
