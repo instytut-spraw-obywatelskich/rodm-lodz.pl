@@ -24,3 +24,5 @@ W debacie wezmą udział:
 **Justyna Zwolińska** – „Koalicja Żywa Ziemia”.
 
 Spotkanie poprowadzi Prezes Instytutu Spraw Obywatelskich – **Rafał Górski**.
+
+{{< youtube maKeOccVrtI >}}
