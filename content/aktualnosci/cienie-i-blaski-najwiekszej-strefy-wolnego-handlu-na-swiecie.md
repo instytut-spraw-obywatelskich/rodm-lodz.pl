@@ -53,7 +53,7 @@ To wszystko jednak nie zmienia faktu, że Joe Biden zastanie sytuację o wiele t
 
 Na końcu „Słoń a sprawa polska”.
 
-Utworzenie RCEP nie wzbudziło zainteresowania głównych mediów i zostało zaklasyfikowane jako wydarzenie niszowe i eksperckie (komentował je zdaje się w Polsacie tylko prof. Bogdan Góralczyk, sinolog i b. ambasador RP w Tajlandii i Mjanmie, jeden z panelistów II edycji Forum Geopolitycznego).
+Utworzenie RCEP nie wzbudziło zainteresowania głównych mediów i zostało zaklasyfikowane jako wydarzenie niszowe i eksperckie (komentował je zdaje się w Polsacie tylko prof. Bogdan Góralczyk, sinolog i b. ambasador RP w Tajlandii i Mjanmie, jeden z panelistów [II edycji Forum Geopolitycznego](https://www.rodm-lodz.pl/aktualnosci/zapraszamy-na-ii-edycje-forum-geopolitycznego/ "https://www.rodm-lodz.pl/aktualnosci/zapraszamy-na-ii-edycje-forum-geopolitycznego/")).
 
 Z tego, co widziałem, także pod moimi wpisami, ożywili się bardzo polscy eurosceptycy, przedstawiając RCEP jako dowód na marginalizację Unii Europejskiej i szerzej świata Zachodu.
 
