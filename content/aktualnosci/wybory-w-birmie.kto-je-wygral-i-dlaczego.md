@@ -1,6 +1,5 @@
 +++
 date = 2020-11-29T23:00:00Z
-draft = true
 main_image = "/v1606747635/rodm/wybory-w-birmie-RODM_cuocet.jpg"
 slug = "wybory-w-birmie-kto-je-wygral-i-dlaczego"
 title = "Wybory w Birmie. Kto je wygrał i dlaczego? "
