@@ -1,6 +1,5 @@
 +++
 date = 2020-12-01T23:00:00Z
-draft = true
 main_image = "/v1606905837/rodm/RODM_Grecja_Gorzkie_Pomara%C5%84cze_uxulrc.jpg"
 slug = "W-poszukiwaniu-wlasnej-tozsamosci-recenzja-ksiazki-grecja-gorzkie-pomarancze-Dionisosa-Sturisa"
 title = "W poszukiwaniu własnej tożsamości. Recenzja książki „Grecja. Gorzkie Pomarańcze” Dionisosa Sturisa"
