@@ -1,6 +1,5 @@
 +++
 date = 2020-12-09T23:00:00Z
-draft = true
 main_image = "/v1607457216/rodm/Bia%C5%82oru%C5%9B_Polska_Ukraina_RODM_sloldw.png"
 slug = "wspolpraca-transgraniczna-Polska-Bialorus-Ukraina-w-obliczu-pandemii-covid-19"
 title = "Współpraca transgraniczna Polska-Białoruś-Ukraina w obliczu pandemii COVID-19"
