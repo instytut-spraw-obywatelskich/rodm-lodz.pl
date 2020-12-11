@@ -1,6 +1,5 @@
 +++
 date = 2020-12-08T23:00:00Z
-draft = true
 main_image = "/v1607706413/rodm/Cyberpunk800x666_ihnaog.png"
 slug = "debata-online-cyberpunk-2077-jak-gry-moga-promowac-Polske-za-granica"
 title = "Debata online „Cyberpunk 2077. Jak gry mogą promować Polskę za granicą?”"
