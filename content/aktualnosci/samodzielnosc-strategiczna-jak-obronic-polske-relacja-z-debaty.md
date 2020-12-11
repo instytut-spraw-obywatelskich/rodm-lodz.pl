@@ -1,6 +1,5 @@
 +++
 date = 2020-12-10T23:00:00Z
-draft = true
 main_image = "/v1607691949/rodm/Debata_Samodzielno%C5%9B%C4%87_strategiczna_RODM_kgi1ow.png"
 slug = "Samodzielnosc-strategiczna-jak-obronic-Polske-relacja-z-debaty"
 title = "„Samodzielność strategiczna – Jak obronić Polskę?” – relacja z debaty "
