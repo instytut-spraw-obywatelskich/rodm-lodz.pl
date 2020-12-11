@@ -1,6 +1,5 @@
 +++
 date = 2020-12-10T23:00:00Z
-draft = true
 main_image = "/v1607688163/rodm/zakaria-10-lekcji-post-pandemicznego-swiata-RODM_sucgkz.jpg"
 slug = "Zakaria-10-lekcji-post-pandemicznego-swiata"
 title = "Zakaria – 10 lekcji post-pandemicznego świata"
