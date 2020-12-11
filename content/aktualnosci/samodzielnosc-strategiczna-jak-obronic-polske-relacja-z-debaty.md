@@ -41,7 +41,7 @@ Motorem zmian w najbliższych latach będą wysokie technologie i sztuczna intel
 
 Prelegenci zgodnie uznali, że świat postpandemiczny będzie inny niż dotychczas. Gdy pandemia zostanie pokonana, świat nie będzie już jednobiegunowy, a przyszłość należeć będzie do Azji. Europocentryzm się skończył, a Europa nie będzie stanowić centrum świata. Do grona rozdających karty doszły Chiny, a mogą dołączyć Indie lub Niemcy. Kraje średniej wielkości powinny zadbać o swoje relacje z silniejszymi, ale nie powinny, przynajmniej na razie w publicznym dyskursie, opowiadać się tylko za jednym graczem.
 
-{{< youtube NYyZoXcz_ul >}}
+{{< youtube NYyZoXcz_uI >}}
 
 **I Forum Geopolityczne 2019 rok**
 
