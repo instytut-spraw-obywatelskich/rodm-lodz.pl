@@ -33,7 +33,7 @@ Zachęcamy do wysłuchania całej rozmowy w ramach audycji [„Czy masz świadom
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1607688824/rodm/bogdan-goralczyk_fu1zpi.jpg)
 
-Politolog, sinolog, dyplomata, publicysta. Profesor w Centrum Europejskim Uniwersytetu Warszawskiego (od 2016 r. dyrektor). W latach 2003-2008 ambasador RP w Królestwie Tajlandii, Republice Filipin i Związku Myanmar (d. Birma). Wcześniej, w latach 1991–98 przebywał na placówce dyplomatycznej na Węgrzech. Był też szefem Gabinetu ministra spraw zagranicznych RP. Specjalizacja: współczesne stosunki międzynarodowe, w tym szczególnie globalizacja i wyzwania globalne, Chiny, Azja Wschodnia i Południowo-Wschodnia na arenie międzynarodowej, pozycja międzynarodowa UE i integracja europejska, problematyka węgierska. Autor wielu prac książkowych, m.in. „Wielki renesans. Chińska transformacja i jej konsekwencje”.
+Bogdan Góralczyk, politolog, sinolog, dyplomata, publicysta. Profesor w Centrum Europejskim Uniwersytetu Warszawskiego (od 2016 r. dyrektor). W latach 2003-2008 ambasador RP w Królestwie Tajlandii, Republice Filipin i Związku Myanmar (d. Birma). Wcześniej, w latach 1991–98 przebywał na placówce dyplomatycznej na Węgrzech. Był też szefem Gabinetu ministra spraw zagranicznych RP. Specjalizacja: współczesne stosunki międzynarodowe, w tym szczególnie globalizacja i wyzwania globalne, Chiny, Azja Wschodnia i Południowo-Wschodnia na arenie międzynarodowej, pozycja międzynarodowa UE i integracja europejska, problematyka węgierska. Autor wielu prac książkowych, m.in. „Wielki renesans. Chińska transformacja i jej konsekwencje”.
 
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
