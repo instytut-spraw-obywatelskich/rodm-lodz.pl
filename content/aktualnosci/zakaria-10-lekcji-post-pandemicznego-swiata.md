@@ -13,7 +13,7 @@ Panie profesorze, co z lektury tej książki powinni sobie wziąć szczególnie 
 
 **„Dla nas Wschód to jest to, co jest za Bugiem i kończy się gdzieś na Kremlu, a na pewno nie sięga dalej niż Ural. Tymczasem, to co najistotniejsze dla współczesnego świata zaczyna się dziać właśnie za Uralem, w rejonie Azji Wschodniej. \[…\]”**
 
-**„My jesteśmy ciągle europocentryczni, nie powiem, że polonocentryczni, co widać z naszego głównego nurtu mediów. Czas europocentryzmu się kończy i naukowcy tacy jak Fareed Zakaria coraz bardziej zaczynają się zastanawiać czy nie kończy się nawet świat atlantycki”.** 
+**„My jesteśmy ciągle europocentryczni, nie powiem, że polonocentryczni, co widać z naszego głównego nurtu mediów. Czas europocentryzmu się kończy i naukowcy tacy jak Fareed Zakaria coraz bardziej zaczynają się zastanawiać czy nie kończy się nawet świat atlantycki.”**
 
 Zakaria pisze „każdy z nas jest połączony wirtualnie, ale nikt nie sprawuje kontroli”. Czy to oznacza, że technologie wymknęły się już nam spod kontroli?
 
