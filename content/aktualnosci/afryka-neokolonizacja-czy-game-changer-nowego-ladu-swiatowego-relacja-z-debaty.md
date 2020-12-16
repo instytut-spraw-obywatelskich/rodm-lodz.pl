@@ -1,6 +1,5 @@
 +++
 date = 2020-12-15T23:00:00Z
-draft = true
 main_image = "/v1608115930/rodm/Debata_Afryka_RODM_uwpsvu.png"
 slug = "afryka-neokolonizacja-czy-game-changer-nowego-ladu-swiatowego-relacja-z-debaty"
 title = "„Afryka: neokolonizacja czy game changer nowego ładu światowego?” – relacja z debaty"
