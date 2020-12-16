@@ -49,4 +49,4 @@ I Forum Geopolityczne w Łodzi pokazało, że chętnych do dyskusji na tematy ge
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1575363284/rodm/i-forum-geopolityczne-10_dxkn7r.jpg)
 
-Marta Brewer, wolontariuszka RODM Łódź
+**Autor**: Marta Brewer, wolontariuszka RODM Łódź
