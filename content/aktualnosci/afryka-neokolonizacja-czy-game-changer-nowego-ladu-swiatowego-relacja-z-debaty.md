@@ -51,4 +51,4 @@ Radosław Pyffel wyraził wątpliwość w możliwości rozwoju współpracy z Af
 
 **I Forum Geopolityczne 2019 rok**
 
-**Autor**: Wojciech Szymczak, wolontariusz RODM Łódź
+**Autor:** Wojciech Szymczak, wolontariusz RODM Łódź
