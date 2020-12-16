@@ -48,6 +48,8 @@ Marcin Wojtalik potwierdził zdanie byłego posła. – Był taki pomysł, opisy
 
 Radosław Pyffel wyraził wątpliwość w możliwości rozwoju współpracy z Afryką. Jako warunki konieczne do odniesienia sukcesu wskazał ambicję, otwartość na innych i skorzystanie z narzędzi, jakie daje nam członkostwo w Unii Europejskiej. – Proszę Państwa, nie możemy wpłynąć na Ukrainę, czy Białoruś, to jak mamy działać na terenie Afryki? – podsumował sytuację moderator debaty.
 
+{{< youtube _Ud7dgf3W70 >}}
+
 **I Forum Geopolityczne 2019 rok**
 
 **Autor**: Wojciech Szymczak, wolontariusz RODM Łódź
