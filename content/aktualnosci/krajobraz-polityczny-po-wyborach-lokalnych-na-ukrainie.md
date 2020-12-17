@@ -43,4 +43,4 @@ Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
 
-**Źródło foto: Ukinform**
+**Źródło foto: Ukrinform** 
