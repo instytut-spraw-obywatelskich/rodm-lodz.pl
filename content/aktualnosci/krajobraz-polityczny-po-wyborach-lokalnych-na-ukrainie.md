@@ -1,6 +1,5 @@
 +++
 date = 2020-12-16T23:00:00Z
-draft = true
 main_image = "/v1608208658/rodm/Wybory_samorz%C4%85dowe_Ukraina_RODM.jpg_yvxw6g.jpg"
 slug = "krajobraz-polityczny-po-wyborach-lokalnych-na-ukrainie"
 title = "Krajobraz polityczny po wyborach lokalnych na Ukrainie "
