@@ -1,6 +1,5 @@
 +++
 date = 2020-12-19T23:00:00Z
-draft = true
 main_image = "/v1608479664/rodm/olimpijki_RODM_tc7ib7.jpg"
 slug = "a-sulinska-olimpijki"
 title = "A. Sulińska: Olimpijki "
