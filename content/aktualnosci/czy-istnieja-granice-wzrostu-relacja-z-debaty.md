@@ -1,6 +1,5 @@
 +++
 date = 2020-12-21T23:00:00Z
-draft = true
 main_image = "/v1608645424/rodm/Debata_Granice_wzrostu_RODM_fsrmfy.png"
 slug = "czy-istnieja-granice-wzrostu-relacja-z-debaty"
 title = "„Czy istnieją granice wzrostu?” – relacja z debaty"
