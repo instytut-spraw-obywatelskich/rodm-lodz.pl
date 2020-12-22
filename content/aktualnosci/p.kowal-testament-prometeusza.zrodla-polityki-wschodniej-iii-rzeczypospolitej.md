@@ -1,6 +1,5 @@
 +++
 date = 2020-12-21T23:00:00Z
-draft = true
 main_image = "/v1608621727/rodm/testament_prometeusza_kowal_1_jfdr42.jpg"
 slug = "p-kowal-testament-prometeusza-zrodla-polityki-wschodniej-III-rzeczypospolitej"
 title = "P. Kowal: Testament Prometeusza. Źródła polityki wschodniej III Rzeczypospolitej"
