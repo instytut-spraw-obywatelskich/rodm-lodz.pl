@@ -1,6 +1,5 @@
 +++
 date = 2020-12-22T23:00:00Z
-draft = true
 main_image = "/v1608726261/rodm/mapa_grafika_RODM_vrak7g.jpg"
 slug = "o-czym-pisalismy-w-2020-roku-co-sie-sprawdzilo-a-co-nie"
 title = "O czym pisaliśmy w 2020 roku. Co się sprawdziło, a co nie?"
