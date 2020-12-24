@@ -1,6 +1,5 @@
 +++
 date = 2020-12-23T23:00:00Z
-draft = true
 main_image = "/v1608805782/rodm/kartka-swiateczna-2020-RODM_ukji7g.jpg"
 slug = "wesolych-swiat-bozego-narodzenia"
 title = "Wesołych Świąt Bożego Narodzenia!"
