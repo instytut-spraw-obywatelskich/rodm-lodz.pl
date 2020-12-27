@@ -1,6 +1,5 @@
 +++
 date = 2020-12-26T23:00:00Z
-draft = true
 main_image = "/v1609095982/rodm/imperium-indo-pacyfiku-RODM_cebzjr.jpg"
 slug = "imperium-indo-pacyfiku"
 title = "Imperium Indo-Pacyfiku"
