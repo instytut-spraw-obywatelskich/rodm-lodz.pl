@@ -30,6 +30,8 @@ W poprzednim roku Nagrodę Nobla w dziedzinie chemii otrzymał zespół badawczy
 
 – Zastanawiam się, jakie choroby miałyby być leczone. Czy klasa najuboższa będzie w stanie skorzystać z takich dobrodziejstw? Czy może tylko najbogatsi, chorujący na stosunkowo rzadkie choroby będą mieli dostęp do zaawansowanych metod leczenia, które sami finansują? Jan Zygmuntowski odnosząc się do modyfikacji genetycznych, odwołał się do problemów społeczeństwa klasowego. Ekonomista zauważył, że życie w społeczeństwie klasowym nie pozwala na uniknięcie zagrożeń takich, jak traktowanie genetycznie modyfikowanych jednostek jako towaru. – Dopóki kapitalizm i system klasowy nie zostaną obalone, a nasze społeczeństwo nie będzie w pełni równe, możemy spodziewać się negatywnego wykorzystania takich osiągnięć jak modyfikacja genetyczna – podkreślił.
 
+{{< youtube 7oUXnerTtsQ >}}
+
 **I Forum Geopolityczne 2019 rok**
 
 **Autor:** Wojciech Szymczak, wolontariusz RODM Łódź
