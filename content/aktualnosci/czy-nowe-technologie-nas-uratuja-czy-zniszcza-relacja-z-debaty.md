@@ -11,7 +11,7 @@ Wśród prelegentów usłyszeliśmy: socjologa **Andrzeja Zybertowicza** – eme
 
 Wydarzenie zostało zorganizowane przez Regionalny Ośrodek Debaty Międzynarodowej w Łodzi prowadzony przez Instytut Spraw Obywatelskich. Z uwagi na stan epidemiologiczny debata została przeprowadzona online za pomocą platformy ZOOM. Dyskusja odbyła się 27 listopada 2020 roku.
 
-{{< youtube nAyqTdDXTY >}}
+{{< youtube  -nAyqTdDXTY >}}
 
 **Kierunek postępu technologii – czy potrafimy go kontrolować?**
 
