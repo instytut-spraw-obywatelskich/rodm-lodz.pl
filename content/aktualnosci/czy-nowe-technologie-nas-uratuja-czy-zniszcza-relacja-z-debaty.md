@@ -1,6 +1,5 @@
 +++
 date = 2020-12-28T23:00:00Z
-draft = true
 main_image = "/v1609251266/rodm/Debata_Technologie_RODM_fz1o5x.png"
 slug = "czy-nowe-technologie-nas-uratuja-czy-zniszcza-relacja-z-debaty"
 title = "„Czy nowe technologie nas uratują, czy zniszczą?” – relacja z debaty"
