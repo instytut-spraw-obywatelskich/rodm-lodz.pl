@@ -1,6 +1,5 @@
 +++
 date = 2020-12-28T23:00:00Z
-draft = true
 main_image = "/v1609255352/rodm/azja-podsumowanie-roku-2020-RODM_kovpow.jpg"
 slug = "azja-podsumowanie-roku-2020"
 title = "Azja – podsumowanie roku 2020"
