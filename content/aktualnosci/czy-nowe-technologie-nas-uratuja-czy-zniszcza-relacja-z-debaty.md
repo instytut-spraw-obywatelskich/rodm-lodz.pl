@@ -6,7 +6,7 @@ slug = "czy-nowe-technologie-nas-uratuja-czy-zniszcza-relacja-z-debaty"
 title = "„Czy nowe technologie nas uratują, czy zniszczą?” – relacja z debaty"
 
 +++
-**Kolejne pokolenia na co dzień w coraz większym stopniu korzystają ze zdobyczy technologii. Wiele procesów uległo automatyzacji, ograniczając rolę człowieka w różnych zawodach. Czy rozwijające się technologie zastąpią człowieka? Czy rynek pracy przyszłości dostosuje się do maszyn zamiast ludzi? Czy technologia stanowi zagrożenie dla naszego bezpieczeństwa? Na te i inne pytania próbowali odpowiedzieć uczestnicy ostatniej debaty II Forum Geopolitycznego.**
+### **Kolejne pokolenia na co dzień w coraz większym stopniu korzystają ze zdobyczy technologii. Wiele procesów uległo automatyzacji, ograniczając rolę człowieka w różnych zawodach. Czy rozwijające się technologie zastąpią człowieka? Czy rynek pracy przyszłości dostosuje się do maszyn zamiast ludzi? Czy technologia stanowi zagrożenie dla naszego bezpieczeństwa? Na te i inne pytania próbowali odpowiedzieć uczestnicy ostatniej debaty II Forum Geopolitycznego.**
 
 Wśród prelegentów usłyszeliśmy: socjologa **Andrzeja Zybertowicza** – emerytowanego nauczyciela akademickiego Uniwersytetu Mikołaja Kopernika w Toruniu, od 2015 roku doradcę społecznego Prezydenta RP i szefa Biura Bezpieczeństwa Narodowego (BBN), **Macieja Kaweckiego** – doktora nauk prawnych, koordynatora krajowej reformy ochrony danych osobowych, prezesa zarządu Instytutu Polska Przyszłości im. Stanisława Lema oraz ekonomistę **Jana Zygmuntowskiego** – związanego z obszarami innowacji i cyfrowej gospodarki, założyciela i byłego prezesa zarządu think-tanku Instrat. Debatę poprowadził prezes Instytutu Spraw Obywatelskich **Rafał Górski**.
 
