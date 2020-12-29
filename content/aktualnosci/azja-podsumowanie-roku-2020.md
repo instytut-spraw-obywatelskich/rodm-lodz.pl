@@ -25,7 +25,7 @@ Jakie wydarzenie miało miejsce w 2020 roku w Azji, z którym wiążesz dobre pe
 
 Zachęcamy do wysłuchania całej rozmowy w ramach audycji [„Czy masz świadomość?”](https://instytutsprawobywatelskich.pl/azja-podsumowanie-roku-2020/ "https://instytutsprawobywatelskich.pl/azja-podsumowanie-roku-2020/"):
 
-{{< youtube kTTZkZ0E3Y >}}
+{{< youtube _kTTZkZ0E3Y >}}
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1589991167/rodm/Michal-Lubina_wesoiv.jpg)
 
