@@ -1,6 +1,5 @@
 +++
 date = 2021-01-14T23:00:00Z
-draft = true
 main_image = "/v1610718492/rodm/PL_D_artyku%C5%82_dkcg94.jpg"
 slug = "wspolpraca-transgraniczna-polska-niemcy-w-obliczu-pandemii-covid-19"
 title = "Współpraca transgraniczna Polska – Niemcy w obliczu pandemii COVID-19 "
