@@ -1,6 +1,5 @@
 +++
 date = 2021-01-24T23:00:00Z
-draft = true
 main_image = "/v1611615465/rodm/BlakeKrwawePozdrowieniaZRosji_RODM_gmqik5.jpg"
 slug = "h-blake-krwawe-pozdrowienia-z-rosji"
 title = "H. Blake: Krwawe pozdrowienia z Rosji "
