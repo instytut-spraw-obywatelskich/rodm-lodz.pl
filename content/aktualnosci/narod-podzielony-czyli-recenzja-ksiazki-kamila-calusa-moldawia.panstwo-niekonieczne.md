@@ -1,6 +1,5 @@
 +++
 date = 2021-01-24T23:00:00Z
-draft = true
 main_image = "/v1611597841/rodm/RODM_Recenzja_Kamil_Ca%C5%82us_qdkdcs.jpg"
 slug = "narod-podzielony-czyli-recenzja-ksiazki-kamila-calusa-moldawia-panstwo-niekonieczne"
 title = "Naród podzielony, czyli recenzja książki Kamila Całusa „Mołdawia. Państwo niekonieczne”"
