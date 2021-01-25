@@ -26,3 +26,7 @@ Cieszę się, że w obecnej sytuacji, gdy podróże są utrudnione, dzięki repo
 Grecja jest niezwykle fascynującym krajem, który warto poznać. A reportaż Dionisiosa Sturisa doskonale do tego zachęca.
 
 **Autor i foto:** Aleksandra Rosińska, konsultantka RODM Łódź
+
+Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
+
+Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
