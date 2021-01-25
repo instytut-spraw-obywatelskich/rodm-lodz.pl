@@ -5,15 +5,15 @@ slug = "h-blake-krwawe-pozdrowienia-z-rosji"
 title = "H. Blake: Krwawe pozdrowienia z Rosji "
 
 +++
-### **Myśleli, że znaleźli bezpieczną przystań na zielonych wzgórzach Anglii. Mylili się. Rosyjscy oligarchowie, dysydenci i gangsterzy, którzy uciekli do Wielkiej Brytanii po dojściu do władzy Władimira Putina, umierali jeden po drugim w dziwnych lub podejrzanych okolicznościach. Podobnie przerażający koniec stawał się udziałem ich brytyjskich prawników i pomocników. Jednak władze brytyjskie zamykały każde dochodzenie, dobre stosunki z Kremlem były ważniejsze.**
+#### **Myśleli, że znaleźli bezpieczną przystań na zielonych wzgórzach Anglii. Mylili się. Rosyjscy oligarchowie, dysydenci i gangsterzy, którzy uciekli do Wielkiej Brytanii po dojściu do władzy Władimira Putina, umierali jeden po drugim w dziwnych lub podejrzanych okolicznościach. Podobnie przerażający koniec stawał się udziałem ich brytyjskich prawników i pomocników. Jednak władze brytyjskie zamykały każde dochodzenie, dobre stosunki z Kremlem były ważniejsze.**
 
 **_„Krwawe pozdrowienia z Rosji”_** to nieopowiedziana dotąd, przerażająca historia o tym, jak Kreml, w bezwzględnej pogoni Putina za globalną dominacją, udoskonalał sztukę zabijania nieprzychylnych sobie obywateli za granicą, na co szpiedzy i rządy zachodnich państw mogły tylko patrzeć z przerażeniem i bezradnością (z materiałów Wydawnictwa W.A.B).
 
 Zachęcamy do lektury. Wydawnictwu W.A.B, wydawcy książki **_„Krwawe pozdrowienia z Rosji”_**, dziękujemy za udostępnienie fragmentu do publikacji.
 
-**_„Krwawe pozdrowienia z Rosji” _**
+**_„Krwawe pozdrowienia z Rosji”_** 
 
-**(fragment)** 
+**(fragment)**
 
 Mężczyzna i kobieta półleżeli bezwładnie na ławce. Ona była całkowicie nieprzytomna; on wpatrywał się nieruchomym wzrokiem w niebo i wykonywał dziwne, nieznaczne gesty dłonią. Kiedy przechodnie zbliżyli się ostrożnie do ławki, zastygł w bezruchu. Kobieta dostała drgawek, jej gałki oczne przekręciły się, ukazując białka, a na ustach pojawiła się piana.
 
@@ -37,10 +37,10 @@ Wojskowi naukowcy szybko zidentyfikowali toksyczną substancję. Był to nowiczo
 
 Pani premier potrzebowała dokładnych informacji. Theresa May zwołała spotkanie z szefami wywiadu, którzy przedstawili jej materiały świadczące o tym, że agenci Putina próbowali zlikwidować Skripalów na obszarze Wielkiej Brytanii. MI6 uzyskało dane wywiadowcze, z których niezbicie wynikało, że w ostatnim dziesięcioleciu Putin osobiście nadzorował prace nad przystosowaniem rosyjskiego arsenału broni biologicznej i chemicznej do celów eliminacji wrogów państwa. Pod okiem prezydenta Federacji Rosyjskiej powstały specjalne zespoły agentów przeszkolonych do selektywnego zabijania pojedynczych osób. Jedną z opracowanych w tym celu metod było smarowanie zabójczymi substancjami klamek, tak jak w domu Skripalów, gdzie największe stężenie trucizny wykryto na zewnętrznej klamce drzwi wejściowych. Szpiedzy Putina interesowali się Skripalami od 2013 roku; rosyjski wywiad wojskowy zhakował wtedy konta mejlowe Julii. Co więcej, żona i syn Siergieja zmarli niespodziewanie po przeniesieniu się do rodziny w Wielkiej Brytanii. Niewykluczone, że również zostali otruci.
 
-Brytyjski rząd nie miał wyboru, musiał zareagować. Dwunastego marca, osiem dni po zamachu na Skripalów, Theresa May oświadczyła w Izbie Gmin, że „wedle wszelkiego prawdopodobieństwa” za atakiem stoi Władimir Putin. Stwierdziła, że „był to akt agresji skierowany bezpośrednio przeciwko naszemu państwu, chyba że rosyjski rząd utracił kontrolę nad niezwykle niebezpiecznym środkiem paralityczno-drgawkowym”. Premier Wielkiej Brytanii zażądała od Moskwy udzielenia wyjaśnień, wyznaczając termin do północy następnego dnia. Rosjanie odpowiedzieli ciosem na cios, nazywając wypowiedź May prowokacją i „cyrkowym przedstawieniem w brytyjskim parlamencie”. Wyraźnie nie zamierzali niczego wyjaśniać. Dwa dni później Theresa May ogłosiła decyzję o wydaleniu dwudziestu trzech rosyjskich szpiegów operujących w Londynie pod przykrywką dyplomatów. W odpowiedzi Rosjanie natychmiast kazali się spakować dwudziestu trzem członkom brytyjskiego korpusu dyplomatycznego. \[...\] 
+Brytyjski rząd nie miał wyboru, musiał zareagować. Dwunastego marca, osiem dni po zamachu na Skripalów, Theresa May oświadczyła w Izbie Gmin, że „wedle wszelkiego prawdopodobieństwa” za atakiem stoi Władimir Putin. Stwierdziła, że „był to akt agresji skierowany bezpośrednio przeciwko naszemu państwu, chyba że rosyjski rząd utracił kontrolę nad niezwykle niebezpiecznym środkiem paralityczno-drgawkowym”. Premier Wielkiej Brytanii zażądała od Moskwy udzielenia wyjaśnień, wyznaczając termin do północy następnego dnia. Rosjanie odpowiedzieli ciosem na cios, nazywając wypowiedź May prowokacją i „cyrkowym przedstawieniem w brytyjskim parlamencie”. Wyraźnie nie zamierzali niczego wyjaśniać. Dwa dni później Theresa May ogłosiła decyzję o wydaleniu dwudziestu trzech rosyjskich szpiegów operujących w Londynie pod przykrywką dyplomatów. W odpowiedzi Rosjanie natychmiast kazali się spakować dwudziestu trzem członkom brytyjskiego korpusu dyplomatycznego. \[...\]
 
 **Heidi Blake**: [Krwawe pozdrowienia z Rosji, Wydawnictwo W.A.B 2021.](https://www.gwfoksal.pl/krwawe-pozdrowienia-z-rosji-heidi-blake-sku2340b32566a471b011a6.html "https://www.gwfoksal.pl/krwawe-pozdrowienia-z-rosji-heidi-blake-sku2340b32566a471b011a6.html")
 
-Książkę przełożyła Hanna Pustuła-Lewicka. 
+Książkę przełożyła Hanna Pustuła-Lewicka.
 
-Premiera książki: **27 stycznia 2021.** 
+Premiera książki: **27 stycznia 2021.**
