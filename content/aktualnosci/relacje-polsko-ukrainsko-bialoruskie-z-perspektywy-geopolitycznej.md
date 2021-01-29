@@ -1,6 +1,5 @@
 +++
 date = 2021-01-28T23:00:00Z
-draft = true
 main_image = "/v1611937849/rodm/grafika_RODM_PL_BE_UK_fde8av.jpg"
 slug = "relacje-polsko-ukrainsko-bialoruskie-z-perspektywy-geopolitycznej"
 title = "Relacje polsko-ukraińsko-białoruskie z perspektywy geopolitycznej"
