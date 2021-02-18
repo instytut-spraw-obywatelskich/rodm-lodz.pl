@@ -1,6 +1,5 @@
 +++
 date = 2021-02-17T23:00:00Z
-draft = true
 main_image = "/v1613654749/rodm/Putin_RODM_n4l8mn.jpg"
 slug = "m-broda-pytac-o-putina-pytac-o-rosje"
 title = "M. Broda: Pytać o Putina – pytać o Rosję"
