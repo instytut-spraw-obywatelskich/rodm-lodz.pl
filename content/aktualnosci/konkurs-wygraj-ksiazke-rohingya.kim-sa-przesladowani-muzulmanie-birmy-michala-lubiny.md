@@ -21,11 +21,11 @@ Kreśląc szerokie tło: przedkolonialnych dziejów Arakanu, kolonialnej i postk
 
 Dr hab. Michał Lubina, adiunkt w Instytucie Bliskiego i Dalekiego Wschodu UJ i autor książki „Rohingya. Kim są prześladowani muzułmanie Birmy?”, jego piątej książki o Birmie.
 
-### **Zasady konkursu:** 
+### **Zasady konkursu:**
 
-Aby wziąć udział w konkursie, musicie odpowiedzieć poprawnie na 3 pytania konkursowe, które będą pojawiać się w 11.03.2021 (czwartek), 12.03 (piątek) i 15.03 (poniedziałek) na profilu RODM Łódź na FB. 
+Aby wziąć udział w konkursie, musicie odpowiedzieć poprawnie na 3 pytania konkursowe, które będą pojawiać się w 11.03.2021 (czwartek), 12.03 (piątek) i 15.03 (poniedziałek) na profilu RODM Łódź na FB.
 
-O przyznaniu nagród decyduje: udzielenie łącznie 3 poprawnych odpowiedzi na postawione pytania konkursowe, polubienie profilu RODM Łódź na FB oraz udostępnienie na prywatnym profilu łącznie 3 postów konkursowych. 
+O przyznaniu nagród decyduje: udzielenie łącznie 3 poprawnych odpowiedzi na postawione pytania konkursowe, polubienie profilu RODM Łódź na FB oraz udostępnienie na prywatnym profilu łącznie 3 postów konkursowych.
 
 Konkurs rozpoczyna się 11.03.2021 r. (czwartek) o godz. 16:00 opublikowaniem 1 pytania konkursowego, a kolejne 2 pytania konkursowe zostaną opublikowane odpowiednio 12.03.2021 r. (piątek) o godz. 16:00 i 15.03.2021 r. (poniedziałek) o godz. 16:00. Jego rozstrzygnięcie ma miejsce 16.03.2021 r. (wtorek) o godz. 16:00. Odpowiedzi należy udzielać do dnia 16.03.2021 r. (wtorek), do godziny 12:00.
 
@@ -37,7 +37,7 @@ Kompletny regulamin konkursu znajduje się poniżej:
 
 **POSTANOWIENIA OGÓLNE**
 
-1\. Konkurs jest organizowany pod nazwą **„**KONKURS KSIĄŻKOWY – „Rohingya. Kim są prześladowani muzułmanie Birmy?”.
+1\. Konkurs jest organizowany pod nazwą „KONKURS KSIĄŻKOWY – „Rohingya. Kim są prześladowani muzułmanie Birmy?”.
 
 2\. Organizatorem konkursu książkowego – „Rohingya. Kim są prześladowani muzułmanie Birmy?” (zwanym dalej „Konkursem”) jest Fundacja Instytut Spraw Obywatelskich z siedzibą w Łodzi przy ul. Pomorskiej 40 (zwana dalej „Organizatorem”).
 
