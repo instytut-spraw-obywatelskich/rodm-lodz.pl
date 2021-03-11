@@ -1,6 +1,5 @@
 +++
 date = 2021-03-10T23:00:00Z
-draft = true
 main_image = "/v1615390078/rodm/Rohingya_RODM_grrncv.png"
 slug = "konkurs-wygraj-ksiazke-rohinga-michala-lubiny"
 title = "Konkurs: Wygraj książkę „Rohingya. Kim są prześladowani muzułmanie Birmy?” Michała Lubiny! "
