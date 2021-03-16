@@ -12,6 +12,8 @@ Vigdís Finnbogadóttir oraz Sirimavo Bandaranaike to dawno zapomniane postaci. 
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1615890867/rodm/Kaja_Kallas_cavcod.jpg)
 
+Premier Estonii Kaja Kallas Fot. Kaja Kallas
+
 **O estońskim przywództwie - pierwszy kraj rządzony przez dwie kobiety**
 
 Estonia jest prawdziwą liderką, jeśli chodzi o odsetek kobiet, które zajmują stanowiska kierownicze, będąc trzecim państwem na świecie pod tym względem[\[1\]](#_ftn1). Od 2016 roku podejmowane są różne kroki, aby poprawić sytuację kobiet w tym kraju w wielu dziedzinach. Przyjęto _Welfare Development Plan_, którego celem jest zapewnienie równości płci, sprawiedliwości ekonomicznej, podstawowych praw oraz wyrównania potencjału instytucjonalnego. Według WPS Index, po przeanalizowaniu trzech czynników, czyli sprawiedliwości, bezpieczeństwa oraz integracji, Estonia jest najlepszym państwem dla kobiet w Europie. Wpływ na to, że to liczące zaledwie 1,3 miliona ludności państwo pokonało w tym rankingu większe i bardziej rozwinięte państwa, miał proces zmian na scenie politycznej, który został zapoczątkowany w 2016 roku.
@@ -24,6 +26,8 @@ Chociaż w ostatnich dniach w Estonii odnotowano wzrost zachorowań, to pozostaj
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1615891136/rodm/Zuzanna_Caputova_ujbkee.jpg)
 
+Prezydent Republiki Słowackiej Zuzana Čaputová z sekretarzem generalnym NATO Jensem Stoltenbergiem Fot. NATO
+
 **Postępowa prezydentka z konserwatywnym rządem**
 
 Kamieniem milowym w promowaniu kobiet na przywódczych stanowiskach był wybór Zuzany Čaputovej na prezydentkę Słowacji. Wszyscy o tym pisali i tym żyli, osobiście była to dla mnie bardzo ważna chwila, jednak więcej niż o niej, jako polityczce i jej osiągnięciach mówiono o jej...urodzie. _Newsweek_ już w pierwszym zdaniu nazwał ją „atrakcyjną rozwódką”. Przy jednoczesnym historycznym zwycięstwie, dostaliśmy najlepszy popis patriarchatu w wydaniu światowej polityki. Postępowa sąsiadka rządzonych przez prawicowe i konserwatywne partie Węgier i Polski. Aktywistka społeczna, prawniczka, która doprowadziła do zamknięcia wysypiska odpadów w Pezinoku, opowiada się za równością małżeńską i prawami mniejszości seksualnych. Jest członkinią Postępowej Słowacji, której poparcie wynosi ok. 7%[\[4\]](#_ftn4). W wyborach parlamentarnych w 2020 roku zwycięstwo z wynikiem ok. 20% odniosła konserwatywna partia OL'aNO (Zwyczajni Ludzie i Niezależne Osobistości), koalicja Postępowej Słowacji oraz Razem (SPOLU) zyskała raptem 7%[\[5\]](#_ftn5). Gdy Zuzana Čaputová odniosła zwycięstwo w wyborach prezydenckich, jej partia znajdowała się poza parlamentem, co w porównaniu do polskiej sceny politycznej wydaje się niemożliwe. Warto podkreślić, że podobnie jak w omawianej wyżej Estonii, prezydent Słowacji posiada wąski zakres uprawnień i sprowadza się on głównie do funkcji reprezentacyjnych. Pierwsza prezydentka Słowacji, najmłodsza kobieta na tym stanowisku na świecie oraz jedyna jak do tej pory kobieta z krajów Grupy Wyszehradzkiej. Čaputovą zapamiętamy ze względu na jej osiągnięcia, nie urodę czy styl życia. Swoją działalnością adwokacką skupioną wokół praw człowieka, działalnością antykorupcyjną oraz inspirowaniu protestów przeciwko byłemu premierowi Robertowi Fico zainspirowała wiele osób. Została doceniona przez wiele organizacji, jedną z nich była European Leadership Awards, która przyznała jej nagrodę European Personality of the Year. Wygranej sprzyjała sytuacja wewnętrzna Słowacji, która tonęła w korupcji oraz żyła zabójstwem dziennikarza Jána Kuciaka i jego narzeczonej. Do morderstwa doszło 21 lutego 2018 roku. Działalność Kuciaka skupiała się na powiązaniach rządu zarówno z biznesem jak i organizacjami mafijnymi. Zastrzelony dziennikarz pozostawił po sobie ślad, udowadniając wyłudzenia, oszustwa podatkowe i pranie brudnych pieniędzy, w które zamieszani byli prominentni słowaccy politycy. Te wydarzenia wyprowadziły naród słowacki na ulice, doprowadzając do rozbudzenia największych od upadku komunizmu protestów. Silne nastroje antyrządowe i antykorupcyjne sprzyjały obecnie rządzącej prezydentce , która stała się obietnicą zmiany.
@@ -31,6 +35,8 @@ Kamieniem milowym w promowaniu kobiet na przywódczych stanowiskach był wybór 
 Statystyki pokazują, że 21 lutego Słowacja odnotowała 2700 nowych przypadków zachorowań na COVID-19. Ostatnio sytuacja w kraju zaczęła się destabilizować, czego dowodem jest apel o pomoc skierowany do Unii Europejskiej. Čaputová ze względu na swoje kompetencje ma ograniczone możliwości w walce z pandemią. Podkreśla jednak istotę jedności z Unią Europejską w tym trudnym czasie. Aby zachęcić obywateli do udziału w programie szczepień, zaszczepiła się publicznie wraz z członkami i członkiniami słowackiej Rady Narodowej. Wykorzystuje media społecznościowe do korzystania z triady podstawowych zasad bezpieczeństwa podczas pandemii „DDM”: Dystans, Dezynfekcja, Maseczka. Głośnym echem odbił się jej film z apelem do obywateli[\[6\]](#_ftn6). Słowacy potrzebowali powiewu świeżości i zmiany, nawet o charakterze symbolicznym. Kadencja prezydenta Słowacji trwa pięć lat, istnieje, więc możliwość reelekcji. Bardzo prawdopodobne jest, że będziemy mieli przyjemność obserwowania jak ta polityczka kontynuuje swoją misję.
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1615891928/rodm/Sanna_Marin_iw5xaz.jpg)
+
+Premier Finlandii Sanna Marin Fot. Laura Kotila/Rząd Finlandii 
 
 **Dobre przywództwo nie patrzy na wiek - casus Finlandii**
 
@@ -61,3 +67,13 @@ Donald Trump, Boris Johnson, Jair Bolsonaro - to tylko kilka przykładów przyw�
 [\[8\]](#_ftnref8) [https://yle.fi/uutiset/osasto/news/its_here_finlands_coronavirus_tracing_app/11519429](https://yle.fi/uutiset/osasto/news/its_here_finlands_coronavirus_tracing_app/11519429 "https://yle.fi/uutiset/osasto/news/its_here_finlands_coronavirus_tracing_app/11519429") \[dostęp: 03.03.2021\].
 
 [\[9\]](#_ftnref9) [https://www.statista.com/statistics/1104837/coronavirus-cases-europe-by-country/](https://www.statista.com/statistics/1104837/coronavirus-cases-europe-by-country/ "https://www.statista.com/statistics/1104837/coronavirus-cases-europe-by-country/"), \[dostęp: 15.02.2021\].
+
+![](https://res.cloudinary.com/inspro/image/upload/v1615897684/rodm/sidorukola_RODM_jmwaxf.jpg)
+
+**Autor:** Aleksandra Sidoruk
+
+Studentka stosunków międzynarodowych na Uniwersytecie Łódzkim, specjalizująca się w polityce zagranicznej Stanów Zjednoczonych i Ameryki Łacińskiej. Wcześniej praktykantka w RODM Łódź, a obecnie wolontariuszka zajmująca się korespondencją, tłumaczeniami oraz pisaniem tekstów. Na co dzień pracuje w Centrum Dialogu im. Marka Edelmana oraz jest członkinią Zarządu Stowarzyszenia Łódzkie Dziewuchy Dziewuchom i Partii Zieloni.
+
+Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
+
+Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
