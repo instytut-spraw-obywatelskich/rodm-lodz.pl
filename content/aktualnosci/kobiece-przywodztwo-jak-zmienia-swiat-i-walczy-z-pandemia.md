@@ -1,6 +1,5 @@
 +++
 date = 2021-03-15T23:00:00Z
-draft = true
 main_image = "/v1615890694/rodm/Premier_Finlandii_Sanna_Marin_ady9ia.jpg"
 slug = "kobiece-przywodztwo-jak-zmienia-swiat-i-walczy-z-pandemia"
 title = "Kobiece przywództwo - jak zmienia świat i walczy z pandemią?"
