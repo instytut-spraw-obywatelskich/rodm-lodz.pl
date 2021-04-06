@@ -19,7 +19,7 @@ Na te wszystkie pytania odpowiada autorka publikacji, kreśląc porywającą opo
 
 Zachęcamy do lektury. Wydawnictwu Uniwersytetu Łódzkiego, wydawcy książki **„Gorbaczow. Pieriestrojka i rozpad imperium”**, dziękujemy za udostępnienie fragmentu do publikacji.
 
-**„Gorbaczow. Pieriestrojka i rozpad imperium”**
+**_„Gorbaczow. Pieriestrojka i rozpad imperium”_**
 
 **(fragment)**
 
@@ -49,6 +49,6 @@ E. Ewart wspomina, jak entuzjastycznie przyjmowany był przez Amerykanów w trak
 
 W Związku Radzieckim człowiek, który znalazł się na szczycie wielkiej piramidy władzy, uzyskuje możliwość oddziaływania na całokształt życia społecznego we wszystkich jego aspektach. Stopniowo kształtuje nie tylko własny styl kierowania partią i państwem, lecz również swoje otoczenie. Jego działalność wpływa nie tylko na polityczną atmosferę kraju, lecz nawet na byt i codzienne zwyczaje obywateli.
 
-Obraz nowego przywódcy, zupełnie innego niż dotychczasowi, stanowił w działalności Gorbaczowa – zwłaszcza na początku _pieriestrojki_ – niezwykły atut. Ludziom podobało się, że przyjeżdżał do nich, przemawiał bez kartki, zachęcał, obiecywał. Z czasem jednak, gdy nie spełniały się jego obietnice, efekty reform okazały się inne niż oczekiwania społeczne, jego przemówienia przyjmowano z coraz większą rezerwą, a później z otwartą krytyką. Gorbaczow nie chciał i pewnie nie umiał się zmienić, by tak jak dotychczas być „ulubieńcem milionów” w swoim kraju i politycznym celebrytą w świecie zachodnim. Tym, co zdecydowało o krytycznych ocenach Gorbaczowa były nie jego niewątpliwe atuty, o których szybko zapomniano, ale efekty zmian, które postanowił wprowadzić w swoim państwie – efekty _pieriestrojki._ \[...\] 
+Obraz nowego przywódcy, zupełnie innego niż dotychczasowi, stanowił w działalności Gorbaczowa – zwłaszcza na początku _pieriestrojki_ – niezwykły atut. Ludziom podobało się, że przyjeżdżał do nich, przemawiał bez kartki, zachęcał, obiecywał. Z czasem jednak, gdy nie spełniały się jego obietnice, efekty reform okazały się inne niż oczekiwania społeczne, jego przemówienia przyjmowano z coraz większą rezerwą, a później z otwartą krytyką. Gorbaczow nie chciał i pewnie nie umiał się zmienić, by tak jak dotychczas być „ulubieńcem milionów” w swoim kraju i politycznym celebrytą w świecie zachodnim. Tym, co zdecydowało o krytycznych ocenach Gorbaczowa były nie jego niewątpliwe atuty, o których szybko zapomniano, ale efekty zmian, które postanowił wprowadzić w swoim państwie – efekty _pieriestrojki._ \[...\]
 
 **Alicja Stępień-Kuczyńska**: [Gorbaczow. Pieriestrojka i rozpad imperium, Wydawnictwo Uniwersytetu Łódzkiego 2020.](https://wydawnictwo.uni.lodz.pl/produkt/gorbaczow/ "https://wydawnictwo.uni.lodz.pl/produkt/gorbaczow/")
