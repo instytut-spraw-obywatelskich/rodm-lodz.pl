@@ -17,7 +17,7 @@ Historia życia Michaiła Gorbaczowa jest historią pokolenia, które nie miało
 
 Na te wszystkie pytania odpowiada autorka publikacji, kreśląc porywającą opowieść o jednej z najciekawszych postaci najnowszej historii (z materiałów Wydawnictwa Uniwersytetu Łódzkiego).
 
-Zachęcamy do lektury. Wydawnictwu Uniwersytetu Łódzkiego, wydawcy książki **„Gorbaczow. Pieriestrojka i rozpad imperium”**, dziękujemy za udostępnienie fragmentu do publikacji.
+Zachęcamy do lektury. Wydawnictwu Uniwersytetu Łódzkiego, wydawcy książki **_„Gorbaczow. Pieriestrojka i rozpad imperium”_**, dziękujemy za udostępnienie fragmentu do publikacji.
 
 **_„Gorbaczow. Pieriestrojka i rozpad imperium”_**
 
