@@ -1,6 +1,5 @@
 +++
 date = 2021-04-05T22:00:00Z
-draft = true
 main_image = "/v1617709106/rodm/Gorbaczow_RODM_umenly.jpg"
 slug = "a-stepien-kuczynska-gorbaczow-pieriestrojka-i-rozpad-imperium"
 title = "A. Stępień - Kuczyńska: Gorbaczow. Pieriestrojka i rozpad imperium"
