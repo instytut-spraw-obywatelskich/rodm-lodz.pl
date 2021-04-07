@@ -19,6 +19,8 @@ Na te wszystkie pytania odpowiada autorka publikacji, kreśląc porywającą opo
 
 Zachęcamy do lektury. Wydawnictwu Uniwersytetu Łódzkiego, wydawcy książki **_„Gorbaczow. Pieriestrojka i rozpad imperium”_**, dziękujemy za udostępnienie fragmentu do publikacji.
 
+{{< youtube kt0qQy4Yx-Y >}}
+
 **_„Gorbaczow. Pieriestrojka i rozpad imperium”_**
 
 **(fragment)**
