@@ -1,6 +1,5 @@
 +++
 date = 2021-04-14T22:00:00Z
-draft = true
 main_image = "/v1618418636/rodm/kaliciak_KOBIETY_RODM_hcoqvp.jpg"
 slug = "g-kaliciak-bez-taryfy-ulgowej-kobiety-w-wojsku"
 title = "G. Kaliciak: Bez taryfy ulgowej. Kobiety w wojsku "
