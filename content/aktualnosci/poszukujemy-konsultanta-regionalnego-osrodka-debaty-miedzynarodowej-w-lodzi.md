@@ -1,6 +1,5 @@
 +++
 date = 2021-04-15T22:00:00Z
-draft = true
 main_image = "/v1618569903/rodm/RODM_WWW_i8lhgd.jpg"
 slug = "poszukujemy-konsultanta-regionalnego-osrodka-debaty-miedzynarodwej-w-lodzi"
 title = "Poszukujemy osoby na stanowisko: Konsultant Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi "
