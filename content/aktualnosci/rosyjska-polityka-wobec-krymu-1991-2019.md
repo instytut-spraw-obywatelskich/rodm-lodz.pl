@@ -1,6 +1,5 @@
 +++
 date = 2021-04-22T22:00:00Z
-draft = true
 main_image = "/v1619170754/rodm/Krym_RODM_b0uch3.jpg"
 slug = "rosyjska-polityka-wobec-krymu"
 title = "Rosyjska polityka wobec Krymu (1991–2019)"
