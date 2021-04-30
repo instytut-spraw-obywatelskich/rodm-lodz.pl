@@ -1,8 +1,8 @@
 ---
 title: Regionalny Ośrodek Debaty Międzynarodowej – Łódź
 featured:
-  image: "/v1616070383/rodm/1-procent-2021_ro2rkl.png"
-  link: https://program-pit.instytutsprawobywatelskich.pl/
-  text: Przekaż 1% na Instytut Spraw Obywatelskich
+  image: "/v1619771140/rodm/krym_1168x315_ct1w6j.jpg"
+  link: https://www.rodm-lodz.pl/aktualnosci/rosyjska-polityka-wobec-krymu/
+  text: Rosyjska polityka wobec Krymu (1991–2019)
 
 ---
