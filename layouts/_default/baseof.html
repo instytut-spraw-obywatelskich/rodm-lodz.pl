@@ -12,6 +12,10 @@
     {{ hugo.Generator }}
   </head>
   <body class="bg-white text-black leading-normal">
+    <div id="infoCiastka" class="w-full p-2 text-sm hidden flex-col sm:flex-row justify-center items-center">
+      <p>Stosujemy pliki cookies. Korzystanie z&nbsp;serwisu bez zmiany ustawień dotyczących cookies oznacza, że cookies będą zamieszczane w&nbsp;Państwa urządzeniu. Jeśli nie wyrażają Państwo zgody, prosimy o&nbsp;zmianę ustawień przeglądarki internetowej.</p>
+      <button id="zamknijInfoCiastka" class="bg-rodm-blue text-white px-2 py-1 rounded m-2">Zamknij</button>
+    </div>
     <p class="bg-true-black p-2 text-white text-sm md:text-base text-center uppercase">Sieć Regionalnych Ośrodków Debaty Międzynarodowej</p>
     <div class="container mx-auto px-3 sm:px-4">
       <header role="banner" class="py-10">
@@ -19,9 +23,24 @@
       </header>
       {{ partial "nav.html" . }}
       {{ block "main" . }}{{ end }}
-      {{ partial "footer.html" . }}      
+      {{ partial "footer.html" . }}
     </div>
     <p class="bg-true-black p-2 text-white text-sm md:text-base text-center uppercase">Zadanie dofinansowane ze środków Ministerstwa Spraw Zagranicznych</p>
+    <script>
+      var infoCiastkaZamkniete = localStorage.getItem('infoCiastkaZamkniete');
+      if (infoCiastkaZamkniete != 'tak') {
+        window.addEventListener('DOMContentLoaded', function() {
+          var infoCiastka = document.querySelector('#infoCiastka');
+          infoCiastka.classList.remove('hidden');
+          infoCiastka.classList.add('flex');
+          zamknijInfoCiastka.addEventListener('click', function() {
+            infoCiastka.classList.remove('flex');
+            infoCiastka.classList.add('hidden');
+            localStorage.setItem('infoCiastkaZamkniete', 'tak');
+          });
+        });
+      }
+    </script>
     <script src="//instant.page/1.2.1" type="module" integrity="sha384-/IkE5iZAM/RxPto8B0nvKlMzIyCWtYocF01PbGGp1qElJuxv9J4whdWBRtzZltWn"></script>
   </body>
 </html>
