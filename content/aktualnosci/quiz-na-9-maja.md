@@ -9,6 +9,6 @@ title = "Quiz na 9 maja! "
 
 **Zapraszamy do wspólnej zabawy!**
 
-<div class="iframe google-maps"><iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSch8yX9o8iKlANcgsC9DDzF4TGaGENdFIB2z7PNx5FFLS1b4w/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSch8yX9o8iKlANcgsC9DDzF4TGaGENdFIB2z7PNx5FFLS1b4w/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSch8yX9o8iKlANcgsC9DDzF4TGaGENdFIB2z7PNx5FFLS1b4w/viewform?embedded=true")<" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe></div>
+<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSch8yX9o8iKlANcgsC9DDzF4TGaGENdFIB2z7PNx5FFLS1b4w/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSch8yX9o8iKlANcgsC9DDzF4TGaGENdFIB2z7PNx5FFLS1b4w/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSch8yX9o8iKlANcgsC9DDzF4TGaGENdFIB2z7PNx5FFLS1b4w/viewform?embedded=true")" width="640" height="1109" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
 
 Gdyby zabrakło Wam wrażeń, polecamy sprawdzić swoją wiedzę w ubiegłorocznym cyklu quizów **„WOŚ – Quiz Wiedzy o Świecie”**: [https://www.rodm-lodz.pl/aktualnosci/wos-quiz-wiedzy-o-swiecie/](https://www.rodm-lodz.pl/aktualnosci/wos-quiz-wiedzy-o-swiecie/ "https://www.rodm-lodz.pl/aktualnosci/wos-quiz-wiedzy-o-swiecie/").
