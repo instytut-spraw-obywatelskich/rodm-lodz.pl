@@ -1,6 +1,5 @@
 +++
 date = 2021-05-14T22:00:00Z
-draft = true
 main_image = "/v1621347287/rodm/nowoczesny-football_strona_vn7qgq.jpg"
 slug = "nowoczesny-football-jak-i-dlaczego-upadl-pomysl-superligi"
 title = "Nowoczesny football – jak i dlaczego upadł pomysł „Superligi”?"
