@@ -1,6 +1,5 @@
 +++
 date = 2021-05-25T22:00:00Z
-draft = true
 main_image = "/v1621981321/rodm/RODM-_-UL-800x450jpg_ppkv9j.jpg"
 slug = "RODM-Lodz-bedzie-wspolpracowal-z-Uniwersytetem-Lodzkim"
 title = "RODM Łódź będzie współpracował z Uniwersytetem Łódzkim!"
