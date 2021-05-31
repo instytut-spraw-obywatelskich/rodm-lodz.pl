@@ -1,6 +1,6 @@
 +++
 date = 2020-11-23T23:00:00Z
-main_image = "/v1606228520/rodm/rcep_gqf6gu.jpg"
+main_image = "/v1622481142/rodm/Azja_RODM_lsxmem.jpg"
 slug = "blaski-i-cienie-najwiekszej-strefy-wolnego-handlu-na-swiecie"
 title = "Blaski i cienie największej strefy wolnego handlu na świecie"
 
