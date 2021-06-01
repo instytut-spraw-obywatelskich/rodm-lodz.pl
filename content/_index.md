@@ -1,8 +1,8 @@
 ---
 title: Regionalny Ośrodek Debaty Międzynarodowej – Łódź
 featured:
-  image: "/v1619771140/rodm/krym_1168x315_ct1w6j.jpg"
-  link: https://www.rodm-lodz.pl/aktualnosci/rosyjska-polityka-wobec-krymu/
-  text: Rosyjska polityka wobec Krymu (1991–2019)
+  image: "/v1622561011/rodm/1168x584_yewgvk.jpg"
+  link: https://www.rodm-lodz.pl/aktualnosci/o-czym-pisalismy-w-2020-roku-co-sie-sprawdzilo-a-co-nie/
+  text: " Cyklu felietonów „Pyffel komentuje”"
 
 ---
