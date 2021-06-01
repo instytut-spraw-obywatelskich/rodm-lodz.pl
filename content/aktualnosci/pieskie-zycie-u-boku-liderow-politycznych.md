@@ -1,6 +1,6 @@
 +++
 date = 2020-11-13T23:00:00Z
-main_image = "/v1605351158/rodm/psy_artyku%C5%82_na4igy.jpg"
+main_image = "/v1622562136/rodm/Vladimir-Putin-i-Gurbanguly-Berdimuhamedow-2017-10-11-800x494_qsybig.jpg"
 slug = "pieskie-zycie-u-boku-liderow-politycznych"
 title = "Pieskie życie u boku liderów politycznych "
 
@@ -49,7 +49,7 @@ Może polityka można ocenić po tym, jak traktuje zwierzęta i obywateli?
 
 [\[5\]](#_ftnref5) [https://www.facebook.com/grupastonewall/photos/a.631459933664323/1995671483909821/](https://www.facebook.com/grupastonewall/photos/a.631459933664323/1995671483909821/ "https://www.facebook.com/grupastonewall/photos/a.631459933664323/1995671483909821/"), \[dostęp: 11.11.2020\].
 
-**Źródło foto:** 
+**Źródło foto: Władimir Putin i Gurbanguly Berdimuhamedow** (2017-10-11) fot. Presidential Press and Information Office / CC BY 4.0.
 
 **Autor**: Wojciech Szymczak
 
