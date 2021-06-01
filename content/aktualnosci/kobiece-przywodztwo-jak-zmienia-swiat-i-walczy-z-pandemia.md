@@ -1,6 +1,6 @@
 +++
 date = 2021-03-15T23:00:00Z
-main_image = "/v1615890694/rodm/Premier_Finlandii_Sanna_Marin_ady9ia.jpg"
+main_image = "/v1622562788/rodm/sanna_marin_RODM_lrq4dw.jpg"
 slug = "kobiece-przywodztwo-jak-zmienia-swiat-i-walczy-z-pandemia"
 title = "Kobiece przywództwo - jak zmienia świat i walczy z pandemią"
 
@@ -58,6 +58,8 @@ Donald Trump, Boris Johnson, Jair Bolsonaro - to tylko kilka przykładów przyw�
 [\[4\]](#_ftnref4) [https://europeelects.eu/slovakia/](https://europeelects.eu/slovakia/ "https://europeelects.eu/slovakia/"), \[dostęp: 08.02.2021\].
 
 [\[5\]](#_ftnref5) [https://www.politico.eu/europe-poll-of-polls/slovakia/](https://www.politico.eu/europe-poll-of-polls/slovakia/ "https://www.politico.eu/europe-poll-of-polls/slovakia/"), \[dostęp: 10.02.2021\].
+
+**Źródło foto:** "Prime Minister Sanna Marin" by Finnish Government is licensed under CC BY 2.0. 
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1615897684/rodm/sidorukola_RODM_jmwaxf.jpg)
 
