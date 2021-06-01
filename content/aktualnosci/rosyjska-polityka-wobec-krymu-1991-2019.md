@@ -1,11 +1,11 @@
 +++
 date = 2021-04-22T22:00:00Z
-main_image = "/v1619170754/rodm/Krym_RODM_b0uch3.jpg"
+main_image = "/v1622560241/rodm/yasmin-peyman-RODM-unsplash_cmpu2h.jpg"
 slug = "rosyjska-polityka-wobec-krymu"
 title = "Rosyjska polityka wobec Krymu (1991–2019)"
 
 +++
-### **Rosyjska polityka historyczna od lat 90. ubiegłego wieku przeszła poważną metamorfozę – począwszy od postrzegania zagadnień związanych z początkiem państwowości, aż do wydarzeń z XX wieku włącznie. I chociaż w okresie prezydentury Borysa Jelcyna największą uwagę poświęcono obaleniu dziedzictwa radzieckiego totalitaryzmu, to równolegle podnoszono wartości duchowe i odbudowywano cerkwie. Działania te jednak nie charakteryzowały się systematycznością, a sprawiały wrażenie chaotycznych. Po zwycięstwie w wyborach prezydenckich Władimira Putina rozpoczął się przegląd polityki historycznej na szczeblu państwowym.** 
+### **Rosyjska polityka historyczna od lat 90. ubiegłego wieku przeszła poważną metamorfozę – począwszy od postrzegania zagadnień związanych z początkiem państwowości, aż do wydarzeń z XX wieku włącznie. I chociaż w okresie prezydentury Borysa Jelcyna największą uwagę poświęcono obaleniu dziedzictwa radzieckiego totalitaryzmu, to równolegle podnoszono wartości duchowe i odbudowywano cerkwie. Działania te jednak nie charakteryzowały się systematycznością, a sprawiały wrażenie chaotycznych. Po zwycięstwie w wyborach prezydenckich Władimira Putina rozpoczął się przegląd polityki historycznej na szczeblu państwowym.**
 
 Dzień zwycięstwa nad nazizmem w Europie, 9 maja, obchodzony był zawsze marszem żołnierzy oraz weteranów Wielkiej Wojny Ojczyźnianej na Placu Czerwonym w Moskwie. Te pompatyczne parady zyskały jeszcze więcej patosu pod rządami Putina, jako demonstracja siły militarnej Rosji, a nie jako okazja do oddania hołdu prawdziwym bohaterom, których liczba z każdym rokiem maleje. Rosyjski przywódca tymi uroczystościami komunikuje narodowi i światu: „Podbiliśmy i uratowaliśmy Europę przed faszyzmem i nazizmem”. Od 2014 roku uzupełnia ten przekaz: „Teraz uratujemy przed »ukraińskim faszyzmem« – zwłaszcza rosyjskojęzycznych mieszkańców Krymu i Donbasu”.
 
@@ -77,7 +77,7 @@ Działa już tzw. krymski most wzniesiony nad Cieśniną Kerczeńską, czym che�
 
 [\[5\]](#_ftnref5) Andrzej Chwalba, Historia Powszechna: 1989 – 2011, Warszawa 2011, s. 180.
 
-[\[6\]](#_ftnref6) Agnieszka Korniejenko, Pełzająca wojna. Quo vadis, Ukraino?, Kraków 2014, s. 40. 
+[\[6\]](#_ftnref6) Agnieszka Korniejenko, Pełzająca wojna. Quo vadis, Ukraino?, Kraków 2014, s. 40.
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1601385010/rodm/Foto_Oleksii_Lionchuk_xkttto.jpg)
 
@@ -89,4 +89,4 @@ Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
 
-**Źródło foto: Marzec 2014, okolice Symferopola. „Zielone ludziki” pilnują porządku/Getty Images.** 
+**Źródło foto:** [**yasmin peyman**](https://unsplash.com/@yasminpeyman "https://unsplash.com/@yasminpeyman") **z** [**unspalsh**](https://unsplash.com/ "https://unsplash.com/")
