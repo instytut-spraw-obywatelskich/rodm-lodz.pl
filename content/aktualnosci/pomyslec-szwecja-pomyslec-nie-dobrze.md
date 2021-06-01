@@ -7,11 +7,7 @@ title = "Pomyśleć Szwecja – pomyśleć (nie)dobrze?"
 +++
 #### **Ekologia, sport, Eurowizja, Nobel — to hasła najczęściej wyszukiwane na całym świecie w połączeniu ze słowem „Szwecja”**[**\[1\]**](#_ftn1)**. Przez ostatnie lata właśnie takie było zdanie opinii międzynarodowej na temat tego skandynawskiego państwa. Gdy myślimy o Szwecji to wyobrażamy sobie narciarzy przemierzających zimowe krajobrazy w drodze po zwycięstwo w Igrzyskach Olimpijskich.**
 
-Myśleć o Szwecji znaczy usłyszeć międzynarodowy język, jakże często spotykany w okolicach Gamla Stan w Sztokholmie. Myślenie o Szwecji przypomina smak cynamonowej bułeczki kupionej na najbliższym stoisku w drodze do pracy. Niestety ani Igrzyska Olimpijskie, ani wielokulturowość, ani nawet smak szwedzkich wypieków, nie uchroniło naszego nadmorskiego sąsiada przed konsekwencjami pandemii koronawirusa. Nie chodzi jednak o konsekwencje z punktu widzenia medycznego, czy gospodarczego. To, co najbardziej zaszkodziło Szwecji w 2020 roku to ciągle zmienna sinusoida wizerunkowa.
-
-![](https://res.cloudinary.com/inspro/image/upload/v1603274751/rodm/szwecja_flaga_RODM_rks6lb.jpg)
-
-**Flaga Szwecji**
+Myśleć o Szwecji znaczy usłyszeć międzynarodowy język, jakże często spotykany w okolicach Gamla Stan w Sztokholmie. Myślenie o Szwecji przypomina smak cynamonowej bułeczki kupionej na najbliższym stoisku w drodze do pracy. Niestety ani Igrzyska Olimpijskie, ani wielokulturowość, ani nawet smak szwedzkich wypieków, nie uchroniło naszego nadmorskiego sąsiada przed konsekwencjami pandemii koronawirusa. Nie chodzi jednak o konsekwencje z punktu widzenia medycznego, czy gospodarczego. To, co najbardziej zaszkodziło Szwecji w 2020 roku to ciągle zmienna sinusoida wizerunkowa. ![](https://res.cloudinary.com/inspro/image/upload/v1603274751/rodm/szwecja_flaga_RODM_rks6lb.jpg)Flaga Szwecji
 
 „Warunkiem sukcesu jest dostosowanie strategii wejścia i konkurowania na rynku do jego specyfiki, a przede wszystkim do jego otwartości i lokalności”[\[2\]](#_ftn2), pisała Maria Romanowska w swoich książkach o funkcjonowaniu przedsiębiorstw. Wśród teoretyków ekonomii, występuje stwierdzenie, że państwo powinno funkcjonować jak przedsiębiorstwo, a przedsiębiorstwo powinno funkcjonować jak państwo. Niemożliwe jest zatem zrozumienie funkcjonowania strategii szwedzkiej bez zrozumienia samej specyfiki funkcjonowania tamtejszego społeczeństwa jako jednego organizmu.
 
