@@ -11,6 +11,8 @@ Myśleć o Szwecji znaczy usłyszeć międzynarodowy język, jakże często spot
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1603274751/rodm/szwecja_flaga_RODM_rks6lb.jpg)
 
+**Flaga Szwecji**
+
 „Warunkiem sukcesu jest dostosowanie strategii wejścia i konkurowania na rynku do jego specyfiki, a przede wszystkim do jego otwartości i lokalności”[\[2\]](#_ftn2), pisała Maria Romanowska w swoich książkach o funkcjonowaniu przedsiębiorstw. Wśród teoretyków ekonomii, występuje stwierdzenie, że państwo powinno funkcjonować jak przedsiębiorstwo, a przedsiębiorstwo powinno funkcjonować jak państwo. Niemożliwe jest zatem zrozumienie funkcjonowania strategii szwedzkiej bez zrozumienia samej specyfiki funkcjonowania tamtejszego społeczeństwa jako jednego organizmu.
 
 **Jak „czytać” Szwecję?**
@@ -73,7 +75,7 @@ Może nie jest to odpowiednia droga? W końcu „nie zabija się much młotkiem�
 
 [\[13\]](#_ftnref13) [https://tinyurl.com/yxp8cfsg](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
-**Źródło foto Andersa Tegnella: Dziennik Gazeta Prawna.**
+**Źródło foto:** Anders Tegnell, główny epidemiolog Szwecji, fot. Frankie Fouganthin – CC BY-SA 4.0. 
 
 **Autor**: Wojciech Szymczak
 
