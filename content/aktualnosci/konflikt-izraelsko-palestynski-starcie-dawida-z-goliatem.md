@@ -1,6 +1,5 @@
 +++
 date = 2021-06-02T22:00:00Z
-draft = true
 main_image = "/v1622632863/rodm/konflikt-izraelsko-palestynski_RODM_zgthb4.jpg"
 slug = "konflikt-izraelsko-palestynski-starcie-dawida-z-goliatem"
 title = "Konflikt izraelsko-palestyński – starcie Dawida z Goliatem?"
