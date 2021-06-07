@@ -1,6 +1,6 @@
 +++
 date = 2020-12-22T23:00:00Z
-main_image = "/v1608726261/rodm/mapa_grafika_RODM_vrak7g.jpg"
+main_image = "/v1623077793/rodm/Bilans-2020_rid8i4.jpg"
 slug = "o-czym-pisalismy-w-2020-roku-co-sie-sprawdzilo-a-co-nie"
 title = "O czym pisaliśmy w 2020 roku. Co się sprawdziło, a co nie?"
 
@@ -58,6 +58,8 @@ Wygląda zatem na to, że tematów na nowe teksty nam nie zabraknie, zwłaszcza 
 I tą refleksją chciałbym zakończyć dzisiejszy felieton, życząc Państwu, w tych niezwykłych czasach Zdrowych, Pogodnych i Wesołych Świąt Bożego Narodzenia i Szczęśliwego Nowego Roku.
 
 Wszystkiego Dobrego!
+
+**Fot.** [**Duangphorn Wiriya**](https://unsplash.com/@ph_an_tom "https://unsplash.com/@ph_an_tom") **on** [**Unsplash**](https://unsplash.com/ "https://unsplash.com/")**.** 
 
 **Radek Pyffel**
 
