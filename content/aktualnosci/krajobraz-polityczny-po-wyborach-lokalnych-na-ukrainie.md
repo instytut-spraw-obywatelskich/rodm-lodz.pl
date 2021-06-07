@@ -1,6 +1,6 @@
 +++
 date = 2020-12-16T23:00:00Z
-main_image = "/v1608208658/rodm/Wybory_samorz%C4%85dowe_Ukraina_RODM.jpg_yvxw6g.jpg"
+main_image = "/v1623077425/rodm/Ukraine_vote_qyxbjv.jpg"
 slug = "krajobraz-polityczny-po-wyborach-lokalnych-na-ukrainie"
 title = "Krajobraz polityczny po wyborach lokalnych na Ukrainie "
 
@@ -43,4 +43,4 @@ Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
 
-**Źródło foto: Ukrinform** 
+**Fot.** [**Arnaud Jaegers**](https://unsplash.com/@ajaegers "https://unsplash.com/@ajaegers") **on** [**Unsplash**](https://unsplash.com/ "https://unsplash.com/")**.** 
