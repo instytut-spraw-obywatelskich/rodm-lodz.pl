@@ -1,6 +1,6 @@
 +++
 date = 2020-10-07T22:00:00Z
-main_image = "/v1602157818/rodm/Biden_Harris_strona_RODM_ymuufr.jpg"
+main_image = "/v1623071228/rodm/Biden-harris_u3e2oq.jpg"
 slug = "Joe-Biden-z-bagazem-doswiadczen-patrzac-w-przyszlosc"
 title = "Joe Biden: z bagażem doświadczeń patrząc w przyszłość"
 
@@ -131,9 +131,9 @@ Czy parze Biden-Harris uda się w większym stopniu skupić na własnym programi
 
 [\[25\]](#_ftnref25) W myśl oficjalnego hasła: „We Know Who Donald Trump is. We Have to Let Everyone Know Who We Are” – tłum. „Wiemy, kim jest Donald Trump. Naszym zadaniem — w tej kampanii — jest pokazać kim jesteśmy my”, [www.joebiden.com](http://www.joebiden.com).
 
-**Źródło foto:** [https://joebiden.com/together-we-will-beat-donald-trump/](https://joebiden.com/together-we-will-beat-donald-trump/ "https://joebiden.com/together-we-will-beat-donald-trump/").
+**Foto:** [**John Tyson**](https://unsplash.com/@jontyson "https://unsplash.com/@jontyson") **on** [**Unsplash**](https://unsplash.com/ "https://unsplash.com/")**.** 
 
-**Autor:** Michał Jarosławski
+**Autor:** Michał Jarosławski, wolontariusz RODM Łódź
 
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
