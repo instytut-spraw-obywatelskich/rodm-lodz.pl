@@ -1,6 +1,6 @@
 +++
 date = 2020-12-09T23:00:00Z
-main_image = "/v1607457216/rodm/Bia%C5%82oru%C5%9B_Polska_Ukraina_RODM_sloldw.png"
+main_image = "/v1623074496/rodm/european-union-RODM_cbkkva.jpg"
 slug = "wspolpraca-transgraniczna-Polska-Bialorus-Ukraina-w-obliczu-pandemii-covid-19"
 title = "Współpraca transgraniczna Polska-Białoruś-Ukraina w obliczu pandemii COVID-19"
 
@@ -93,7 +93,7 @@ Kooperacja z Białorusią jest w znacznym stopniu ograniczona ze względu na pan
 
 [\[19\]](#_ftnref19) J.V. Okunovska, _dz. cyt._, s. 147-161.
 
-**Źródło foto: Commission for the Development of the E40 Waterway**
+**Fot.** [**Robfoto**](https://pixabay.com/pl/users/robfoto-2051168/ "https://pixabay.com/pl/users/robfoto-2051168/") **z** [**pixabay**](https://pixabay.com/pl/ "https://pixabay.com/pl/")**.** 
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1607458432/rodm/Adriana_Baranowska_RODM_d8yy2t.jpg)
 
