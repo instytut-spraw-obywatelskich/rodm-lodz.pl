@@ -49,7 +49,7 @@ Może polityka można ocenić po tym, jak traktuje zwierzęta i obywateli?
 
 [\[5\]](#_ftnref5) [https://www.facebook.com/grupastonewall/photos/a.631459933664323/1995671483909821/](https://www.facebook.com/grupastonewall/photos/a.631459933664323/1995671483909821/ "https://www.facebook.com/grupastonewall/photos/a.631459933664323/1995671483909821/"), \[dostęp: 11.11.2020\].
 
-**Źródło foto: Władimir Putin i Gurbanguly Berdimuhamedow** (2017-10-11) fot. Presidential Press and Information Office / CC BY 4.0.
+**Foto: Władimir Putin i Gurbanguly Berdimuhamedow** (2017-10-11) fot. Presidential Press and Information Office / CC BY 4.0.
 
 **Autor**: Wojciech Szymczak
 
