@@ -1,6 +1,6 @@
 +++
 date = 2020-08-25T22:00:00Z
-main_image = "/v1598382539/rodm/Bia%C5%82oru%C5%9B_bpmdch.jpg"
+main_image = "/v1623069494/rodm/minsk-RODM_gc6bzr.jpg"
 slug = "cztery-pytania-o-chiny-na-bialorusi"
 title = "Cztery pytania o Chiny na Białorusi"
 
@@ -68,3 +68,5 @@ Kierownik studiów „Biznes chiński- jak działać skutecznie w czasach Jedwab
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
+
+**Fot.** [**A_Matskevich**](https://pixabay.com/pl/users/a_matskevich-12470786/ "https://pixabay.com/pl/users/a_matskevich-12470786/") **z** [**pixabay**](https://pixabay.com/pl/ "https://pixabay.com/pl/")**.** 
