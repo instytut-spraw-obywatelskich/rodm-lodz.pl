@@ -36,3 +36,5 @@ Michał Lubina, doktor nauk społecznych, adiunkt w Instytucie Bliskiego i Dalek
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
+
+**Fot.** CC BY Surian Soosay, [https://www.flickr.com/photos/ssoosay/5171176527](https://www.flickr.com/photos/ssoosay/5171176527 "https://www.flickr.com/photos/ssoosay/5171176527"). 
