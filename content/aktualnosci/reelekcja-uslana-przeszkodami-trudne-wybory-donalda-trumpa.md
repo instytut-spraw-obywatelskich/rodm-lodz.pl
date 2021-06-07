@@ -1,6 +1,6 @@
 +++
 date = 2020-10-27T23:00:00Z
-main_image = "/v1603875754/rodm/Donald-Trump-Mike-Pence-RODM_xw1voo.jpg"
+main_image = "/v1623072051/rodm/trump-biden_htwvaz.jpg"
 slug = "reelekcja-uslana-przeszkodami-trudne-wybory-donalda-trumpa"
 title = "Reelekcja usłana przeszkodami  – trudne wybory Donalda Trumpa"
 
@@ -154,7 +154,7 @@ Czy Amerykanie ponownie zaufają parze Trump – Pence? Czy biznesmen, który st
 
 [\[32\]](#_ftnref32) Hasło wyborcze Trumpa: „Make America Great Again”.
 
-**Źródło foto:** [https://www.channel3000.com/trump-pence-both-coming-to-wisconsin-this-week/](https://www.channel3000.com/trump-pence-both-coming-to-wisconsin-this-week/ "https://www.channel3000.com/trump-pence-both-coming-to-wisconsin-this-week/").
+**Foto:** [**History in HD**](https://unsplash.com/@historyhd "https://unsplash.com/@historyhd") **on** [**Unsplash**](https://unsplash.com/ "https://unsplash.com/")**.** 
 
 **Autor:** Michał Jarosławski
 
