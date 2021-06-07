@@ -1,6 +1,6 @@
 +++
 date = 2020-05-26T22:00:00Z
-main_image = "/v1590744834/rodm/Podcast_2_strona_hagzss.jpg"
+main_image = "/v1623068170/rodm/koronawirus-w-azji-poludniowo-wschodniej-RODM_uwlbxu.jpg"
 slug = "koronawirus-w-azji-poludniowo-wschodniej"
 title = "Koronawirus w Azji Południowo-Wschodniej"
 
