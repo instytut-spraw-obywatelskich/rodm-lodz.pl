@@ -1,6 +1,6 @@
 +++
 date = 2020-06-22T22:00:00Z
-main_image = "/v1592928145/rodm/Indo-Pacyfik_RODM_rkjbpy.jpg"
+main_image = "/v1623068457/rodm/figurka-indie-RODM_zoboud.jpg"
 slug = "indo-pacyfik-reaktywacja"
 title = "Indo-Pacyfik – reaktywacja"
 
