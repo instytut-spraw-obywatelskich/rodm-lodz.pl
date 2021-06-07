@@ -1,6 +1,6 @@
 +++
 date = 2020-08-23T22:00:00Z
-main_image = "/v1598274229/rodm/muzyka_a_polityka_grafika_tjepyh.jpg"
+main_image = "/v1623069193/rodm/audience-RODM_lj4b9e.jpg"
 slug = "muzyka-a-polityka-przenikanie-czy-wplyw"
 title = "Muzyka a polityka – przenikanie czy wpływ?"
 
@@ -106,3 +106,5 @@ To moje spojrzenie na przenikanie się muzyki i świata polityki. W pełni subie
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
+
+**Fot.** [**Free-Photos**](https://pixabay.com/pl/users/free-photos-242387/ "https://pixabay.com/pl/users/free-photos-242387/") **z** [**pixabay**](https://pixabay.com/pl/ "https://pixabay.com/pl/")**.** 
