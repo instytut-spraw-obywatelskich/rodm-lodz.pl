@@ -1,6 +1,6 @@
 +++
 date = 2020-06-01T22:00:00Z
-main_image = "/v1591273663/rodm/WHO_na_stron%C4%99_RODM_kcahty.png"
+main_image = "/v1623062327/rodm/peking-RODM_lp4crm.jpg"
 slug = "pokerowe-rozgrywki-chin"
 title = "Pokerowe rozgrywki Chin"
 
@@ -63,7 +63,7 @@ Niestety wygląda na to, że nie ma w tej sprawie konsensu między obydwoma moca
 
 Felieton ukazał się w ramach comiesięcznego cyklu **„Pyffel komentuje”**, w którym autor analizuje bieżącą sytuację międzynarodową.
 
-**Foto:** Dyrektor Światowej Organizacji Zdrowia (WHO), dr Tedros Adhanom Ghebreyesus podczas 73. dorocznej sesji World Health Assembly (WHA), 18-19 maja 2020 roku. **Źródło:** Światowa Organizacja Zdrowia (WHO). 
+**Foto:** [MaoNo](https://pixabay.com/pl/users/MaoNo-3366290/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1908167) z [Pixabay](https://pixabay.com/pl/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1908167). 
 
 **Autor:** Radek Pyffel, (chiń. Rui De Xing)
 
