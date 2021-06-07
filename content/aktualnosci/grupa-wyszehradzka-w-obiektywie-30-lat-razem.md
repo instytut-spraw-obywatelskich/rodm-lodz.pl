@@ -15,9 +15,7 @@ Wspólne działania na szczeblu międzynarodowym podjęto już w 1992 roku, kied
 
 Lata 1998-1999 to okres wzmożonej pracy polityków V4. Prowadzili negocjację z Brukselą (UE) i NATO. W 2000 roku powołano do życia jedyny organ Grupy - Międzynarodowy Fundusz Wyszehradzki. W kolejnych latach coraz silniej uwidaczniały się efekty współpracy na polu międzynarodowym. Członkowie UE, jak choćby Republika Federalna Niemiec, Austria czy kraje Beneluksu (Belga, Holandia, Luksemburg) doceniały działalność partnerów z Europy Środkowo-Wschodniej. Przypieczętowanie sukcesu grupy nastąpiło 1 maja 2004 roku, kiedy to państwa V4 zostały członkami Unii Europejskiej. W zorganizowanym 11 dni później spotkaniu przedstawicieli państw Grupy Wyszehradzkiej w miejscowości Kronomież (Czechy) sporządzona została deklaracja potwierdzająca spełnienie kluczowego celu, jaki postawiono w 1991 roku - akcesja do Unii Europejskiej.
 
-**Fot. Paweł Kula**
-
-**Źródło: sejm.gov.pl**
+**Fot. Paweł Kula z** [**sejm.gov.pl**](https://sejm.gov.pl/sejm8.nsf/komunikat.xsp?documentId=C6EC11ED5BC35B7DC1257FA10034F867 "https://sejm.gov.pl/sejm8.nsf/komunikat.xsp?documentId=C6EC11ED5BC35B7DC1257FA10034F867")**.** 
 
 ## Młodzi o przyszłości regionu i świata, czyli Letnia Szkoła Wyszehradzka
 
@@ -29,7 +27,7 @@ Wydarzenie to jest organizowane w Krakowie przy współpracy Międzynarodowego F
 
 Dotychczas odbyło się 17 spotkań organizowanych w krakowskim ośrodku „Villa Decius”, w których udział wzięło ponad 500 uczestników i wielu gości z polskiej i zagranicznej sceny politycznej m.in. Danuta Hübner, Leszek Balcerowicz, Jan Kavan. Z powodu pandemii COVID-19 tegoroczna edycja Letniej Szkoły Wyszehradzkiej odbędzie się w formie spotkań online.
 
-**Źródło: villa.org.pl**
+**Fot.** [**villa.org.pl**](https://www.villa.org.pl/villa/ "https://www.villa.org.pl/villa/")**.**
 
 ## Międzynarodowy Fundusz Wyszehradzki, czyli finansowe zaplacze V4
 
@@ -43,28 +41,14 @@ Międzynarodowy Fundusz Wyszehradzki przyznaje trzy typy dofinansowań: Grant Wy
 
 Podczas prezydencji Czech w Grupie Wyszehradzkiej (lipiec 2019 – czerwiec 2020) przyznano aż 77 grantów na programy stypendialne organizowane przez uczelnie krajów V4.
 
-**Źródło: gov.pl**
+**Fot.** [**visegradfund.org**](https://www.visegradfund.org/ "https://www.visegradfund.org/")**.** 
 
 ## V4 w NATO
 
-![](https://res.cloudinary.com/inspro/image/upload/v1594363004/rodm/Polska_Zbrojna_xjidbv.jpg)Wraz z zakończeniem II Wojny Światowej Europę podzieliła żelazna kurtyna. Upadek sojuszu Moskwy i zachodu spowodował powstanie dwóch przeciwstawnych bloków ideologiczno-ekonomicznych. Wobec agresywnej polityki ZSRR i jej chęci dominacji na kontynencie, kraje Europy Zachodniej zmuszone były zawrzeć sojusz obronny skierowany przeciwko zagrożeniu ze wschodu – NATO. Sojusz Północnoatlantycki zrzeszający kraje Europy Zachodniej, Stany Zjednoczone i Kanadę stanowił przeszkodę dla bloku wschodniego. ZSRR i jego satelici nie pozostali bierni. 14 maja 1955 roku do życia powołano Układ Warszawski, w skład którego weszły m.in. Polska, Węgry i Czechosłowacja. Taki status quo utrzymywał się aż do końca lat 80.tych XX wieku. Wiatr zmian zapoczątkował rok 1989. Układ Warszawski, a tym samym blok wschodni zaczął się rozpadać. W 1991 roku Układ Warszawski rozwiązano. Polska, Czechosłowacja i Węgry znalazły się w próżni.
+![](https://res.cloudinary.com/inspro/image/upload/v1623063546/rodm/v4_2018_slowacja_slider.640x300_rlznkz.jpg)Wraz z zakończeniem II Wojny Światowej Europę podzieliła żelazna kurtyna. Upadek sojuszu Moskwy i zachodu spowodował powstanie dwóch przeciwstawnych bloków ideologiczno-ekonomicznych. Wobec agresywnej polityki ZSRR i jej chęci dominacji na kontynencie, kraje Europy Zachodniej zmuszone były zawrzeć sojusz obronny skierowany przeciwko zagrożeniu ze wschodu – NATO. Sojusz Północnoatlantycki zrzeszający kraje Europy Zachodniej, Stany Zjednoczone i Kanadę stanowił przeszkodę dla bloku wschodniego. ZSRR i jego satelici nie pozostali bierni. 14 maja 1955 roku do życia powołano Układ Warszawski, w skład którego weszły m.in. Polska, Węgry i Czechosłowacja. Taki status quo utrzymywał się aż do końca lat 80.tych XX wieku. Wiatr zmian zapoczątkował rok 1989. Układ Warszawski, a tym samym blok wschodni zaczął się rozpadać. W 1991 roku Układ Warszawski rozwiązano. Polska, Czechosłowacja i Węgry znalazły się w próżni.
 
 Prężnie rozwijające się tendencje prozachodnie doprowadziły do powstania 15 lutego 1991 roku zrzeszenia zwanego Trójkątem Wyszehradzkim. Z czasem wobec rozpadu Czechosłowacji przemianowano go na Grupę Wyszehradzką, określaną również jako V4.
 
 Państwa te postanowiły działać razem, zarówno jeśli chodzi o akcesję w UE, jak i NATO. Wejście w skład Sojuszu Północnoatlantyckiego wymagało od nich licznych zmian. Musiały zostać opracowane nowe zasady dowodzenia i współdziałania sił zbrojnych odpowiadających standardom, jakie już wdrożono w strukturach Paktu. Oprócz planowania wspólnych manewrów i ćwiczeń wyzwaniem była wysokość składek finansowych wnoszonych na rzecz sojuszu. Ostatecznie 3 spośród 4 krajów Grupy Wyszehradzkiej (Czechy, Polska, i Węgry) 12 marca 1999 roku przystąpiły do Paktu Północnoatlantyckiego. Słowacja dołączyła do sojuszu 29 marca 2004 roku. Polska i inne kraje V4 biorą czynny udział w zadaniach i projektach NATO. Dodatkowo od 2004 kraje V4 uczestniczą w dyżurach bojowych w ramach Europejskich Sił Szybkiego Reagowania, które docelowo mają działać wspólnie z siłami Paktu podczas ewentualnych kryzysów. Pierwszy dyżur Wyszehradzkiej Grupy Bojowej podjęto wraz z Ukrainą w 2016 roku, a kolejny rozpocznie się w połowie 2023 roku.
 
-**Źródło: polska-zbrojna.pl**
-
-## Traktat w Trianon traumą dla Węgrów
-
-![](https://res.cloudinary.com/inspro/image/upload/v1594737914/rodm/Traktat_w_Trianon_gsw3ku.jpg)W tym roku obchodzimy w Polsce 100. rocznicę Bitwy Warszawskiej. O ile dla nas wydarzenia sprzed stu lat są okazją do świętowania, tak dla Węgrów rok 1920 stał się traumą oraz elementem martyrologii narodowej. W ich rozumieniu wydarzenia z Trianon stały się symbolem swoistej zdrady zachodu, które po dziś dzień są stale obecne w dyskursie publicznym i politycznym. Widać to najlepiej w narracji historycznej prowadzonej przez premiera Węgier Viktora Orbána.
-
-Zakończenie I Wojny Światowej zmieniło status quo w Europie. Rozpad pokonanej w wojnie monarchii Austro-Węgierskiej doprowadził do powstania 16 listopada 1918 roku Republiki Węgierskiej. Jako dawna część składowa monarchii Habsburgów musiała się ona zmierzyć konsekwencjami wynikającymi z klęski militarnej. 4 czerwca 1920 roku zwycięska Ententa wymogła na węgierskich delegatach uczestniczących w rozmowach pokojowych podpisanie traktatu pokojowego w pałacu Grand Trianon w Wersalu. Na jego mocy 2/3 terytorium dawnego Królestwa Węgier przypadło w udziale innym państwom: Polsce, Rumunii czy Czechosłowacji. W wyniku oderwania znacznej części terytorium 62% etnicznych Węgrów znalazło się poza granicami kraju.
-
-W okresie II Wojny Światowej rządzący na Węgrzech admirał Miklós Horthy sprzymierzył się z III Rzeszą w celu restauracji dawnego obszaru Królestwa Węgier. Klęska wojenna i triumf komunizmu zahamował roszczenia terytorialne i koncepcje rewizjonistyczne. Upadek żelaznej kurtyny i ZSRR w ostatniej dekadzie XX wieku na nowo ożywił węgierską narrację historyczną. Była ona jednak pozbawiona rewizjonistycznego charakteru. Nowe realia polityczne wymagały od Węgier i pozostałych państw współpracy. Efektem pokojowych rozmów było między innymi powołanie 15 lutego 1991 Grupy Wyszehradzkiej.
-
-Po długoletnich rządach socjalistów 29 maja 2010 roku na fotelu premiera zasiadł Viktor Orbán z partii Fidesz. Sprawa mniejszości węgierskiej i zdrada w Trianon stały się bardzo żywe i często wykorzystywane w bieżącej polityce. Już w maju 2010 roku rozpoczęto wydawanie paszportów dla Węgrów mieszkających poza granicami kraju. Ułatwiono im również możliwość uzyskania obywatelstwa, a dzień 4 czerwca ustanowiono państwowym świętem Narodowego Dnia Jedności.
-
-Kolejnym krokiem wpisującym się w nową politykę historyczną Węgier było wprowadzenie w życie 1 stycznia 2012 roku nowej konstytucji. Znaleźć w niej można zapis, że Węgry to obszar zamieszkiwany przez Węgrów również poza wytyczonymi granicami państwa. Zapis ten jednak w obecnych realiach odnosi się do poszanowania praw mniejszości węgierskiej niż realnych roszczeń terytorialnych.
-
-**Źródło:** **https://en.wikipedia.org/wiki/Treaty_of_Trianon**
+**Fot.: por. Robert Suchy/CO** [**MON**](https://archiwum2019.mon.gov.pl/aktualnosci/artykul/najnowsze/grupa-wyszehradzka-jednym-glosem-o-bezpieczenstwie-l2018-11-15/ "https://archiwum2019.mon.gov.pl/aktualnosci/artykul/najnowsze/grupa-wyszehradzka-jednym-glosem-o-bezpieczenstwie-l2018-11-15/")**.** 
