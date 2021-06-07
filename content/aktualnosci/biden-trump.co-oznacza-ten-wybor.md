@@ -1,6 +1,6 @@
 +++
 date = 2020-10-31T23:00:00Z
-main_image = "/v1604256868/rodm/USA-China_boxing_nsdzb2.jpg"
+main_image = "/v1623072401/rodm/usa-chiny-RODM_hdhc64.jpg"
 slug = "Biden-Trump-co-oznacza-ten-wybor"
 title = "Biden – Trump. Co oznacza ten wybór?"
 
@@ -18,8 +18,6 @@ Oczywiście w ostatnim czasie trwa w najlepsze wojna pozycyjna wokół Morza Po�
 Teraz gdy kampania dobiegnie końca, można spodziewać się kolejnych posunięć, a wynik jest kwestią drugorzędną. Ktokolwiek wygra w USA, będzie miał, przynajmniej na jakiś czas, rozwiązane ręce. A to oznacza, iż jego oczy skierują się na drugą stronę Pacyfiku, a dynamika rywalizacji wzrośnie.
 
 Po drugie, wybór będzie miał znaczenie dla rywalizacji z Chinami, gdyż jest to wybór pomiędzy dwoma wspomnianymi we wstępie wizjami mocno zakorzenionymi w amerykańskiej polityce i myśleniu o świecie. A więc między wiarą w dziejową misję Ameryki, która wymaga jej zaangażowania i przywództwa Joe Bidena z jednej strony oraz izolacjonizmem, któremu towarzyszy protransakcyjność i postawa Donalda Trumpa kalkulującego korzyści, i straty w przewidywalnej perspektywie czasowej według hasła „America First”.
-
-![](https://res.cloudinary.com/inspro/image/upload/v1604257785/rodm/Biden_jbhuln.jpg)
 
 Wizja Bidena to powrót do multilateralizmu i Ameryki aktywnej na forum międzynarodowym (m.in. w Światowej Organizacji Zdrowia), podejmującej takie tematy jak światowa ochrona zdrowia, bezpieczeństwo czy polityka klimatyczna, aspirującej do globalnego przywództwa poprzez liczne układy i sojusze.
 
@@ -41,13 +39,9 @@ Ale – i tu po czwarte – z pewnością będziemy obserwować różnice taktyc
 
 Joe Biden już zapowiedział, że w przypadku zwycięstwa przywróci członkostwo USA w Światowej Organizacji Zdrowia – w wyniku dobrowolnego wycofania się Stanów Zjednoczonych z WHO, Chiny zajęły pozycję lidera i największego kontrybutora organizacji ([co komentowaliśmy w poprzednich felietonach naszego cyklu](https://www.rodm-lodz.pl/aktualnosci/pokerowe-rozgrywki-chin/ "https://www.rodm-lodz.pl/aktualnosci/pokerowe-rozgrywki-chin/")). Biden zapowiada także powrót do multilateralizmu, co może oznaczać duże zmiany w relacjach USA z UE i krajami Azji oraz ożywioną rywalizację amerykańsko – chińską na tym polu.
 
-![](https://res.cloudinary.com/inspro/image/upload/v1604257729/rodm/Trump_jcyzzd.jpg)
-
 Gdyby wybory wygrał Donald Trump, to również nie można wykluczyć zmian w stosunku do jego pierwszej kadencji. Uskrzydlony udzielonym poparciem i uzyskaną reelekcją, mógłby próbować uderzyć w Pekin znacznie mocniej niż dotychczas. Prawdopodobieństwo tego scenariusza zmniejsza jednak fakt, iż Chiny relatywnie dobrze radzą sobie z koronawirusem, a ich gospodarka zaliczy w tym roku wzrost. W przeciwieństwie do USA, które odczuwają mocno skutki pandemii, tak społecznie, jak i gospodarczo. A to oznacza, że trudniej im będzie być stroną ofensywną w wojnie handlowej i iść na wymianę ciosów z Chinami, w sytuacji mnożących się problemów wewnętrznych…
 
 Po piąte, aby wyobrazić sobie, jak może wyglądać rywalizacja amerykańsko – chińska w przyszłości, warto wykonać pewien eksperyment i cofnąć się do 1969 roku. Wtedy to Joe Biden po skończeniu studiów rozpoczyna pracę jako adwokat w Delaware, a Donald Trump (również po studiach) wchodzi do rodzinnego biznesu w Nowym Jorku. W tym samym czasie w dalekich Chinach Xi Jinping zostaje zesłany do Liangjiahe, tysiąc kilometrów od Pekinu, gdzie spędzi blisko 7 lat, mieszkając w jaskini, dzisiaj zamienionej na muzeum, które mogą oglądać turyści. Opublikowałem zdjęcia z tego czasu w mediach społecznościowych, co wywołało spore zainteresowanie i wiele komentarzy w tym m.in. o tym, iż Xi Jinping przypomina trochę Władysława Łokietka, który jak wiadomo, też spędził pewien czas w jaskini pod Krakowem, zanim sięgnął po koronę Piastów. Widząc takie porównanie, można się uśmiechnąć, ale coś w tym jest. Pokazuje ono również nie tylko odmienne drogi, którymi kroczyły te dwa supermocarstwa w ostatnich dekadach, ale też dobór elit i ich życiowe losy, przed sięgnięciem po przywództwo. I mówię o tym nieprzypadkowo, gdyż rywalizacja ta toczyć się będzie nie tylko pomiędzy Xi i Bidenem (lub Trumpem), ale pomiędzy „deep states” (przyp. red. nieprzetłumaczalny termin, za którym kryją się wszelkie spiski i tajemne sojusze) obu krajów.
-
-![](https://res.cloudinary.com/inspro/image/upload/v1604257978/rodm/Jinping_r1rist.jpg)
 
 I tu więcej atutów wydaje się mieć Biden (choć w kampanii wyborczej Trump umiejętnie przedstawia to wyborcom, jako jego wadę), a mianowicie jego dużo mocniejsze zakorzenienie w amerykańskim establishmencie. Biden przygodę z amerykańską polityką rozpoczął już w 1972 roku, kandydując na senatora. Później w latach 2008-2016 był wiceprezydentem. Niewielu jest w świecie zachodnim polityków, zwłaszcza dzisiaj, którzy doświadczeniem dorównują Xi Jinpingowi (przynajmniej jeśli chodzi o liczbę lat spędzonych w polityce, gdyż Biden na 7 lat do jaskini zesłany nie został i takich rzeczy w swym blisko 80. letnim życiu nie doświadczył).
 
@@ -78,3 +72,5 @@ Kierownik studiów „Biznes chiński- jak działać skutecznie w czasach Jedwab
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
+
+**Fot.** [**Tumisu**](https://pixabay.com/pl/users/tumisu-148124/ "https://pixabay.com/pl/users/tumisu-148124/") **on** [**Unsplash**](https://unsplash.com/ "https://unsplash.com/")**.** 
