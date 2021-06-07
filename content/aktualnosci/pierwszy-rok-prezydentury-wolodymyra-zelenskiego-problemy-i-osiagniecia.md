@@ -1,6 +1,6 @@
 +++
 date = 2020-09-28T22:00:00Z
-main_image = "/v1601387156/rodm/Ze%C5%82e%C5%84ski_RODM_in06go.jpg"
+main_image = "/v1623070334/rodm/Ze%C5%82enski_RODM_b6hh18.jpg"
 slug = "pierwszy-rok-prezydentury-wolodymyra-zelenskiego-problemy-i-osiagniecia"
 title = "Pierwszy rok prezydentury Wołodymyra Zełeńskiego –problemy i osiągnięcia"
 
@@ -43,4 +43,4 @@ Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
 
-**Źródło foto:** [https://www.president.gov.ua/en](https://www.president.gov.ua/en "https://www.president.gov.ua/en")
+**Foto:** [**Kancelaria Prezydenta Ukrainy**](https://www.president.gov.ua/en/photos/uchast-prezidenta-u-zahodah-z-nagodi-29-yi-richnici-dnya-nez-3573 "https://www.president.gov.ua/en/photos/uchast-prezidenta-u-zahodah-z-nagodi-29-yi-richnici-dnya-nez-3573")**.** 
