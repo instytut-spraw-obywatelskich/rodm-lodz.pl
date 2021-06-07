@@ -1,6 +1,6 @@
 +++
 date = 2020-05-19T22:00:00Z
-main_image = "/v1589984902/rodm/Podcast_1_strona_oad8oz.jpg"
+main_image = "/v1623067928/rodm/koronawirus-a-relacje-rosyjsko-chinskie-RODM_y0zgjq.jpg"
 slug = "koronawirus-a-relacje-rosyjsko-chinskie"
 title = "Koronawirus a relacje rosyjsko-chińskie"
 
@@ -25,4 +25,4 @@ Michał Lubina, doktor nauk społecznych, adiunkt w Instytucie Bliskiego i Dalek
 
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
-Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP. 
+Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
