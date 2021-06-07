@@ -71,7 +71,7 @@ Może nie jest to odpowiednia droga? W końcu „nie zabija się much młotkiem�
 
 [\[13\]](#_ftnref13) [https://tinyurl.com/yxp8cfsg](https://tinyurl.com/y2m3bhzv "https://tinyurl.com/y2m3bhzv"), \[dostęp: 13.10.2020\].
 
-**Źródło foto:** Anders Tegnell, główny epidemiolog Szwecji, fot. Frankie Fouganthin – CC BY-SA 4.0. 
+**Foto:** Anders Tegnell, główny epidemiolog Szwecji, fot. Frankie Fouganthin – CC BY-SA 4.0.
 
 **Autor**: Wojciech Szymczak
 
