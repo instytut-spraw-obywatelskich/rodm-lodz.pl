@@ -1,6 +1,6 @@
 +++
 date = 2020-11-23T23:00:00Z
-main_image = "/v1622481142/rodm/Azja_RODM_lsxmem.jpg"
+main_image = "/v1623073522/rodm/Blaski_cienie_pnqysr.jpg"
 slug = "blaski-i-cienie-najwiekszej-strefy-wolnego-handlu-na-swiecie"
 title = "Blaski i cienie największej strefy wolnego handlu na świecie"
 
@@ -78,3 +78,5 @@ Kierownik studiów „Biznes chiński- jak działać skutecznie w czasach Jedwab
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
+
+**Fot.** [**Yu Kato**](https://unsplash.com/@yukato "https://unsplash.com/@yukato") **on** [**Unsplash**](https://unsplash.com/ "https://unsplash.com/")**.** 
