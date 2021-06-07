@@ -27,4 +27,4 @@ Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
 
-Fot. CC BY-NC-ND Jonathan van Smit, flickr.com/photos/n_ipper/48676399926. 
+**Fot. CC BY-NC-ND Jonathan van Smit, flickr.com/photos/n_ipper/48676399926.**
