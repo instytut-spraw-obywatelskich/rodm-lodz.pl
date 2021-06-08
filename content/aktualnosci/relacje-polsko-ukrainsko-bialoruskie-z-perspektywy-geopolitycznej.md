@@ -1,6 +1,6 @@
 +++
 date = 2021-01-28T23:00:00Z
-main_image = "/v1611937849/rodm/grafika_RODM_PL_BE_UK_fde8av.jpg"
+main_image = "/v1623138166/rodm/Polska-Bia%C5%82oru%C5%9B-Ukraina-RODM_j119a8.jpg"
 slug = "relacje-polsko-ukrainsko-bialoruskie-z-perspektywy-geopolitycznej"
 title = "Relacje polsko-ukraińsko-białoruskie z perspektywy geopolitycznej"
 
@@ -13,7 +13,7 @@ Z uwagi na społeczne protesty na Białorusi po ostatnich wyborach relacje międ
 
 ![Spotkanie ministrów spraw zagranicznych Polski, Litwy i Ukrainy w lipcu 2020 roku połączone z ogłoszeniem powołania Trójkąta Lubelskiego. ](https://res.cloudinary.com/inspro/image/upload/v1611935036/rodm/Fot._Sebastian_Indra_MSZ_Tr%C3%B3jk%C4%85t_Lubelski_RODM_pxqidj.jpg "Fot. Sebastian Indra/MSZ")
 
-Spotkanie ministrów spraw zagranicznych Polski, Litwy i Ukrainy w lipcu 2020 roku połączone z ogłoszeniem powołania Trójkąta Lubelskiego Fot. Sebastian Indra/MSZ
+Spotkanie ministrów spraw zagranicznych Polski, Litwy i Ukrainy w lipcu 2020 roku połączone z ogłoszeniem powołania Trójkąta Lubelskiego **Fot.:** [**Sebastian Indra/MSZ**](https://www.gov.pl/web/dyplomacja/Spotkanie-ministrow-spraw-zagranicznych-polski-litwy-i-ukrainy "https://www.gov.pl/web/dyplomacja/Spotkanie-ministrow-spraw-zagranicznych-polski-litwy-i-ukrainy")
 
 **Po upadku ZSRR**
 
@@ -59,4 +59,4 @@ Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
 
-**Źródło foto: gospodarkaPodkarpacka.pl**
+**Fot.** [**Venita Oberholster**](https://pixabay.com/pl/users/artsybeekids-392631/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5624038 "https://pixabay.com/pl/users/artsybeekids-392631/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5624038") **z** [**pixabay**](https://pixabay.com/pl/ "https://pixabay.com/pl/")**.** 
