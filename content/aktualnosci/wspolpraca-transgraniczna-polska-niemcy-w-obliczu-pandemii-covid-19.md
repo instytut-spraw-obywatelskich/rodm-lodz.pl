@@ -1,6 +1,6 @@
 +++
 date = 2021-01-14T23:00:00Z
-main_image = "/v1610718492/rodm/PL_D_artyku%C5%82_dkcg94.jpg"
+main_image = "/v1623137064/rodm/PL_N-granica_eoxpy4.jpg"
 slug = "wspolpraca-transgraniczna-polska-niemcy-w-obliczu-pandemii-covid-19"
 title = "Współpraca transgraniczna Polska – Niemcy w obliczu pandemii COVID-19 "
 
@@ -12,8 +12,6 @@ Transformacja ustrojowa w 1989 r., a następnie przystąpienie Polski do Unii Eu
 Współpraca wzmocniona jest regulacjami samorządowymi krajów związkowych bezpośrednio graniczących z Polską. Konstytucje landów określają, w sposób pośredni (art. 2 ust. 1 Konstytucji Brandenburgii) lub bezpośredni (art. 11 Konstytucji Meklenburgii – Pomorze Przednie; art. 12 Konstytucji Saksonii) współpracę transgraniczną jako jeden z kierunków i zasad działania instytucji państwowych[\[3\]](#_ftn3).
 
 Bezpośrednio graniczącymi z Niemcami polskimi województwami są: zachodniopomorskie, lubuskie i dolnośląskie, przy czym to pierwsze ma najbardziej rozwinięty i dynamiczny poziom współpracy z sąsiednimi landami. W 2011 r. podjęto działania w kierunku rozwoju transgranicznego regionu. Na skutek koncepcji powstała wizja obejmująca polską część Transgranicznego Regionu Metropolitalnego Szczecina. Wskazywała ona na współpracę z trzema krajami związkowymi – Berlinem, Brandenburgią i Meklemburgią-Pomorzem Przednim. W perspektywie rozwojowej zaakceptowano wzmacnianie ponadregionalnej pozycji Szczecina, a także integrację, głównie z niemieckimi ośrodkami miejskimi i tamtejszymi wspólnotami. Działania te przyczyniają się do lepszego wykorzystywania kapitału ludzkiego, zasobów przyrodniczych, a także wzmacniania powiązań społecznych i gospodarczych. Cztery lata później ukazał się raport _Koncepcja rozwoju Transgranicznego Regionu Metropolitalnego Szczecina_ wskazujący na zakres działań i wizję dalszego rozwoju obszaru[\[4\]](#_ftn4). Przedsięwzięciem dodatkowo wzmacniającym współpracę było utworzenie w grudniu 2019 r. biura krajów związkowych Meklemburgii-Pomorza Przedniego i Brandenburgii do spraw Metropolitalnego Regionu Szczecina w Anklam[\[5\]](#_ftn5).
-
-![Obszar wsparcia ](https://res.cloudinary.com/inspro/image/upload/v1610718935/rodm/Interreg_RODM_wmlp6u.jpg "Obszar wsparcia ")
 
 Wartym uwagi jest projekt realizowany w latach 2017-2020 między Saksonią a województwem dolnośląskim, przy udziale administracji województwa lubuskiego, w ramach _Smart Integration_. W wyniku kooperacji powstało _Saksońsko-Dolnośląskie Studium Pogranicza_ stanowiące pierwszą dwustronną koncepcję przyszłości na poziomie regionalnym w perspektywie czasowej 2020-2030[\[6\]](#_ftn6).
 
@@ -116,6 +114,8 @@ Niestabilność ekonomiczna wpłynęła na ograniczenie środków przeznaczanych
 [\[25\]](#_ftnref25) _Uchwała nr 498/20 Zarządu Województwa Łódzkiego z dnia 29 maja 2020 r. w sprawie przedstawienia raportu o stanie województwa_.
 
 [\[26\]](#_ftnref26) A. Łada, N. Drost, E. Oppenrieder, _Międzynarodowe partnerstwa samorządowe miast podczas epidemii koronawirusa_, [https://www.isp.org.pl/pl/aktualnosci/miedzynarodowe-partnerstwa-samorzadowe-miast-podczas-epidemii-koronawirusa](https://www.isp.org.pl/pl/aktualnosci/miedzynarodowe-partnerstwa-samorzadowe-miast-podczas-epidemii-koronawirusa "https://www.isp.org.pl/pl/aktualnosci/miedzynarodowe-partnerstwa-samorzadowe-miast-podczas-epidemii-koronawirusa"), 02.01.2021
+
+**Fot.** [**Rohrspatz**](https://pixabay.com/pl/users/rohrspatz-231420/ "https://pixabay.com/pl/users/rohrspatz-231420/") **z** [**pixabay**](https://pixabay.com/pl/ "https://pixabay.com/pl/")**.**
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1607458432/rodm/Adriana_Baranowska_RODM_d8yy2t.jpg)
 
