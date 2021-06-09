@@ -1,5 +1,5 @@
 +++
-date = 2021-06-07T22:00:00Z
+date = 2021-06-08T22:00:00Z
 draft = true
 main_image = "/v1623141581/rodm/Rau_Chiny_idaged.jpg"
 slug = "szef-polskiej-dyplomacji-w-pekinie-echa-wizyty"
