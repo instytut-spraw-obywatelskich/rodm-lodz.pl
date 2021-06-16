@@ -47,7 +47,7 @@ Do rozwoju takiej „pragmatycznej współpracy opartej na wzajemnych korzyścia
 
 Jak potoczą się zatem relacje polsko-chińskie, ale także na linii UE-Chiny i Europa Środkowa – Chiny, w których także uczestniczy i aktywną stroną jest Polska, przekonamy się zapewne w najbliższych miesiącach i mam nadzieję, nie raz skomentujemy na łamach Regionalnego Ośrodka Spraw Międzynarodowych w Łodzi.
 
-[**Videokomentarz na kanale YT autora poruszający tematykę wizyty ministra Zbigniewa Raua w Chinach**](https://www.youtube.com/watch?v=AL0y___c678 "https://www.youtube.com/watch?v=AL0y___c678")  
+{{< youtube AL0y___c678 >}}
 
 Minister Zbigniew Rau z wizytą w Chinach **Fot.:** [**Gabriel Piętka/MSZ**](https://www.gov.pl/web/dyplomacja/minister-rau-z-wizyta-w-chinach "https://www.gov.pl/web/dyplomacja/minister-rau-z-wizyta-w-chinach")
 
