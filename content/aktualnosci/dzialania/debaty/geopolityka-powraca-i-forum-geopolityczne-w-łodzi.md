@@ -5,7 +5,7 @@ slug = "geopolityka-powraca-i-forum-geopolityczne-w-lodzi"
 title = "Geopolityka powraca - I Forum Geopolityczne w Łodzi"
 
 +++
-Nasze czasy obfitują w pytania, a niewiadomych jest coraz więcej.Rośnie zainteresowanie różnymi ujęciami kwestii politycznych, w tym geopolityką, która proponuje spojrzenie przez pryzmat uwarunkowań geograficznych.
+Nasze czasy obfitują w pytania, a niewiadomych jest coraz więcej. Rośnie zainteresowanie różnymi ujęciami kwestii politycznych, w tym geopolityką, która proponuje spojrzenie przez pryzmat uwarunkowań geograficznych.
 
 Chętnych do rozmowy nie brakuje, co pokazało I Forum Geopolityczne w Łodzi zorganizowane przez Regionalny Ośrodek Debaty Międzynarodowej w Łodzi. 30 listopada br. na Wydziale Ekonomiczno-Socjologicznym Uniwersytetu Łódzkiego specjaliści oraz pasjonaci geopolityki z całej Polski mieli okazję przyjrzeć się wspólnie pozycji Polski, nowym wymiarom konfliktu i perspektywie przyszłości.
 
