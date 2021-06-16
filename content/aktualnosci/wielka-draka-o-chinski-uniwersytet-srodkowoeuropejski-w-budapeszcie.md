@@ -22,7 +22,7 @@ Projektem wnoszącym zupełnie nową jakość, ale też spore kontrowersje. Tak�
 
 Szorstka rozgrywka Orbana z multimiliarderem węgierskiego pochodzenia zakończona wyprowadzką z Budapesztu Uniwersytetu Środkowoeuropejskiego Georga Sorosa, poprzedziła… sprowadzenie do stolicy kraju Uniwersytetu Fudan.
 
-{{< youtube FpKmtKz-T1o&t >}}
+{{< youtube FpKmtKz-T1o >}}
 
 Wychodzi na to, że po zmianie nazw ulic zaproszony do współpracy uniwersytet z Chin funkcjonowałby w otoczeniu uznawanym przez ChRL za wrogie i prowokacyjne, a gospodarz – Viktor Orban – niewiele mógłby z tym zrobić. Pamiętajmy, że w kulturze chińskiej gospodarz jest uznawany za kogoś, kto rządzi, panuje i jest suwerenem na własnym terytorium (możemy założyć, że taka koncepcja premierowi Węgier akurat się podoba). Tłumaczenia, że mamy do czynienia z innym systemem politycznym, w którym opozycja ma swoje prawa, gdzie ścierają się interesy różnych grup społecznych, a władze lokalne niekoniecznie muszą podzielać wizję rządu centralnego, raczej nie będą remedium na zaistniały kryzys wizerunkowy i zyskanie powagi w oczach partnerów z Chin.
 
@@ -58,7 +58,7 @@ Nieco przestrzeni może natomiast stworzyć decyzja Litwy, która w maju 2021 ro
 
 Co z tego wyniknie? Przekonamy się w najbliższym czasie. Na pewno warto obserwować rozwój sytuacji na Węgrzech. Jestem pewien, że wydarzy się tam sporo ciekawego, co będziemy mieli okazję skomentować na łamach RODM Łódź.
 
-{{< youtube v=cz7O4mtKYCE&t >}}
+{{< youtube v=cz7O4mtKYCE >}}
 
 Felieton ukazał się w ramach cyklu **„Pyffel komentuje”**, w którym autor analizuje bieżącą sytuację międzynarodową.
 
