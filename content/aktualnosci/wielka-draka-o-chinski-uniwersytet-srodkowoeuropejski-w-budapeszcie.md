@@ -57,9 +57,9 @@ Nieco przestrzeni może natomiast stworzyć decyzja Litwy, która w maju 2021 ro
 
 Co z tego wyniknie? Przekonamy się w najbliższym czasie. Na pewno warto obserwować rozwój sytuacji na Węgrzech. Jestem pewien, że wydarzy się tam sporo ciekawego, co będziemy mieli okazję skomentować na łamach RODM Łódź.
 
-**Fot.:** [**Duotone**](https://pixabay.com/pl/photos/budapest-parlament-w%c4%99gry-3623477/ "https://pixabay.com/pl/photos/budapest-parlament-w%c4%99gry-3623477/") **z** [**Pixabay**](https://pixabay.com/pl/ "https://pixabay.com/pl/")**.** 
+**Fot.:** [**Duotone**](https://pixabay.com/pl/photos/budapest-parlament-w%c4%99gry-3623477/ "https://pixabay.com/pl/photos/budapest-parlament-w%c4%99gry-3623477/") **z** [**Pixabay**](https://pixabay.com/pl/ "https://pixabay.com/pl/")**.**
 
-{{< youtube v=cz7O4mtKYCE >}}
+{{< youtube cz7O4mtKYCE >}} 
 
 Felieton ukazał się w ramach cyklu **„Pyffel komentuje”**, w którym autor analizuje bieżącą sytuację międzynarodową.
 
