@@ -1,7 +1,7 @@
 +++
 date = 2021-06-16T22:00:00Z
 draft = true
-main_image = ""
+main_image = "/v1623916117/rodm/budapest_RODM_iz1qkv.jpg"
 slug = "wielka-draka-o-chinski-uniwersytet-srodkowoeuropejski-w-budapeszcie"
 title = "Wielka draka o Chiński Uniwersytet Środkowoeuropejski w Budapeszcie"
 
@@ -57,6 +57,8 @@ To może z kolei oznaczać – i tu po czwarte – że nawet gdyby Polska po wie
 Nieco przestrzeni może natomiast stworzyć decyzja Litwy, która w maju 2021 roku ogłosiła, że opuszcza inicjatywę „17+1” (Europa Środkowa – Chiny). Z pewnością może wprowadzić to nieco nerwowości i zamieszania. Z drugiej jednak strony może zmobilizować Xi Jinpinga i liderów Europy Środkowej do zwiększenia atrakcyjności samego formatu i wzajemnej współpracy.
 
 Co z tego wyniknie? Przekonamy się w najbliższym czasie. Na pewno warto obserwować rozwój sytuacji na Węgrzech. Jestem pewien, że wydarzy się tam sporo ciekawego, co będziemy mieli okazję skomentować na łamach RODM Łódź.
+
+**Fot.:** [**Duotone**](https://pixabay.com/pl/photos/budapest-parlament-w%c4%99gry-3623477/ "https://pixabay.com/pl/photos/budapest-parlament-w%c4%99gry-3623477/") **z** [**Pixabay**](https://pixabay.com/pl/ "https://pixabay.com/pl/")**.** 
 
 {{< youtube v=cz7O4mtKYCE >}}
 
