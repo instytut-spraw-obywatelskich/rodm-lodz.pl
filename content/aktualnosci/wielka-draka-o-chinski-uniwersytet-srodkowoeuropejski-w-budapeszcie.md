@@ -1,6 +1,5 @@
 +++
 date = 2021-06-16T22:00:00Z
-draft = true
 main_image = "/v1623916117/rodm/budapest_RODM_iz1qkv.jpg"
 slug = "wielka-draka-o-chinski-uniwersytet-srodkowoeuropejski-w-budapeszcie"
 title = "Wielka draka o Chiński Uniwersytet Środkowoeuropejski w Budapeszcie"
