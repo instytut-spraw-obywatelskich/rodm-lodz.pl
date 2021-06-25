@@ -18,9 +18,9 @@ W czwartek, 1 lipca 2021 r., o godz. 18:00 zapraszamy do udziału w spotkaniu z 
 
 Spotkanie odbędzie się w ramach Festiwalu Reportażu Młodego Pokolenia organizowanego przez księgarnię **_„Do Dzieła”_** we współpracy z **RODM Łódź**.
 
-Więcej o wydarzeniu:
+### **Weź udział w wydarzeniu!!!**
 
-{{< facebook 303489778078658 >}}
+[https://fb.me/e/3vMuKptgF](https://fb.me/e/3vMuKptgF "https://fb.me/e/3vMuKptgF")
 
 **_„Kuba-Miami. Ucieczki i powroty”_**
 
