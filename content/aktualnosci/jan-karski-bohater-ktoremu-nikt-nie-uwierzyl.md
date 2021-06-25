@@ -1,5 +1,5 @@
 +++
-date = 2021-06-22T22:00:00Z
+date = 2021-06-23T22:00:00Z
 main_image = "/v1624655641/rodm/karski_RODM_fz79vx.jpg"
 slug = "jan-karski-bohater-ktoremu-nikt-nie-uwierzył"
 title = "Jan Karski – bohater, któremu nikt nie uwierzył"
@@ -9,6 +9,6 @@ title = "Jan Karski – bohater, któremu nikt nie uwierzył"
 
 Łodzianin, patriota, kurier i Emisariusz Polskiego Państwa Podziemnego. Bohater, który jako pierwszy poinformował świat o zbrodni holocaustu.
 
-Z Szymonem Pawlakiem – historykiem, edukatorem, doradcą ds. edukacji w Fundacja Edukacyjna Jana Karskiego rozmawiała Wiktoria Sakowicz, konsultantka RODM Łódź.
+Z Szymonem Pawlakiem – historykiem, edukatorem, doradcą ds. edukacji w Fundacji Edukacyjnej Jana Karskiego rozmawiała Wiktoria Sakowicz, konsultantka RODM Łódź.
 
 {{< youtube AZbb3sguAjI >}}
