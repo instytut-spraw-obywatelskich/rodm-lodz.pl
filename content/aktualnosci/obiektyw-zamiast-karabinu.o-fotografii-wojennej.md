@@ -1,5 +1,5 @@
 +++
-date = 2021-06-25T22:00:00Z
+date = 2021-06-24T22:00:00Z
 main_image = "/v1624656167/rodm/fotografia-wojenna_RODM_kw6zfx.jpg"
 slug = "obiektyw-zamiast-karabinu-o-fotografii-wojennej"
 title = "Obiektyw zamiast karabinu. O fotografii wojennej"
