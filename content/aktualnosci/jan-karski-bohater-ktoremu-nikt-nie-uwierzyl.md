@@ -1,6 +1,5 @@
 +++
 date = 2021-06-22T22:00:00Z
-draft = true
 main_image = "/v1624655641/rodm/karski_RODM_fz79vx.jpg"
 slug = "jan-karski-bohater-ktoremu-nikt-nie-uwierzył"
 title = "Jan Karski – bohater, któremu nikt nie uwierzył"
