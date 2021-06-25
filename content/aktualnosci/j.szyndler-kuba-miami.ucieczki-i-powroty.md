@@ -1,6 +1,5 @@
 +++
 date = 2021-06-24T22:00:00Z
-draft = true
 main_image = "/v1624608614/rodm/e_kuba_miami_3d_300dpi_RODM_kjvadl.jpg"
 slug = "j-szyndler-kuba-miami-ucieczki-i-powroty"
 title = "J. Szyndler: Kuba-Miami. Ucieczki i powroty"
