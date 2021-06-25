@@ -15,6 +15,14 @@ Emigrantów takich jak Biviana, Fidel Castro nazywał robactwem, które nie koch
 
 Zachęcamy do lektury. Wydawnictwu Poznańskiemu, wydawcy książki **_„Kuba-Miami. Ucieczki i powroty”_**, dziękujemy za udostępnienie fragmentu do publikacji.
 
+W czwartek (1 lipca 2021 roku) o godz. 18:00 zapraszamy do udziału w spotkaniu z autorką książki, Joannę Szyndler. 
+
+Spotkanie odbędzie się w ramach Festiwalu Reportażu Młodego Pokolenia organizowanego przez księgarnię **_„Do Dzieła”_** we współpracy z **RODM Łódź**. 
+
+Więcej o wydarzeniu: 
+
+{{< facebook 303489778078658 >}}
+
 **_„Kuba-Miami. Ucieczki i powroty”_**
 
 **(fragment)**
