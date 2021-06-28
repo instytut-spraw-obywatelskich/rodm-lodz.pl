@@ -88,7 +88,7 @@ Pani nie zapyta, czy z mlekiem, czy słodzę, oczywiście, że będzie po kubań
 
 Nie sprowadza się kawy ani cygar, embargo na to nie pozwala. Te sprzedawane turystom przy Calle Ocho, jako cygara kubańskie, skręcane są tu, w Miami. Tytoń kupuje się na Dominikanie.
 
-Kubańczyk, powiedzmy, że o imieniu Luis albo Juan Carlos, wyjmuje kubańsko-dominikańskie cygaro z pudełka. Powoli wącha tytoń, napawa się zapachem. Obcina końcówkę, pod- pala. Nie zaciąga się. Myśli o ojcu, który palił po obiedzie, i babce, która przysypiała z cygarem w ustach w fotelu na biegunach. Czy tęskni?
+Kubańczyk, powiedzmy, że o imieniu Luis albo Juan Carlos, wyjmuje kubańsko-dominikańskie cygaro z pudełka. Powoli wącha tytoń, napawa się zapachem. Obcina końcówkę, pod- pala. Nie zaciąga się. Myśli o ojcu, który palił po obiedzie, i babce, która przysypiała z cygarem w ustach w fotelu na biegunach. Czy tęskni? \[...\]
 
 **Joanna Szyndler**: [Kuba-Miami. Ucieczki i powroty, Wydawnictwo Poznańskie 2018.](https://wydawnictwopoznanskie.pl/produkt/kuba-miami/ "https://wydawnictwopoznanskie.pl/produkt/kuba-miami/")
 
