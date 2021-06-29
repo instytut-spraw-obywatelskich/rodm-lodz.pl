@@ -1,6 +1,5 @@
 +++
 date = 2021-06-28T22:00:00Z
-draft = true
 main_image = "/v1624876027/rodm/e_szwajcaria_RODM_aqapg7.jpg"
 slug = "a-kaminska-szwajcaria-podroz-przez-raj-wymyslony"
 title = "A. Kamińska: Szwajcaria. Podróż przez raj wymyślony"
