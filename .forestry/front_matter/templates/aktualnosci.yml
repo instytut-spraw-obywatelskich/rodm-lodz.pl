@@ -27,6 +27,7 @@ fields:
   name: main_image
   label: Main image
 pages:
+- content/aktualnosci/30-lat-traktatu-o-dobrym-sasiedztwie-i-przyjaznej-wspolpracy-miedzy-polska-a-niemcami.md
 - content/aktualnosci/75-rocznica-zakończenia-drugiej-wojny-światowej.md
 - content/aktualnosci/a-fifield-wielki-następca-niebiańskie-przeznaczenie-błyskotliwego-towarzysza-kim-dzong-una.md
 - content/aktualnosci/a.kaminska-szwajcaria.podroz-przez-raj-wymyslony.md
