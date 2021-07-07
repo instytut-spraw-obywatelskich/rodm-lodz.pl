@@ -1,6 +1,5 @@
 +++
 date = 2021-07-06T22:00:00Z
-draft = true
 main_image = "/v1625675466/rodm/polska-niemcy_lk3ag9.jpg"
 slug = "30-lat-traktatu-o-dobrym-sasiedztwie-i-przyjaznej-wspolpracy-miedzy-polska-a-niemcami"
 title = "30 lat Traktatu o dobrym sąsiedztwie i przyjaznej współpracy między Polską a Niemcami "
