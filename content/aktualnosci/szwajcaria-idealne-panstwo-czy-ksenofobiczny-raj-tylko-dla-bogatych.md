@@ -11,6 +11,6 @@ Jak myślicie, jak tak małe, górzyste państwo stało się przystanią dla fin
 
 Z Agnieszką Kamińską – dziennikarką, autorką bloga I'm not Swiss oraz książki „Szwajcaria. Podróż przez raj wymyślony” rozmawia Wiktoria Sakowicz, konsultantka **#RODMŁódź**.
 
-[Fragment książki znajdziecie tutaj.](https://www.rodm-lodz.pl/aktualnosci/a-kaminska-szwajcaria-podroz-przez-raj-wymyslony/ "https://www.rodm-lodz.pl/aktualnosci/a-kaminska-szwajcaria-podroz-przez-raj-wymyslony/") 
+[Fragment książki znajdziecie tutaj.](https://www.rodm-lodz.pl/aktualnosci/a-kaminska-szwajcaria-podroz-przez-raj-wymyslony/ "https://www.rodm-lodz.pl/aktualnosci/a-kaminska-szwajcaria-podroz-przez-raj-wymyslony/")
 
-{{< youtube VBdxReomk0M >}}
+{{< youtube v=VBdxReomk0M >}}
