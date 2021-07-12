@@ -1,6 +1,5 @@
 +++
 date = 2021-07-08T22:00:00Z
-draft = true
 main_image = "/v1626084226/rodm/szwajcaria_RODM_bjewyn.jpg"
 slug = "szwajcaria-idealne-panstwo-czy-ksenofobiczny-raj-tylko-dla-bogatych"
 title = "Szwajcaria – idealne państwo czy ksenofobiczny raj tylko dla bogatych?"
