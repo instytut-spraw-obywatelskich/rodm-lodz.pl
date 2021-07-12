@@ -11,7 +11,7 @@ title = "A. Kamińska: Szwajcaria. Podróż przez raj wymyślony"
 
 Zachęcamy do lektury. Wydawnictwu Poznańskiemu, wydawcy książki **_„Szwajcaria. Podróż przez raj wymyślony”_**, dziękujemy za udostępnienie fragmentu do publikacji.
 
-Rozmowa z Agnieszką Kamińską – dziennikarką, autorką bloga I’m not Swiss oraz książki „Szwajcaria. Podróż przez raj wymyślony”. 
+Rozmowa z Agnieszką Kamińską – dziennikarką, autorką bloga I’m not Swiss oraz książki **_„Szwajcaria. Podróż przez raj wymyślony”_**. 
 
 {{< youtube VBdxReomk0M >}}
 
