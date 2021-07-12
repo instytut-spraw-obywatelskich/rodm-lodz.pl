@@ -11,6 +11,10 @@ title = "A. Kamińska: Szwajcaria. Podróż przez raj wymyślony"
 
 Zachęcamy do lektury. Wydawnictwu Poznańskiemu, wydawcy książki **_„Szwajcaria. Podróż przez raj wymyślony”_**, dziękujemy za udostępnienie fragmentu do publikacji.
 
+Rozmowa z Agnieszką Kamińską – dziennikarką, autorką bloga I’m not Swiss oraz książki „Szwajcaria. Podróż przez raj wymyślony”. 
+
+{{< youtube VBdxReomk0M >}}
+
 **_„Szwajcaria. Podróż przez raj wymyślony”_**
 
 **(fragment)**
@@ -35,7 +39,7 @@ W czasach Eschera kraj wciąż odstawał gospodarczo od swoich coraz bardziej up
 
 Aby zbudować nowoczesną Szwajcarię, potrzebne były pieniądze. Dzisiaj swoją siedzibę ma tutaj prawie trzysta banków, ale za czasów Eschera nie było ani jednej instytucji, która mogłaby udzielić mu kredytu na tak dużą inwestycję. Ponieważ nie chciał, żeby nowa, wspaniała – bo dobrze skomunikowana – ale przecież wciąż neutralna Szwajcaria budowała swoją potęgę na pieniądzach pożyczonych od potężnych sąsiadów, postanowił wziąć sprawy w swoje ręce. Skoro nie było banku, to należało go stworzyć. Tak w 1856 roku powstała pierwsza w Szwajcarii instytucja kredytowa, znana dzisiaj na całym świecie pod nazwą Credit Suisse. Od tego momentu Escher mógł już realizować nawet najbardziej śmiałe pomysły.
 
-Dziełem jego życia miał być tunel łączący północ kraju z południem i otwierający Szwajcarię na Europę, ale to, co miało wynieść Eschera na piedestał historii, stało się jego zgubą. Za wizjonerskie próby wydrążenia najdłuższego tunelu kolejowego na świecie jak najszybciej i jak najniższym kosztem zapłacili robotnicy, głównie Włosi pracujący przy budowie. Praca za pół darmo w nieludzkich warunkach, śmiertelne wypadki, a w końcu i strajki spowodowały opóźnienia w budowie i zwiększenie jej kosztów. Escher najpierw musiał schować dumę do kieszeni i pożyczyć pieniądze od Niemców i Włochów, a potem usunąć się w cień. Na otwarcie tunelu Świętego Gotarda w 1880 roku nawet nie dostał zaproszenia. Dostał za to pomnik w najbardziej reprezentacyjnym miejscu: przed zuryskim Hauptbahnhof, dworcem głównym. Zwrócony twarzą w stronę Bahnhofstrasse, ulicy Dworcowej, jednej z najdroższych ulic na świecie, codziennie patrzy z cokołu na to, jak rozwinęła się Szwajcaria, której kapitalistyczny system tworzył z takim zapałem. \[...\] 
+Dziełem jego życia miał być tunel łączący północ kraju z południem i otwierający Szwajcarię na Europę, ale to, co miało wynieść Eschera na piedestał historii, stało się jego zgubą. Za wizjonerskie próby wydrążenia najdłuższego tunelu kolejowego na świecie jak najszybciej i jak najniższym kosztem zapłacili robotnicy, głównie Włosi pracujący przy budowie. Praca za pół darmo w nieludzkich warunkach, śmiertelne wypadki, a w końcu i strajki spowodowały opóźnienia w budowie i zwiększenie jej kosztów. Escher najpierw musiał schować dumę do kieszeni i pożyczyć pieniądze od Niemców i Włochów, a potem usunąć się w cień. Na otwarcie tunelu Świętego Gotarda w 1880 roku nawet nie dostał zaproszenia. Dostał za to pomnik w najbardziej reprezentacyjnym miejscu: przed zuryskim Hauptbahnhof, dworcem głównym. Zwrócony twarzą w stronę Bahnhofstrasse, ulicy Dworcowej, jednej z najdroższych ulic na świecie, codziennie patrzy z cokołu na to, jak rozwinęła się Szwajcaria, której kapitalistyczny system tworzył z takim zapałem. \[...\]
 
 **Agnieszka Kamińska**: [Szwajcaria. Podróż przez raj wymyślony, Wydawnictwo Poznańskie 2021](https://wydawnictwopoznanskie.pl/produkt/szwajcaria-podroz-przez-raj-wymyslony/ "https://wydawnictwopoznanskie.pl/produkt/szwajcaria-podroz-przez-raj-wymyslony/").
 
