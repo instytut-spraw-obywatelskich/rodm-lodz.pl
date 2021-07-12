@@ -9,7 +9,7 @@ title = "Szwajcaria – idealne państwo czy ksenofobiczny raj tylko dla bogatyc
 
 Jak myślicie, jak tak małe, górzyste państwo stało się przystanią dla finansiery?
 
-Z Agnieszką Kamińską – dziennikarką, autorką bloga I'm not Swiss oraz książki „Szwajcaria. Podróż przez raj wymyślony” rozmawiała Wiktoria Sakowicz, konsultantka **#RODMŁódź**.
+Z Agnieszką Kamińską – dziennikarką, autorką bloga I'm not Swiss oraz książki „Szwajcaria. Podróż przez raj wymyślony” rozmawia Wiktoria Sakowicz, konsultantka **#RODMŁódź**.
 
 [Fragment książki znajdziecie tutaj.](https://www.rodm-lodz.pl/aktualnosci/a-kaminska-szwajcaria-podroz-przez-raj-wymyslony/ "https://www.rodm-lodz.pl/aktualnosci/a-kaminska-szwajcaria-podroz-przez-raj-wymyslony/")
 
