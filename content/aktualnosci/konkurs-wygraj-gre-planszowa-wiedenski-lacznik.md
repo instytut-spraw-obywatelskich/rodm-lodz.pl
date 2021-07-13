@@ -1,6 +1,5 @@
 +++
 date = 2021-07-12T22:00:00Z
-draft = true
 main_image = "/v1626171378/rodm/800x600_galads.png"
 slug = "konkurs-wygraj-gre-planszowa-wiedenski-lacznik"
 title = "Konkurs: Wygraj grę planszową „Wiedeński Łącznik”!"
