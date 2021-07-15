@@ -1,6 +1,5 @@
 +++
 date = 2021-07-14T22:00:00Z
-draft = true
 main_image = "/v1626275816/rodm/swiat_narodow_zagubionych_RODM_l5uyvg.jpg"
 slug = "b-goralczyk-n-kolodynska-magdziarz-swiat-narodow-zagubionych"
 title = "B. Góralczyk, N. Kołodyńska-Magdziarz: Świat Narodów Zagubionych"
