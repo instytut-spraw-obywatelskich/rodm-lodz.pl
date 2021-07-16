@@ -5,24 +5,20 @@ slug = "dyskryminacja-i-pokrewne-przejawy-nietolerancji-a-rola-ONZ-w-ich-zwalcza
 title = "Dyskryminacja i pokrewne przejawy nietolerancji a rola ONZ w ich zwalczaniu"
 
 +++
-### **„Komitet Narodów Zjednoczonych ds. Likwidacji Dyskryminacji Rasowej (CERD) nie jest sądem, gdzie składa się skargę, jest proces i wyrok jak w Europejskim Trybunale Praw Człowieka w Strasburgu. W ONZ jest więcej miejsca na podejście koncyliacyjno-prawno-polityczne”.** 
+### **„Komitet Narodów Zjednoczonych ds. Likwidacji Dyskryminacji Rasowej (CERD) nie jest sądem, gdzie składa się skargę, jest proces i wyrok jak w Europejskim Trybunale Praw Człowieka w Strasburgu. W ONZ jest więcej miejsca na podejście koncyliacyjno-prawno-polityczne”.**
 
 Rozmowa **#RODMonline** z prof. Michałem Balcerzakiem z Wydziału Nauk o Polityce i Bezpieczeństwie Uniwersytetu Mikołaja Kopernika w Toruniu, w której koordynator **#RODMŁódź** Paweł Marczak pytał świeżo wybranego członka CERD o:
 
 * funkcję i sposób działania Komitetu,
-
-
 * narzędzia, jakimi dysponuje w monitorowaniu działań państw w walce z dyskryminacją rasową,
-
-
 * przejawy dyskryminacji we współczesnym świecie,
-
-
 * „dyplomatyczną kuchnię” i okoliczności wyboru.
 
 {{< youtube VFH_QyMmpSQ >}}
 
-![](https://res.cloudinary.com/inspro/image/upload/v1626391302/rodm/Micha%C5%82_Balcerzak_RODM_akoztu.jpg)**Dr hab. Michał Balcerzak, prof. UMK** – profesor uczelni w Katedrze Bezpieczeństwa Międzynarodowego na Wydziale Nauk o Polityce i Bezpieczeństwie UMK. W latach 2003-2021 pracował w Katedrze Praw Człowieka na Wydziale Prawa i Administracji UMK. Dr hab. nauk prawnych (2014).
+![](https://res.cloudinary.com/inspro/image/upload/v1626421344/rodm/Micha%C5%82_Balcerzak_RODM_yuxemg.jpg)
+
+**Dr hab. Michał Balcerzak, prof. UMK** – profesor uczelni w Katedrze Bezpieczeństwa Międzynarodowego na Wydziale Nauk o Polityce i Bezpieczeństwie UMK. W latach 2003-2021 pracował w Katedrze Praw Człowieka na Wydziale Prawa i Administracji UMK. Dr hab. nauk prawnych (2014).
 
 Dyplom Międzynarodowego Instytutu Praw Człowieka w Strasburgu (2004) i Akademii Prawa Europejskiego we Florencji (2007, human rights session). Nagroda Fundacji im. Prof. Manfreda Lachsa za najlepszą książkę z zakresu prawa międzynarodowego opublikowaną w 2008 r. ("Zagadnienie precedensu w prawie międzynarodowym praw człowieka").
 
