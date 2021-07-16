@@ -1,7 +1,7 @@
 +++
 date = 2021-07-15T22:00:00Z
 draft = true
-main_image = ""
+main_image = "/v1626444752/rodm/100-lecie_KPCh_RODM_yy4i0y.jpg"
 slug = "bez-komunistycznej-partii-nie-byloby-nowych-chin-wielkie-ambicje-pekinu-w-100-lecie-kpch"
 title = "„Bez Komunistycznej Partii nie byłoby Nowych Chin”. Wielkie ambicje Pekinu w 100-lecie KPCh"
 
@@ -76,7 +76,7 @@ Jednakże za taką próbę wpisania Chin w kontekst świata zewnętrznego możem
 
 Jakkolwiek nie interpretować przemówienia Xi Jinpinga nie ulega wątpliwości, że mamy do czynienia z mobilizacją i zwarciem szeregów. Z mobilizacją i zwarciem szeregów przed dalszą walką... Jaki przybierze kształt i jakie będzie miało to znaczenie także dla świata niechińskiego, o tym przekonamy się zapewne wkrótce.
 
-**Fot.:**  **z** **Pixabay.**
+**Fot.: Nick Fewings z Unsplash .**
 
 {{< youtube 4c3A7UbMv9Q >}}
 
