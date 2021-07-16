@@ -76,7 +76,7 @@ Jednakże za taką próbę wpisania Chin w kontekst świata zewnętrznego możem
 
 Jakkolwiek nie interpretować przemówienia Xi Jinpinga nie ulega wątpliwości, że mamy do czynienia z mobilizacją i zwarciem szeregów. Z mobilizacją i zwarciem szeregów przed dalszą walką... Jaki przybierze kształt i jakie będzie miało to znaczenie także dla świata niechińskiego, o tym przekonamy się zapewne wkrótce.
 
-**Fot.: Nick Fewings z Unsplash .**
+**Fot.:** [**Nick Fewings**](https://unsplash.com/photos/zqwV28pcUTg "https://unsplash.com/photos/zqwV28pcUTg") **z Unsplash .**
 
 {{< youtube 4c3A7UbMv9Q >}}
 
