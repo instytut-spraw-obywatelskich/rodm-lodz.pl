@@ -1,6 +1,5 @@
 +++
 date = 2021-07-15T22:00:00Z
-draft = true
 main_image = "/v1626390662/rodm/dyskryminacja_RODM_ipj9wj.jpg"
 slug = "dyskryminacja-i-pokrewne-przejawy-nietolerancji-a-rola-ONZ-w-ich-zwalczaniu"
 title = "Dyskryminacja i pokrewne przejawy nietolerancji a rola ONZ w ich zwalczaniu"
