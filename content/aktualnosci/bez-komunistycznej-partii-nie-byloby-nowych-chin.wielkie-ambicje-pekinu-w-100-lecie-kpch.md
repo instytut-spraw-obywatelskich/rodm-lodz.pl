@@ -1,6 +1,5 @@
 +++
 date = 2021-07-15T22:00:00Z
-draft = true
 main_image = "/v1626444752/rodm/100-lecie_KPCh_RODM_yy4i0y.jpg"
 slug = "bez-komunistycznej-partii-nie-byloby-nowych-chin-wielkie-ambicje-pekinu-w-100-lecie-kpch"
 title = "„Bez Komunistycznej Partii nie byłoby Nowych Chin”. Wielkie ambicje Pekinu w 100-lecie KPCh"
