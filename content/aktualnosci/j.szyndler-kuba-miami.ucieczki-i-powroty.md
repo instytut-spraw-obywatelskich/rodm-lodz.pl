@@ -22,7 +22,7 @@ Spotkanie odbędzie się w ramach Festiwalu Reportażu Młodego Pokolenia organi
 
 [https://fb.me/e/3vMuKptgF](https://fb.me/e/3vMuKptgF "https://fb.me/e/3vMuKptgF")
 
-{{< youtube CD-m3zt03Ms >}}
+{{< youtube CD-m3zt03Ms >}} 
 
 **_„Kuba-Miami. Ucieczki i powroty”_**
 
