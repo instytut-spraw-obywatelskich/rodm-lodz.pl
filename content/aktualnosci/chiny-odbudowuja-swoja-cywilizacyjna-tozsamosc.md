@@ -1,7 +1,7 @@
 +++
 date = 2021-08-16T22:00:00Z
 draft = true
-main_image = ""
+main_image = "/v1626275816/rodm/swiat_narodow_zagubionych_RODM_l5uyvg.jpg"
 slug = "chiny-odbudowuja-swoja-cywilizacyjna-tozsamosc"
 title = "Chiny odbudowują swoją cywilizacyjną tożsamość"
 
@@ -32,11 +32,13 @@ Sytuacja w USA się zmieniła i to jest nowa jakość, która bardzo utrudni nor
 
 Bogdan Góralczyk, politolog, sinolog, dyplomata, publicysta. Profesor w Centrum Europejskim Uniwersytetu Warszawskiego (od 2016 r. dyrektor). W latach 2003-2008 ambasador RP w Królestwie Tajlandii, Republice Filipin i Związku Myanmar (d. Birma). Wcześniej, w latach 1991–98 przebywał na placówce dyplomatycznej na Węgrzech. Był też szefem Gabinetu ministra spraw zagranicznych RP. Specjalizacja: współczesne stosunki międzynarodowe, w tym szczególnie globalizacja i wyzwania globalne, Chiny, Azja Wschodnia i Południowo-Wschodnia na arenie międzynarodowej, pozycja międzynarodowa UE i integracja europejska, problematyka węgierska. Autor wielu prac książkowych, m.in. „Wielki renesans. Chińska transformacja i jej konsekwencje”.
 
+**Fot.: Okładka książki – wywiadu rzeki „Świat Narodów Zagubionych” Wydawnictwa Nowej Konfederacji.** 
+
 {{< youtube B-KelWnXeU8 >}}
 
 Rozmowa stanowi premierę nowego, comiesięcznego cyklu wywiadów **Radosława Pyffela** i **Konrada Rajcy** m.in. z politologami, dyplomatami i przedstawicielami biznesu o wyzwaniach w polityce międzynarodowej, które będą publikowane na stronie Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi.
 
-[**Więcej o książce „Świat Narodów Zagubionych”.**](https://nowakonfederacja.pl/produkt/swiat-narodow-zagubionych/ "https://nowakonfederacja.pl/produkt/swiat-narodow-zagubionych/")  
+[**Więcej o książce „Świat Narodów Zagubionych”.**](https://nowakonfederacja.pl/produkt/swiat-narodow-zagubionych/ "https://nowakonfederacja.pl/produkt/swiat-narodow-zagubionych/")
 
 [**Fragment książki „Świat Narodów Zagubionych” dostępny na stronie RODM Łódź. **](https://www.rodm-lodz.pl/aktualnosci/b-goralczyk-n-kolodynska-magdziarz-swiat-narodow-zagubionych/ "https://www.rodm-lodz.pl/aktualnosci/b-goralczyk-n-kolodynska-magdziarz-swiat-narodow-zagubionych/")
 
