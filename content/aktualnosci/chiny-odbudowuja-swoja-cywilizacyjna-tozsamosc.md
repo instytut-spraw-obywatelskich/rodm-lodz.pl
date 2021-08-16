@@ -32,7 +32,7 @@ Sytuacja w USA się zmieniła i to jest nowa jakość, która bardzo utrudni nor
 
 Bogdan Góralczyk, politolog, sinolog, dyplomata, publicysta. Profesor w Centrum Europejskim Uniwersytetu Warszawskiego (od 2016 r. dyrektor). W latach 2003-2008 ambasador RP w Królestwie Tajlandii, Republice Filipin i Związku Myanmar (d. Birma). Wcześniej, w latach 1991–98 przebywał na placówce dyplomatycznej na Węgrzech. Był też szefem Gabinetu ministra spraw zagranicznych RP. Specjalizacja: współczesne stosunki międzynarodowe, w tym szczególnie globalizacja i wyzwania globalne, Chiny, Azja Wschodnia i Południowo-Wschodnia na arenie międzynarodowej, pozycja międzynarodowa UE i integracja europejska, problematyka węgierska. Autor wielu prac książkowych, m.in. „Wielki renesans. Chińska transformacja i jej konsekwencje”.
 
-**Fot.: Okładka książki – wywiadu rzeki „Świat Narodów Zagubionych” Wydawnictwa Nowej Konfederacji.** 
+**Fot.: Okładka książki – wywiadu rzeki „Świat Narodów Zagubionych” Wydawnictwa Nowej Konfederacji.**
 
 {{< youtube B-KelWnXeU8 >}}
 
@@ -40,7 +40,7 @@ Rozmowa stanowi premierę nowego, comiesięcznego cyklu wywiadów **Radosława P
 
 [**Więcej o książce „Świat Narodów Zagubionych”.**](https://nowakonfederacja.pl/produkt/swiat-narodow-zagubionych/ "https://nowakonfederacja.pl/produkt/swiat-narodow-zagubionych/")
 
-[**Fragment książki „Świat Narodów Zagubionych” dostępny na stronie RODM Łódź. **](https://www.rodm-lodz.pl/aktualnosci/b-goralczyk-n-kolodynska-magdziarz-swiat-narodow-zagubionych/ "https://www.rodm-lodz.pl/aktualnosci/b-goralczyk-n-kolodynska-magdziarz-swiat-narodow-zagubionych/")
+[**Fragment książki „Świat Narodów Zagubionych” dostępny na stronie RODM Łódź.**](https://www.rodm-lodz.pl/aktualnosci/b-goralczyk-n-kolodynska-magdziarz-swiat-narodow-zagubionych/ "https://www.rodm-lodz.pl/aktualnosci/b-goralczyk-n-kolodynska-magdziarz-swiat-narodow-zagubionych/") 
 
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
