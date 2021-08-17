@@ -35,11 +35,11 @@ Bogdan Góralczyk, politolog, sinolog, dyplomata, publicysta. Profesor w Centrum
 
 {{< youtube B-KelWnXeU8 >}}
 
-Rozmowa stanowi premierę nowego, comiesięcznego cyklu wywiadów **Radosława Pyffela** i **Konrada Rajcy** m.in. z politologami, dyplomatami i przedstawicielami biznesu o wyzwaniach w polityce międzynarodowej, które będą publikowane na stronie Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi.
+Rozmowa stanowi premierę nowego, comiesięcznego cyklu wywiadów **Radosława Pyffela** m.in. z politologami, dyplomatami i przedstawicielami biznesu o wyzwaniach w polityce międzynarodowej, które będą publikowane na stronie Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi.
 
 [**Więcej o książce „Świat Narodów Zagubionych”.**](https://nowakonfederacja.pl/produkt/swiat-narodow-zagubionych/ "https://nowakonfederacja.pl/produkt/swiat-narodow-zagubionych/")
 
-[**Fragment książki „Świat Narodów Zagubionych” dostępny na stronie RODM Łódź.**](https://www.rodm-lodz.pl/aktualnosci/b-goralczyk-n-kolodynska-magdziarz-swiat-narodow-zagubionych/ "https://www.rodm-lodz.pl/aktualnosci/b-goralczyk-n-kolodynska-magdziarz-swiat-narodow-zagubionych/") 
+[**Fragment książki „Świat Narodów Zagubionych” dostępny na stronie RODM Łódź.**](https://www.rodm-lodz.pl/aktualnosci/b-goralczyk-n-kolodynska-magdziarz-swiat-narodow-zagubionych/ "https://www.rodm-lodz.pl/aktualnosci/b-goralczyk-n-kolodynska-magdziarz-swiat-narodow-zagubionych/")
 
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
