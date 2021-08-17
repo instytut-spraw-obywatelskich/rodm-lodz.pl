@@ -1,6 +1,5 @@
 +++
 date = 2021-08-16T22:00:00Z
-draft = true
 main_image = "/v1626275816/rodm/swiat_narodow_zagubionych_RODM_l5uyvg.jpg"
 slug = "chiny-odbudowuja-swoja-cywilizacyjna-tozsamosc"
 title = "Chiny odbudowują swoją cywilizacyjną tożsamość"
