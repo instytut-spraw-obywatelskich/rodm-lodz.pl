@@ -6,7 +6,7 @@ slug = "czy-autonomia-strategiczna-to-wlasciwa-odpowiedz-ue-na-zmieniajacy-sie-s
 title = "Czy autonomia strategiczna to właściwa odpowiedź UE na zmieniający się świat?"
 
 +++
-### **23 września 2021 r. w gmachu KPRM w Alejach Ujazdowskich 1/3 w Warszawie odbędzie się konferencja pt. „_Czy autonomia strategiczna to właściwa odpowiedź UE na zmieniający się świat?”_. Wydarzenie jest elementem serii debat i dyskusji prowadzonych w ramach Konferencji o przyszłości Europy, stanowiąc równocześnie okazję do przedstawienia polskiego stanowiska wobec koncepcji otwartej autonomii strategicznej.**
+#### **23 września 2021 r. w gmachu KPRM w Alejach Ujazdowskich 1/3 w Warszawie odbędzie się konferencja pt. „_Czy autonomia strategiczna to właściwa odpowiedź UE na zmieniający się świat?”_. Wydarzenie jest elementem serii debat i dyskusji prowadzonych w ramach Konferencji o przyszłości Europy, stanowiąc równocześnie okazję do przedstawienia polskiego stanowiska wobec koncepcji otwartej autonomii strategicznej.**
 
 W trakcie spotkania przewidziane jest wystąpienie wprowadzające Ministra do spraw Unii Europejskiej Pana Konrada Szymańskiego poświęcone wyzwaniom międzynarodowym, przed jakimi stoi obecnie Unia Europejska. Konferencji nadano formułę dyskusji panelowych w ramach trzech bloków tematycznych:
 
