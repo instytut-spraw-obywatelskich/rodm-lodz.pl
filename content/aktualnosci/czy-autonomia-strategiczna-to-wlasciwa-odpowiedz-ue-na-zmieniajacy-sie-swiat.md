@@ -19,4 +19,6 @@ Moderatorami i panelistami są przedstawiciele świata nauki i eksperci zajmują
 
 Z uwagi na obostrzenia sanitarno-epidemiologiczne spotkanie będzie zorganizowane w formacie hybrydowym (udział stacjonarny ograniczonej liczby gości na podstawie imiennych zaproszeń z opcją online).
 
+Program konferencji znajduje się w załączniku. 
+
 ![](https://res.cloudinary.com/inspro/image/upload/v1631008222/rodm/KONFERENCJA_PLAKAT_PIONOWO_RODM_rw3xzd.jpg)
