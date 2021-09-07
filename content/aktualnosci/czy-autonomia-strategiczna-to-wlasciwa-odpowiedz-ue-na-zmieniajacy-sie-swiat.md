@@ -1,6 +1,5 @@
 +++
 date = 2021-09-06T22:00:00Z
-draft = true
 main_image = "/v1631007789/rodm/KONFERENCJA_PLAKAT_POZIOMO_RODM_t6bxzn.jpg"
 slug = "czy-autonomia-strategiczna-to-wlasciwa-odpowiedz-ue-na-zmieniajacy-sie-swiat"
 title = "Czy autonomia strategiczna to właściwa odpowiedź UE na zmieniający się świat?"
