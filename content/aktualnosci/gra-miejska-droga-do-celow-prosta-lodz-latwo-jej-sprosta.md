@@ -15,6 +15,6 @@ Zapisywać można się do 24 września przez wypełnienie formularza online. Zap
 
 Organizatorami wydarzenia są Stowarzyszenie Narodów Zjednoczonych w Polsce (UNAP) oraz Regionalny Ośrodek Debaty Międzynarodowej w Łodzi (RODM).
 
-Regulamin gry w załączniku. 
+Regulamin gry [w załączniku](https://b87d0f7d-5927-4af6-a982-e682d6b9c374.filesusr.com/ugd/35b206_7ff209d7428b4514911907d09d78ba45.pdf "https://b87d0f7d-5927-4af6-a982-e682d6b9c374.filesusr.com/ugd/35b206_7ff209d7428b4514911907d09d78ba45.pdf").
 
-Zgoda rodzica w załączniku. 
+Zgoda rodzica [w załączniku](https://b87d0f7d-5927-4af6-a982-e682d6b9c374.filesusr.com/ugd/35b206_f48e2a3f07f041ffa2c4b33f5bcd75c7.pdf "https://b87d0f7d-5927-4af6-a982-e682d6b9c374.filesusr.com/ugd/35b206_f48e2a3f07f041ffa2c4b33f5bcd75c7.pdf").
