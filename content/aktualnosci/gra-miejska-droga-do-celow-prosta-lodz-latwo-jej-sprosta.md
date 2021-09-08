@@ -11,7 +11,7 @@ Celem gry jest zabawa w gronie najbliższych a także zdobywanie wiedzy z zakres
 
 Zadaniem uczestników, którzy będą podzieleni na 2-4 osobowe zespoły, będzie znalezienie kolejnych stacji, rozwiązanie zadań i zagadek, wszystko by zdobyć jak największą ilość punktów i dobrze się bawić. Dla najlepszych przewidziane są nagrody. Gra przeznaczona jest zarówno dla dorosłych jak i dla najmłodszych.
 
-Zapisywać można się do 24 września przez wypełnienie [formularza online](forms.gle/mmcGguuuzQbkNLSz8 "forms.gle/mmcGguuuzQbkNLSz8"). Zapraszamy do udziału wszystkich łodzian i wszystkie łodzianki a także odwiedzających i przyjezdnych!
+Zapisywać można się do 24 września przez wypełnienie [formularza online](https://docs.google.com/forms/d/e/1FAIpQLScV8hH61Vb6OFhbHrDfZ6efbjJhgDC4MASeyZeumIg_oSwjVw/viewform "https://docs.google.com/forms/d/e/1FAIpQLScV8hH61Vb6OFhbHrDfZ6efbjJhgDC4MASeyZeumIg_oSwjVw/viewform"). Zapraszamy do udziału wszystkich łodzian i wszystkie łodzianki a także odwiedzających i przyjezdnych!
 
 Organizatorami wydarzenia są Stowarzyszenie Narodów Zjednoczonych w Polsce (UNAP) oraz Regionalny Ośrodek Debaty Międzynarodowej w Łodzi (RODM).
 
