@@ -1,6 +1,5 @@
 +++
 date = 2021-09-07T22:00:00Z
-draft = true
 main_image = "/v1631086478/rodm/Park_Staromiejski_%C5%81%C3%B3d%C5%BA_RODM_k07tc8.jpg"
 slug = "gra-miejska-droga-do-celow-prosta-lodz-latwo-jej-sprosta"
 title = "Gra Miejska - droga do Celów prosta, Łódź łatwo jej sprosta!"
