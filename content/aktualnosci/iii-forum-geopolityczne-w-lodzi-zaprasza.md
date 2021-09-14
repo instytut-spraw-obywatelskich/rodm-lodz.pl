@@ -1,6 +1,5 @@
 +++
 date = 2021-09-13T22:00:00Z
-draft = true
 main_image = "/v1631626714/rodm/strona_rodm_ytny8w.jpg"
 slug = "III-forum-geopolityczne-w-lodzi-zaprasza"
 title = "III Forum Geopolityczne w Łodzi zaprasza!"
