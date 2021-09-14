@@ -35,15 +35,15 @@ Debata online
 
 Panel – **Krajobraz polityczny „Mutti” – Co czeka Niemcy, Polskę i UE po rządach Angeli Merkel?**
 
-1\. __Arkadiusz Stempin*__ – historyk, politolog, komentator polityczny. Ukończył studia historyczne na Uniwersytecie Jagiellońskim oraz germanistykę na Albert-Ludwigs-Universität we Freiburgu. Od 2009 roku kierownik katedry im. Konrada Adenauera w Wyższej Szkole Europejskiej im. ks. J. Tischnera. Ostatnie publikacje: „Angela Merkel – cesarzowa Europy”, „Moralny podbój Polski przez Cesarstwo Niemieckie w latach I wojny światowej”.
+1\. **Arkadiusz Stempin*** – historyk, politolog, komentator polityczny. Ukończył studia historyczne na Uniwersytecie Jagiellońskim oraz germanistykę na Albert-Ludwigs-Universität we Freiburgu. Od 2009 roku kierownik katedry im. Konrada Adenauera w Wyższej Szkole Europejskiej im. ks. J. Tischnera. Ostatnie publikacje: „Angela Merkel – cesarzowa Europy”, „Moralny podbój Polski przez Cesarstwo Niemieckie w latach I wojny światowej”.
 
 2\. **Anna Kwiatkowska** – doktor nauk społecznych w zakresie nauk o polityce. Od 1997 roku główna specjalistka w Departamencie Współpracy Międzynarodowej Ministerstwa Spraw Wewnętrznych i Administracji. Specjalizacja: stosunki polsko-niemieckie, współpraca transgraniczna i międzyregionalna; w latach 1997–2001 sekretarz wykonawczy Polsko-Niemieckiej Międzyrządowej Komisji ds. Współpracy Regionalnej i Przygranicznej oraz Wspólnej Komisji Polsko-Flandryjskiej. Od 2005 roku w Ośrodku Studiów Wschodnich – założycielka i kierowniczka Działu Niemieckiego.
 
-3\. __Marek Cichocki*__ – politolog, socjolog, filozof, specjalista od stosunków polsko-niemieckich oraz integracji europejskiej. Profesor w Collegium Civitas. Autor książek i publikacji dotyczących stosunków międzynarodowych, historii myśli politycznej, historii Europy. Redaktor naczelny pisma „Nowa Europa. Przegląd Natoliński” oraz współtwórca rocznika filozoficznego „Teologia Polityczna”. W 2007 roku polski negocjator Traktatu Lizbońskiego UE, doradca społeczny prezydenta Lecha Kaczyńskiego.
+3\. **Marek Cichocki*** – politolog, socjolog, filozof, specjalista od stosunków polsko-niemieckich oraz integracji europejskiej. Profesor w Collegium Civitas. Autor książek i publikacji dotyczących stosunków międzynarodowych, historii myśli politycznej, historii Europy. Redaktor naczelny pisma „Nowa Europa. Przegląd Natoliński” oraz współtwórca rocznika filozoficznego „Teologia Polityczna”. W 2007 roku polski negocjator Traktatu Lizbońskiego UE, doradca społeczny prezydenta Lecha Kaczyńskiego.
 
 4\. Prowadzenie: Paweł Marczak (Koordynator RODM Łódź)
 
-__*__ – nazwiska do potwierdzenia
+\* – nazwiska do potwierdzenia
 
 **Czwartek, 7 października**
 
