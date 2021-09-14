@@ -43,7 +43,7 @@ Panel – **Krajobraz polityczny „Mutti” – Co czeka Niemcy, Polskę i UE p
 
 4\. Prowadzenie: Paweł Marczak (Koordynator RODM Łódź)
 
-\* – nazwiska do potwierdzenia
+__*__ – nazwiska do potwierdzenia
 
 **Czwartek, 7 października**
 
