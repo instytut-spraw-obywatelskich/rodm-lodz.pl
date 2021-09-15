@@ -10,8 +10,8 @@ title = "K. Wężyk: Kanada. Ulubiony kraj świata"
 
 Katarzyna Wężyk odwiedziła Zielone Wzgórze i szkołę, w której przez półtora wieku kanadyjskie państwo „wyciągało Indianina z Indianina”. Oglądała na własne oczy, jak wydobycie kanadyjskiego „czarnego złota” wpływa na dziką przyrodę i życie mieszkańców Alberty. Opisała nadające się na pasjonujący film życie obu premierów Trudeau, ojca i syna.
 
-„Ulubiony kraj świata” to jednak coś więcej niż reportaż podróżniczy i obyczajowy, świetnie łączący historię i współczesność. To przede wszystkim niezwykle aktualna, pełna konkretów rzecz o pierwszym państwie postnarodowym, w którym multikulturalizm naprawdę działa. Autorka rozmawia z Kanadyjczykami od pokoleń, przedstawicielami ludności rdzennej, z Polakami mieszkającymi tam od lat oraz z dopiero adaptującymi się imigrantami. Jacy są, z czego są dumni, a czego się wstydzą? Dlaczego, w przeciwieństwie do reszty świata, nie boją się obcych? I dlaczego – mimo że „Kanada nie jest krajem, w którym wszyscy żyją w dostatku i idealnej harmonii, a jednorożce galopują w stronę tęczy” – stanowi dziś model państwa, w którym różne kultury, religie i sposoby życia potrafią się dogadać?  
-  
+„Ulubiony kraj świata” to jednak coś więcej niż reportaż podróżniczy i obyczajowy, świetnie łączący historię i współczesność. To przede wszystkim niezwykle aktualna, pełna konkretów rzecz o pierwszym państwie postnarodowym, w którym multikulturalizm naprawdę działa. Autorka rozmawia z Kanadyjczykami od pokoleń, przedstawicielami ludności rdzennej, z Polakami mieszkającymi tam od lat oraz z dopiero adaptującymi się imigrantami. Jacy są, z czego są dumni, a czego się wstydzą? Dlaczego, w przeciwieństwie do reszty świata, nie boją się obcych? I dlaczego – mimo że „Kanada nie jest krajem, w którym wszyscy żyją w dostatku i idealnej harmonii, a jednorożce galopują w stronę tęczy” – stanowi dziś model państwa, w którym różne kultury, religie i sposoby życia potrafią się dogadać?
+
 Zachęcamy do lektury. Wydawnictwu Agory, wydawcy książki **_„Kanada. Ulubiony kraj świata”_**, dziękujemy za udostępnienie fragmentu do publikacji.
 
 **_„Kanada. Ulubiony kraj świata”_**
@@ -36,7 +36,7 @@ W tym samym rozdaniu ministrem ds. imigracji został kolejny uchodźca, urodzony
 
 Ministerstwo Sportu, przemianowane na Ministerstwo Sportu i Osób Niepełnosprawnych, objęła niewidoma paraolimpijska pływaczka (trzy brązowe medale) i prawniczka Carla Qualtrough, a Ministerstwo ds. Weteranów – sparaliżowany po postrzale Kent Hehr. Ministrem ds. rybołówstwa, oceanów i straży przybrzeżnej został Inuita Hunter Too-too, a Ministerstwo Handlu Międzynarodowego objęła była dziennikarka o ukraińskich korzeniach Chrystia Freeland (po zwycięstwie Donalda Trumpa Trudeau powierzył Freeland, kobiecie znanej z tego, że nie daje sobie w kaszę dmuchać, tekę ministry spraw zagranicznych).
 
-– Prezentuję wam gabinet, który wygląda jak Kanada – ogłosił Trudeau podczas prezentacji nowego rządu. A pytany, czemu wprowadził parytet płci, rozłożył ręce i stwierdził: – Bo jest 2015 rok. \[...\] 
+– Prezentuję wam gabinet, który wygląda jak Kanada – ogłosił Trudeau podczas prezentacji nowego rządu. A pytany, czemu wprowadził parytet płci, rozłożył ręce i stwierdził: – Bo jest 2015 rok. \[...\]
 
 **Katarzyna Wężyk**: [Kanada, Ulubiony kraj świata, Wydawnictwo Agora 2017](https://www.agora.pl/kanada-ulubiony-kraj-swiata-nowa-ksiazka-wydawnictwa-agora "https://www.agora.pl/kanada-ulubiony-kraj-swiata-nowa-ksiazka-wydawnictwa-agora").
 
