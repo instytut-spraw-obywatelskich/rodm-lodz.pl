@@ -1,0 +1,43 @@
++++
+date = 2021-09-14T22:00:00Z
+draft = true
+main_image = "/v1631718950/rodm/Ok%C5%82adka_Kanada_vmm9c0.jpg"
+slug = "k-wezyk-kanada-ulubiony-kraj-swiata"
+title = "K. Wężyk: Kanada. Ulubiony kraj świata"
+
++++
+#### **Czy Kanada - (prawie) najlepsze miejsce do życia na ziemi - jest faktycznie rajem? By odpowiedzieć na to pytanie, Katarzyna Wężyk przejechała 12 tysięcy kilometrów, pięć stref czasowych i cztery regiony klimatyczne. Jej książka** „**Kanada. Ulubiony kraj świata**” **ukazała się nakładem Wydawnictwa Agora.**
+
+Katarzyna Wężyk odwiedziła Zielone Wzgórze i szkołę, w której przez półtora wieku kanadyjskie państwo „wyciągało Indianina z Indianina”. Oglądała na własne oczy, jak wydobycie kanadyjskiego „czarnego złota” wpływa na dziką przyrodę i życie mieszkańców Alberty. Opisała nadające się na pasjonujący film życie obu premierów Trudeau, ojca i syna.
+
+„Ulubiony kraj świata” to jednak coś więcej niż reportaż podróżniczy i obyczajowy, świetnie łączący historię i współczesność. To przede wszystkim niezwykle aktualna, pełna konkretów rzecz o pierwszym państwie postnarodowym, w którym multikulturalizm naprawdę działa. Autorka rozmawia z Kanadyjczykami od pokoleń, przedstawicielami ludności rdzennej, z Polakami mieszkającymi tam od lat oraz z dopiero adaptującymi się imigrantami. Jacy są, z czego są dumni, a czego się wstydzą? Dlaczego, w przeciwieństwie do reszty świata, nie boją się obcych? I dlaczego – mimo że „Kanada nie jest krajem, w którym wszyscy żyją w dostatku i idealnej harmonii, a jednorożce galopują w stronę tęczy” – stanowi dziś model państwa, w którym różne kultury, religie i sposoby życia potrafią się dogadać?  
+  
+Zachęcamy do lektury. Wydawnictwu Agory, wydawcy książki **_„Kanada. Ulubiony kraj świata”_**, dziękujemy za udostępnienie fragmentu do publikacji.
+
+**_„Kanada. Ulubiony kraj świata”_**
+
+**(fragment)**
+
+**Justin**
+
+\[...\] Kanadyjska polityka rzadko trafia do serwisów informacyjnych w innych krajach, ale rząd Trudeau – młody, etnicznie różnorodny, a przede wszystkim złożony po połowie z kobiet i mężczyzn – był newsem na całym świecie. Wśród trzydziestu ministrów znalazło się też dwoje polityków pochodzących z ludności rdzennej, dwie osoby niepełno- sprawne i trzech sikhów.
+
+Minister obrony Harjit Sajjan urodził się w Indiach, w maleńkiej wiosce bez bieżącej wody. Jego rodzina wyemigrowała do Kanady, gdy miał pięć lat. W Vancouver najpierw pracował jako policjant, potem wstąpił do wojska, gdzie zdobył rangę podpułkownika. Kanadyjska armia dopuszcza noszących turbany i brody sikhów, z zastrzeżeniem jednak, że każdy żołnierz musi być w stanie założyć hełm i maskę gazową. Sajjan nauczył się wiązać turban tak, żeby się zmieścił pod hełm, a co do maski, to wymyślił i opatentował taką, która działa nawet wtedy, gdy zakładający ją ma sporą brodę (wcześniej nie posiadała takich nawet indyjska armia).
+
+Służył w Bośni – tam przekonał Serbów, że jako sikh jest jedyną naprawdę neutralną osobą w konflikcie między muzułmanami a chrześcijanami – i trzy tury w Afganistanie, gdzie zajmował się współpracą z miejscową policją. Kilkakrotnie został ranny. Jego przełożeni nie mogli się go nachwalić („odważny, inteligentny i ujmujący, z rzadkim potencjałem”). W polityce nowicjusz – pierwszy mandat zdobył w 2015 roku. Kolejnym sikhem, dla odmiany nienoszącym turbanu, jest minister infrastruktury Amarjeet Sohi. Miał osiemnaście lat, gdy wyemigrował do Kanady. W latach osiemdziesiątych sikhijscy separatyści, od lat domagający się utworzenia odrębnego państwa, przeprowadzili serię zamachów terrorystycznych; w jednym z nich zginęła premier Indira Gandhi. Dwudziestoczteroletni Sohi pojechał do Indii w 1988 roku, gdy wciąż obowiązywało prawo pozwalające przetrzymywać podejrzanych o terroryzm dwa lata bez sądu. Dołączył do grupy aktywistów działających na rzecz reformy rolnej, został aresztowany i uznany za ekstremistę. W areszcie był bity, pozbawiono go snu i grożono jego rodzinie; policja nie mogła się zdecydować, czy ma powiązania z Pakistanem, sikhijskimi separatystami czy może Tamilskimi Tygrysami. W więzieniu spędził dwadzieścia jeden miesięcy, wypuszczono go dopiero po akcji Amnesty International i interwencji kanadyjskiego rządu.
+
+– To doświadczenie uczyniło mnie tym, kim jestem dziś. Byłem tak blisko śmierci, że potrafię docenić życie, a także fundamentalne prawa człowieka i godność, na jaką zasługuje. To napędza mnie w pracy i życiu osobistym – deklarował. Po powrocie do Kanady Sohi pracował jako kierowca autobusu. Potem był radnym Edmonton.
+
+Ministra sprawiedliwości Jody Wilson-Raybould pochodzi z kolei ze szczepu Kwakwaka’wakw. Wcześniej była prokuratorem i wpływową liderką ludności rdzennej Kolumbii Brytyjskiej. Jej ojciec Bill Wilson, również aktywista, w 1983 roku poinformował ówczesnego premiera Pierre’a Trudeau, że Jody i jej siostra chcą zostać prawniczkami, a potem premierkami. Jody Wilson-Raybould postanowiła wejść do polityki, bo poprzedni premier Stephen Harper ignorował kwestię setek nierozwiązanych morderstw Indianek. Po półtora roku rządów Trudeau jej ojciec skrytykował tempo prac w tej samej sprawie. Ministrą ds. instytucji demokratycznych, odpowiedzialną za przeprowadzenie reformy systemu wyborczego, została Maryam Monsef (rocznik 1984). Miała jedenaście lat, gdy razem z matką i dwiema siostrami przyjechała do Kanady; to o niej Barack Obama, przemawiając w Ottawie, mówił: „Mała dziewczynka, która uciekła z Afganistanu na ośle, wielbłądzie i samolotem i która pamięta, jak w tym kraju przywitały ją pomocne dłonie i śpiew rudzika”. Ona sama opowiadała: „Wolontariusze i sąsiedzi sprawili, że nie czułyśmy się samotne, że jesteśmy częścią wspólnoty i że wszystko będzie dobrze. Dwadzieścia lat później wciąż pamiętam ich dobroć i mam nadzieję, że jako posłanka będę w stanie choć trochę się odwdzięczyć”. Monsef wywołała mały skandal, kiedy okazało się, że urodziła się w Iranie, nie w Afganistanie, i większość dzieciństwa spędziła po irańskiej stronie granicy; padły nawet głosy o możliwości odebrania jej obywatelstwa. Z reformy – mimo licznych konsultacji społecznych – nic nie wyszło, a po przetasowaniach w rządzie na początku 2017 roku Monsef dostała tekę ministry ds. statusu kobiet.
+
+W tym samym rozdaniu ministrem ds. imigracji został kolejny uchodźca, urodzony w Somalii Ahmed Hussen. Hussen przyjechał do Kanady w 1993 roku. Miał szesnaście lat, na miejscu rodzinę, ale angielskiego dopiero musiał się nauczyć. Na studia – prawo – zarobił, pracując na stacji benzynowej. W Toronto był działaczem społecznym, z sukcesem pracował na rzecz rewitalizacji wcześniej zaniedbanej dzielnicy. Jako prawnik zajmował się prawem imigracyjnym i przestępczością. Zeznając przed komisją zajmującą się zapobieganiem radykalizacji muzułmańskiej młodzieży, deklarował: „Demokracja, wolność, rządy prawa, prawa człowieka i szacunek dla mniejszości nie są w sprzeczności z moją wiarą”. W 2015 roku – jako pierwszy Kanadyjczyk somalijskiego pochodzenia – dostał się do parlamentu.
+
+– Piętnaście lat temu zostałem obywatelem Kanady. Spędziłem tu większość życia i jestem dumny z naszego kraju, z jego hojności, z tego, że wciąż uważa ludzi szukających ochrony za mile widzianych. Dziś stoję na czele ministerstwa, którego sam byłem klientem. Ale świadczy to nie tyle o mnie, co o Kanadzie, o tym, co jest w tym kraju możliwe – stwierdził.
+
+Ministerstwo Sportu, przemianowane na Ministerstwo Sportu i Osób Niepełnosprawnych, objęła niewidoma paraolimpijska pływaczka (trzy brązowe medale) i prawniczka Carla Qualtrough, a Ministerstwo ds. Weteranów – sparaliżowany po postrzale Kent Hehr. Ministrem ds. rybołówstwa, oceanów i straży przybrzeżnej został Inuita Hunter Too-too, a Ministerstwo Handlu Międzynarodowego objęła była dziennikarka o ukraińskich korzeniach Chrystia Freeland (po zwycięstwie Donalda Trumpa Trudeau powierzył Freeland, kobiecie znanej z tego, że nie daje sobie w kaszę dmuchać, tekę ministry spraw zagranicznych).
+
+– Prezentuję wam gabinet, który wygląda jak Kanada – ogłosił Trudeau podczas prezentacji nowego rządu. A pytany, czemu wprowadził parytet płci, rozłożył ręce i stwierdził: – Bo jest 2015 rok. \[...\] 
+
+**Katarzyna Wężyk**: [Kanada, Ulubiony kraj świata, Wydawnictwo Agora 2017](https://www.agora.pl/kanada-ulubiony-kraj-swiata-nowa-ksiazka-wydawnictwa-agora "https://www.agora.pl/kanada-ulubiony-kraj-swiata-nowa-ksiazka-wydawnictwa-agora").
+
+Premiera książki: **16 października 2017**.
