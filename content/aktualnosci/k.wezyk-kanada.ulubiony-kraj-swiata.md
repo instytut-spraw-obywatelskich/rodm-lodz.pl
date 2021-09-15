@@ -1,6 +1,5 @@
 +++
 date = 2021-09-14T22:00:00Z
-draft = true
 main_image = "/v1631718950/rodm/Ok%C5%82adka_Kanada_vmm9c0.jpg"
 slug = "k-wezyk-kanada-ulubiony-kraj-swiata"
 title = "K. Wężyk: Kanada. Ulubiony kraj świata"
