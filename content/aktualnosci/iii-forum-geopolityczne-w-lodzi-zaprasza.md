@@ -21,7 +21,7 @@ I wreszcie, **czy Arktyka może być postrzegana jako arena rywalizacji zbrojnej
 
 Z uwagi na obecną sytuację epidemiologiczną i przepisy sanitarne wydarzenie będzie miało formułę hybrydową: trzy pierwsze panele odbędą się wyłącznie online, zaś debata „Arktyka jako miejsce rywalizacji mocarstw światowych?” będzie zorganizowana stacjonarnie w Sali Wydziału Studiów Międzynarodowych i Politologicznych Uniwersytetu Łódzkiego.
 
-## [Zarejestruj się na III Forum Geopolityczne w Łodzi](https://us06web.zoom.us/webinar/register/WN_Z2A_xXkfTbq_0e3nuFmoiQ "https://us06web.zoom.us/webinar/register/WN_Z2A_xXkfTbq_0e3nuFmoiQ")
+## [**Zarejestruj się na III Forum Geopolityczne w Łodzi**](https://us06web.zoom.us/webinar/register/WN_Z2A_xXkfTbq_0e3nuFmoiQ "https://us06web.zoom.us/webinar/register/WN_Z2A_xXkfTbq_0e3nuFmoiQ")
 
 #### **III Forum Geopolityczne 2021**
 
