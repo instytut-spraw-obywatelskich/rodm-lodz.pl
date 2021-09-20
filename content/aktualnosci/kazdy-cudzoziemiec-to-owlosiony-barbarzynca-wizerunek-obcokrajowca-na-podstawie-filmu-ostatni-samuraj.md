@@ -79,7 +79,7 @@ Befu H., _Cultural Nationalism in East Asia, Representation and Identity_, Unive
 
 [\[4\]](#_ftnref4) A. Kasschau, S. Eguchi, _Using Japanese Slang_, Tuttle Publishing, 1995, s. 61.
 
-[\[5\]](#_ftnref5)[http://www.dkn.orient.uj.edu.pl/artykuly/kultura?p_p_id=56_INSTANCE_ti1B&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column3&p_p_col_pos=1&p_p_col_count=2&groupId=5343560&articleId=5900576T](http://www.dkn.orient.uj.edu.pl/artykuly/kultura?p_p_id=56_INSTANCE_ti1B&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column3&p_p_col_pos=1&p_p_col_count=2&groupId=5343560&articleId=5900576T "http://www.dkn.orient.uj.edu.pl/artykuly/kultura?p_p_id=56_INSTANCE_ti1B&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column3&p_p_col_pos=1&p_p_col_count=2&groupId=5343560&articleId=5900576T"), \[dostęp: 04.05.2020\].
+[\[5\]](#_ftnref5)[https://bit.ly/3lJQvF0](https://bit.ly/3lJQvF0 "https://bit.ly/3lJQvF0"), \[dostęp: 04.05.2020\].
 
 [\[6\]](#_ftnref6) S. Buckley, _The Encyclopedia of Contemporary Japanese Culture_, Routledge, New York 2002, str. 161.
 
