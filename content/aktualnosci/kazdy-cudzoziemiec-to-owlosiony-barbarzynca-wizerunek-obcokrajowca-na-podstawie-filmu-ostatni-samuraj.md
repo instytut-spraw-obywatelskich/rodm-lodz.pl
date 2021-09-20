@@ -1,6 +1,5 @@
 +++
 date = 2021-09-19T22:00:00Z
-draft = true
 main_image = "/v1632147090/rodm/Pokaz_samurajski_dla_zwiedzaj%C4%85cych_w_Zamku_w_Kumamoto_x6xlq7.jpg"
 slug = "kazdy-cudzoziemiec-to-owlosiony-barbarzynca-wizerunek-obcokrajowca-na-podstawie-filmu-ostatni-samuraj"
 title = "Każdy cudzoziemiec to owłosiony barbarzyńca! Wizerunek obcokrajowca na podstawie filmu „Ostatni samuraj”"
