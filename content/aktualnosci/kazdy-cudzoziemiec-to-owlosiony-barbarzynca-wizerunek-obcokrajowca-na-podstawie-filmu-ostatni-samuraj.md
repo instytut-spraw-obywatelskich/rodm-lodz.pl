@@ -26,13 +26,23 @@ Pierwsze zetknięcie Zachodu z Japonią sięga czasów przybycia na wyspy pierws
 
 Przedstawiani wówczas obcokrajowcy byli nadzwyczaj wysocy i nienaturalnie wydłużeni, ubrani w bufiaste spodnie. Charakterystyczne dla takiego obrazu były zbyt duże nosy, jasne włosy i czerwone twarze, które po prostu w przeciwieństwie do japońskiego kanonu piękna, były brzydkie[\[5\]](#_ftn5).
 
+![](https://res.cloudinary.com/inspro/image/upload/v1632147771/rodm/Kumamoto_fbhmgd.jpg)
+
+**Fot. Archiwum prywatne autorki. Zamek w Kumamoto. Na jego polach miała miejsce bitwa pod Shiroyamą z 1877 roku.** 
+
 _Gaikokujin_ to kolejne określenie, które oznacza osobę z zewnątrz lub obcego. _Gaikokujin_ zaczął być używany od 1867 roku w ostatnich dniach okresu Tokugawa i jest grzeczniejszą alternatywą do słowa _gaijin_[\[6\]](#_ftn6)_._ Filozofia _gaijin_ jest utożsamiana z filozofią rasy. Wiąże się z przekonaniem skonstruowanym przez samych Japończyków, że zasadniczo różnią się od reszty świata. Twórcą „japońskości”, ideologii _Nihonjinron_ z XVIII wieku jest Harumi Befu, który w swojej ideologii przedstawił Japonię jako jednorodne społeczeństwo. Każdy, kto nie był „czystej japońskiej krwi” pod względem rasy, pochodzenia etnicznego, narodowości, języka i klasy był określany jako „inny”. Świat Japończyków był kategoryzowany na „my Japończycy” oraz „reszta”[\[7\]](#_ftn7). Było to szczególnie potrzebne Japończykom, aby odpowiedzieć sobie na pytanie „kim jesteśmy” po takich wydarzeniach historycznych jak westernizacja i przymusowe otwarcie kraju na wpływy zewnętrzne[\[8\]](#_ftn8)_._ Oba określenia funkcjonują w Japonii i budzą pejoratywne skojarzenia do dziś.
 
 Tak więc niebycie Japończykiem oznaczało bycie obcym i właśnie w taki sposób początkowo był traktowany Algren. Poczucie obcości nie wynikało tylko z faktu, że uważano go za potencjalnego wroga, obcość sięgała nieco głębiej – Algren był Amerykaninem, który nie znał zasad oraz etykiety panującej w tak tradycyjnym społeczeństwie. Nie ściąga butów przed wejściem do domu, nie umie jeść pałeczkami, nie kłania się, tradycyjny strój japoński mężczyzn nazywa „sukienką”, nie rozumie wartości wyznawanych przez Japończyków i nie mówi w ich języku. Dopiero po pewnym czasie widzimy, jak Algren próbuje sztuki kaligrafii, bierze kąpiel w gorących źródłach, obserwuje walki mieczem _boken_, walki łuczników uprawiających _kyūdō_, ceremonię parzenia herbaty. Powoli staje się przyjacielem pozornie zamkniętej dla niego wspólnoty, nosi japoński strój, opanowuje podstawy języka, kłania się jak Japończyk, walczy jak Japończyk, a nawet myśli jak Japończyk.
 
+![](https://res.cloudinary.com/inspro/image/upload/v1632147270/rodm/Drzeworyt_sf2mu8.jpg)
+
+**Fot. Archiwum prywatne autorki. W środku drzeworyt z bitwą pod Shiroyamą. Po bokach portrety osób, które wzięły udział w bitwie, w tym przywódcy rebelii Takamori Saigo (pierwsza postać od góry po lewej stronie).**
+
 Końcówka filmu przenosi nas na pole bitwy, w której ramię w ramię z Katsumoto stają naprzeciw wojskom wiernym modernizacji kraju. Algren, już nie jako obcy, ale jako przyjaciel w japońskiej zbroi walczy za tradycję samurajów. Katsumoto ostatecznie ginie jako tytułowy „Ostatni samuraj” a Algren, który na początku wyrażał krytykę _seppuku_, pozwolił przyjacielowi zakończyć w ten sposób życie, w pełni rozumiejąc jej idee.
 
 „Ostatni samuraj” częściowo fikcyjnie zderza ze sobą dwa światy – amerykański i japoński. Na jego przykładzie można śmiało stwierdzić, że następstwami relacji międzykulturowych powinny być dialog, wzajemne zrozumienie, odrzucenie uprzedzeń i stereotypów nawet dla kontrastowych i bardzo odmiennych dla siebie kultur. Samurajowie nie okazali się dzikusami, którzy odcinają głowy swoim wrogom z zimną krwią, lecz ludźmi pokory, szacunku, z własną tradycją. Amerykanie z kolei to nie „barbarzyńcy z Zachodu”, lecz zwykli ludzie posiadający swoje – trochę odmienne – ideały. Sęk w tym, by je dostrzec i zaakceptować, tak jak uczą tego bohaterowie.
+
+„Ostatni samuraj” to także dawka historii, ponieważ tytuł odnosi się do prawdziwych wydarzeń opartych na losach Takamoriego Saigo, do którego w filmie nawiązuje postać Katsumoto. To on, jako przeciwnik modernizacji kraju poprowadził buntowników w bitwie na polach zamku w Kumamoto (tzw. Bitwa pod Shiroyamą z 1877 roku). Miałam okazję osobiście odwiedzić to wyjątkowe miejsce, w którym grupa samurajów oddała swoje życie z nadzieją, że dusza tradycji przetrwa. W pewnym sensie dopięli swego, ponieważ pamięć o samurajach jest pielęgnowana przez Japończyków po dziś dzień.
 
 „Ostatni samuraj” to także dawka historii, ponieważ tytuł odnosi się do prawdziwych wydarzeń opartych na losach Takamoriego Saigo, do którego w filmie nawiązuje postać Katsumoto. To on, jako przeciwnik modernizacji kraju poprowadził buntowników w bitwie na polach zamku w Kumamoto (tzw. Bitwa pod Shiroyamą z 1877 roku). Miałam okazję osobiście odwiedzić to wyjątkowe miejsce, w którym grupa samurajów oddała swoje życie z nadzieją, że dusza tradycji przetrwa. W pewnym sensie dopięli swego, ponieważ pamięć o samurajach jest pielęgnowana przez Japończyków po dziś dzień.
 
@@ -41,6 +51,8 @@ Końcówka filmu przenosi nas na pole bitwy, w której ramię w ramię z Katsumo
 **Autor:** Sylwia Adamowicz
 
 Studentka relacji międzykulturowych na Uniwersytecie Jagiellońskim w Krakowie, stypendystka Uniwersytetu Kobe w Japonii. Zafascynowana komunikacją międzynarodową, kulturą biznesu w Japonii, specyfiką społeczeństwa japońskiego oraz północnokoreańskiego. Stażystka Instytutu Spraw Obywatelskich, obecnie koordynatorka ds. imigracyjnych, a prywatnie nauczycielka języka angielskiego oraz japońskiego. W wolnym czasie miłośniczka kaligrafii, kina azjatyckiego, a w przerwie pomiędzy nowymi odcinkami dram koreańskich – fanka jazdy na rolkach.
+
+**Fot. tytułowe. Archiwum prywatne autorki. Pokaz samurajski dla zwiedzających w Zamku w Kumamoto.** 
 
 **Źródła:**
 
