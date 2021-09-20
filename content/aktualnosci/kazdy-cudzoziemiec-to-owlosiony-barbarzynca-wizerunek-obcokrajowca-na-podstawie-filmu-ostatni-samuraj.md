@@ -27,7 +27,7 @@ Przedstawiani wówczas obcokrajowcy byli nadzwyczaj wysocy i nienaturalnie wydł
 
 ![](https://res.cloudinary.com/inspro/image/upload/v1632147771/rodm/Kumamoto_fbhmgd.jpg)
 
-**Fot. Archiwum prywatne autorki. Zamek w Kumamoto. Na jego polach miała miejsce bitwa pod Shiroyamą z 1877 roku.** 
+**Fot. Archiwum prywatne autorki. Zamek w Kumamoto. Na jego polach miała miejsce bitwa pod Shiroyamą z 1877 roku.**
 
 _Gaikokujin_ to kolejne określenie, które oznacza osobę z zewnątrz lub obcego. _Gaikokujin_ zaczął być używany od 1867 roku w ostatnich dniach okresu Tokugawa i jest grzeczniejszą alternatywą do słowa _gaijin_[\[6\]](#_ftn6)_._ Filozofia _gaijin_ jest utożsamiana z filozofią rasy. Wiąże się z przekonaniem skonstruowanym przez samych Japończyków, że zasadniczo różnią się od reszty świata. Twórcą „japońskości”, ideologii _Nihonjinron_ z XVIII wieku jest Harumi Befu, który w swojej ideologii przedstawił Japonię jako jednorodne społeczeństwo. Każdy, kto nie był „czystej japońskiej krwi” pod względem rasy, pochodzenia etnicznego, narodowości, języka i klasy był określany jako „inny”. Świat Japończyków był kategoryzowany na „my Japończycy” oraz „reszta”[\[7\]](#_ftn7). Było to szczególnie potrzebne Japończykom, aby odpowiedzieć sobie na pytanie „kim jesteśmy” po takich wydarzeniach historycznych jak westernizacja i przymusowe otwarcie kraju na wpływy zewnętrzne[\[8\]](#_ftn8)_._ Oba określenia funkcjonują w Japonii i budzą pejoratywne skojarzenia do dziś.
 
@@ -45,13 +45,13 @@ Końcówka filmu przenosi nas na pole bitwy, w której ramię w ramię z Katsumo
 
 „Ostatni samuraj” to także dawka historii, ponieważ tytuł odnosi się do prawdziwych wydarzeń opartych na losach Takamoriego Saigo, do którego w filmie nawiązuje postać Katsumoto. To on, jako przeciwnik modernizacji kraju poprowadził buntowników w bitwie na polach zamku w Kumamoto (tzw. Bitwa pod Shiroyamą z 1877 roku). Miałam okazję osobiście odwiedzić to wyjątkowe miejsce, w którym grupa samurajów oddała swoje życie z nadzieją, że dusza tradycji przetrwa. W pewnym sensie dopięli swego, ponieważ pamięć o samurajach jest pielęgnowana przez Japończyków po dziś dzień.
 
+**Fot. tytułowe. Archiwum prywatne autorki. Pokaz samurajski dla zwiedzających w Zamku w Kumamoto.**
+
 ![](https://res.cloudinary.com/inspro/image/upload/v1632142956/rodm/Sylwia_Adamowicz_fuh89r.jpg)
 
 **Autor:** Sylwia Adamowicz
 
 Studentka relacji międzykulturowych na Uniwersytecie Jagiellońskim w Krakowie, stypendystka Uniwersytetu Kobe w Japonii. Zafascynowana komunikacją międzynarodową, kulturą biznesu w Japonii, specyfiką społeczeństwa japońskiego oraz północnokoreańskiego. Stażystka Instytutu Spraw Obywatelskich, obecnie koordynatorka ds. imigracyjnych, a prywatnie nauczycielka języka angielskiego oraz japońskiego. W wolnym czasie miłośniczka kaligrafii, kina azjatyckiego, a w przerwie pomiędzy nowymi odcinkami dram koreańskich – fanka jazdy na rolkach.
-
-**Fot. tytułowe. Archiwum prywatne autorki. Pokaz samurajski dla zwiedzających w Zamku w Kumamoto.** 
 
 **Źródła:**
 
