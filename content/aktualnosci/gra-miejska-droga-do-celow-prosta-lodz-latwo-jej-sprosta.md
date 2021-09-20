@@ -7,7 +7,7 @@ title = "Gra Miejska – droga do Celów prosta, Łódź łatwo jej sprosta!"
 +++
 #### **Już 28.09 br. o godzinie 11:00 w Parku Staromiejskim w Łodzi odbędzie się jedyna w swoim rodzaju gra miejska. Wszystko odbywać się będzie na zewnątrz i z zachowaniem wszystkich środków bezpieczeństwa.**
 
-Celem gry jest zabawa w gronie najbliższych, a także zdobywanie wiedzy z zakresu Celów Zrównoważonego Rozwoju i historii Łodzi. Gra to świetny sposób na spędzenie soboty z rodziną i znajomymi.
+Celem gry jest zabawa w gronie najbliższych, a także zdobywanie wiedzy z zakresu Celów Zrównoważonego Rozwoju i historii Łodzi. Gra to świetny sposób na spędzenie czasu z rodziną i znajomymi.
 
 Zadaniem uczestników, którzy będą podzieleni na 2-4 osobowe zespoły, będzie znalezienie kolejnych stacji, rozwiązanie zadań i zagadek, wszystko by zdobyć jak największą ilość punktów i dobrze się bawić. Dla najlepszych przewidziane są nagrody. Gra przeznaczona jest zarówno dla dorosłych jak i dla najmłodszych.
 
