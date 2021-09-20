@@ -36,6 +36,8 @@ Końcówka filmu przenosi nas na pole bitwy, w której ramię w ramię z Katsumo
 
 „Ostatni samuraj” to także dawka historii, ponieważ tytuł odnosi się do prawdziwych wydarzeń opartych na losach Takamoriego Saigo, do którego w filmie nawiązuje postać Katsumoto. To on, jako przeciwnik modernizacji kraju poprowadził buntowników w bitwie na polach zamku w Kumamoto (tzw. Bitwa pod Shiroyamą z 1877 roku). Miałam okazję osobiście odwiedzić to wyjątkowe miejsce, w którym grupa samurajów oddała swoje życie z nadzieją, że dusza tradycji przetrwa. W pewnym sensie dopięli swego, ponieważ pamięć o samurajach jest pielęgnowana przez Japończyków po dziś dzień.
 
+![](https://res.cloudinary.com/inspro/image/upload/v1632142956/rodm/Sylwia_Adamowicz_fuh89r.jpg)
+
 **Autor:** Sylwia Adamowicz
 
 Studentka relacji międzykulturowych na Uniwersytecie Jagiellońskim w Krakowie, stypendystka Uniwersytetu Kobe w Japonii. Zafascynowana komunikacją międzynarodową, kulturą biznesu w Japonii, specyfiką społeczeństwa japońskiego oraz północnokoreańskiego. Stażystka Instytutu Spraw Obywatelskich, obecnie koordynatorka ds. imigracyjnych, a prywatnie nauczycielka języka angielskiego oraz japońskiego. W wolnym czasie miłośniczka kaligrafii, kina azjatyckiego, a w przerwie pomiędzy nowymi odcinkami dram koreańskich – fanka jazdy na rolkach.
