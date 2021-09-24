@@ -1,6 +1,6 @@
 +++
 date = 2021-09-13T22:00:00Z
-main_image = "/v1631626714/rodm/strona_rodm_ytny8w.jpg"
+main_image = "/v1632486088/rodm/strona_rodm_1_bed8t6.jpg"
 slug = "III-forum-geopolityczne-w-lodzi-zaprasza"
 title = "III Forum Geopolityczne w Łodzi zaprasza!"
 

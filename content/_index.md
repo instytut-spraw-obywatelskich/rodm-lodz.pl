@@ -1,8 +1,8 @@
 ---
 title: Regionalny Ośrodek Debaty Międzynarodowej – Łódź
 featured:
-  image: "/v1622561011/rodm/1168x584_yewgvk.jpg"
-  link: https://www.rodm-lodz.pl/aktualnosci/starcie-gigantow-panstwo-vs-korporacje-przyklad-chinski/
-  text: " Cykl felietonów „Pyffel komentuje”"
+  image: "/v1632485800/rodm/banner_strona_rodm_f1qdk2.jpg"
+  link: https://www.rodm-lodz.pl/aktualnosci/iii-forum-geopolityczne-w-lodzi-zaprasza/
+  text: III Forum Geopolityczne w Łodzi zaprasza!
 
 ---
