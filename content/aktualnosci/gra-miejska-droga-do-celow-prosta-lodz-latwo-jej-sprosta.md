@@ -18,3 +18,9 @@ Organizatorami wydarzenia są Stowarzyszenie Narodów Zjednoczonych w Polsce (UN
 Regulamin gry [w załączniku](https://b87d0f7d-5927-4af6-a982-e682d6b9c374.filesusr.com/ugd/35b206_7ff209d7428b4514911907d09d78ba45.pdf "https://b87d0f7d-5927-4af6-a982-e682d6b9c374.filesusr.com/ugd/35b206_7ff209d7428b4514911907d09d78ba45.pdf").
 
 Zgoda rodzica [w załączniku](https://b87d0f7d-5927-4af6-a982-e682d6b9c374.filesusr.com/ugd/35b206_f48e2a3f07f041ffa2c4b33f5bcd75c7.pdf "https://b87d0f7d-5927-4af6-a982-e682d6b9c374.filesusr.com/ugd/35b206_f48e2a3f07f041ffa2c4b33f5bcd75c7.pdf").
+
+### **UWAGA!**
+
+**Z przyczyn niezależnych od organizatorów jesteśmy zobowiązani do odwołania gry miejskiej.**
+
+**Mamy nadzieję, że uda nam się spotkać w najbliższej przyszłości. Wszyscy uczestnicy, którzy dokonali zapisu poprzez formularz, zostaną poinformowani indywidualnie.**
