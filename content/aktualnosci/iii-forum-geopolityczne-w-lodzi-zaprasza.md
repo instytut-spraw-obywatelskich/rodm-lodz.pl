@@ -37,11 +37,11 @@ Debata online
 
 Panel – **Krajobraz polityczny „Mutti” – Co czeka Niemcy, Polskę i UE po rządach Angeli Merkel?**
 
-1\. **Arkadiusz Stempin*** – historyk, politolog, komentator polityczny. Ukończył studia historyczne na Uniwersytecie Jagiellońskim oraz germanistykę na Albert-Ludwigs-Universität we Freiburgu. Od 2009 roku kierownik katedry im. Konrada Adenauera w Wyższej Szkole Europejskiej im. ks. J. Tischnera. Ostatnie publikacje: „Angela Merkel – cesarzowa Europy”, „Moralny podbój Polski przez Cesarstwo Niemieckie w latach I wojny światowej”.
+1\. **Joanna Ciesielska-Klikowska** – politolog i niemcoznawca, adiunkt w Katedrze Studiów Azjatyckich Uniwersytetu Łódzkiego. Stypendystka Deutscher Akademischer Austauschdienst (DAAD) na Technische Universität Chemnitz, wykładowczyni w szkole letniej na Universität des Saarlandes w Saarbrücken. Współpracuje z Otto-von-Guericke-Universität w Magdeburgu, gdzie prowadzi zajęcia nt. relacji polsko-niemieckich i systemu politycznego w Polsce. Członkini Polskiego Towarzystwa Studiów Międzynarodowych oraz Towarzystwa Polska-Austria.
 
 2\. **Anna Kwiatkowska** – doktor nauk społecznych w zakresie nauk o polityce. Od 1997 roku główna specjalistka w Departamencie Współpracy Międzynarodowej Ministerstwa Spraw Wewnętrznych i Administracji. Specjalizacja: stosunki polsko-niemieckie, współpraca transgraniczna i międzyregionalna; w latach 1997–2001 sekretarz wykonawczy Polsko-Niemieckiej Międzyrządowej Komisji ds. Współpracy Regionalnej i Przygranicznej oraz Wspólnej Komisji Polsko-Flandryjskiej. Od 2005 roku w Ośrodku Studiów Wschodnich – założycielka i kierowniczka Działu Niemieckiego.
 
-3\. **Marek Cichocki*** – politolog, socjolog, filozof, specjalista od stosunków polsko-niemieckich oraz integracji europejskiej. Profesor w Collegium Civitas. Autor książek i publikacji dotyczących stosunków międzynarodowych, historii myśli politycznej, historii Europy. Redaktor naczelny pisma „Nowa Europa. Przegląd Natoliński” oraz współtwórca rocznika filozoficznego „Teologia Polityczna”. W 2007 roku polski negocjator Traktatu Lizbońskiego UE, doradca społeczny prezydenta Lecha Kaczyńskiego.
+3\. **Tomasz F. Krawczyk** – były główny doradca Premiera ds. polityki europejskiej; analityk w zakresie: polityki instytucjonalnej UE, prawa europejskiego i konstytucyjnych aspektów integracji europejskiej; niemcoznawca. Wcześniej asystent naukowy ministrów Kancelarii Prezydenta RP Lecha Kaczyńskiego oraz przez wiele lat ekspert rządowych i pozarządowych ośrodków analitycznych. „Dla jednych germanofil, dla innych germanofob, ale do końca nie wiadomo” – jak pisze o sobie.
 
 4\. Prowadzenie: Paweł Marczak (Koordynator RODM Łódź)
 
