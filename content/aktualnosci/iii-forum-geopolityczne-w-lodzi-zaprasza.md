@@ -45,8 +45,6 @@ Panel – **Krajobraz polityczny „Mutti” – Co czeka Niemcy, Polskę i UE p
 
 4\. Prowadzenie: Paweł Marczak (Koordynator RODM Łódź)
 
-\* – nazwiska do potwierdzenia
-
 **Czwartek, 7 października**
 
 18:00-20:00
@@ -89,8 +87,10 @@ Panel – **Arktyka jako miejsce rywalizacji mocarstw światowych?**
 
 1\. **Piotr Mickiewicz** – politolog i historyk dziejów najnowszych. Absolwent Akademii Marynarki Wojennej i Uniwersytetu Gdańskiego. W latach 1990–1997 oficer Grupy Okrętów Szkolnych, a następnie wykładowca akademicki. Obecnie zatrudniony w Instytucie Politologii UG, w przeszłości pracownik Wydziału Dowodzenia i Operacji Morskich Akademii Marynarki Wojennej. Redaktor naczelny „Rocznika Bezpieczeństwa Międzynarodowego” i wiceprezes Polskiego Towarzystwa Geopolitycznego.
 
-2\. **Bogusław Pacek** – profesor zwyczajny w Instytucie Bliskiego i Dalekiego Wschodu UJ, generał dywizji w stanie spoczynku, dyrektor Instytutu Bezpieczeństwa i Rozwoju Międzynarodowego (BIRM).
+2\. **Marek Budzisz*** – historyk, dziennikarz i publicysta specjalizujący się w tematyce Rosji i postsowieckiego Wschodu. Ostatnio opublikował „Koniec rosyjskiej Ameryki. Rozważania o przyczynach sprzedaży Alaski”. Członek zespołu Strategy&Future.
 
 3\. **Patrycja Pendrakowska** – analityk ds. polityki Chin, Tajwanu, Hong Kongu i innowacji. Doktorantka w Instytucie Filozofii UW. Ukończyła sinologię, etnologię, Kolegium MISH (filozofię), prawo finansowe i socjologię na UW, którą studiowała również na Ludwig-Maximilians Universität w Monachium.
 
 4\. Prowadzenie: Marek Stefan (Redaktor w czasopiśmie „Układ Sił”)
+
+\* – nazwisko do potwierdzenia
