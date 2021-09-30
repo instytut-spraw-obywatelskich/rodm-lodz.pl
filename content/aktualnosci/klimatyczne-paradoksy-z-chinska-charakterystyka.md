@@ -1,6 +1,5 @@
 +++
 date = 2021-09-29T22:00:00Z
-draft = true
 main_image = "/v1632945164/rodm/China-Industry-RODM_lywa7z.jpg"
 slug = "klimatyczne-paradoksy-z-chinska-charakterystyka"
 title = "Klimatyczne paradoksy z chińską charakterystyką"
