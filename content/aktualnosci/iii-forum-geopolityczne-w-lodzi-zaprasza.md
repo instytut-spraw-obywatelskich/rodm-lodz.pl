@@ -83,14 +83,12 @@ Panel – **Natura polem bitwy – klimat a polityczny układ sił**
 
 Debata stacjonarna na Wydziale Studiów Międzynarodowych i Politologicznych Uniwersytetu Łódzkiego z transmisją online
 
+Aula im. prof. Michowicza, ul. Lindleya 5a
+
 Panel – **Arktyka jako miejsce rywalizacji mocarstw światowych?**
 
 1\. **Piotr Mickiewicz** – politolog i historyk dziejów najnowszych. Absolwent Akademii Marynarki Wojennej i Uniwersytetu Gdańskiego. W latach 1990–1997 oficer Grupy Okrętów Szkolnych, a następnie wykładowca akademicki. Obecnie zatrudniony w Instytucie Politologii UG, w przeszłości pracownik Wydziału Dowodzenia i Operacji Morskich Akademii Marynarki Wojennej. Redaktor naczelny „Rocznika Bezpieczeństwa Międzynarodowego” i wiceprezes Polskiego Towarzystwa Geopolitycznego.
 
-2\. **Michał Lubina*** – adiunkt w Instytucie Bliskiego i Dalekiego Wschodu UJ. Specjalizuje się w naukach społecznych, w zakresie nauk o polityce. Zajmuje się współczesną Birmą (Mjanmą) oraz stosunkami rosyjsko-chińskimi. Magister rosjoznawstwa (2008) i studiów dalekowschodnich (2012); studiował również w ramach wymian w Petersburgu, Moskwie i Mińsku; stypendysta MNiSW w Pekinie (2009/2010). Od 2011 związany z Instytutem Bliskiego i Dalekiego Wschodu UJ (wcześniej z Instytutem Rosji i Europy Wschodniej UJ). W 2016 r. pierwszy dyrektor Instytutu Sejonga UJ. W 2018 r. profesor wizytujący na Uniwersytecie Chulalongkorna w Bangkoku.
+2\. **Patrycja Pendrakowska** – analityk ds. polityki Chin, Tajwanu, Hong Kongu i innowacji. Doktorantka w Instytucie Filozofii UW. Ukończyła sinologię, etnologię, Kolegium MISH (filozofię), prawo finansowe i socjologię na UW, którą studiowała również na Ludwig-Maximilians Universität w Monachium.
 
-3\. **Patrycja Pendrakowska** – analityk ds. polityki Chin, Tajwanu, Hong Kongu i innowacji. Doktorantka w Instytucie Filozofii UW. Ukończyła sinologię, etnologię, Kolegium MISH (filozofię), prawo finansowe i socjologię na UW, którą studiowała również na Ludwig-Maximilians Universität w Monachium.
-
-4\. Prowadzenie: Marek Stefan (Redaktor w czasopiśmie „Układ Sił”)
-
-\* – nazwisko do potwierdzenia
+3\. Prowadzenie: Marek Stefan (Redaktor w czasopiśmie „Układ Sił”)
