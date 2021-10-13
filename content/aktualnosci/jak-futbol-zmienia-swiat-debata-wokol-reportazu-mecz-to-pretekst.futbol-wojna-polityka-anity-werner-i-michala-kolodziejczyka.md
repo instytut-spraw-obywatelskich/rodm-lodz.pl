@@ -1,6 +1,5 @@
 +++
 date = 2021-10-01T22:00:00Z
-draft = true
 main_image = "/v1634154334/rodm/plakat_RODM_vnevc7.jpg"
 slug = "jak-futbol-zmienia-swiat-debata-mecz-to-pretekst-futbol-wojna-polityka"
 title = "„Jak futbol zmienia świat?” – Debata wokół reportażu „Mecz to pretekst. Futbol, wojna, polityka” Anity Werner i Michała Kołodziejczyka"
