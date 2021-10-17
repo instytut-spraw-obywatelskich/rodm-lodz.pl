@@ -1,7 +1,7 @@
 +++
 date = 2021-10-16T22:00:00Z
 draft = true
-main_image = ""
+main_image = "/v1634504565/rodm/europejski-lider-wzrostu-fragment-01_RODM_muvqrn.jpg"
 slug = "polska-europejskim-liderem-wzrostu-po-1989-roku"
 title = "Polska europejskim liderem wzrostu po 1989 roku"
 
@@ -30,7 +30,19 @@ Lepiej niż innym udało nam się z kilku powodów. Na pewno ważny był fakt, �
 
 **Rozmawiał Radosław Pyffel**
 
+![](https://res.cloudinary.com/inspro/image/upload/v1634503719/rodm/Pi%C4%85tkowski_M._dr_hab_u8wocq.jpg)
+
 Dr hab. Marcin Piątkowski, ekonomista pracujący w Waszyngtonie, prof. Akademii Leona Koźmińskiego, autor książki „Europejski lider wzrostu. Polska droga od ekonomicznych peryferii do gospodarki sukcesu”, która zdobyła główną nagrodę w 2020 roku w konkursie Dziennika Gazety Prawnej i została wybrana na najlepszą książkę z ekonomii w 2019 roku w konkursie Polskiej Akademii Nauk. Wcześniej wizytujący ekonomista m.in. na Uniwersytecie Harvarda i w London Business School.
+
+Zachęcamy do lektury książki. 
+
+**Marcin Piątkowski**: [Europejski lider wzrostu. Polska droga od ekonomicznych peryferii do gospodarki sukcesu, Wydawnictwo Poltext 2019](http://www.poltext.pl/b2599-europejski-lider-wzrostu-oprawa-miekka.htm "http://www.poltext.pl/b2599-europejski-lider-wzrostu-oprawa-miekka.htm"). 
+
+Premiera książki: **20 września 2019**.
+
+**Fot.: Okładka książki „Europejski lider wzrostu. Polska droga od ekonomicznych peryferii do gospodarki sukcesu” Wydawnictwa Poltext.**   
+
+{{< youtube jn29Yc4KVVs >}}
 
 Rozmowa stanowi cykl wywiadów **Radosława Pyffela** m.in. z politologami, dyplomatami i przedstawicielami biznesu o wyzwaniach w polityce międzynarodowej, które będą publikowane na stronie Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi.
 
