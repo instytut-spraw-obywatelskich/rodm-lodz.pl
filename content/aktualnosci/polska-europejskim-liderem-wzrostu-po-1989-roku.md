@@ -1,6 +1,5 @@
 +++
 date = 2021-10-16T22:00:00Z
-draft = true
 main_image = "/v1634504565/rodm/europejski-lider-wzrostu-fragment-01_RODM_muvqrn.jpg"
 slug = "polska-europejskim-liderem-wzrostu-po-1989-roku"
 title = "Polska europejskim liderem wzrostu po 1989 roku"
