@@ -1,5 +1,5 @@
 +++
-date = 2021-10-21T22:00:00Z
+date = 2021-10-22T22:00:00Z
 draft = true
 main_image = ""
 slug = "chinczycy-konsekwentnie-realizuja-kosmiczny-plan"
