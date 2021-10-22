@@ -64,7 +64,7 @@ Najpierw Bezos i Branson latają za miliony dolarów, potem będą zabiegać o m
 
 **Rozmawiał Radosław Pyffel**
 
-Grzegorz Zwoliński – Prezes firmy SatRevolution, przedsiębiorca od ponad 20 lat. Właściciel trzech spółek, z czego dwie – De dask? i Fibus zajmujące się produkują gier na telefony i komputery, notowane są na polskiej giełdzie. SatRevolution jest w trakcie tego procesu.
+![](https://res.cloudinary.com/inspro/image/upload/v1634938779/rodm/Grzegorz_Zwoli%C5%84ski_RODM_vqeicb.jpg)Grzegorz Zwoliński – Prezes firmy SatRevolution, przedsiębiorca od ponad 20 lat. Właściciel trzech spółek, z czego dwie – De dask? i Fibus zajmujące się produkują gier na telefony i komputery, notowane są na polskiej giełdzie. SatRevolution jest w trakcie tego procesu.
 
 Rozmowa jest fragmentem książki „Chiński Biznes – jak odnieść sukces w Państwie Środka”, zawierającej rozmowy Radosława Pyffla z Polakami działającymi na rynku chińskim i na rynkach globalnych, stykającymi się w swojej działalności z podmiotami z Chin i całego świata. Książka ukaże się w listopadzie 2021 r. nakładem wydawnictwa MT Biznes.
 
