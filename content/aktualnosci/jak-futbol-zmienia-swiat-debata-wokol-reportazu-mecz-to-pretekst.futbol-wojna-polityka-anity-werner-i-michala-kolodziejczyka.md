@@ -18,10 +18,15 @@ W debacie wezmą udział:
 3. Prof. Michał Kobierecki (WSMiP UŁ),
 4. Dr Rafał Jung (WSMiP UŁ).
 
-Spotkanie poprowadzi: Paweł Kozłowski, Wiceprzewodniczący Koła Naukowego Politologów „POLITIKON” WSMiP UŁ. 
+Spotkanie poprowadzi: Paweł Kozłowski, Wiceprzewodniczący Koła Naukowego Politologów „POLITIKON” WSMiP UŁ.
 
 ### **W związku z obecną sytuacją na wydarzenie obowiązują zapisy!!!**
 
-Link do wydarzenia na FB RODM Łódź: [https://fb.me/e/2O4KpaTYM](https://fb.me/e/2O4KpaTYM "https://fb.me/e/2O4KpaTYM"). 
+Link do wydarzenia na FB RODM Łódź: [https://fb.me/e/2O4KpaTYM](https://fb.me/e/2O4KpaTYM "https://fb.me/e/2O4KpaTYM").
 
 Link do formularza zgłoszeniowego: [http://bityl.pl/If3mQ](http://bityl.pl/If3mQ "http://bityl.pl/If3mQ").
+
+### **Ważne!!!**
+
+W związku z wystąpieniem przyczyn losowych red. Anita Werner i red. Michał Kołodziejczyk nie mogą być obecni na wydarzeniu w pierwotnym terminie. Ze względu na powyższą sytuację, niestety musimy anulować wydarzenie. Wydarzenie odbędzie się w innym terminie, o którym Państwa poinformujemy.  
+Przepraszamy za zaistniałą sytuację.
