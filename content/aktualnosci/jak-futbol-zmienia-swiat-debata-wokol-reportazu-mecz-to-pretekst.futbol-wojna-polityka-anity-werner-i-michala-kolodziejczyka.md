@@ -28,5 +28,4 @@ Link do formularza zgłoszeniowego: [http://bityl.pl/If3mQ](http://bityl.pl/If3m
 
 ### **Ważne!!!**
 
-W związku z wystąpieniem przyczyn losowych red. Anita Werner i red. Michał Kołodziejczyk nie mogą być obecni na wydarzeniu w pierwotnym terminie. Ze względu na powyższą sytuację, niestety musimy anulować wydarzenie. Wydarzenie odbędzie się w innym terminie, o którym Państwa poinformujemy.  
-Przepraszamy za zaistniałą sytuację.
+W związku z wystąpieniem przyczyn losowych red. Anita Werner i red. Michał Kołodziejczyk nie mogą być obecni na wydarzeniu w pierwotnym terminie. Ze względu na powyższą sytuację, niestety musimy anulować wydarzenie. Wydarzenie odbędzie się w innym terminie, o którym Państwa poinformujemy. Przepraszamy za zaistniałą sytuację.
