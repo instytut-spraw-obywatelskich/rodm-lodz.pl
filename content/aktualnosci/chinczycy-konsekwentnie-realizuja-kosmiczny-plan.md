@@ -1,6 +1,5 @@
 +++
 date = 2021-10-22T22:00:00Z
-draft = true
 main_image = "/v1634979576/rodm/Astronaut_China_RODM_hwzgmn.jpg"
 slug = "chinczycy-konsekwentnie-realizuja-kosmiczny-plan"
 title = "Chińczycy konsekwentnie realizują kosmiczny plan"
