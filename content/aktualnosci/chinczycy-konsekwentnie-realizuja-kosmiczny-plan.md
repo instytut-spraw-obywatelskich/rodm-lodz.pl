@@ -1,7 +1,7 @@
 +++
 date = 2021-10-22T22:00:00Z
 draft = true
-main_image = ""
+main_image = "/v1634979576/rodm/Astronaut_China_RODM_hwzgmn.jpg"
 slug = "chinczycy-konsekwentnie-realizuja-kosmiczny-plan"
 title = "Chińczycy konsekwentnie realizują kosmiczny plan"
 
@@ -73,3 +73,5 @@ Rozmowa stanowi cykl wywiadów **Radosława Pyffla** m.in. z politologami, dyplo
 Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
 
 Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
+
+**Fot.: "40292-MW-astronaut 3" by DCF_pics is licensed under CC BY-NC-ND 2.0.** 
