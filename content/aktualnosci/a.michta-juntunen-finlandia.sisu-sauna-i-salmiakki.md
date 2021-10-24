@@ -1,6 +1,5 @@
 +++
 date = 2021-10-23T22:00:00Z
-draft = true
 main_image = "/v1635073820/rodm/e_finlandia_RODM_i5mnra.jpg"
 slug = "a-michta-juntunen-finlandia-sisu-sauna-i-salmiakki"
 title = "A. Michta-Juntunen: Finlandia. Sisu, sauna i salmiakki"
