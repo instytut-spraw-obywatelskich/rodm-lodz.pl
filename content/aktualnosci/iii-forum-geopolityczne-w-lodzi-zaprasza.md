@@ -37,6 +37,8 @@ Debata online
 
 Panel – **Krajobraz polityczny „Mutti” – Co czeka Niemcy, Polskę i UE po rządach Angeli Merkel?**
 
+{{< youtube TOkUbyAkuPA >}}
+
 1\. **Joanna Ciesielska-Klikowska** – politolog i niemcoznawca, adiunkt w Katedrze Studiów Azjatyckich Uniwersytetu Łódzkiego. Stypendystka Deutscher Akademischer Austauschdienst (DAAD) na Technische Universität Chemnitz, wykładowczyni w szkole letniej na Universität des Saarlandes w Saarbrücken. Współpracuje z Otto-von-Guericke-Universität w Magdeburgu, gdzie prowadzi zajęcia nt. relacji polsko-niemieckich i systemu politycznego w Polsce. Członkini Polskiego Towarzystwa Studiów Międzynarodowych oraz Towarzystwa Polska-Austria.
 
 2\. **Anna Kwiatkowska** – doktor nauk społecznych w zakresie nauk o polityce. Od 1997 roku główna specjalistka w Departamencie Współpracy Międzynarodowej Ministerstwa Spraw Wewnętrznych i Administracji. Specjalizacja: stosunki polsko-niemieckie, współpraca transgraniczna i międzyregionalna; w latach 1997–2001 sekretarz wykonawczy Polsko-Niemieckiej Międzyrządowej Komisji ds. Współpracy Regionalnej i Przygranicznej oraz Wspólnej Komisji Polsko-Flandryjskiej. Od 2005 roku w Ośrodku Studiów Wschodnich – założycielka i kierowniczka Działu Niemieckiego.
@@ -53,6 +55,8 @@ Debata online
 
 Panel – **Nowe technologie – szansa czy zagrożenie dla Polski i Europy?**
 
+{{< youtube xmBouMGDhOo >}}
+
 1\. **Ewa Bińczyk** – prof. dr hab., pracuje w Katedrze Filozofii Praktycznej w Instytucie Filozofii UMK w Toruniu. Zajmuje się współczesną filozofią środowiskową, filozofią nauki i techniki, studiami nad nauką i technologią i kontrowersjami w nauce. Jest autorką książek m.in.: „Socjologia wiedzy w Biblii” (Nomos 2003), „Obraz, który nas zniewala” (Universitas 2007), „Technonauka w społeczeństwie ryzyka” (UMK 2012), a także „Epoka człowieka. Retoryka i marazm antropocenu” (PWN 2018).
 
 2\. **Maciej Gurtowski** − ekspert Centrum Analiz Klubu Jagiellońskiego ds. bezpieczeństwa wewnętrznego, doktor nauk humanistycznych w zakresie socjologii. Autor rozprawy o aferach gospodarczych III RP. Uczeń prof. Andrzeja Zybertowicza. Zawodowo związany z Instytutem Socjologii UMK w Toruniu. Naukowo zainteresowany głównie ciemną stroną relacji międzyludzkich: korupcją, przestępczością, szpiegostwem, propagandą, sytuacjami nielojalności, a także badaniami ewaluacyjnymi i nową ekonomią instytucjonalną. Współautor książki „Samobójstwo Oświecenia? Jak neuronauka i nowe technologie pustoszą ludzki świat”.
@@ -68,6 +72,8 @@ Panel – **Nowe technologie – szansa czy zagrożenie dla Polski i Europy?**
 Debata online
 
 Panel – **Natura polem bitwy – klimat a polityczny układ sił**
+
+{{< youtube d6rX6pbZYhM >}}
 
 1\. **Jarosław Stróżyk** – żołnierz i dyplomata, generał brygady Sił Zbrojnych Rzeczypospolitej Polskiej (w rezerwie), doktor nauk o bezpieczeństwie na Uniwersytecie Humanistyczno-Przyrodniczym w Siedlcach.
 
@@ -86,6 +92,8 @@ Debata stacjonarna na Wydziale Studiów Międzynarodowych i Politologicznych Uni
 Aula im. prof. Michowicza, ul. Lindleya 5a
 
 Panel – **Arktyka jako miejsce rywalizacji mocarstw światowych?**
+
+{{< youtube YyUqu0SMqfY >}}
 
 1\. **Piotr Mickiewicz** – politolog i historyk dziejów najnowszych. Absolwent Akademii Marynarki Wojennej i Uniwersytetu Gdańskiego. W latach 1990–1997 oficer Grupy Okrętów Szkolnych, a następnie wykładowca akademicki. Obecnie zatrudniony w Instytucie Politologii UG, w przeszłości pracownik Wydziału Dowodzenia i Operacji Morskich Akademii Marynarki Wojennej. Redaktor naczelny „Rocznika Bezpieczeństwa Międzynarodowego” i wiceprezes Polskiego Towarzystwa Geopolitycznego.
 
