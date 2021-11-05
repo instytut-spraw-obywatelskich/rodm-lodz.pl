@@ -1,6 +1,5 @@
 +++
 date = 2021-11-04T23:00:00Z
-draft = true
 main_image = "/v1636116725/rodm/MTP-RODM_fwnyzs.jpg"
 slug = "a-werner-m-kolodziejczyk-mecz-to-pretekst-futbol-wojna-polityka"
 title = "A. Werner, M. Kołodziejczyk: Mecz to pretekst. Futbol, wojna, polityka"
