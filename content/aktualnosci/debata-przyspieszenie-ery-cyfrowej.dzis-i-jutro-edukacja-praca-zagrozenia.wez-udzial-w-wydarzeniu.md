@@ -3,7 +3,7 @@ date = 2021-11-10T23:00:00Z
 draft = true
 main_image = "/v1636840531/rodm/Przyspieszenie_ery_cyfrowej_RODM_nbi5ll.png"
 slug = "debata-przyspieszenie-ery-cyfrowej-dzis-i-jutro"
-title = "Debata „Przyspieszenie ery cyfrowej. Dziś i jutro – edukacja, praca, zagrożenia”. Weź udział w wydarzeniu! "
+title = "Debata stacjonarna „Przyspieszenie ery cyfrowej. Dziś i jutro – edukacja, praca, zagrożenia”. Weź udział w wydarzeniu! "
 
 +++
 Czy interesują Cię:
