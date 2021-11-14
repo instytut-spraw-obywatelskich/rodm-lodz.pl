@@ -1,7 +1,7 @@
 +++
 date = 2021-11-14T23:00:00Z
 draft = true
-main_image = "/v1636904508/rodm/Prezydent_Tajwanu_RODM_gowfkk.jpg"
+main_image = "/v1636905465/rodm/RODM_Prezydent_Tajwan_sdcbxo.jpg"
 slug = "tajwan-czyli-rownanie-z-co-najmniej-5-niewiadomymi"
 title = "Tajwan, czyli równanie z (co najmniej) 5 niewiadomymi "
 
@@ -84,7 +84,7 @@ Innym czynnikiem, który uprawdopodabnia „ostateczne rozwiązanie”, jest sza
 
 Reasumując, ostatnie tygodnie wiele pokazały, ale co najmniej pięć najważniejszych kart wciąż pozostaje mniej lub bardziej zakrytych. I obyśmy nie musieli ich odkrywać.
 
-**Fot.:** 
+**Fot.: China Industry by AK Rockefeller is licensed under CC BY-SA 2.0.**
 
 {{< youtube 9SX47BfvXbY >}}
 
