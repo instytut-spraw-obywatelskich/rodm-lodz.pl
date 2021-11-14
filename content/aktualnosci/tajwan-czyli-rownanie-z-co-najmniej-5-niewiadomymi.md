@@ -84,7 +84,7 @@ Innym czynnikiem, który uprawdopodabnia „ostateczne rozwiązanie”, jest sza
 
 Reasumując, ostatnie tygodnie wiele pokazały, ale co najmniej pięć najważniejszych kart wciąż pozostaje mniej lub bardziej zakrytych. I obyśmy nie musieli ich odkrywać.
 
-**Fot.: China Industry by AK Rockefeller is licensed under CC BY-SA 2.0.**
+**Fot.: „五月二十日 中華民國第十四任總統蔡英文就職演說” by Taiwan Presidential Office is licensed under CC BY 2.0.** 
 
 {{< youtube 9SX47BfvXbY >}}
 
