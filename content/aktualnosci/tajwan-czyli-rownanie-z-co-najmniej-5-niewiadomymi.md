@@ -113,8 +113,6 @@ Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z o
 
 [https://www.taipeitimes.com/News/editorials/archives/2021/10/06/2003765599](about:blank)
 
-[https://www.worldatlas.com/articles/which-countries-recognize-taiwan-as-a-country.html#:\~:text=Countries%20With%20Diplomatic%20Relations%20With%20Taiwan%20%20,%20Haiti%20%281956%29%20%2014%20more%20rows%20](about:blank)
-
 [https://www.taiwannews.com.tw/en/news/3542092](about:blank)
 
 [https://www.voanews.com/a/blinken-raised-concerns-about-taiwan-with-china-/6292661.html](about:blank)
@@ -123,4 +121,4 @@ Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z o
 
 ***
 
-[\[1\]](#_ftnref1) [https://www.worldatlas.com/articles/which-countries-recognize-taiwan-as-a-country.html#:\~:text=Countries%20With%20Diplomatic%20Relations%20With%20Taiwan%20%20,%20Haiti%20%281956%29%20%2014%20more%20rows%20](https://www.worldatlas.com/articles/which-countries-recognize-taiwan-as-a-country.html#:\~:text=Countries%20With%20Diplomatic%20Relations%20With%20Taiwan%20%20,%20Haiti%20%281956%29%20%2014%20more%20rows%20), \[dostęp: 07.11.2021\].
+[\[1\]](#_ftnref1) [https://bit.ly/3Hww48D](https://bit.ly/3Hww48D "https://bit.ly/3Hww48D"), \[dostęp: 07.11.2021\].
