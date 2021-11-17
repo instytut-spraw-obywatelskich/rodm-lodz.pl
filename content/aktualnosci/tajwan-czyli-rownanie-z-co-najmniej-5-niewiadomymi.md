@@ -1,5 +1,5 @@
 +++
-date = 2021-11-14T23:00:00Z
+date = 2021-11-16T23:00:00Z
 draft = true
 main_image = "/v1636905465/rodm/RODM_Prezydent_Tajwan_sdcbxo.jpg"
 slug = "tajwan-czyli-rownanie-z-co-najmniej-5-niewiadomymi"
@@ -52,7 +52,7 @@ Pomimo tych emocjonalnych wypowiedzi obraz tajwańskiego społeczeństwa wyłani
 
 Joe Biden mówił na początku października, że on i Xi zgodzili się przestrzegać porozumienia dotyczącego wyspy. Prezydent USA wydaje się powtarzać politykę jednych Chin, którą uznaje ChRL, ale oczekuje pokojowego rozwiązania przyszłości Tajwanu.
 
-Pomimo małego zamieszania, spowodowanego wypowiedziami prezydenta Joe Bidena, wygląda na to, że klaruje się stanowisko USA w sprawie wyspy. Dzięki zręcznej dyplomacji Tajpej, która cały czas podkreśla, że konflikt jest bliski, ale że wyspa liczy tylko na siebie i będzie walczyć do samego końca, to teraz USA sprawiają wrażenie bardziej zainteresowanego zademonstrowaniem, że nie „odpuszczą” w sprawie Tajwanu.
+Pomimo małego zamieszania, spowodowanego wypowiedziami prezydenta Joe Bidena, wygląda na to, że klaruje się stanowisko USA w sprawie wyspy. Dzięki zręcznej dyplomacji Tajpej – która cały czas podkreśla, że konflikt jest bliski, ale że wyspa liczy tylko na siebie i będzie walczyć do samego końca – teraz to USA sprawiają wrażenie bardziej zainteresowanego zademonstrowaniem, że nie „odpuszczą” w sprawie Tajwanu, niż sama wyspa wykazaniem, że tak w rzeczywistości będzie.
 
 Klarowanie amerykańskiego stanowiska w tej sprawie zaczęło się od rautu CNN, na którym prezydent Joe Biden został zapytany dwukrotnie o to, czy Stany Zjednoczone będą bronić Tajwanu. Najpierw jeden z uczestników odniósł się do niedawnych doniesień dotyczących przetestowania przez Chiny najnowocześniejszego pocisku hipersonicznego i zapytał Bidena, czy mógłby „przysiąc, że będzie chronić Tajwan” i co zrobi, aby odpowiedzieć na rozwój militarny Chin. Prezydent odpowiedział: „Yes and Yes” i dodał, że nie ma potrzeby „martwić się o to, czy będą potężniejsi”, ponieważ „Chiny, Rosja i reszta świata wiedzą, że jesteśmy najpotężniejszą armią w historii świata”. Następnie został po raz drugi zapytany przez prezentera CNN Andersona Coopera, czy Stany Zjednoczone staną w obronie Tajwanu w przypadku ataku ze strony Chin. Biden odpowiedział: „Tak, mamy do tego zobowiązanie”, co – według ekspertów – jest wyraźnym odejściem od długo utrzymywanego dotychczasowego stanowiska w polityce zagranicznej USA. Rzecznik Białego Domu dementował później deklarację szefa w rozmowie z niektórymi amerykańskim mediami, podkreślając, że wypowiedź prezydenta nie oznacza zmiany polityki USA dotyczącej Tajwanu: Stany Zjednoczone na mocy traktatu sojuszniczego z 1954 roku są zobowiązane do obrony Tajwanu w razie agresji innego kraju. Ale dotychczas celowo niejasno mówiły o tym, co faktycznie zrobiłyby, gdyby Chiny zaatakowały Tajwan, co eksperci określają jako „strategiczną niejednoznaczność”.
 
@@ -84,7 +84,7 @@ Innym czynnikiem, który uprawdopodabnia „ostateczne rozwiązanie”, jest sza
 
 Reasumując, ostatnie tygodnie wiele pokazały, ale co najmniej pięć najważniejszych kart wciąż pozostaje mniej lub bardziej zakrytych. I obyśmy nie musieli ich odkrywać.
 
-**Fot.: „五月二十日 中華民國第十四任總統蔡英文就職演說” by Taiwan Presidential Office is licensed under CC BY 2.0.** 
+**Fot.: „五月二十日 中華民國第十四任總統蔡英文就職演說” by Taiwan Presidential Office is licensed under CC BY 2.0.**
 
 {{< youtube 9SX47BfvXbY >}}
 
