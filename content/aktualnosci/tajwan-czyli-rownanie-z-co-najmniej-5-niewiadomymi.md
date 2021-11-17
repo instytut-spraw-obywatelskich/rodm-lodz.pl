@@ -1,6 +1,5 @@
 +++
 date = 2021-11-16T23:00:00Z
-draft = true
 main_image = "/v1636905465/rodm/RODM_Prezydent_Tajwan_sdcbxo.jpg"
 slug = "tajwan-czyli-rownanie-z-co-najmniej-5-niewiadomymi"
 title = "Tajwan, czyli równanie z (co najmniej) 5 niewiadomymi "
