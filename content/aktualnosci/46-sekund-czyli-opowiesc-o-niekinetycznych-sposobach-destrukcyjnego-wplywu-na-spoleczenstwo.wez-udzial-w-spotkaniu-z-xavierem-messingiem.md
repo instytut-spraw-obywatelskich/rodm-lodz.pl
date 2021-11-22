@@ -8,9 +8,9 @@ title = "„46 sekund, czyli opowieść o niekinetycznych sposobach destrukcyjne
 +++
 ### **Katedra Teorii Polityki Zagranicznej i Bezpieczeństwa Wydziału Studiów Międzynarodowych i Politologicznych Uniwersytetu Łódzkiego (WSMiP UŁ), Regionalny Ośrodek Debaty Międzynarodowej w Łodzi oraz Koło Naukowe Politologów „Politykon” mają zaszczyt zaprosić na spotkanie z autorem powieści szpiegowskiej pt. „46 sekund”, panem Xavierem Messingiem.**
 
-**Spotkanie z Xavierem Messingiem pt.: _„46 sekund, czyli opowieść o niekinetycznych sposobach destrukcyjnego wpływu na społeczeństwo”_ odbędzie się w 26 listopada (piątek) br. o godz. 11:00 w auli im. prof. Michowicza Wydziału Studiów Międzynarodowych i Politologicznych Uniwersytetu Łódzkiego (WSMiP UŁ), ul. Lindleya 5a.** 
+**Spotkanie z Xavierem Messingiem pt.: _„46 sekund, czyli opowieść o niekinetycznych sposobach destrukcyjnego wpływu na społeczeństwo”_ odbędzie się 26 listopada (piątek) br. o godz. 11:00 w auli im. prof. Michowicza Wydziału Studiów Międzynarodowych i Politologicznych Uniwersytetu Łódzkiego (WSMiP UŁ), ul. Lindleya 5a.**
 
-Spotkanie poprowadzi dr hab. Ryszard Machnikowski, prof. UŁ, Dziekan WSMiP UŁ. 
+Spotkanie poprowadzi dr hab. Ryszard Machnikowski, prof. UŁ, Dziekan WSMiP UŁ.
 
 Z uwagi na aktualne przepisy sanitarno-epidemiologiczne obowiązuje limit **60** miejsc na wydarzenie!
 
