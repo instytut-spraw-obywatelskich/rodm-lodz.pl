@@ -1,6 +1,5 @@
 +++
 date = 2021-11-21T23:00:00Z
-draft = true
 main_image = "/v1637585809/rodm/messing-plakat_RODM_jfvgkp.jpg"
 slug = "46-sekund-czyli-opowiesc-o-niekinetycznych-sposobach-destrukcyjnego-wplywu-na-spoleczenstwo"
 title = "„46 sekund, czyli opowieść o niekinetycznych sposobach destrukcyjnego wpływu na społeczeństwo”. Weź udział w spotkaniu z Xavierem Messingiem! "
