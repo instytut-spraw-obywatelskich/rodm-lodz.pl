@@ -1,5 +1,5 @@
 +++
-date = 2021-11-23T23:00:00Z
+date = 2021-11-24T23:00:00Z
 main_image = "/v1637783066/rodm/RopaiKrew-RODM_qivu0u.jpg"
 slug = "b-hope-j-scheck-ropa-i-krew"
 title = "B. Hope, J. Scheck: Ropa i krew. Walka o przywództwo w Arabii Saudyjskiej i wpływy na świecie"
