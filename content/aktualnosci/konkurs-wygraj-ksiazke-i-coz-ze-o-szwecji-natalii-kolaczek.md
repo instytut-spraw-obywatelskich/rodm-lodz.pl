@@ -1,6 +1,5 @@
 +++
 date = 2021-12-01T23:00:00Z
-draft = true
 main_image = "/v1638411095/rodm/Ikea_FB_800_x_600_px_mtgnmz.png"
 slug = "konkurs-wygraj-ksiazke-i-coz-ze-o-szwecji-natalii-kolaczek"
 title = "Konkurs: Wygraj książkę „I cóż, że o Szwecji” Natalii Kołaczek! "
