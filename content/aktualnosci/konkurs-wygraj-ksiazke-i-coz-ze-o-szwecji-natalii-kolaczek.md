@@ -113,3 +113,5 @@ Kompletny regulamin konkursu znajduje się poniżej:
 7\. Organizator zastrzega sobie prawo do zmiany zasad Konkursu w trakcie jego trwania, a tym samym postanowień niniejszego Regulaminu. Zmieniony Regulamin obowiązuje od czasu opublikowania go na: [https://www.rodm-lodz.pl](https://www.rodm-lodz.pl "https://www.rodm-lodz.pl").
 
 8\. Zmiana Regulaminu wymaga opublikowania i poinformowania Uczestników o dokonanych przez Organizatora zmianach. Zmiany mogą być dokonywane wyłącznie z przyczyn dostosowania Regulaminu do norm obowiązujących przepisów prawa.
+
+![](https://res.cloudinary.com/inspro/image/upload/v1638445470/rodm/mockup_cien_i-coz_-ze-o-szwecji_RODM_tefs2y.jpg)
