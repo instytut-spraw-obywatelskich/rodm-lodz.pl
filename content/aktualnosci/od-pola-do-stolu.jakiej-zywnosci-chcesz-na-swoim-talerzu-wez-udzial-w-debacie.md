@@ -1,6 +1,5 @@
 +++
 date = 2021-12-02T23:00:00Z
-draft = true
 main_image = "/v1638549979/rodm/strona_rodm_2_mekwf6.jpg"
 slug = "od-pola-do-stolu-jakiej-zywnosci-chcesz-na-swoim-talerzu"
 title = "„Od pola do stołu. Jakiej żywności chcesz na swoim talerzu?” Weź udział w debacie! "
