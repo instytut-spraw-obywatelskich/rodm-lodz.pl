@@ -27,7 +27,7 @@ W debacie wezmą udział politycy, przedstawiciele sektora pozarządowego i sekt
 
 * **Janusz Wojciechowski** – komisarz UE do spraw rolnictwa (od 2019 roku),
 * **Czesław Siekierski*** – polityk i ekonomista od lat związany z Polskim Stronnictwem Ludowym, od 2019 roku poseł na Sejm RP,
-* **Dorota Metera** – członkini Rady Programowej Zielonego Instytutu. Od 1999 roku koordynatorka projektów w Fundacji IUCN-Poland (Światowej Unii Ochrony Przyrody) w biurze w Warszawie i w Brukseli, pracowała m.in. w projektach Instytutu Badawczego Komisji Europejskiej IPTS w Sewilli (Hiszpania),
+* **Dorota Metera** – Prezes Zarządu BIOEKSPERT Sp. z o.o. - jednostki certyfikującej w rolnictwie ekologicznym, członkini Rady IFOAM EU (International Federation of Organic Agriculture Movements), Rady Rolnictwa i Produkcji Ekologicznej przy Ministrze Rolnictwa i Rozwoju Wsi oraz Komisji ds. GMO przy Ministrze Środowiska.
 * **Wioletta Olejarczyk** – rolniczka agroekologiczna, inicjatorka Jurajskiej Kooperatywy Spożywczej w Częstochowie i RWS Słoneczna 25, członkini Ruchu Suwerenności Żywnościowej Nyeleni Polska.
 
 Moderatorka: **Ewa Podolska** – dziennikarka Radia TOK FM. Specjalizuje się w tematyce medycznej oraz ekologicznej.
