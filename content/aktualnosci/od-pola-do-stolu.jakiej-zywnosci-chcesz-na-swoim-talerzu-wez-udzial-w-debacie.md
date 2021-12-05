@@ -26,10 +26,8 @@ Debata będzie zorganizowana w ramach „Konferencji w sprawie przyszłości Eur
 W debacie wezmą udział politycy, przedstawiciele sektora pozarządowego i sektora rolniczego:
 
 * **Janusz Wojciechowski** – komisarz UE do spraw rolnictwa (od 2019 roku),
-* **Czesław Siekierski*** – polityk i ekonomista od lat związany z Polskim Stronnictwem Ludowym, od 2019 roku poseł na Sejm RP,
+* **Czesław Siekierski** – polityk i ekonomista od lat związany z Polskim Stronnictwem Ludowym, od 2019 roku poseł na Sejm RP,
 * **Dorota Metera** – Prezes Zarządu BIOEKSPERT Sp. z o.o. - jednostki certyfikującej w rolnictwie ekologicznym, członkini Rady IFOAM EU (International Federation of Organic Agriculture Movements), Rady Rolnictwa i Produkcji Ekologicznej przy Ministrze Rolnictwa i Rozwoju Wsi oraz Komisji ds. GMO przy Ministrze Środowiska.
 * **Wioletta Olejarczyk** – rolniczka agroekologiczna, inicjatorka Jurajskiej Kooperatywy Spożywczej w Częstochowie i RWS Słoneczna 25, członkini Ruchu Suwerenności Żywnościowej Nyeleni Polska.
 
 Moderatorka: **Ewa Podolska** – dziennikarka Radia TOK FM. Specjalizuje się w tematyce medycznej oraz ekologicznej.
-
-\*czekamy na potwierdzenie obecności
