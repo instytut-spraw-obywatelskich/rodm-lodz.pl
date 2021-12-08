@@ -1,7 +1,7 @@
 +++
 date = 2021-12-06T23:00:00Z
 draft = true
-main_image = ""
+main_image = "/v1638973132/rodm/wizualizacja_zabepieczenia_granicy_pa%C5%84stwowej_RODM_vqvht3.jpg"
 slug = "kryzys-migracyjny-na-granicach-ue-i-jego-konsekwencje"
 title = "Kryzys migracyjny na granicach UE i jego konsekwencje"
 
@@ -31,6 +31,8 @@ Istnieje również zagrożenie, że Ukraina może stać się odpowiednikiem Turc
 Napiętą pozostaje sytuacja na ukraińsko-rosyjskim pograniczu. Rosja po raz kolejny ściągnęła znaczące siły wojskowe i sprzęt bojowy (czołgi, maszyny pancerne, artylerię). Różne źródła podają, że szacowana liczba sił zbrojnych Rosji przy granicach z Ukrainą stanowi około 100 tys. żołnierzy. Zachód ostrzega Putina przed kolejną eskalacją oraz prowokacjami. – Według ekspertów, z którymi rozmawiam, liczba 90 tys. rosyjskich żołnierzy jest za mała, aby pokonać Ukrainę – mówił Radosław Sikorski. – Może atak będzie miał mniejszy zasięg, typu przebicie się do Krymu, czy okupacja terenu do Dniepru, aby odblokować dostawy wody dla Krymu. Ale Putin musi się liczyć z tym, że trafi na większy opór. Ukraina ma kilkadziesiąt tysięcy wojska, które będzie walczyć[\[5\]](#_ftn5).
 
 Należy strzec granic państw członkowskich oraz nie wpadać w pułapki zastawione przez Putina, tak jak zrobiła to Angela Merkel. Polska powinna ponownie stać się liderem regionu Europy Środkowo-Wschodniej w UE, jak i wzorem dla krajów Partnerstwa Wschodniego. Tylko w taki sposób można bronić wartości, o które walczyła „Solidarność” w 1980 roku, ukraińskie społeczeństwo w latach 2004-2005 oraz w latach 2013-2014 przed roszczeniami Moskwy i jej satelitów.
+
+**Wizualizacja zabezpieczenia granicy państwowej przygotowana przez straż graniczną. (Fot. Straż Graniczna)**
 
 ***
 
