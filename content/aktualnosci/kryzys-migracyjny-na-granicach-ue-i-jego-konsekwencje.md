@@ -1,5 +1,5 @@
 +++
-date = 2021-12-06T23:00:00Z
+date = 2021-12-07T23:00:00Z
 main_image = "/v1638973132/rodm/wizualizacja_zabepieczenia_granicy_pa%C5%84stwowej_RODM_vqvht3.jpg"
 slug = "kryzys-migracyjny-na-granicach-ue-i-jego-konsekwencje"
 title = "Kryzys migracyjny na granicach UE i jego konsekwencje"
