@@ -38,6 +38,8 @@ Punktem wyjścia do dyskusji był wpływ globalizacji na funkcjonowanie przedsi�
 
 – Megatrend to permanentna zmiana i to jest rzecz, do której wszyscy musimy się przyzwyczaić – biznes, jak i administracja, szkoły wyższe oraz całe społeczeństwo – podkreśliła prof. Bożena Matusiak z Zakładu Analizy Danych i Systemów Inteligentnych Wydziału Zarządzania UŁ Bez wątpienia to, co najbardziej w ostatnich dwóch latach wpływa na trendy międzynarodowe w gospodarce to pandemia i niepewność przedsiębiorstw związana z niestabilnością finansową konsumentów. Jasne jest, że pandemia jest wyzwaniem dla przedsiębiorców i że żaden kraj nie jest wolny od jej wpływu, co sprawia, że jest to „trend” o globalnym charakterze.
 
+{{< youtube pgpgztM69fY >}}
+
 **Zrównoważony rozwój**
 
 Goście podjęli także dyskusję o zrównoważonym rozwoju. A czym ono jest? To trwały rozwój, mówiący o jakości życia na poziomie, na jaki pozwala obecny rozwój cywilizacyjny. Ideę zrównoważonego rozwoju streszcza pierwsze zdanie raportu WCED z 1987 roku – Nasza wspólna przyszłość: „Na obecnym poziomie cywilizacyjnym możliwy jest rozwój zrównoważony, to jest taki rozwój, w którym potrzeby obecnego pokolenia mogą być zaspokojone bez umniejszania szans przyszłych pokoleń na ich zaspokojenie”.
