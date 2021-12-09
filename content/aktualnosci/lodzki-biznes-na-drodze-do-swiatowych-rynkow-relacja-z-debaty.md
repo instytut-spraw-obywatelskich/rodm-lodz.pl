@@ -1,6 +1,5 @@
 +++
 date = 2021-12-08T23:00:00Z
-draft = true
 main_image = "/v1639054939/rodm/RODM_EFG_2_l6lwa5.jpg"
 slug = "lodzki-biznes-na-drodze-do-swiatowych-rynkow-relacja-z-debaty"
 title = "Łódzki biznes na drodze do światowych rynków – relacja z debaty"
