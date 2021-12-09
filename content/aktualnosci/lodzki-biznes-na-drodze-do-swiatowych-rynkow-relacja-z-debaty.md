@@ -1,7 +1,7 @@
 +++
 date = 2021-12-08T23:00:00Z
 draft = true
-main_image = "/v1639054535/rodm/RODM_EFG_wn8a0s.jpg"
+main_image = "/v1639054939/rodm/RODM_EFG_2_l6lwa5.jpg"
 slug = "lodzki-biznes-na-drodze-do-swiatowych-rynkow-relacja-z-debaty"
 title = "Łódzki biznes na drodze do światowych rynków – relacja z debaty"
 
@@ -46,6 +46,14 @@ Goście podjęli także dyskusję o zrównoważonym rozwoju. A czym ono jest? To
 
 – Dzisiaj nie wystarczy identyfikować potrzeby, trzeba je kreować i na tym firmy powinny się skupiać – kontynuował prof. Matejun. Firmy nie tylko mają odpowiadać na potrzeby klientów, ale też je stwarzać, dzięki temu same zapewniają sobie rynek zbytu.
 
+![](https://res.cloudinary.com/inspro/image/upload/v1639055058/rodm/RODM_3_o3xdpk.jpg)
+
+![](https://res.cloudinary.com/inspro/image/upload/v1639054535/rodm/RODM_EFG_wn8a0s.jpg)
+
 **Autor:** Wiktoria Sakowicz, konsultantka RODM Łódź
 
 **Foto:** Piotr Kaźmierczak, konsultant RODM Łódź
+
+Zadanie publiczne współfinansowane przez Ministerstwo Spraw Zagranicznych RP w konkursie „Regionalny Ośrodek Debaty Międzynarodowej 2019-2021”.
+
+Publikacja wyraża jedynie poglądy autora/ów i nie może być utożsamiana z oficjalnym stanowiskiem Ministerstwa Spraw Zagranicznych RP.
