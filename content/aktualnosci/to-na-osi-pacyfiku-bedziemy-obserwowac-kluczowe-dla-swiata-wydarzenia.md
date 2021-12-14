@@ -33,7 +33,7 @@ Robert Kuraszkiewicz w latach 80-tych działacz opozycji antykomunistycznej w Ru
 
 Zachęcamy do lektury książki.
 
-\**Robert Kuraszkiewicz: **[Polska w nowym świecie, Wydawnictwo Nowej Konfederacji 2021](https://ksiegarnia.nowakonfederacja.pl/produkt/polska-w-nowym-swiecie/ "https://ksiegarnia.nowakonfederacja.pl/produkt/polska-w-nowym-swiecie/").
+Robert Kuraszkiewicz: [Polska w nowym świecie, Wydawnictwo Nowej Konfederacji 2021](https://ksiegarnia.nowakonfederacja.pl/produkt/polska-w-nowym-swiecie/ "https://ksiegarnia.nowakonfederacja.pl/produkt/polska-w-nowym-swiecie/").
 
 Premiera książki: **29 listopada 2021.**
 
