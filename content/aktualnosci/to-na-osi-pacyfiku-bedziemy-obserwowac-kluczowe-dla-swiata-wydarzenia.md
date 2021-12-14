@@ -1,6 +1,5 @@
 +++
 date = 2021-12-13T23:00:00Z
-draft = true
 main_image = "/v1639423990/rodm/polska-w-nowym-swiecie-robert-kuraszkiewcz-RODM_f1jft4.jpg"
 slug = "to-na-osi-pacyfiku-bedziemy-obserwowac-kluczowe-dla-swiata-wydarzenia"
 title = "To na osi Pacyfiku będziemy obserwować kluczowe dla świata wydarzenia"
