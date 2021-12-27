@@ -1,6 +1,5 @@
 +++
 date = 2021-12-26T23:00:00Z
-draft = true
 main_image = "/v1640629488/rodm/Pyffel_Biznes_w_Chinach_ok%C5%82adka_RODM_uqfqho.jpg"
 slug = "najwiekszym-wyzwaniem-na-rynkach-azjatyckich-sa-roznice-kulturowe"
 title = "Największym wyzwaniem na rynkach azjatyckich są różnice kulturowe"
