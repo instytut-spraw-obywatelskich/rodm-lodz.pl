@@ -26,15 +26,17 @@ Przedsiębiorców działających na rynkach międzynarodowych przekonywać do te
 
 **Rozmawiał Radosław Pyffel**
 
-Robert Kuraszkiewicz w latach 80-tych działacz opozycji antykomunistycznej w Ruchu Młodzieży Niezależnej i Ruchu Młodej Polski, jeden z założycieli Zjednoczenia Chrześcijańsko Narodowego, publicysta, przedsiębiorca i menadżer, w latach 2011-2016 Wiceprezes i Prezes Stowarzyszenia Energii Odnawialnej, w latach 2016-2020 Wiceprezes i Prezes Banku Pocztowego, w latach 1997-1998 w ramach programu East Central European Scholaship Program odbywał między innymi praktyki w Center for Strategic and International Studies Washington D.C. Autor książki „Polityka Nowoczesnego Patriotyzmu”. Odznaczony Krzyżem Kawalerskim Orderu Odrodzenia Polski i Krzyżem Wolności i Solidarności.
+Krzysztof Domarecki jest jednym z rozmówców Radosława Pyffla w książce „Biznes w Chinach. Jak odnieść sukces w chińskim świecie”, która ukazała się nakładem wydawnictwa MT Biznes.
 
 Zachęcamy do lektury książki.
 
 Radosław Pyffel: [Biznes w Chinach. Jak odnieść sukces w chińskim świecie, Wydawnictwo MT Biznes 2022](https://bizneswchinach.pl/ "https://bizneswchinach.pl/").
 
-Premiera książki: **28 stycznia 2022**. 
+Premiera książki: **28 stycznia 2022**.
 
-**Fot.: Okładka książki „Biznes w Chinach. Jak odnieść sukces w chińskim świecie” Wydawnictwa MT Biznes**. 
+**Fot.: Okładka książki „Biznes w Chinach. Jak odnieść sukces w chińskim świecie” Wydawnictwa MT Biznes**.
+
+{{< youtube OJgj8fuort8 >}}
 
 Rozmowa stanowi cykl wywiadów **Radosława Pyffla** m.in. z politologami, dyplomatami i przedstawicielami biznesu o wyzwaniach w polityce międzynarodowej, które będą publikowane na stronie Regionalnego Ośrodka Debaty Międzynarodowej w Łodzi.
 
