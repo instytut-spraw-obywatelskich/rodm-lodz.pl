@@ -1,6 +1,5 @@
 +++
 date = 2021-12-27T23:00:00Z
-draft = true
 main_image = "/v1640681418/rodm/Biznes_w_Chinach_RODM_ikfmhj.jpg"
 slug = "radoslaw-pyffel-biznes-w-chinach-jak-odniesc-sukces-w-chinskim-swiecie"
 title = "Radosław Pyffel: Biznes w Chinach. Jak odnieść sukces w chińskim świecie"
