@@ -52,6 +52,8 @@ Wszystkiego Najlepszego w 2022, Wszystkiego Najlepszego w XXI wieku!
 
 Radosław Pyffel
 
+**Fot.:** [**Gerd Altmann**](https://pixabay.com/pl/users/geralt-9301/ "https://pixabay.com/pl/users/geralt-9301/") **z** [**Pixabay**](https://pixabay.com/pl/ "https://pixabay.com/pl/")**.** 
+
 {{< youtube 6ADv4A1esXM >}}
 
 Felieton ukazał się w ramach cyklu **„Pyffel komentuje”**, w którym autor analizuje bieżącą sytuację międzynarodową.
