@@ -1,7 +1,7 @@
 +++
 date = 2021-12-30T23:00:00Z
 draft = true
-main_image = ""
+main_image = "/v1640908190/rodm/earth_RODM_dk1tqc.jpg"
 slug = "podsumowanie-2021-roku-i-subiektywny-przeglad-trendow-w-polityce-miedzynarodowej"
 title = "Podsumowanie 2021 roku i subiektywny przegląd trendów w polityce międzynarodowej"
 
