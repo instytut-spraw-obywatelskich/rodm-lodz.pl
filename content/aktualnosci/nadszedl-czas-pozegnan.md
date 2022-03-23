@@ -1,6 +1,5 @@
 +++
 date = 2022-03-22T23:00:00Z
-draft = true
 main_image = "/v1648037861/rodm/RODM_dzi%C4%99kujemy_ipos1u.jpg"
 slug = "nadszedl-czas-pozegnan"
 title = "Nadszedł czas pożegnań"
